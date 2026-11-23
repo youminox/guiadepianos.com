@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "resenas-pianos-y-teclados",
+    "name": "Reseñas de Pianos Digitales, Teclados y Accesorios",
+    "short": "Reseñas",
+    "icon": "🎹",
+    "accent": "#b87a28",
+    "description": "Análisis a fondo de los mejores pianos digitales de 88 teclas contrapesadas y teclados de 61/76 teclas Yamaha, Roland, Casio, Kawai, Alesis y Donner en Amazon Estados Unidos: evaluamos presupuesto, espacio que ocupan, sensación al tocar y accesorios compatibles."
+  },
+  {
+    "slug": "comparativas",
+    "name": "Comparativas de Pianos 88 vs 61 Teclas y Accesorios",
+    "short": "Comparativas VS",
+    "icon": "⚖️",
+    "accent": "#9a631b",
+    "description": "Duelos directos Modelo A vs Modelo B comparando 61 vs 88 teclas, rango de precio en dólares, dimensiones en centímetros para apartamentos, peso de pulsación de la tecla y compatibilidad entre pedales, soportes, bancos y audífonos."
+  },
+  {
+    "slug": "mejores-pianos-teclados-y-accesorios",
+    "name": "Mejores Pianos, Teclados, Pedales y Audífonos",
+    "short": "Rankings Amazon",
+    "icon": "🏆",
+    "accent": "#c27d19",
+    "description": "Rankings actualizados en Amazon EE. UU. según tu presupuesto (<$200, <$350, <$550), espacio disponible (escritorio, dormitorio pequeño, sala), sensación de tecla y los mejores pedales de sustain, soportes, bancos y audífonos compatibles."
+  },
+  {
+    "slug": "primer-piano-o-teclado",
+    "name": "Primer Piano o Teclado para Principiantes",
+    "short": "Principiantes",
+    "icon": "✨",
+    "accent": "#855216",
+    "description": "Guía paso a paso para elegir tu primer piano digital o teclado desde cero: cuántas teclas necesitas (61 vs 76 vs 88) según tu estilo musical, qué significa la polifonía de 64 a 256 notas, guía por edades y cuánto invertir al empezar."
+  },
+  {
+    "slug": "sensacion-al-tocar-y-tipos-de-tecla",
+    "name": "Sensación al Tocar y Tipos de Tecla",
+    "short": "Tacto & Teclas",
+    "icon": "🎼",
+    "accent": "#6e4212",
+    "description": "Guía sensorial y mecánica de los tipos de teclado: acción de martillo graduado (GHS, GHC, PHA-4 con escape, Smart Scaled y RHC), teclas semicontrapesadas con resorte vs teclas sensibles a la velocidad (Touch Response) y textura de marfil sintético."
+  },
+  {
+    "slug": "espacio-medidas-y-ergonomia",
+    "name": "Espacio Disponible, Medidas y Ergonomía",
+    "short": "Espacio & Postura",
+    "icon": "📐",
+    "accent": "#1e5e4e",
+    "description": "Cómo encajar un piano digital o teclado en un apartamento pequeño, dormitorio o escritorio: medidas reales en centímetros y pulgadas de 61 y 88 teclas, fondo necesario para el banco, altura reglamentaria del teclado (70-73 cm) y postura de muñecas y espalda."
+  },
+  {
+    "slug": "pedales-compatibles-y-polaridad",
+    "name": "Pedales de Sustain Compatibles y Polaridad",
+    "short": "Pedales & Sustain",
+    "icon": "🦶",
+    "accent": "#991b1b",
+    "description": "Todo sobre pedales damper y unidades de 3 pedales: por qué un pedal suena al revés cuando no lo pisas y cómo usar el interruptor de polaridad (N.O. vs N.C.), conectores TS vs TRS con medio pedal (Half-Damper) y compatibilidad con Yamaha, Casio, Roland y Alesis."
+  },
+  {
+    "slug": "soportes-bancos-y-muebles",
+    "name": "Soportes Estables, Bancos y Muebles de Piano",
+    "short": "Soportes & Bancos",
+    "icon": "🪑",
+    "accent": "#0f766e",
+    "description": "Guía práctica de estabilidad y asientos: diferencias entre soporte en Z, soporte en X doble, soporte tipo mesa y muebles oficiales de madera (Yamaha L-100, Roland KSC-70, Casio CS-68), capacidad de peso para 88 teclas, correas anticaídas y bancos regulables."
+  },
+  {
+    "slug": "audifonos-sonido-y-practica-silenciosa",
+    "name": "Audífonos Compatibles y Práctica Silenciosa",
+    "short": "Audífonos & Audio",
+    "icon": "🎧",
+    "accent": "#3730a3",
+    "description": "Cómo elegir audífonos para piano digital sin retraso (por qué evitar Bluetooth por latencia), impedancia ideal (32 Ω a 80 Ω), adaptadores de 6.35 mm (1/4\") a 3.5 mm, audífonos cerrados vs abiertos y cómo amortiguar el ruido mecánico de las teclas de noche."
+  },
+  {
+    "slug": "conexiones-midi-apps-y-aprendizaje",
+    "name": "Conexión MIDI, iPad, Apps y Aprendizaje",
+    "short": "Apps & USB-MIDI",
+    "icon": "📱",
+    "accent": "#9a3412",
+    "description": "Cómo conectar tu teclado o piano digital al iPad, iPhone, tablet Android, Mac o PC por cable USB to Host (USB-B) o Bluetooth MIDI, configuración con Simply Piano, Flowkey, Yousician, Smart Pianist y GarageBand, y rutina para tus primeras 4 semanas."
+  },
+  {
+    "slug": "solucion-de-problemas-y-configuracion",
+    "name": "Solución de Problemas y Configuración Técnica",
+    "short": "Problemas & Ajustes",
+    "icon": "🔧",
+    "accent": "#15803d",
+    "description": "Diagnóstico paso a paso cuando una tecla no suena o suena al máximo volumen, el piano se apaga solo (Auto Power Off), polaridad del adaptador de corriente (9V/12V/16V DC), Factory Reset y uso de Metrónomo, Transpose, Split, Layer y Duo Mode."
+  },
+  {
+    "slug": "mantenimiento-limpieza-y-transporte",
+    "name": "Mantenimiento, Limpieza, Cubrepolvos y Fundas",
+    "short": "Cuidado & Fundas",
+    "icon": "🛡️",
+    "accent": "#6d28d9",
+    "description": "Cómo limpiar las teclas blancas y negras sin dañar los sensores ni el acabado mate, protección contra el polvo, humedad y mascotas con cubrepolvos a medida, y cómo elegir una funda acolchada con ruedas (Gig Bag) según los centímetros de tu piano."
+  }
+]
