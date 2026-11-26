@@ -4,145 +4,113 @@
   "path": "/comparativas/teclas-contrapesadas-vs-semicontrapesadas-vs-sensibles-al-tacto/",
   "isPillar": false,
   "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "teclas contrapesadas vs semicontrapesadas vs sensibles al tacto",
   "title": "Teclas Contrapesadas (Hammer Action) vs Semicontrapesadas vs Sensibles al Tacto: Comparativa de Peso en Gramos y Aprendizaje",
-  "seoTitle": "Acción de Martillo Contrapesada vs Semicontrapesada / Sensible al Tacto Touch Response: Comparativa y Cuál Comprar en Amazon",
-  "metaDescription": "Comparativa a fondo Acción de Martillo Contrapesada vs Semicontrapesada / Sensible al Tacto Touch Response: diferencias de teclas, presupuesto, espacio en centímetros, sensación al tocar y accesorios en Amazon.",
-  "excerpt": "Enfrentamos Acción de Martillo Contrapesada frente a Semicontrapesada / Sensible al Tacto Touch Response: tabla por presupuesto, medidas, sensación al tocar y veredicto de compra.",
-  "quickAnswer": "En la comparativa entre Acción de Martillo Contrapesada y Semicontrapesada / Sensible al Tacto Touch Response, la decisión depende de tu presupuesto, espacio disponible y sensación de tecla buscada: Nunca compres un teclado sin sensibilidad a la velocidad. Si tu objetivo es aprender teclado moderno, acordes o gastar menos de $210 en poco espacio, 61 teclas con Touch Response (Yamaha PSR-E383 / Casio CT-S300) son excelentes. Si estudias piano formal y quieres poder tocar cualquier piano acústico sin que tus dedos se cansen, elige 88 teclas contrapesadas (Hammer Action).",
-  "readingMinutes": 8,
+  "seoTitle": "Teclas Contrapesadas (Hammer Action) vs Semicontrapesadas vs Sensibles al Tacto: Comparativa de Peso en Gramos y Aprendizaje | guiadepianos.com",
+  "metaDescription": "Compara teclas contrapesadas, semicontrapesadas y sensibles al tacto: resistencia en gramos, sensores de velocidad y cuál elegir para estudiar piano.",
+  "excerpt": "Analizamos la mecánica interna, el peso de hundimiento en gramos y la respuesta dinámica entre mecanismos de martillo graduado, muelles semicontrapesados y teclados sensibles a la velocidad.",
+  "quickAnswer": "Las **teclas contrapesadas (Hammer Action)** utilizan martillos físicos basculantes que exigen entre **50 g y 65 g** de presión graduada, siendo indispensables para desarrollar fuerza muscular y técnica de piano acústico. Las **semicontrapesadas** emplean resortes con lastre (**35 g – 45 g**) ideales para sintetizadores, mientras que las **sensibles al tacto** (**20 g – 30 g**) usan muelles ligeros con sensores de velocidad para aprender acordes en teclados portátiles.",
+  "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Side-profile acoustic studio shot highlighting key travel and matte ebony/ivory texture: Side-by-side comparison of Acción de Martillo Contrapesada and Semicontrapesada / Sensible al Tacto Touch Response digital piano and keyboard in a home music studio, in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, golden hour afternoon sunlight streaming into a cozy apartment. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
-    "alt": "Comparativa cara a cara entre Acción de Martillo Contrapesada y Semicontrapesada / Sensible al Tacto Touch Response"
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Teclas Contrapesadas (Hammer Action) vs Semicontrapesadas vs Sensibles al Tacto: Comparativa de Peso en Gramos y Aprendizaje' (teclas contrapesadas vs semicontrapesadas vs sensibles al tacto) for guiadepianos.com, featuring equipment in deep navy blue with satin metallic trim, on a warm walnut table beside a sunlit window, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Teclas Contrapesadas (Hammer Action) vs Semicontrapesadas vs Sensibles al Tacto: Comparativa de Peso en Gramos y Aprendizaje"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Elegir entre **Acción de Martillo Contrapesada** y **Semicontrapesada / Sensible al Tacto Touch Response** es una de las decisiones más importantes al buscar tu primer piano digital, teclado o accesorio en Amazon Estados Unidos (`amazon.com`). Aunque ambos gozan de excelentes valoraciones, sus diferencias en **número de teclas (`61` vs `88`), presupuesto en dólares, espacio que ocupan en centímetros, sensación al tocar y compatibilidad de pedales, soportes y audífonos** hacen que cada uno esté pensado para un espacio y objetivo distinto."
-    },
-    {
-      "type": "p",
-      "text": "En esta comparativa técnica enfrentamos cara a cara a **Acción de Martillo Contrapesada (~50–65 g de bajada · Inercia Física sin Resortes · 88 Teclas)** contra **Semicontrapesada / Sensible al Tacto Touch Response (~25–38 g · Retorno por Resorte · 61/76/88 Teclas)** para que elijas con total seguridad."
+      "text": "Muchos estudiantes abandonan sus clases al tercer mes por un error técnico al elegir su primer instrumento: practicar en casa con teclas blandas accionadas por resorte y luego enfrentarse en el aula del profesor a un piano acústico donde sus dedos no tienen fuerza para hundir las teclas graves. Entender qué ocurre debajo del plástico blanco al presionar una nota es la diferencia entre desarrollar técnica pianística real o adquirir vicios posturales difíciles de corregir."
     },
     {
       "type": "h2",
-      "text": "Tabla comparativa directa: Acción de Martillo Contrapesada vs Semicontrapesada / Sensible al Tacto Touch Response"
+      "text": "Mecánica interna y resistencia en gramos: martillo físico frente a muelles de retorno"
+    },
+    {
+      "type": "p",
+      "text": "Las **teclas contrapesadas** (*Hammer Action* o acción de martillo graduado, presentes en modelos de **88 teclas** como el **Roland FP-10** con mecanismo **PHA-4 Standard** o el **Yamaha P-145** con sistema **GHC**) carecen de resortes. En su lugar, cada tecla empuja mediante una palanca un **martillo metálico basculante**. Para vencer esa inercia estática (*downweight*), tus dedos deben aplicar entre **60 g y 65 g** de fuerza en el registro grave y alrededor de **45 g a 50 g** en las octavas agudas. Puedes explorar cómo varía esta calibración entre fabricantes en nuestra [comparativa de las 4 grandes marcas de pianos digitales](/comparativas/yamaha-vs-roland-vs-casio-vs-kawai-pianos-digitales/). Por su parte, las **teclas semicontrapesadas** (*semi-weighted*) combinan un muelle metálico de tensión media con un pequeño contrapeso adherido bajo la tecla, exigiendo unos **35 g a 45 g** de presión y devolviendo la tecla hacia arriba con mayor rapidez. Finalmente, las **teclas sensibles al tacto** (*touch-sensitive* o *velocity-sensitive*, como las del **Yamaha PSR-E383** o las analizadas en el duelo entre el [Casio CT-S1 y el Yamaha Piaggero NP-15](/comparativas/casio-ct-s1-vs-yamaha-piaggero-np-15/)) operan únicamente con un muelle ligero de **20 g a 30 g**, pero incorporan **sensores de membrana doble** que miden en milisegundos la velocidad del golpe para sonar suave (*piano*) o potente (*forte*)."
     },
     {
       "type": "table",
-      "caption": "Duelo técnico por presupuesto, espacio, tacto y compatibilidad entre Acción de Martillo Contrapesada y Semicontrapesada / Sensible al Tacto Touch Response",
       "headers": [
-        "Criterio de Compra",
-        "Acción de Martillo Contrapesada",
-        "Semicontrapesada / Sensible al Tacto Touch Response"
+        "Especificación técnica",
+        "Contrapesadas (Hammer Action)",
+        "Semicontrapesadas (Semi-Weighted)",
+        "Sensibles al tacto (Touch-Sensitive)"
       ],
       "rows": [
         [
-          "Configuración, Teclas y Medidas",
-          "Acción de Martillo Contrapesada (~50–65 g de bajada · Inercia Física sin Resortes · 88 Teclas)",
-          "Semicontrapesada / Sensible al Tacto Touch Response (~25–38 g · Retorno por Resorte · 61/76/88 Teclas)"
+          "Mecanismo interno",
+          "Martillo basculante sin resortes (graduado)",
+          "Muelle de tensión + lastre ligero en la tecla",
+          "Resorte simple + sensor electrónico de velocidad"
         ],
         [
-          "Sensación al Tocar (Dinámica)",
-          "Respuesta expresiva calibrada para aprender técnica real",
-          "Excelente control táctil dentro de su segmento"
+          "Fuerza de hundimiento (Downweight)",
+          "50 g – 65 g (más pesadas en graves)",
+          "35 g – 45 g (peso uniforme)",
+          "20 g – 30 g (tacto ligero tipo sintetizador)"
         ],
         [
-          "Espacio en Apartamento o Escritorio",
-          "Dimensiones optimizadas para habitaciones modernas",
-          "Fácil integración sobre soporte en Z, mesa o mueble"
+          "Sensores por tecla",
+          "2 a 3 sensores ópticos o de contacto",
+          "2 contactos de velocidad",
+          "2 contactos de velocidad (3 niveles de curva)"
         ],
         [
-          "Práctica Nocturna con Audífonos",
-          "0 ms de latencia con audífonos con cable de 32–64 Ω",
-          "Silencio total en altavoces al conectar auriculares"
-        ],
-        [
-          "Pedal y Conectividad MIDI",
-          "Compatible con Pedal M-Audio SP-2 (Polaridad) y Apps MIDI",
-          "Accesorios universales disponibles en Amazon EE. UU."
+          "Modelos representativos",
+          "Roland FP-10, Yamaha P-145, Casio PX-S1100",
+          "Alesis Recital estándar, M-Audio Keystation 88",
+          "Yamaha PSR-E383, Casio CT-S1, Yamaha NP-15 / NP-35"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Veredicto rápido del duelo",
-      "text": "Nunca compres un teclado sin sensibilidad a la velocidad. Si tu objetivo es aprender teclado moderno, acordes o gastar menos de $210 en poco espacio, 61 teclas con Touch Response (Yamaha PSR-E383 / Casio CT-S300) son excelentes. Si estudias piano formal y quieres poder tocar cualquier piano acústico sin que tus dedos se cansen, elige 88 teclas contrapesadas (Hammer Action)."
+      ],
+      "caption": "Comparativa técnica de los tres sistemas de teclado y su impacto en el estudio"
     },
     {
       "type": "h2",
-      "text": "1. Presupuesto, espacio disponible y sensación en los dedos: Acción de Martillo Contrapesada vs Semicontrapesada / Sensible al Tacto Touch Response"
+      "text": "Sensores de velocidad, triple sensor y simulación de escape en repertorio clásico y moderno"
     },
     {
       "type": "p",
-      "text": "Al comparar **Acción de Martillo Contrapesada** frente a **Semicontrapesada / Sensible al Tacto Touch Response**, la clave está en medir tu pared o escritorio y definir qué tacto prefieres bajo tus manos:"
+      "text": "Un error habitual al buscar un primer teclado es confundir «peso» con «expresividad». Un teclado económico sin sensibilidad al tacto dispara siempre la nota al volumen máximo aunque apenas roces la superficie. En cambio, un modelo **sensible al tacto** como los que enfrentamos en la guía del [Yamaha Piaggero NP-15 de 61 teclas vs NP-35 de 76 teclas](/comparativas/yamaha-piaggero-np-15-61-teclas-vs-np-35-76-teclas/) sí permite matizar dinámicas, aunque no entrene la musculatura tendinosa de la mano. Cuando das el salto a las **teclas contrapesadas**, entra en juego la arquitectura de detección: mientras los mecanismos básicos utilizan **doble sensor** (que obliga a soltar la tecla casi hasta arriba para repetir un trino rápido), los sistemas de **triple sensor** como el **PHA-4 de Roland** leen la velocidad de repetición a mitad del recorrido y recrean el **escape** (*escapement*), ese sutil clic táctil al fondo de la pulsación donde el martillo de un piano de cola se libera de la cuerda."
+    },
+    {
+      "type": "h2",
+      "text": "¿Qué mecanismo comprar según tu objetivo musical y edad del estudiante?"
     },
     {
       "type": "ul",
       "items": [
-        "**Por qué elegir Acción de Martillo Contrapesada:** destaca por *Acción de Martillo Contrapesada (~50–65 g de bajada · Inercia Física sin Resortes · 88 Teclas)*, siendo la opción ganadora si priorizas esas especificaciones en tu rincón de práctica.",
-        "**Por qué elegir Semicontrapesada / Sensible al Tacto Touch Response:** toma ventaja gracias a *Semicontrapesada / Sensible al Tacto Touch Response (~25–38 g · Retorno por Resorte · 61/76/88 Teclas)*, resultando la compra ideal cuando tu presupuesto o espacio en centímetros encajan mejor con ese perfil."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "2. Pedales, soportes, bancos y audífonos compatibles para completar tu compra"
-    },
-    {
-      "type": "p",
-      "text": "Recuerda que ningún piano digital o teclado ofrece su verdadera comodidad si lo apoyas en una mesa alta o usas el pedal plástico sin agarre. Elijas el ganador que elijas en esta comparativa, acompáñalo de:"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Pedal de Sustain Metálico con Selector de Polaridad:** el **[M-Audio SP-2 Universal](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)** (o el **[Roland DP-10](/resenas-pianos-y-teclados/pedal-roland-dp-10-damper/)** / **[Yamaha FC4A](/resenas-pianos-y-teclados/pedal-yamaha-fc4a-y-fc3a-original/)**) funciona en ambos modelos sin sonar al revés y no se desliza por el suelo.",
-        "**Soporte en Z, Banco Regulable y Audífonos de 1/4\":** instala tu instrumento a `72 cm` de altura sobre un **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** con **[banco ajustable On-Stage](/resenas-pianos-y-teclados/banco-piano-ajustable-on-stage-kt7800-y-songmics/)** y practica de noche con los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**."
+        "**Elige teclas contrapesadas (Hammer Action de 88 teclas):** si vas a tomar clases formales de piano clásico, jazz o pop pianístico, necesitas desarrollar independencia de los dedos 4 y 5, o planeas tocar ocasionalmente en pianos acústicos reales.",
+        "**Elige teclas semicontrapesadas:** si tu enfoque principal es la producción musical por **USB-MIDI** en computadora, ejecutas pasajes rápidos de órgano Hammond o sintetizador y buscas un compromiso intermedio de resistencia.",
+        "**Elige teclas sensibles al tacto (61 o 76 teclas):** si compras para un niño menor de **6 a 7 años** cuyos dedos aún son muy ligeros, si necesitas un instrumento ultraportátil de **3.3 kg a 4.5 kg** para llevar en mochila, o si tu prioridad es aprender acordes y teoría con presupuesto inicial contenido."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Quieres saber cuál de los dos (Acción de Martillo Contrapesada o Semicontrapesada / Sensible al Tacto Touch Response) encaja mejor en los centímetros exactos de tu habitación? Pregúntale ahora a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Conclusión: ¿Cuál comprar en Amazon entre Acción de Martillo Contrapesada y Semicontrapesada / Sensible al Tacto Touch Response?"
-    },
-    {
-      "type": "p",
-      "text": "Ambos forman parte de nuestra selección de [los mejores pianos digitales, teclados y accesorios en Amazon](/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/). **Nunca compres un teclado sin sensibilidad a la velocidad. Si tu objetivo es aprender teclado moderno, acordes o gastar menos de $210 en poco espacio, 61 teclas con Touch Response (Yamaha PSR-E383 / Casio CT-S300) son excelentes. Si estudias piano formal y quieres poder tocar cualquier piano acústico sin que tus dedos se cansen, elige 88 teclas contrapesadas (Hammer Action).** Revisa las tarjetas comparativas de arriba y abajo para consultar el precio y disponibilidad hoy en Amazon.com o Amazon.es."
+      "text": "Consulta la disponibilidad actual y las especificaciones completas de los modelos contrapesados y sensibles al tacto en las tarjetas de Amazon integradas en esta página, o pregúntale a nuestro Asesor IA cuál se adapta mejor a tu rutina de estudio."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es mejor compra en Amazon: Acción de Martillo Contrapesada o Semicontrapesada / Sensible al Tacto Touch Response?",
-      "a": "Nunca compres un teclado sin sensibilidad a la velocidad. Si tu objetivo es aprender teclado moderno, acordes o gastar menos de $210 en poco espacio, 61 teclas con Touch Response (Yamaha PSR-E383 / Casio CT-S300) son excelentes. Si estudias piano formal y quieres poder tocar cualquier piano acústico sin que tus dedos se cansen, elige 88 teclas contrapesadas (Hammer Action)."
+      "q": "¿Se puede aprender piano con teclas sensibles al tacto sin contrapeso?",
+      "a": "Sí, pero solo durante los primeros 6 a 12 meses para asimilar lectura de partituras, coordinación de ambas manos y acordes. A partir del nivel intermedio, la falta de inercia física de un martillo de 50 g a 65 g limita el control dinámico fino y la resistencia muscular de los dedos."
     },
     {
-      "q": "¿Qué pedal de sustain y audífonos son compatibles con Acción de Martillo Contrapesada y Semicontrapesada / Sensible al Tacto Touch Response?",
-      "a": "Te recomendamos el pedal universal M-Audio SP-2 (que incluye interruptor de polaridad N.O./N.C. compatible con todas las marcas) y los audífonos de estudio Audio-Technica ATH-M20x o Sony MDR-7506 (que incluyen conector de 3.5 mm y adaptador de 1/4\" sin latencia)."
+      "q": "¿Qué significa que un teclado contrapesado sea graduado (Graded Hammer)?",
+      "a": "Significa que la resistencia física varía progresivamente a lo largo de las 88 teclas igual que en un piano acústico: las teclas de las octavas graves mueven martillos más pesados (unos 60 g – 65 g) y las octavas agudas requieren menos fuerza (unos 45 g – 50 g)."
     },
     {
-      "q": "¿Ambos se pueden conectar al iPad para usar Simply Piano o Flowkey?",
-      "a": "Sí, mediante su puerto USB-to-Host (con un cable USB Tipo B a USB-C o Lightning) o por Bluetooth MIDI en los modelos que lo integran de fábrica."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA & Roland Digital Piano Comparison Specifications",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Casio America – Privia & Casiotone Dimensions & Key Action",
-      "url": "https://www.casio.com/us/electronic-musical-instruments/"
+      "q": "¿Cómo saber en Amazon si un teclado de 61 teclas tiene sensibilidad al tacto?",
+      "a": "Revisa la ficha técnica buscando términos como Touch Response, Velocity Sensitive o Initial Touch con ajuste de niveles (Soft, Medium, Hard). Si el fabricante solo indica teclas estilo piano pero omite la sensibilidad a la velocidad, todas las notas sonarán a un volumen fijo."
     }
   ],
   "related": [
-    "/comparativas/",
+    "/comparativas/casio-ct-s1-vs-yamaha-piaggero-np-15/",
+    "/comparativas/yamaha-piaggero-np-15-61-teclas-vs-np-35-76-teclas/",
     "/comparativas/yamaha-vs-roland-vs-casio-vs-kawai-pianos-digitales/",
-    "/comparativas/yamaha-arius-ydp-145-vs-casio-privia-px-770/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/comparativas/pedal-m-audio-sp-2-vs-yamaha-fc4a-vs-roland-dp-10/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/teclas-contrapesadas-vs-semicontrapesadas-vs-sensibles-al-tacto.webp"
 }

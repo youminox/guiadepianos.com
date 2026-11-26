@@ -3,159 +3,127 @@
   "pillar": "sensacion-al-tocar-y-tipos-de-tecla",
   "path": "/sensacion-al-tocar-y-tipos-de-tecla/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "tipos de teclas piano digital contrapesadas vs sensibles al tacto",
   "title": "Sensación al Tocar y Tipos de Tecla: Contrapesadas (Martillo), Semicontrapesadas y Sensibles",
-  "seoTitle": "Teclas Contrapesadas (GHS, GHC, PHA-4) vs Semicontrapesadas vs Sensibles al Tacto",
-  "metaDescription": "Sensación al Tocar y Tipos de Tecla: Contrapesadas (Martillo), Semicontrapesadas y Sensibles: hub completo con 60 guías sobre diferencias mecánicas y táctiles entre la acción de martillo graduado (Yamaha GHC/GHS, Roland PHA-4 con escape, Casio Smart Scaled, Kawai RHC), las teclas semicontrapesadas con resorte y las teclas sensibles a la velocidad (Touch Response) y ofertas en Amazon EE. UU.",
-  "excerpt": "Explora las 60 guías especializadas de este silo sobre diferencias mecánicas y táctiles entre la acción de martillo graduado (Yamaha GHC/GHS, Roland PHA-4 con escape, Casio Smart Scaled, Kawai RHC), las teclas semicontrapesadas con resorte y las teclas sensibles a la velocidad (Touch Response).",
-  "quickAnswer": "En esta sección principal de Sensación al Tocar y Tipos de Tecla reunimos 60 guías verificadas sobre diferencias mecánicas y táctiles entre la acción de martillo graduado (Yamaha GHC/GHS, Roland PHA-4 con escape, Casio Smart Scaled, Kawai RHC), las teclas semicontrapesadas con resorte y las teclas sensibles a la velocidad (Touch Response), diseñadas para ayudarte a elegir entre modelos de 61 y 88 teclas según tu presupuesto, espacio disponible y sensación al tocar, además de pedales, soportes, bancos y audífonos compatibles en Amazon.",
+  "seoTitle": "Sensación al Tocar y Tipos de Tecla: Contrapesadas (Martillo), Semicontrapesadas y Sensibles | guiadepianos.com",
+  "metaDescription": "Guía técnica de tipos de teclas en pianos digitales y teclados: diferencia entre contrapesadas con martillo (PHA-4, GHC), semicontrapesadas y sensibles al…",
+  "excerpt": "Aprende a distinguir entre teclas contrapesadas con acción de martillo graduado (GHC, PHA-4, Smart Scaled), semicontrapesadas y sensibles al tacto, además del triple sensor y la textura de marfil.",
+  "quickAnswer": "Las **teclas contrapesadas con acción de martillo graduado** (como los sistemas **Roland PHA-4**, **Yamaha GHC** o **Casio Smart Scaled**) utilizan martillos basculantes que oponen entre **50 y 60 g** de resistencia real, indispensables para estudiar piano; en cambio, las **teclas sensibles al tacto** y **semicontrapesadas** funcionan mediante resortes ligeros que detectan la velocidad del dedo para variar el volumen sin peso de martillo.",
   "readingMinutes": 8,
   "image": {
-    "prompt": "Macro side-profile photograph of weighted digital piano keys with textured synthetic ivory and matte ebony surfaces showing key depth and hammer action feel, shallow depth of field, realistic photo",
-    "alt": "Primer plano lateral de teclas contrapesadas con textura de marfil sintético y ébano mate en un piano digital"
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Sensación al Tocar y Tipos de Tecla: Contrapesadas (Martillo), Semicontrapesadas y Sensibles' (tipos de teclas piano digital contrapesadas vs sensibles al tacto) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, on a clean stone countertop with neatly arranged accessories, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Sensación al Tocar y Tipos de Tecla: Contrapesadas (Martillo), Semicontrapesadas y Sensibles"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Sensación al Tocar y Tipos de Tecla: Contrapesadas (Martillo), Semicontrapesadas y Sensibles** en **GuiaDePianos.com**. Aquí reunimos todas las pruebas táctiles, mediciones en centímetros para apartamentos y criterios de compra sobre **diferencias mecánicas y táctiles entre la acción de martillo graduado (Yamaha GHC/GHS, Roland PHA-4 con escape, Casio Smart Scaled, Kawai RHC), las teclas semicontrapesadas con resorte y las teclas sensibles a la velocidad (Touch Response)**, organizados bajo una arquitectura sin canibalización para que elijas tu primer piano digital o teclado y sus accesorios 100 % compatibles en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si buscas tu primer piano digital de 88 teclas contrapesadas con acción de martillo graduado como el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** o el ultradelgado **[Casio Privia PX-S1100](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)** (23.2 cm de fondo), como si prefieres un teclado portátil de 61 teclas con sensibilidad al tacto para un escritorio como el **[Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** o el **[Casio Casiotone CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/)**, dominar las guías de este silo te asegurará acertar a la primera."
+      "text": "La mayor decepción al recibir un teclado comprado a ciegas ocurre en el primer segundo de contacto físico: apoyas los dedos esperando la resistencia noble, progresiva y silenciosa de un piano de cola, pero la tecla cede de golpe como el interruptor de plástico de un juguete. Comprender cómo se construye mecánicamente una tecla por dentro —desde un muelle simple hasta un balancín de martillo sin resortes como explicamos en nuestro análisis del [mecanismo RHC (Responsive Hammer Compact) del Kawai ES120](/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-mecanismo-rhc-responsive-hammer-compact-de-kawai-es120/)— es el secreto para elegir un instrumento que inspire a practicar todos los días."
     },
     {
       "type": "h2",
-      "text": "Qué aprenderás en Sensación al Tocar y Tipos de Tecla"
+      "text": "Los 4 Tipos de Tecla en el Mercado: De la Acción de Sintetizador al Martillo Graduado"
     },
     {
       "type": "p",
-      "text": "En cada una de las **60 guías especializadas** de esta categoría analizamos los cuatro factores reales que determinan tu comodidad al aprender: el **presupuesto real en dólares**, el **espacio disponible en centímetros y pulgadas** en tu habitación, la **sensación al tocar en tus dedos** (`GHC`, `GHS`, `PHA-4 con escape`, `Smart Scaled`, `RHC` o `Touch Response`) y la **compatibilidad exacta de pedales de sustain (con selector de polaridad `N.O./N.C.`), soportes en Z/X, bancos regulables y audífonos con adaptador de `1/4\"` (`6.35 mm`)**."
+      "text": "En los catálogos actuales conviven cuatro arquitecturas mecánicas muy diferentes. En el escalón básico están las **teclas sin sensibilidad (No Touch Response)**, que disparan siempre el mismo volumen y deben descartarse para estudiar música. El segundo nivel son las **teclas sensibles al tacto o a la velocidad (Touch-Sensitive / Synth-Action)**, presentes en modelos de **61 teclas** como el **Yamaha PSR-E383**: usan un resorte ligero, pero miden en milisegundos la velocidad de bajada para sonar suave o fuerte; de hecho, puedes verificar esta función aplicando [la prueba de los 2 dedos en 5 segundos para comprobar la sensibilidad al tacto real](/sensacion-al-tocar-y-tipos-de-tecla/como-probar-en-5-segundos-si-un-teclado-tiene-sensibilidad-al-tacto-real/). El tercer escalón lo ocupan los sistemas intermedios explicados en nuestra guía sobre [qué son las teclas semicontrapesadas (Semi-Weighted) y cómo se sienten](/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-semicontrapesadas-semi-weighted-y-como-se-sienten/), que añaden un resorte más tenso y una pequeña pletina para dar cuerpo sin llegar al peso de un martillo. Finalmente, en la cúspide están las **teclas contrapesadas con acción de martillo graduado (Graded Hammer Action)**, donde una pieza física bascula bajo cada tecla exigiendo unos **50 a 60 gramos** de peso de bajada (*downweight*)."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Sensación al Tocar y Tipos de Tecla",
       "headers": [
-        "Guía Especializada de Piano y Teclado",
-        "Acceso Directo"
+        "Tipo de mecanismo / Nombre comercial",
+        "Sistema de resistencia física",
+        "Sensores por tecla y acabado superficial",
+        "Sensación táctil y modelos representativos"
       ],
       "rows": [
         [
-          "Qué Significa Exactamente que un Piano Digital Tenga Teclas Contrapesadas (Weighted Hammer Action)",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/que-significa-que-un-piano-digital-tenga-teclas-contrapesadas-weighted-keys/)"
+          "Acción de Martillo con Escape (Roland PHA-4 Standard)",
+          "Martillos basculantes graduados sin resortes + simulación de escape (Let-off)",
+          "3 sensores + acabado poroso Ivory Feel en blancas y mate en negras",
+          "Tacto firme, articulado y con ligera muesca al tocar pianissimo (Roland FP-10, FP-30X)"
         ],
         [
-          "Qué Es la Acción de Martillo Graduado (Graded / Scaled Hammer Action): Por Qué las Notas Graves Pesan Más que las Agudas",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/que-es-la-accion-de-martillo-graduado-graded-hammer-action-en-88-teclas/)"
+          "Martillo Compacto Graduado (Yamaha GHC / GHS)",
+          "Contrapesos de martillo graduados de graves a agudos con pivote optimizado",
+          "2 sensores + blancas en acrílico liso y negras mate (fieltro interno amortiguado)",
+          "Ataque ágil, retorno veloz y resistencia muy equilibrada (Yamaha P-145, P-225)"
         ],
         [
-          "Teclado GHC (Graded Hammer Compact) de los Yamaha P-145 y P-225: Cómo Lograron Reducir el Fondo sin Perder Peso",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-nuevo-teclado-ghc-graded-hammer-compact-de-yamaha/)"
+          "Martillo Escalado Ultradelgado (Casio Smart Scaled)",
+          "Martillos compactos con procesamiento digital de respuesta individual por tecla",
+          "2 sensores + textura granulada tipo marfil y ébano en las 88 teclas",
+          "Pulsación suave y silenciosa en un chasis de solo 23.2 cm (Casio PX-S1100, PX-S3100)"
         ],
         [
-          "Teclado GHS (Graded Hammer Standard) de los Yamaha P-45 y Arius YDP-145: El Mecanismo Más Probado del Mundo",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-teclado-ghs-graded-hammer-standard-de-yamaha/)"
+          "Semicontrapesada (Semi-Weighted)",
+          "Muelle de tensión reforzada con contrapeso ligero en la base del plástico",
+          "1 o 2 sensores de velocidad + acabado plástico liso tipo caja de piano",
+          "Bajada rápida con rebote elástico de resorte, sin inercia de martillo real"
         ],
         [
-          "Teclado PHA-4 Standard de los Roland FP-10 y FP-30X: Por Qué Es el Favorito por Menos de $750",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-teclado-pha-4-standard-con-escape-de-roland/)"
-        ],
-        [
-          "Qué Es el Escape (Escapement / Let-Off) en un Piano Digital y Por Qué Se Siente un 'Clic' Suave al Bajar Despacio",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-mecanismo-de-escape-escapement-let-off-en-las-teclas-de-un-piano/)"
-        ],
-        [
-          "Teclado Smart Scaled Hammer Action del Casio Privia PX-S1100: Cómo Caben 88 Martillos en 23.2 cm de Fondo",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-teclado-smart-scaled-hammer-action-de-casio-privia/)"
-        ],
-        [
-          "Teclado RHC (Responsive Hammer Compact) del Kawai ES120: Suspensión sin Resortes y Almohadillas Silenciosas",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-mecanismo-rhc-responsive-hammer-compact-de-kawai-es120/)"
-        ],
-        [
-          "Teclado de 2 Sensores vs Triple Sensor (3 Sensores por Tecla): Cómo Influye al Repetir Notas Rápidas (Trinos)",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/diferencia-entre-2-sensores-y-3-sensores-triple-sensor-por-tecla/)"
-        ],
-        [
-          "Qué Significa 'Touch Response' (Teclas Sensibles a la Velocidad) en un Teclado de 61 o 76 Teclas",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-sensibles-al-tacto-touch-response-o-velocity-sensitive/)"
-        ],
-        [
-          "La Prueba de los 2 Dedos para Saber al Instante Si un Teclado Tiene Sensibilidad al Tacto Activada",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/como-probar-en-5-segundos-si-un-teclado-tiene-sensibilidad-al-tacto-real/)"
-        ],
-        [
-          "Cómo Configurar la Sensibilidad del Teclado (Light/Soft, Normal/Medium, Heavy/Hard y Fixed/Off)",
-          "[Ver guía completa](/sensacion-al-tocar-y-tipos-de-tecla/como-ajustar-la-curva-de-sensibilidad-touch-sensitivity-soft-medium-hard-fixed/)"
+          "Sensible a la velocidad (Touch-Sensitive / Organ Style)",
+          "Resorte ligero de retorno instantáneo sin masa de martillo",
+          "2 contactos de membrana por velocidad + plástico liso ligero",
+          "Muy blanda y veloz, ideal para niños, sintetizadores y órganos (Yamaha PSR-E383)"
         ]
-      ]
+      ],
+      "caption": "Comparativa mecánica de los tipos de tecla y mecanismos de martillo más utilizados"
+    },
+    {
+      "type": "h2",
+      "text": "Triple Sensor, Simulación de Escape, Textura de Marfil y Peso de Retorno (Upweight)"
+    },
+    {
+      "type": "p",
+      "text": "Cuando comparas pianos digitales de **88 teclas contrapesadas**, cuatro detalles marcan la diferencia en la expresión avanzada. El primero es el **peso graduado o escalado**: igual que en un piano acústico los martillos que golpean las cuerdas gruesas de la izquierda son más grandes que los de las cuerdas finas de la derecha, el teclado ofrece mayor resistencia en los graves y más ligereza en los agudos. El segundo es el **triple sensor** (presente en el **PHA-4** de **Roland**), que permite repetir trinos y notas rápidas a media altura sin que la tecla tenga que subir hasta su posición de reposo. El tercero es la **simulación de escape (*Let-off / Escapement*)**, que recrea el pequeño tope mecánico que se percibe al fondo del recorrido cuando tocas muy despacio. Y el cuarto, a menudo ignorado por los compradores pero vital para evitar fatiga tendinosa, es la fuerza con que la tecla empuja tu dedo de vuelta hacia arriba, concepto que analizamos a fondo en nuestro artículo sobre [qué es el peso de retorno (Upweight) y por qué evita que la tecla se sienta lenta](/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-peso-de-retorno-upweight-y-por-que-importa-para-que-la-tecla-no-se-sienta-lenta/)."
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Compatibilidad universal verificada (Pedal Polaridad · Soporte en Z · Audífonos 1/4\" 0 ms)",
-      "text": "Antes de comprar accesorios en Amazon, recuerda las 3 reglas de compatibilidad: 1) Elige un pedal de sustain con interruptor de polaridad en la base (como el M-Audio SP-2) para que nunca suene al revés en Yamaha, Casio, Roland o Alesis; 2) Para 88 teclas usa un soporte en Z Heavy Duty o mueble oficial que deje espacio libre para tus rodillas; 3) Usa siempre audífonos con cable de 32–64 Ω con adaptador de 1/4\" (nunca Bluetooth, cuya latencia retrasa cada nota)."
+      "variant": "tip",
+      "text": "Casi todos los pianos digitales permiten ajustar en su menú la 'Curva de Sensibilidad' o 'Touch Sensitivity' (habitualmente en niveles Soft, Medium, Hard y Fixed). Ojo: cambiar este ajuste a 'Hard' o 'Heavy' no endurece físicamente los martillos internos de las teclas; lo que hace es exigir que golpees la tecla con más velocidad para alcanzar el volumen máximo, ayudándote a entrenar un mayor control dinámico de tus dedos.",
+      "title": "La diferencia entre el peso físico del martillo y la curva de velocidad digital (Touch Curve)"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces a Amazon Estados Unidos"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Mide primero tu espacio libre en centímetros:** si dispones de `129 a 133 cm` de ancho, puedes instalar un piano de 88 teclas contrapesadas como el [Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/) o el [Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/); si tienes un escritorio de `95 cm`, elige un teclado de 61 teclas con Touch Response como el [Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/) o el [Casio CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/).",
-        "**Completa tu setup desde el primer día:** añadir el [pedal metálico universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/), un [soporte en Z estable](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/) y los [audífonos de estudio Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/) transforma tu experiencia de práctica diaria y nocturna.",
-        "**Consulta las ofertas actualizadas en Amazon:** todas nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guiadepianos-20`)** y permiten cambiar con un clic a **Amazon España (`guiadepianos02-21`)**."
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿No sabes qué piano de 88 teclas, teclado de 61 teclas, pedal, soporte o audífonos de este silo elegir? Pregúntale en vivo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para estrenar tu primer piano digital o teclado en casa"
+      "text": "Cómo Elegir el Tipo de Tecla Correcto según lo que Quieres Tocar"
     },
     {
       "type": "ul",
       "items": [
-        "**Exige siempre sensibilidad a la velocidad (Touch Response o Acción de Martillo):** nunca compres un teclado cuyas teclas suenen siempre al mismo volumen sin importar la fuerza de tus dedos.",
-        "**No enciendas el teclado mientras pisas el pedal de sustain:** si mantienes el pie sobre el pedal durante el encendido, el piano invertirá la polaridad y sonará al revés.",
-        "**Coloca las teclas blancas a 71–73 cm del suelo y ajusta el banco (45–53 cm):** tus antebrazos deben quedar horizontales y paralelos al piso para tocar sin dolor de muñecas ni espalda.",
-        "**Conecta tu iPad con un cable USB-MIDI (Tipo B a USB-C) y cubre las teclas al terminar:** el cable USB hace que Simply Piano y Flowkey reconozcan cada acorde sin fallos incluso con audífonos puestos, y el cubrepolvo protege los sensores durante décadas."
+        "**Para clases de piano clásico, jazz o pop a dos manos:** exige siempre **acción de martillo graduado (Weighted / Graded Hammer Action)** en **88 teclas** (como **GHC**, **PHA-4**, **RHC** o **Smart Scaled**); las teclas semicontrapesadas no desarrollan la musculatura del dedo necesaria para controlar un piano acústico.",
+        "**Para manos que transpiran o sesiones de estudio de más de 45 minutos:** prioriza teclados cuyas teclas blancas y negras incorporen recubrimiento microtexturizado mate (**Ivory Feel** en **Roland** o **Casio Privia PX-S1100**), que absorbe la humedad y evita resbalones.",
+        "**Para tocar órganos, sintetizadores, acordes rápidos o llevar en mochila:** las teclas **sensibles al tacto (Touch-Sensitive)** con resorte del **Yamaha PSR-E383** o **Casio CT-S300** permiten ejecutar *glissandos* y pasajes de sintetizador sin fatigarte y manteniendo el peso total del instrumento en **3.3 a 4.4 kg**.",
+        "**Para practicar de madrugada en habitaciones compartidas:** busca mecanismos con almohadillas de fieltro de doble amortiguación (como el **GHC** de **Yamaha** o el **RHC** de **Kawai**), que reducen el golpe seco de la tecla al bajar y rebotar contra el chasis."
       ]
+    },
+    {
+      "type": "cta",
+      "text": "Profundiza en nuestras guías mecánicas sobre cada tipo de teclado, consulta al Asesor IA para saber qué pulsación se adapta mejor a tus manos y verifica la disponibilidad actual de cada piano en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Sensación al Tocar y Tipos de Tecla?",
-      "a": "Incluye 60 artículos prácticos y comparativas sobre diferencias mecánicas y táctiles entre la acción de martillo graduado (Yamaha GHC/GHS, Roland PHA-4 con escape, Casio Smart Scaled, Kawai RHC), las teclas semicontrapesadas con resorte y las teclas sensibles a la velocidad (Touch Response), con tablas de medidas en centímetros, sensación de tecla y compatibilidad de pedales, soportes, bancos y audífonos en Amazon Estados Unidos."
+      "q": "¿Es lo mismo una tecla semicontrapesada (Semi-Weighted) que una tecla contrapesada con acción de martillo?",
+      "a": "No. 'Contrapesada con acción de martillo' (Weighted / Hammer Action) significa que debajo de cada tecla hay una pieza física con masa que bascula por gravedad e inercia al pulsarla, igual que en un piano acústico. 'Semicontrapesada' (Semi-Weighted) utiliza un resorte metálico más duro que el de un teclado básico, pero sigue sintiéndose elástica como un muelle."
     },
     {
-      "q": "¿Las recomendaciones sirven para quien busca su primer piano digital o teclado?",
-      "a": "Sí, todo el portal está redactado en español claro para principiantes, padres y estudiantes, comparando modelos de 61 y 88 teclas sin tecnicismos confusos."
+      "q": "¿Por qué noto un pequeño 'clic' o tope al presionar muy despacio las teclas del Roland FP-10 o FP-30X?",
+      "a": "Es una excelente señal de autenticidad. En modelos con simulación de escape (como el teclado PHA-4 Standard de los Roland FP-10 y FP-30X), ese ligero escalón táctil al final del recorrido imita el momento exacto en que el martillo de un piano de cola real se libera del mecanismo impulsor justo antes de golpear la cuerda."
     },
     {
-      "q": "¿Puedo preguntar qué pedal, soporte o audífonos sirven para mi modelo exacto?",
-      "a": "Por supuesto: abre el chat del Asesor de Pianos IA en la esquina inferior derecha, indícale tu presupuesto, espacio o modelo y te recomendará los accesorios 100 % compatibles en Amazon."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Pianos & Portable Keyboards Official Specs",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation US – FP-Series Digital Pianos & PHA-4 Action",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Se puede desactivar o activar por error la sensibilidad al tacto en un piano digital o teclado?",
+      "a": "Sí. Si por error alguien activó el modo de sensibilidad fija ('Fixed' o 'Off') en la configuración del instrumento, todas las notas sonarán a un volumen plano e idéntico. Basta con entrar al ajuste de Touch Sensitivity (o mediante combinación de botón Function + tecla indicada en el manual) y devolverlo al valor 'Medium' o 'Standard'."
     }
   ],
   "related": [
-    "/sensacion-al-tocar-y-tipos-de-tecla/que-significa-que-un-piano-digital-tenga-teclas-contrapesadas-weighted-keys/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-la-accion-de-martillo-graduado-graded-hammer-action-en-88-teclas/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-nuevo-teclado-ghc-graded-hammer-compact-de-yamaha/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-teclado-ghs-graded-hammer-standard-de-yamaha/"
+    "/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-mecanismo-rhc-responsive-hammer-compact-de-kawai-es120/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/como-probar-en-5-segundos-si-un-teclado-tiene-sensibilidad-al-tacto-real/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-semicontrapesadas-semi-weighted-y-como-se-sienten/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-peso-de-retorno-upweight-y-por-que-importa-para-que-la-tecla-no-se-sienta-lenta/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/sensacion-al-tocar-y-tipos-de-tecla.webp"
 }

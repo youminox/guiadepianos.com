@@ -3,159 +3,133 @@
   "pillar": "solucion-de-problemas-y-configuracion",
   "path": "/solucion-de-problemas-y-configuracion/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "solucion de problemas piano digital tecla no suena reset",
   "title": "Solución de Problemas en Pianos Digitales y Teclados: Teclas, Sonido, Reset y Ajustes",
-  "seoTitle": "Problemas de Piano Digital: Tecla No Suena, Suena Fuerte, Polaridad y Factory Reset",
-  "metaDescription": "Solución de Problemas en Pianos Digitales y Teclados: Teclas, Sonido, Reset y Ajustes: hub completo con 55 guías sobre diagnóstico rápido cuando una tecla no suena o suena al máximo volumen por polvo en el sensor, cómo hacer Factory Reset en Yamaha/Casio/Roland, polaridad del cargador DC y uso de Metrónomo, Transpose, Split y Layer y ofertas en Amazon EE. UU.",
-  "excerpt": "Explora las 55 guías especializadas de este silo sobre diagnóstico rápido cuando una tecla no suena o suena al máximo volumen por polvo en el sensor, cómo hacer Factory Reset en Yamaha/Casio/Roland, polaridad del cargador DC y uso de Metrónomo, Transpose, Split y Layer.",
-  "quickAnswer": "En esta sección principal de Solución de Problemas en Pianos Digitales y Teclados reunimos 55 guías verificadas sobre diagnóstico rápido cuando una tecla no suena o suena al máximo volumen por polvo en el sensor, cómo hacer Factory Reset en Yamaha/Casio/Roland, polaridad del cargador DC y uso de Metrónomo, Transpose, Split y Layer, diseñadas para ayudarte a elegir entre modelos de 61 y 88 teclas según tu presupuesto, espacio disponible y sensación al tocar, además de pedales, soportes, bancos y audífonos compatibles en Amazon.",
+  "seoTitle": "Solución de Problemas en Pianos Digitales y Teclados: Teclas, Sonido, Reset y Ajustes | guiadepianos.com",
+  "metaDescription": "Solución de problemas en pianos digitales y teclados: qué hacer si una tecla no suena o suena fuerte, reinicio de fábrica (Factory Reset), zumbidos y ajustes.",
+  "excerpt": "Soluciona en segundos los problemas más comunes en pianos digitales y teclados Yamaha, Roland y Casio: cómo hacer Factory Reset, teclas sin sensibilidad, zumbidos en el atril, pedal invertido y apagado automático.",
+  "quickAnswer": "La mayoría de los fallos aparentes en un piano digital —como notas transpuestas, pérdida de sensibilidad al tacto o altavoces mudos— se resuelven en **3 segundos** realizando un **reinicio de fábrica (*Factory Reset*)** (en **Yamaha**, encendiendo el piano mientras mantienes pulsada la **última tecla blanca derecha, C8/C6**), retirando adaptadores de **1/4\"** olvidados en la salida **Phones** y verificando la configuración de pilas **Alcalinas (1.5V) vs Ni-MH (1.2V)**.",
   "readingMinutes": 8,
   "image": {
-    "prompt": "Close-up of a technician checking the control panel, transpose and metronome buttons and rear DC power/pedal jacks of a modern digital piano in a bright studio, realistic photo",
-    "alt": "Revisión del panel de control y conexiones traseras de alimentación, USB y pedal en un piano digital"
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Solución de Problemas en Pianos Digitales y Teclados: Teclas, Sonido, Reset y Ajustes' (solucion de problemas piano digital tecla no suena reset) for guiadepianos.com, featuring equipment in sleek titanium silver with carbon-gray texture, in a well-organized domestic utility area with natural plants nearby, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Solución de Problemas en Pianos Digitales y Teclados: Teclas, Sonido, Reset y Ajustes"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Solución de Problemas en Pianos Digitales y Teclados: Teclas, Sonido, Reset y Ajustes** en **GuiaDePianos.com**. Aquí reunimos todas las pruebas táctiles, mediciones en centímetros para apartamentos y criterios de compra sobre **diagnóstico rápido cuando una tecla no suena o suena al máximo volumen por polvo en el sensor, cómo hacer Factory Reset en Yamaha/Casio/Roland, polaridad del cargador DC y uso de Metrónomo, Transpose, Split y Layer**, organizados bajo una arquitectura sin canibalización para que elijas tu primer piano digital o teclado y sus accesorios 100 % compatibles en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si buscas tu primer piano digital de 88 teclas contrapesadas con acción de martillo graduado como el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** o el ultradelgado **[Casio Privia PX-S1100](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)** (23.2 cm de fondo), como si prefieres un teclado portátil de 61 teclas con sensibilidad al tacto para un escritorio como el **[Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** o el **[Casio Casiotone CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/)**, dominar las guías de este silo te asegurará acertar a la primera."
+      "text": "Encender tu piano digital y notar que una tecla suena de golpe mucho más fuerte que las vecinas, que todas las notas están desplazadas medio tono respecto a un video de YouTube, o que al tocar cierto Sol grave se escucha un misterioso traqueteo metálico dentro del mueble puede alarmar a cualquier músico en casa. Sin embargo, más del **90 %** de estas anomalías no requieren servicio técnico ni abrir el instrumento: se deben a funciones activadas por accidente mediante combinaciones de teclas, al ajuste de voltaje de las baterías o a fenómenos acústicos cotidianos como explicamos en nuestra guía sobre [por qué se escucha una vibración o zumbido en el atril al tocar ciertas notas graves](/solucion-de-problemas-y-configuracion/por-que-se-escucha-una-vibracion-o-zumbido-en-el-atril-al-tocar-ciertas-notas-graves/)."
     },
     {
       "type": "h2",
-      "text": "Qué aprenderás en Solución de Problemas en Pianos Digitales y Teclados"
+      "text": "Diagnóstico Rápido: Por Qué el Piano Suena Desafinado, Sin Sensibilidad o con el Pedal Invertido"
     },
     {
       "type": "p",
-      "text": "En cada una de las **55 guías especializadas** de esta categoría analizamos los cuatro factores reales que determinan tu comodidad al aprender: el **presupuesto real en dólares**, el **espacio disponible en centímetros y pulgadas** en tu habitación, la **sensación al tocar en tus dedos** (`GHC`, `GHS`, `PHA-4 con escape`, `Smart Scaled`, `RHC` o `Touch Response`) y la **compatibilidad exacta de pedales de sustain (con selector de polaridad `N.O./N.C.`), soportes en Z/X, bancos regulables y audífonos con adaptador de `1/4\"` (`6.35 mm`)**."
+      "text": "Dado que los pianos digitales compactos como el **Yamaha P-145**, el **Roland FP-10** o el **Casio Privia PX-S1100** prescinden de pantallas llenas de menús para mantener una estética limpia, muchas funciones se activan manteniendo presionado un botón de función (**Function / Piano**) mientras se pulsa una de las **88 teclas**. Si un niño o una visita apoya la mano sobre el teclado mientras mantiene pulsado ese botón, puede cambiar la **Transposición (*Transpose*)** varios semitonos arriba o abajo, alterar la afinación base lejos de los **440.0 Hz**, desactivar los altavoces internos (*Speaker Off*), o cambiar la escala a una afinación barroca histórica, motivo por el cual detallamos [qué son los temperamentos musicales (Equal, Werckmeister, Kirnberger) en el menú del piano y por qué dejarlo en 'Equal'](/solucion-de-problemas-y-configuracion/que-son-los-temperamentos-musicales-equal-werckmeister-kirnberger-en-el-menu-del-piano/). En los teclados portátiles de **61 teclas**, volver al estado normal es aún más inmediato si conoces [para qué sirve el botón salvavidas 'Portable Grand' en los teclados Yamaha](/solucion-de-problemas-y-configuracion/para-que-sirve-el-boton-portable-grand-en-todos-los-teclados-yamaha-de-61-y-76-teclas/), que limpia de un solo toque cualquier división (*Split*), capa (*Dual*) o efecto activado."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Solución de Problemas en Pianos Digitales y Teclados",
       "headers": [
-        "Guía Especializada de Piano y Teclado",
-        "Acceso Directo"
+        "Síntoma o fallo percibido",
+        "Causa técnica más probable",
+        "Solución práctica inmediata"
       ],
       "rows": [
         [
-          "Diagnóstico Técnico: Por Qué una Sola Tecla de tu Piano Digital Deja de Sonar o Suena de Golpe al Máximo Volumen",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/por-que-una-tecla-de-mi-piano-digital-no-suena-o-suena-siempre-al-maximo-volumen/)"
+          "El piano suena 'desafinado' al tocar junto a una canción o app",
+          "Se activó por error la función Transpose (transposición de semitonos) o Tuning ≠ 440 Hz",
+          "Realiza un Factory Reset al encender o devuelve Transpose a 0 y Master Tuning a 440.0 Hz"
         ],
         [
-          "Primeros Auxilios para una Tecla con Fallo de Velocidad (Y Cómo el Cubrepolvo Previene el 95 % de Estos Casos)",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/como-limpiar-con-aire-comprimido-y-evitar-que-entre-polvo-en-los-sensores-de-las-teclas/)"
+          "Todas las teclas suenan al mismo volumen fuerte sin importar cómo pulses",
+          "La curva de sensibilidad al tacto (Touch Sensitivity) se cambió al modo 'Fixed' u 'Off'",
+          "Ajusta Touch Sensitivity / Key Touch de nuevo al valor 'Medium', 'Normal' o 'Standard' (nivel 2/3)"
         ],
         [
-          "No Es una Avería: Por Qué Tu Piano Digital Yamaha, Roland o Casio Se Apaga Solo tras 15–30 Minutos sin Tocar (Auto Power Off)",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-se-apaga-solo-a-los-15-o-30-minutos-funcion-auto-power-off/)"
+          "No sale sonido por los altavoces pero sí se escucha por los audífonos",
+          "Quedó un adaptador de 1/4\" vacío metido en la toma Phones o se desactivó 'Local Control / Speaker'",
+          "Retira cualquier adaptador jack conectado a la salida Phones o realiza el reinicio de fábrica"
         ],
         [
-          "Cómo Desactivar la Función 'Auto Power Off' en Pianos Yamaha (Tecla La-1 al Encender), Roland y Casio",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/como-desactivar-el-apagado-automatico-auto-power-off-en-yamaha-roland-y-casio/)"
+          "Una sola tecla suena siempre al volumen máximo o deja de sonar a veces",
+          "Motas de polvo acumuladas bajo la cúpula de goma del sensor de doble/triple contacto de esa tecla",
+          "Sopla aire seco comprimido en ángulo suave entre las teclas o limpia los contactos de goma si está fuera de garantía"
         ],
         [
-          "Cómo Hacer Factory Reset (Valores de Fábrica) en un Piano Yamaha en 3 Segundos: Mantener Pulsada la Última Tecla Do8 al Encender",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/como-hacer-un-factory-reset-restablecimiento-de-fabrica-en-pianos-yamaha-p-145-p-45-y-psr-e383/)"
-        ],
-        [
-          "Cómo Restablecer a Valores de Fábrica un Piano Digital Roland FP-10/30X o un Teclado Casio",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/como-hacer-un-factory-reset-en-pianos-roland-fp-10-fp-30x-y-casio-privia-casiotone/)"
-        ],
-        [
-          "¡Tu Piano No Se Desafinó! Cómo Comprobar Si Activaste sin Querer la Función 'Transpose' (+1 o -2 Semitonos)",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-suena-desafinado-respecto-a-una-cancion-funcion-transpose-activada/)"
-        ],
-        [
-          "Cómo Usar la Función 'Transpose' (-6 a +6 Semitonos) para Acompañar a un Cantante sin Cambiar la Posición de Tus Dedos",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/para-que-sirve-la-funcion-transpose-transposicion-en-un-piano-digital-o-teclado/)"
-        ],
-        [
-          "Cuidado al Cambiar de Cargador: Polaridad Centro Positivo (+) en Yamaha/Casio Nuevo vs Centro Negativo (-) en Roland/Casio Antiguo",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/polaridad-del-adaptador-de-corriente-centro-positivo-vs-centro-negativo-en-teclados-y-pianos/)"
-        ],
-        [
-          "Tabla de Adaptadores de Corriente Oficiales por Modelo (9.5V vs 12V vs 16V DC) para No Quemar la Placa de tu Teclado",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/que-voltaje-y-amperaje-usa-el-cargador-de-yamaha-pa-130-pa-150-casio-ad-e95100-y-roland/)"
-        ],
-        [
-          "Qué Revisar Si Tu Piano Digital No Enciende al Pulsar el Botón Power (Y Por Qué en Algunos Debes Mantenerlo 2 Segundos)",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-no-enciende-4-comprobaciones-basicas-de-corriente-y-boton-power/)"
-        ],
-        [
-          "El Piano Enciende pero No Suena por los Altavoces: Revisa Si Quedó un Adaptador de 1/4\" Metido en la Toma de Audífonos",
-          "[Ver guía completa](/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-enciende-las-luces-pero-no-sale-sonido-por-los-altavoces/)"
+          "El teclado se apaga solo al subir el volumen usando pilas recargables AA",
+          "El menú de batería sigue en 'Alkaline (1.5V)' en lugar de 'Ni-MH (1.2V)' y detecta falso agotamiento",
+          "Cambia el parámetro Battery Type del menú de sistema a 'Ni-MH' para adecuar la curva de descarga de 1.2V"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Compatibilidad universal verificada (Pedal Polaridad · Soporte en Z · Audífonos 1/4\" 0 ms)",
-      "text": "Antes de comprar accesorios en Amazon, recuerda las 3 reglas de compatibilidad: 1) Elige un pedal de sustain con interruptor de polaridad en la base (como el M-Audio SP-2) para que nunca suene al revés en Yamaha, Casio, Roland o Alesis; 2) Para 88 teclas usa un soporte en Z Heavy Duty o mueble oficial que deje espacio libre para tus rodillas; 3) Usa siempre audífonos con cable de 32–64 Ω con adaptador de 1/4\" (nunca Bluetooth, cuya latencia retrasa cada nota)."
+      ],
+      "caption": "Guía de diagnóstico inmediato y solución para los 5 problemas más frecuentes en pianos digitales y teclados"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces a Amazon Estados Unidos"
+      "text": "Cómo Hacer un Reinicio de Fábrica (Factory Reset) en Yamaha, Roland y Casio y Configurar Pilas AA"
     },
     {
-      "type": "ol",
+      "type": "p",
+      "text": "Cuando no sabes qué parámetro quedó alterado en la memoria, el **Reinicio de Fábrica (*Factory Reset*)** devuelve el piano digital a su configuración original en **3 segundos**. En casi todos los pianos digitales y teclados **Yamaha** (como el **P-145**, **P-225**, **P-45** o **PSR-E383**), el procedimiento universal consiste en **apagar el instrumento**, mantener presionada la **última tecla blanca del extremo derecho (el Do más agudo, C8 en 88 teclas o C6 en 61 teclas)** y, sin soltarla, presionar el botón de **encendido (Power)** durante dos segundos. En modelos como el **Roland FP-10** o **FP-30X**, se logra encendiendo el piano mientras mantienes pulsado el botón **Function** (o desde un clic dentro de la **Roland Piano App**). Por último, si utilizas un teclado portátil de **Casio** o **Yamaha** sin enchufe, no olvides revisar nuestra guía sobre [cómo configurar el tipo de pilas alcalinas (1.5V) vs recargables Ni-MH (1.2V) en el menú del teclado](/solucion-de-problemas-y-configuracion/configurar-tipo-de-pilas-alcalinas-vs-recargables-ni-mh-en-el-menu-de-pianos-casio-y-yamaha/) para que el indicador de batería no apague el instrumento prematuramente."
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "¿Dejaste de tocar durante media hora para ir a cenar y al volver encontraste tu piano digital totalmente apagado aunque el cable seguía firme en el enchufe? Tranquilo: no es un fallo de la fuente de alimentación. Todos los pianos digitales modernos de Yamaha, Roland y Casio vienen de fábrica con la función ecológica 'Auto Power Off' activada (que apaga el equipo tras 15 o 30 minutos de inactividad). Puedes desactivarla fácilmente si lo prefieres mantendo pulsada la primera tecla blanca izquierda (A0) al encender en Yamaha o desde la app del fabricante.",
+      "title": "Por qué tu piano digital se apaga solo a los 15 o 30 minutos (Función Auto Power Off)"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo de 4 Verificaciones Antes de Pensar que Tu Piano Tiene una Avería"
+    },
+    {
+      "type": "steps",
       "items": [
-        "**Mide primero tu espacio libre en centímetros:** si dispones de `129 a 133 cm` de ancho, puedes instalar un piano de 88 teclas contrapesadas como el [Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/) o el [Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/); si tienes un escritorio de `95 cm`, elige un teclado de 61 teclas con Touch Response como el [Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/) o el [Casio CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/).",
-        "**Completa tu setup desde el primer día:** añadir el [pedal metálico universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/), un [soporte en Z estable](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/) y los [audífonos de estudio Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/) transforma tu experiencia de práctica diaria y nocturna.",
-        "**Consulta las ofertas actualizadas en Amazon:** todas nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guiadepianos-20`)** y permiten cambiar con un clic a **Amazon España (`guiadepianos02-21`)**."
+        {
+          "name": "1. Retirar cualquier adaptador de 1/4\" olvidado en la salida de audífonos (Phones)",
+          "text": "Muchos usuarios sacan el cable de sus auriculares de 3.5 mm pero dejan puesto el adaptador metálico grande de 1/4\" dentro del piano; para el interruptor mecánico de la toma Phones, los audífonos siguen conectados y por eso mantiene mudos los altavoces."
+        },
+        {
+          "name": "2. Ejecutar el reinicio de fábrica (Tecla Do más aguda + Botón Power en Yamaha)",
+          "text": "Apaga el instrumento, mantén pulsada la tecla blanca del extremo derecho mientras lo enciendes y espera un par de segundos: esto restaura afinación a 440 Hz, transposición a cero, sensibilidad al tacto normal y control local activo."
+        },
+        {
+          "name": "3. Despejar objetos pequeños del atril y del escritorio si escuchas una vibración en graves",
+          "text": "Un lápiz, un clip metálico en el cuaderno de partituras, una moneda sobre el escritorio o la rosca floja del soporte entran en resonancia simpática a frecuencias específicas (entre 80 Hz y 150 Hz), simulando un altavoz roto cuando el altavoz está intacto."
+        },
+        {
+          "name": "4. Encender el piano sin apoyar el pie sobre el pedal de sustain",
+          "text": "Si el sonido queda colgado indefinidamente desde la primera nota, apaga el piano, asegúrate de no pisar el pedal (y verifica el switch N.O./N.C. de su base) y vuelve a encenderlo para que calibre el estado de reposo correctamente."
+        }
       ]
     },
     {
       "type": "cta",
-      "text": "¿No sabes qué piano de 88 teclas, teclado de 61 teclas, pedal, soporte o audífonos de este silo elegir? Pregúntale en vivo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para estrenar tu primer piano digital o teclado en casa"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Exige siempre sensibilidad a la velocidad (Touch Response o Acción de Martillo):** nunca compres un teclado cuyas teclas suenen siempre al mismo volumen sin importar la fuerza de tus dedos.",
-        "**No enciendas el teclado mientras pisas el pedal de sustain:** si mantienes el pie sobre el pedal durante el encendido, el piano invertirá la polaridad y sonará al revés.",
-        "**Coloca las teclas blancas a 71–73 cm del suelo y ajusta el banco (45–53 cm):** tus antebrazos deben quedar horizontales y paralelos al piso para tocar sin dolor de muñecas ni espalda.",
-        "**Conecta tu iPad con un cable USB-MIDI (Tipo B a USB-C) y cubre las teclas al terminar:** el cable USB hace que Simply Piano y Flowkey reconozcan cada acorde sin fallos incluso con audífonos puestos, y el cubrepolvo protege los sensores durante décadas."
-      ]
+      "text": "Consulta nuestras guías específicas de solución de problemas y ajustes de menú, apóyate en el Asesor IA del sitio para diagnosticar cualquier comportamiento de tu modelo y revisa repuestos o accesorios compatibles en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Solución de Problemas en Pianos Digitales y Teclados?",
-      "a": "Incluye 55 artículos prácticos y comparativas sobre diagnóstico rápido cuando una tecla no suena o suena al máximo volumen por polvo en el sensor, cómo hacer Factory Reset en Yamaha/Casio/Roland, polaridad del cargador DC y uso de Metrónomo, Transpose, Split y Layer, con tablas de medidas en centímetros, sensación de tecla y compatibilidad de pedales, soportes, bancos y audífonos en Amazon Estados Unidos."
+      "q": "¿Un piano digital puede desafinarse con el tiempo o los cambios de clima?",
+      "a": "Un piano digital utiliza grabaciones digitales en memoria ROM y nunca pierde su afinación mecánica como un piano de cuerdas. Si suena en otro tono al tocar encima de una grabación, es porque alguien activó sin querer la función de Transposición (Transpose) o modificó la frecuencia Master Tuning lejos de 440 Hz. Un reinicio de fábrica lo corrige al instante."
     },
     {
-      "q": "¿Las recomendaciones sirven para quien busca su primer piano digital o teclado?",
-      "a": "Sí, todo el portal está redactado en español claro para principiantes, padres y estudiantes, comparando modelos de 61 y 88 teclas sin tecnicismos confusos."
+      "q": "¿Por qué una sola tecla de mi teclado suena de repente mucho más fuerte que todas las demás?",
+      "a": "Cuando una única tecla pierde la sensibilidad a la velocidad y dispara siempre la nota a máximo volumen (valor MIDI 127), suele deberse a una mota de polvo o pelusa alojada entre los dos contactos de la tira de goma conductora bajo esa tecla. Cubrir siempre el teclado con un cubrepolvos después de tocar previene este problema al 100 %."
     },
     {
-      "q": "¿Puedo preguntar qué pedal, soporte o audífonos sirven para mi modelo exacto?",
-      "a": "Por supuesto: abre el chat del Asesor de Pianos IA en la esquina inferior derecha, indícale tu presupuesto, espacio o modelo y te recomendará los accesorios 100 % compatibles en Amazon."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Pianos & Portable Keyboards Official Specs",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation US – FP-Series Digital Pianos & PHA-4 Action",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Cómo se hace el reinicio de fábrica (Factory Reset) en un piano digital o teclado Yamaha?",
+      "a": "Con el piano o teclado Yamaha completamente apagado, presiona y mantén hundida la última tecla blanca del extremo derecho (el Do más agudo del teclado). Sin soltar esa tecla, pulsa el botón de encendido (Power) durante 2 a 3 segundos hasta que el instrumento termine de arrancar. Todos los ajustes volverán a sus valores originales de fábrica."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/por-que-una-tecla-de-mi-piano-digital-no-suena-o-suena-siempre-al-maximo-volumen/",
-    "/solucion-de-problemas-y-configuracion/como-limpiar-con-aire-comprimido-y-evitar-que-entre-polvo-en-los-sensores-de-las-teclas/",
-    "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-se-apaga-solo-a-los-15-o-30-minutos-funcion-auto-power-off/",
-    "/solucion-de-problemas-y-configuracion/como-desactivar-el-apagado-automatico-auto-power-off-en-yamaha-roland-y-casio/"
+    "/solucion-de-problemas-y-configuracion/por-que-se-escucha-una-vibracion-o-zumbido-en-el-atril-al-tocar-ciertas-notas-graves/",
+    "/solucion-de-problemas-y-configuracion/que-son-los-temperamentos-musicales-equal-werckmeister-kirnberger-en-el-menu-del-piano/",
+    "/solucion-de-problemas-y-configuracion/para-que-sirve-el-boton-portable-grand-en-todos-los-teclados-yamaha-de-61-y-76-teclas/",
+    "/solucion-de-problemas-y-configuracion/configurar-tipo-de-pilas-alcalinas-vs-recargables-ni-mh-en-el-menu-de-pianos-casio-y-yamaha/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/solucion-de-problemas-y-configuracion.webp"
 }

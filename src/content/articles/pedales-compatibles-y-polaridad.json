@@ -3,159 +3,129 @@
   "pillar": "pedales-compatibles-y-polaridad",
   "path": "/pedales-compatibles-y-polaridad/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "pedal de sustain compatible polaridad piano digital",
   "title": "Pedales de Sustain Compatibles, Interruptor de Polaridad (N.O./N.C.) y Medio Pedal",
-  "seoTitle": "Pedales de Sustain Compatibles para Yamaha, Casio, Roland y Alesis: Guía de Polaridad",
-  "metaDescription": "Pedales de Sustain Compatibles, Interruptor de Polaridad (N.O./N.C.) y Medio Pedal: hub completo con 55 guías sobre por qué un pedal de sustain suena al revés cuando no lo pisas, cómo usar el selector de polaridad N.O. vs N.C. (M-Audio SP-2), diferencias entre conector TS y TRS (medio pedal Half-Damper) y unidades de 3 pedales y ofertas en Amazon EE. UU.",
-  "excerpt": "Explora las 55 guías especializadas de este silo sobre por qué un pedal de sustain suena al revés cuando no lo pisas, cómo usar el selector de polaridad N.O. vs N.C. (M-Audio SP-2), diferencias entre conector TS y TRS (medio pedal Half-Damper) y unidades de 3 pedales.",
-  "quickAnswer": "En esta sección principal de Pedales de Sustain Compatibles, Interruptor de Polaridad (N.O./N.C.) y Medio Pedal reunimos 55 guías verificadas sobre por qué un pedal de sustain suena al revés cuando no lo pisas, cómo usar el selector de polaridad N.O. vs N.C. (M-Audio SP-2), diferencias entre conector TS y TRS (medio pedal Half-Damper) y unidades de 3 pedales, diseñadas para ayudarte a elegir entre modelos de 61 y 88 teclas según tu presupuesto, espacio disponible y sensación al tocar, además de pedales, soportes, bancos y audífonos compatibles en Amazon.",
-  "readingMinutes": 8,
+  "seoTitle": "Pedales de Sustain Compatibles, Interruptor de Polaridad (N.O./N.C.) y Medio Pedal | guiadepianos.com",
+  "metaDescription": "Guía de pedales de sustain compatibles para piano digital y teclado: cómo solucionar el pedal invertido con el interruptor de polaridad (N.O./N.C.) y medio…",
+  "excerpt": "Aprende qué pedal de sustain metálico es compatible con tu piano digital o teclado, cómo usar el interruptor de polaridad (N.O./N.C.) si el pedal funciona al revés y cuándo elegir medio pedal (TRS).",
+  "quickAnswer": "El **95 %** de los pianos digitales y teclados portátiles utilizan una entrada **Damper/Sustain de 1/4\" (6.35 mm)**; para garantizar compatibilidad total con **Yamaha, Roland, Casio o Alesis**, elige un pedal metálico con **interruptor físico de polaridad (N.O./N.C.)** que corrige al instante el efecto de pedal invertido, o un modelo **TRS continuo** (como el **Roland DP-10** o **Yamaha FC3A**) si requieres **medio pedal (*Half-Damper*)**.",
+  "readingMinutes": 7,
   "image": {
-    "prompt": "Macro shot of a chrome piano-style universal sustain pedal with a polarity switch on a wooden floor with a 1/4 inch jack cable connected to a digital piano, realistic photography",
-    "alt": "Pedal de sustain metálico estilo piano con interruptor de polaridad y conector de 1/4 de pulgada sobre piso de madera"
+    "prompt": "Diagonal isometric product-in-use composition in modern home setting: realistic scene illustrating 'Pedales de Sustain Compatibles, Interruptor de Polaridad (N.O./N.C.) y Medio Pedal' (pedal de sustain compatible polaridad piano digital) for guiadepianos.com, featuring equipment in sleek titanium silver with carbon-gray texture, in a bright family home interior with clean architectural lines, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Pedales de Sustain Compatibles, Interruptor de Polaridad (N.O./N.C.) y Medio Pedal"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Pedales de Sustain Compatibles, Interruptor de Polaridad (N.O./N.C.) y Medio Pedal** en **GuiaDePianos.com**. Aquí reunimos todas las pruebas táctiles, mediciones en centímetros para apartamentos y criterios de compra sobre **por qué un pedal de sustain suena al revés cuando no lo pisas, cómo usar el selector de polaridad N.O. vs N.C. (M-Audio SP-2), diferencias entre conector TS y TRS (medio pedal Half-Damper) y unidades de 3 pedales**, organizados bajo una arquitectura sin canibalización para que elijas tu primer piano digital o teclado y sus accesorios 100 % compatibles en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si buscas tu primer piano digital de 88 teclas contrapesadas con acción de martillo graduado como el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** o el ultradelgado **[Casio Privia PX-S1100](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)** (23.2 cm de fondo), como si prefieres un teclado portátil de 61 teclas con sensibilidad al tacto para un escritorio como el **[Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** o el **[Casio Casiotone CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/)**, dominar las guías de este silo te asegurará acertar a la primera."
+      "text": "Conectas tu nuevo pedal de sustain metálico a la entrada trasera de **1/4 de pulgada (6.35 mm)** de tu piano digital, enciendes el instrumento y ocurre exactamente lo contrario de lo que debería: cuando no tocas el pedal, todas las notas se quedan sonando infinitamente como en una catedral, y cuando lo pisas con el pie, el sonido se corta en seco. Antes de pensar que el pedal o tu piano han venido defectuosos de fábrica, debes saber que estás ante una simple inversión de polaridad eléctrica (**N.O. vs N.C.**) que se resuelve en un segundo, además de conocer [para qué sirven los 3 pedales de un piano (derecho Sustain, central Sostenuto e izquierdo Una Corda)](/pedales-compatibles-y-polaridad/para-que-sirven-los-3-pedales-del-piano-derecho-central-e-izquierdo/)."
     },
     {
       "type": "h2",
-      "text": "Qué aprenderás en Pedales de Sustain Compatibles, Interruptor de Polaridad (N.O./N.C.) y Medio Pedal"
+      "text": "Qué Es el Interruptor de Polaridad (N.O. / N.C.) y Por Qué Tu Pedal Funciona al Revés"
     },
     {
       "type": "p",
-      "text": "En cada una de las **55 guías especializadas** de esta categoría analizamos los cuatro factores reales que determinan tu comodidad al aprender: el **presupuesto real en dólares**, el **espacio disponible en centímetros y pulgadas** en tu habitación, la **sensación al tocar en tus dedos** (`GHC`, `GHS`, `PHA-4 con escape`, `Smart Scaled`, `RHC` o `Touch Response`) y la **compatibilidad exacta de pedales de sustain (con selector de polaridad `N.O./N.C.`), soportes en Z/X, bancos regulables y audífonos con adaptador de `1/4\"` (`6.35 mm`)**."
+      "text": "Un pedal de sustain estándar tipo interruptor (*on/off*) funciona abriendo o cerrando un circuito eléctrico mediante un conector **TS de 1/4\" (mono)**. El problema histórico es que los fabricantes adoptaron dos convenciones opuestas: marcas como **Yamaha** o **Kawai** suelen trabajar con lógica **Normalmente Cerrada (N.C. — Normally Closed)**, donde el circuito se abre al pisar el pedal, mientras que **Casio**, **Korg** y muchos controladores emplean lógica **Normalmente Abierta (N.O. — Normally Open)**. Por eso, los mejores pedales de sustain universales de lengua metálica cromada en Amazon incorporan en su costado o en su base un pequeño **interruptor físico de polaridad (Polarity Switch: N.O. / N.C. o + / -)**: basta con apagar el piano, deslizar ese selector a la posición contraria y volver a encender el instrumento sin apoyar el pie sobre el pedal durante el arranque."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Pedales de Sustain Compatibles, Interruptor de Polaridad (N.O./N.C.) y Medio Pedal",
       "headers": [
-        "Guía Especializada de Piano y Teclado",
-        "Acceso Directo"
+        "Marca y modelos habituales",
+        "Polaridad estándar (Conector TS 1/4\")",
+        "¿Soporta Medio Pedal (Half-Damper) por TRS?",
+        "Pedales oficiales y compatibilidad con pedalera triple"
       ],
       "rows": [
         [
-          "Para Qué Sirve el Pedal de Sustain (Damper) en un Piano Digital o Teclado y Cómo Transforma tu Sonido",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/para-que-sirve-el-pedal-de-sustain-damper-en-un-piano-digital-o-teclado/)"
+          "Yamaha (P-145, P-225, PSR-E383)",
+          "Normalmente Cerrado (N.C.) + autodetección al encender",
+          "Sí en serie P (con conector TRS como Yamaha FC3A)",
+          "FC5 (básico), FC4A (interruptor), FC3A (medio pedal), LP-1 / LP-5A (3 pedales)"
         ],
         [
-          "Por Qué Tu Pedal de Sustain Suena al Revés (Mantiene el Sonido Cuando NO Lo Pisas y Lo Corta al Pisarlo)",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/por-que-mi-pedal-de-sustain-suena-al-reves-sostiene-cuando-no-lo-piso/)"
+          "Roland (FP-10, FP-30X, FP-60X)",
+          "Normalmente Cerrado (N.C.) / Detección continua TRS",
+          "Sí (incluido o compatible con Roland DP-10 TRS)",
+          "DP-2 (básico incluido), DP-10 (medio pedal con goma), KPD-70 (3 pedales para FP-30X)"
         ],
         [
-          "Qué Es el Interruptor de Polaridad (N.O. Normalmente Abierto vs N.C. Normalmente Cerrado) en Pedales como el M-Audio SP-2",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/que-es-el-interruptor-de-polaridad-no-vs-nc-en-un-pedal-de-sustain-universal/)"
+          "Casio (CDP-S160, PX-S1100, CT-S300)",
+          "Normalmente Abierto (N.O.) en entrada Damper TS",
+          "En modelos Privia mediante puerto dedicado o pedalera SP-34",
+          "SP-3 (básico incluido), SP-20 (metálico), SP-34 (pedalera portátil de 3 pedales)"
         ],
         [
-          "Tabla Oficial de Polaridad de Pedales por Marca: ¿Qué Usan Yamaha, Roland, Casio, Kawai, Korg y Alesis?",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/tabla-de-polaridad-de-pedales-por-marca-yamaha-roland-casio-kawai-korg-y-alesis/)"
-        ],
-        [
-          "El Error de Arranque: Por Qué Si Enciendes el Teclado Pisando el Pedal, Se Invierte la Polaridad Automáticamente",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/por-que-nunca-debes-encender-el-teclado-con-el-pie-pisando-el-pedal-de-sustain/)"
-        ],
-        [
-          "Regla de Conexión: Por Qué Conviene Enchufar el Conector Jack 1/4\" del Pedal Antes de Encender el Piano",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/como-conectar-el-pedal-de-sustain-con-el-piano-apagado-para-evitar-fallos/)"
-        ],
-        [
-          "Conector Jack 1/4\" TS (1 Anillo Negro: On/Off) vs TRS (2 Anillos Negros: Medio Pedal Continuo)",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/diferencia-entre-conector-ts-2-polos-on-off-y-trs-3-polos-medio-pedal/)"
-        ],
-        [
-          "Qué Es el Medio Pedal (Half-Damper) en un Piano Digital y Cómo Saber Si Tu Modelo Lo Soporta",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/que-es-la-funcion-de-medio-pedal-half-damper-o-half-pedaling-y-que-pianos-la-tienen/)"
-        ],
-        [
-          "¿Funciona un Pedal de Medio Pedal (Roland DP-10 o Yamaha FC3A) en un Teclado Básico de 61 Teclas?",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/puedo-usar-un-pedal-con-medio-pedal-trs-en-un-teclado-de-61-teclas-que-solo-acepta-ts/)"
-        ],
-        [
-          "Para Qué Sirven los 3 Pedales de un Piano (Derecho Sustain, Central Sostenuto e Izquierdo Una Corda / Soft)",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/para-que-sirven-los-3-pedales-del-piano-derecho-central-e-izquierdo/)"
-        ],
-        [
-          "¿Necesitas Comprar la Unidad de 3 Pedales el Primer Año o Basta con un Buen Pedal de Sustain?",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/necesita-un-principiante-los-3-pedales-o-basta-con-el-pedal-de-sustain-derecho/)"
-        ],
-        [
-          "Cómo Simula un Piano Digital el Pedal Izquierdo (Una Corda / Soft Pedal) de un Piano de Cola",
-          "[Ver guía completa](/pedales-compatibles-y-polaridad/como-funciona-el-pedal-izquierdo-una-corda-soft-pedal-en-un-piano-digital/)"
+          "Alesis / Donner (Recital Pro, DEP-20)",
+          "Autodetección al encender o selector N.O./N.C.",
+          "Generalmente interruptor On/Off (TS) o pedalera de mueble",
+          "Compatible con cualquier pedal metálico universal con switch de polaridad N.O./N.C."
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Compatibilidad universal verificada (Pedal Polaridad · Soporte en Z · Audífonos 1/4\" 0 ms)",
-      "text": "Antes de comprar accesorios en Amazon, recuerda las 3 reglas de compatibilidad: 1) Elige un pedal de sustain con interruptor de polaridad en la base (como el M-Audio SP-2) para que nunca suene al revés en Yamaha, Casio, Roland o Alesis; 2) Para 88 teclas usa un soporte en Z Heavy Duty o mueble oficial que deje espacio libre para tus rodillas; 3) Usa siempre audífonos con cable de 32–64 Ω con adaptador de 1/4\" (nunca Bluetooth, cuya latencia retrasa cada nota)."
+      ],
+      "caption": "Compatibilidad técnica de pedales de sustain, polaridad y función de medio pedal por marca"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces a Amazon Estados Unidos"
+      "text": "Medio Pedal (Half-Damper), Pedalera Triple y Técnica de Pedal Sincopado"
     },
     {
-      "type": "ol",
+      "type": "p",
+      "text": "A medida que avanzas de nivel, descubres que el pedal derecho de un piano acústico no es un simple botón de encendido y apagado: al pisarlo solo a la mitad de su recorrido, los apagadores de fieltro rozan ligeramente las cuerdas creando una resonancia velada y controlada conocida como **medio pedal (*Half-Damper* o *Continuous Pedal*)**. Para disfrutar de esta función en pianos como el **Yamaha P-145/P-225** o el **Roland FP-10/FP-30X**, necesitas un pedal con conector **TRS de 1/4\"** (con dos anillos negros en la punta metálica, como el **Roland DP-10** o el **Yamaha FC3A**) en lugar de un pedal universal **TS** de un solo anillo. Si además adquieres la pedalera triple del fabricante (como la **Casio SP-34**, la **Yamaha LP-1** o la **Roland KPD-70**), podrás utilizar los tres pedales completos y comprobar [qué hace exactamente el pedal central (Sostenuto) y en qué obras se utiliza](/pedales-compatibles-y-polaridad/como-funciona-el-pedal-central-sostenuto-y-en-que-obras-se-utiliza/). En cuanto a la ejecución musical, dominar el pedal limpio exige aprender [el secreto del pedal sincopado o a contratiempo (por qué se pisa después de tocar la tecla)](/pedales-compatibles-y-polaridad/que-es-el-pedal-sincopado-o-pedal-a-contratiempo-legato-pedaling/) y saber interpretar [qué significan los símbolos 'Ped.', el asterisco '*' y la línea con muescas en las partituras](/pedales-compatibles-y-polaridad/que-significan-los-simbolos-ped-y-el-asterisco-o-linea-quebrada-en-las-partituras/)."
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Muchos pianos digitales modernos verifican el estado eléctrico del conector Damper/Sustain durante el primer segundo en que presionas el botón de encendido (Power). Si enciendes el piano mientras tienes el pie apoyado sobre el pedal (o si conectas el cable jack con el piano ya encendido), el sistema invertirá la lectura y el sustain quedará activado permanentemente. Conecta siempre el pedal con el piano apagado y enciéndelo sin tocar el pedal.",
+      "title": "La regla de oro: nunca pises ni conectes el pedal mientras enciendes el piano"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo Solucionar o Elegir tu Pedal de Sustain en 3 Pasos"
+    },
+    {
+      "type": "steps",
       "items": [
-        "**Mide primero tu espacio libre en centímetros:** si dispones de `129 a 133 cm` de ancho, puedes instalar un piano de 88 teclas contrapesadas como el [Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/) o el [Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/); si tienes un escritorio de `95 cm`, elige un teclado de 61 teclas con Touch Response como el [Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/) o el [Casio CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/).",
-        "**Completa tu setup desde el primer día:** añadir el [pedal metálico universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/), un [soporte en Z estable](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/) y los [audífonos de estudio Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/) transforma tu experiencia de práctica diaria y nocturna.",
-        "**Consulta las ofertas actualizadas en Amazon:** todas nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guiadepianos-20`)** y permiten cambiar con un clic a **Amazon España (`guiadepianos02-21`)**."
+        {
+          "name": "1. Verificar que el pedal universal incluya interruptor físico N.O. / N.C. y base de goma",
+          "text": "Al buscar un pedal metálico de reemplazo en Amazon, confirma en las especificaciones que cuente con selector de polaridad en la carcasa, cable de al menos 1.5 a 1.8 metros con plug de 1/4\" (6.35 mm) y peso superior a 350–400 gramos para que no se desplace por el suelo."
+        },
+        {
+          "name": "2. Ajustar la polaridad con el piano apagado si el efecto está invertido",
+          "text": "Si las notas se sostienen solas sin pisar el pedal, apaga el piano digital, cambia la posición del interruptor lateral del pedal (de N.O. a N.C. o viceversa) y vuelve a encender el piano sin apoyar el pie en la lengüeta metálica."
+        },
+        {
+          "name": "3. Elegir pedal continuo (TRS) si tu piano soporta función Half-Damper",
+          "text": "Si tienes un Roland FP-10/FP-30X o un Yamaha serie P y estudias obras clásicas donde necesitas graduar la cantidad de resonancia (medio pedal), elige el pedal específico con potenciómetro continuo TRS (como el Roland DP-10 o Yamaha FC3A)."
+        }
       ]
     },
     {
       "type": "cta",
-      "text": "¿No sabes qué piano de 88 teclas, teclado de 61 teclas, pedal, soporte o audífonos de este silo elegir? Pregúntale en vivo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para estrenar tu primer piano digital o teclado en casa"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Exige siempre sensibilidad a la velocidad (Touch Response o Acción de Martillo):** nunca compres un teclado cuyas teclas suenen siempre al mismo volumen sin importar la fuerza de tus dedos.",
-        "**No enciendas el teclado mientras pisas el pedal de sustain:** si mantienes el pie sobre el pedal durante el encendido, el piano invertirá la polaridad y sonará al revés.",
-        "**Coloca las teclas blancas a 71–73 cm del suelo y ajusta el banco (45–53 cm):** tus antebrazos deben quedar horizontales y paralelos al piso para tocar sin dolor de muñecas ni espalda.",
-        "**Conecta tu iPad con un cable USB-MIDI (Tipo B a USB-C) y cubre las teclas al terminar:** el cable USB hace que Simply Piano y Flowkey reconozcan cada acorde sin fallos incluso con audífonos puestos, y el cubrepolvo protege los sensores durante décadas."
-      ]
+      "text": "Explora nuestras guías sobre técnica de pedal y compatibilidad por marca, consulta al Asesor IA para verificar qué pedal o pedalera triple corresponde a tu modelo exacto y revisa la disponibilidad en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Pedales de Sustain Compatibles, Interruptor de Polaridad (N.O./N.C.) y Medio Pedal?",
-      "a": "Incluye 55 artículos prácticos y comparativas sobre por qué un pedal de sustain suena al revés cuando no lo pisas, cómo usar el selector de polaridad N.O. vs N.C. (M-Audio SP-2), diferencias entre conector TS y TRS (medio pedal Half-Damper) y unidades de 3 pedales, con tablas de medidas en centímetros, sensación de tecla y compatibilidad de pedales, soportes, bancos y audífonos en Amazon Estados Unidos."
+      "q": "¿Un pedal de sustain universal con interruptor de polaridad sirve para cualquier marca de teclado?",
+      "a": "Sí. Cualquier pedal de sustain metálico que incorpore un interruptor de cambio de polaridad (N.O./N.C.) y conector jack estándar de 1/4 de pulgada (6.35 mm) funcionará correctamente como pedal de sustain (encendido/apagado) tanto en pianos digitales de 88 teclas como en teclados de 61 teclas de Yamaha, Casio, Roland, Korg, Alesis o Donner."
     },
     {
-      "q": "¿Las recomendaciones sirven para quien busca su primer piano digital o teclado?",
-      "a": "Sí, todo el portal está redactado en español claro para principiantes, padres y estudiantes, comparando modelos de 61 y 88 teclas sin tecnicismos confusos."
+      "q": "¿Por qué mi piano digital sostiene las notas cuando suelto el pedal y las corta cuando lo piso?",
+      "a": "Ocurre por una de dos razones: o el interruptor de polaridad de la base del pedal está en la posición opuesta a la que requiere tu marca de teclado, o encendiste el piano mientras mantenías pisado el pedal (o lo enchufaste con el teclado ya encendido). Apaga el teclado, cambia el switch de polaridad y enciéndelo sin tocar el pedal."
     },
     {
-      "q": "¿Puedo preguntar qué pedal, soporte o audífonos sirven para mi modelo exacto?",
-      "a": "Por supuesto: abre el chat del Asesor de Pianos IA en la esquina inferior derecha, indícale tu presupuesto, espacio o modelo y te recomendará los accesorios 100 % compatibles en Amazon."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Pianos & Portable Keyboards Official Specs",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation US – FP-Series Digital Pianos & PHA-4 Action",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué diferencia hay entre un pedal de sustain normal y uno con función de medio pedal (Half-Damper)?",
+      "a": "Un pedal estándar de interruptor (conector TS de un solo anillo) solo detecta dos estados: suelto (0 %) o pisado a fondo (100 %). Un pedal con medio pedal o Half-Damper (conector TRS de dos anillos, como el Roland DP-10 o Yamaha FC3A) envía valores intermedios según cuánto bajes el pie, permitiendo limpiar la resonancia sin apagar el acorde por completo."
     }
   ],
   "related": [
-    "/pedales-compatibles-y-polaridad/para-que-sirve-el-pedal-de-sustain-damper-en-un-piano-digital-o-teclado/",
-    "/pedales-compatibles-y-polaridad/por-que-mi-pedal-de-sustain-suena-al-reves-sostiene-cuando-no-lo-piso/",
-    "/pedales-compatibles-y-polaridad/que-es-el-interruptor-de-polaridad-no-vs-nc-en-un-pedal-de-sustain-universal/",
-    "/pedales-compatibles-y-polaridad/tabla-de-polaridad-de-pedales-por-marca-yamaha-roland-casio-kawai-korg-y-alesis/"
+    "/pedales-compatibles-y-polaridad/para-que-sirven-los-3-pedales-del-piano-derecho-central-e-izquierdo/",
+    "/pedales-compatibles-y-polaridad/como-funciona-el-pedal-central-sostenuto-y-en-que-obras-se-utiliza/",
+    "/pedales-compatibles-y-polaridad/que-es-el-pedal-sincopado-o-pedal-a-contratiempo-legato-pedaling/",
+    "/pedales-compatibles-y-polaridad/que-significan-los-simbolos-ped-y-el-asterisco-o-linea-quebrada-en-las-partituras/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/pedales-compatibles-y-polaridad.webp"
 }

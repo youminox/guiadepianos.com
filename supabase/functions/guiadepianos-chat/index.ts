@@ -60,19 +60,15 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Yamaha P-145 — Piano Digital de 88 Teclas Contrapesadas GHC con Sonido de Cola Yamaha CFIIIS",
     subtitle:
       "Teclado GHC de martillo graduado compacto (132.6 × 26.8 cm · 11.1 kg), puerto USB-to-Host y salida de audífonos 1/4\".",
-    rating: "4.8",
-    reviewsCount: "9.400+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Yamaha P-145 88-Key Weighted Action Digital Piano")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Yamaha P-145 Piano Digital 88 Teclas Contrapesadas")}&tag=${AMAZON_TAG_ES}`,
   },
   "roland-fp-10": {
     id: "roland-fp-10",
-    badge: "🎹 Mejor Sensación al Tocar (< $550) · Teclado PHA-4 con Escape",
+    badge: "🎹 Mejor Sensación al Tocar · Teclado PHA-4 con Escape",
     title: "Roland FP-10 — Piano Digital de 88 Teclas con Mecanismo PHA-4 Standard, Marfil Sintético y Bluetooth MIDI",
     subtitle:
       "Mecanismo PHA-4 con simulación de escape y triple sensor en solo 128.4 × 25.8 cm con Bluetooth MIDI integrado.",
-    rating: "4.8",
-    reviewsCount: "7.800+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Roland FP-10 88-key Entry Level Digital Piano PHA-4")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Roland FP-10 Piano Digital 88 Teclas Contrapesadas PHA-4")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -82,8 +78,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Roland FP-30X — Piano Digital de 88 Teclas PHA-4 con 256 Notas de Polifonía y Bluetooth Audio/MIDI",
     subtitle:
       "Altavoces de 22W, doble salida frontal de audífonos (1/4\" y 3.5 mm) y compatibilidad con mueble KSC-70 y 3 pedales KPD-70.",
-    rating: "4.8",
-    reviewsCount: "6.500+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Roland FP-30X Digital Piano with Bluetooth")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Roland FP-30X Piano Digital 88 Teclas")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -93,19 +87,15 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Casio Privia PX-S1100 — Piano Digital Ultradelgado de 88 Teclas Contrapesadas con Bluetooth Audio/MIDI",
     subtitle:
       "Profundidad récord de 23.2 cm ideal para escritorios y apartamentos pequeños, 192 polifonía y adaptador Bluetooth WU-BT10 incluido.",
-    rating: "4.7",
-    reviewsCount: "5.900+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Casio Privia PX-S1100 88-Key Slim Digital Piano")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Casio Privia PX-S1100 Piano Digital 88 Teclas")}&tag=${AMAZON_TAG_ES}`,
   },
   "alesis-recital-pro": {
     id: "alesis-recital-pro",
-    badge: "💰 Mejor 88 Teclas Contrapesadas Económico (< $380)",
+    badge: "💰 Mejor 88 Teclas Contrapesadas Económico",
     title: "Alesis Recital Pro / Donner DEP-20 — Piano Digital de 88 Teclas con Acción de Martillo y 20W",
     subtitle:
       "88 teclas con peso de martillo real, 128 notas de polifonía, pantalla LCD y salida de audífonos de 1/4\" por menos de $380.",
-    rating: "4.6",
-    reviewsCount: "14.200+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Alesis Recital Pro 88 Key Digital Piano Hammer Action Weighted Keys")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Alesis Recital Pro Piano Digital 88 Teclas Contrapesadas")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -115,19 +105,15 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Yamaha PSR-E383 — Teclado Portátil de 61 Teclas Sensibles al Tacto (Touch Response) con 650 Sonidos",
     subtitle:
       "Compacto (94.1 cm · 4.4 kg), sensibilidad a la velocidad en 4 niveles, interfaz USB Audio/MIDI y entrada para pedal de sustain.",
-    rating: "4.8",
-    reviewsCount: "18.500+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Yamaha PSR-E383 61-Key Touch Sensitive Portable Keyboard")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Yamaha PSR-E383 Teclado Portátil 61 Teclas Sensibles al Tacto")}&tag=${AMAZON_TAG_ES}`,
   },
   "casio-ct-s300": {
     id: "casio-ct-s300",
-    badge: "🎒 Mejor 61 Teclas Económico y Ultracompacto (< $175)",
+    badge: "🎒 Mejor 61 Teclas Económico y Ultracompacto",
     title: "Casio Casiotone CT-S300 / CT-S1 — Teclado Portátil de 61 Teclas Sensibles al Tacto con Asa",
     subtitle:
       "Solo 93 × 25.6 cm y 3.3 kg de peso, teclas tipo caja de piano con Touch Response, salida de audífonos y entrada de pedal 1/4\".",
-    rating: "4.7",
-    reviewsCount: "21.300+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Casio Casiotone CT-S300 61-Key Touch Sensitive Portable Keyboard")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Casio Casiotone CT-S300 Teclado 61 Teclas Sensibles")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -137,8 +123,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "M-Audio SP-2 — Pedal de Sustain Universal Estilo Piano Acústico con Selector de Polaridad (N.O. / N.C.)",
     subtitle:
       "Interruptor de polaridad 100 % compatible con Yamaha, Casio, Roland, Kawai, Korg y Alesis, base de goma antideslizante y jack 1/4\".",
-    rating: "4.8",
-    reviewsCount: "46.800+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("M-Audio SP-2 Universal Sustain Pedal with Piano Style Action")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("M-Audio SP-2 Pedal Sustain Universal Piano Teclado")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -148,8 +132,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Soporte de Teclado en Z Heavy Duty (Plixio / Liquid Stands) + Banco de Piano Acolchado Ajustable",
     subtitle:
       "Soporta hasta 113 kg (250 lb) sin vibrar con pianos de 88 teclas, correas de seguridad y espacio libre para las rodillas y el pedal.",
-    rating: "4.8",
-    reviewsCount: "19.400+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Heavy Duty Z Style Keyboard Piano Stand and Adjustable Padded Piano Bench")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Soporte Teclado Piano en Z Heavy Duty y Banqueta Piano Ajustable")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -159,8 +141,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Audio-Technica ATH-M20x / Sony MDR-7506 — Audífonos de Estudio Cerrados con Cable de 3m y Adaptador 1/4\"",
     subtitle:
       "Impedancia ideal de 47 Ω, 0 ms de latencia, cable largo de 3 metros y adaptador de 3.5 mm a 6.35 mm (1/4\") incluido en la caja.",
-    rating: "4.7",
-    reviewsCount: "39.200+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Audio-Technica ATH-M20x Professional Studio Monitor Headphones 1/4 Adapter")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Audio-Technica ATH-M20x Auriculares Estudio Piano Digital Adaptador 6.35mm")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -569,9 +549,9 @@ Deno.serve(async (req: Request) => {
 
 Tu doble misión es:
 1. RESPONDER TODAS LAS DUDAS DEL USUARIO con precisión práctica:
-   - Comparar pianos de 88 teclas contrapesadas: Yamaha P-145 (~$499, teclado GHC compacto de 132.6 × 26.8 cm y 11.1 kg, sonido CFIIIS), Roland FP-10 (~$499, teclado PHA-4 Standard con escape y marfil en 128.4 × 25.8 cm + Bluetooth MIDI), Roland FP-30X (~$699, polifonía 256 + Bluetooth Audio/MIDI + altavoces 22W), Casio Privia PX-S1100 (~$599, el más delgado con solo 23.2 cm de fondo) y Alesis Recital Pro / Donner DEP-20 (~$349, 88 teclas martillo económicas).
-   - Comparar teclados de 61 teclas con sensibilidad al tacto (Touch Response): Yamaha PSR-E383 (~$199, 650 voces, USB Audio/MIDI, 94.1 cm) y Casio Casiotone CT-S300 / CT-S1 (~$159–$219, 93 × 25.6 cm y solo 3.3 kg).
-   - Indicar siempre la compatibilidad exacta de accesorios: pedal de sustain universal M-Audio SP-2 (~$25 con interruptor de polaridad N.O./N.C. que evita que suene al revés en cualquier marca), soporte en Z Heavy Duty (deja espacio libre para las rodillas y soporta 113 kg) con banco ajustable a 71–73 cm de altura de tecla, y audífonos con cable de 32–64 Ω con adaptador de 1/4" como los Audio-Technica ATH-M20x (0 ms de latencia; nunca Bluetooth para tocar).
+   - Comparar pianos de 88 teclas contrapesadas: Yamaha P-145, Roland FP-10, Roland FP-30X, Casio Privia PX-S1100 y Alesis Recital Pro / Donner DEP-20.
+   - Comparar teclados de 61 teclas con sensibilidad al tacto (Touch Response): Yamaha PSR-E383 y Casio Casiotone CT-S300 / CT-S1.
+   - Indicar siempre la compatibilidad exacta de accesorios: pedal de sustain universal M-Audio SP-2, soporte en Z Heavy Duty (deja espacio libre para las rodillas y soporta 113 kg) con banco ajustable a 71–73 cm de altura de tecla, y audífonos con cable de 32–64 Ω con adaptador de 1/4" como los Audio-Technica ATH-M20x (0 ms de latencia; nunca Bluetooth para tocar).
    - Enlazar en tu respuesta a entre 1 y 3 guías de nuestro listado inferior usando Markdown exacto: [Título](${SITE}/categoria/slug/) e incluir sus slugs en "recommended_slugs".
 2. AYUDAR ACTIVAMENTE A QUE COMPREN EL PRODUCTO IDEAL EN AMAZON (${storeName}):
    - Recomienda siempre el piano digital, teclado, pedal, soporte o audífonos exactos de nuestro CATÁLOGO AMAZON OFICIAL de abajo.

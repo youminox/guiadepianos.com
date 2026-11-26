@@ -3,159 +3,121 @@
   "pillar": "primer-piano-o-teclado",
   "path": "/primer-piano-o-teclado/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "cómo elegir tu primer piano digital o teclado",
   "title": "Tu Primer Piano Digital o Teclado: Guía Paso a Paso para Principiantes desde Cero",
-  "seoTitle": "Cómo Elegir tu Primer Piano Digital o Teclado (61 vs 88 Teclas): Guía Completa",
-  "metaDescription": "Tu Primer Piano Digital o Teclado: Guía Paso a Paso para Principiantes desde Cero: hub completo con 60 guías sobre cómo elegir entre un teclado de 61 teclas y un piano digital de 88 teclas según tu presupuesto y espacio, qué significa la polifonía de 64 a 256 notas, guía para niños y adultos y qué accesorios necesitas el primer día y ofertas en Amazon EE. UU.",
-  "excerpt": "Explora las 60 guías especializadas de este silo sobre cómo elegir entre un teclado de 61 teclas y un piano digital de 88 teclas según tu presupuesto y espacio, qué significa la polifonía de 64 a 256 notas, guía para niños y adultos y qué accesorios necesitas el primer día.",
-  "quickAnswer": "En esta sección principal de Tu Primer Piano Digital o Teclado reunimos 60 guías verificadas sobre cómo elegir entre un teclado de 61 teclas y un piano digital de 88 teclas según tu presupuesto y espacio, qué significa la polifonía de 64 a 256 notas, guía para niños y adultos y qué accesorios necesitas el primer día, diseñadas para ayudarte a elegir entre modelos de 61 y 88 teclas según tu presupuesto, espacio disponible y sensación al tocar, además de pedales, soportes, bancos y audífonos compatibles en Amazon.",
+  "seoTitle": "Tu Primer Piano Digital o Teclado: Guía Paso a Paso para Principiantes desde Cero | guiadepianos.com",
+  "metaDescription": "Cómo elegir tu primer piano digital o teclado desde cero: diferencia entre 88 teclas contrapesadas y 61 teclas sensibles, polifonía, motores de sonido y…",
+  "excerpt": "Guía práctica desde cero para elegir tu primer piano digital o teclado sin equivocarte: cuándo elegir 88 teclas contrapesadas o 61 teclas sensibles al tacto, polifonía mínima, voltaje y accesorios.",
+  "quickAnswer": "Para acertar con tu primer instrumento, define primero tu objetivo: si buscas técnica de piano real a dos manos, elige **88 teclas contrapesadas con acción de martillo graduado** (como el **Yamaha P-145** o **Roland FP-10**) y al menos **64 a 128 notas de polifonía**; si priorizas portabilidad extrema (**3.3 a 4.4 kg**) y aprendizaje general, opta por **61 teclas con sensibilidad a la velocidad** como el **Yamaha PSR-E383**.",
   "readingMinutes": 8,
   "image": {
-    "prompt": "Close-up of beginner hands playing a C major chord on realistic matte black and ivory-textured digital piano keys in a warm sunlit home room, realistic lifestyle photography",
-    "alt": "Manos tocando un acorde en las teclas de un primer piano digital para principiantes en casa"
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Tu Primer Piano Digital o Teclado: Guía Paso a Paso para Principiantes desde Cero' (cómo elegir tu primer piano digital o teclado) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, on a light terrazzo surface in a contemporary living space, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Tu Primer Piano Digital o Teclado: Guía Paso a Paso para Principiantes desde Cero"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Tu Primer Piano Digital o Teclado: Guía Paso a Paso para Principiantes desde Cero** en **GuiaDePianos.com**. Aquí reunimos todas las pruebas táctiles, mediciones en centímetros para apartamentos y criterios de compra sobre **cómo elegir entre un teclado de 61 teclas y un piano digital de 88 teclas según tu presupuesto y espacio, qué significa la polifonía de 64 a 256 notas, guía para niños y adultos y qué accesorios necesitas el primer día**, organizados bajo una arquitectura sin canibalización para que elijas tu primer piano digital o teclado y sus accesorios 100 % compatibles en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si buscas tu primer piano digital de 88 teclas contrapesadas con acción de martillo graduado como el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** o el ultradelgado **[Casio Privia PX-S1100](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)** (23.2 cm de fondo), como si prefieres un teclado portátil de 61 teclas con sensibilidad al tacto para un escritorio como el **[Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** o el **[Casio Casiotone CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/)**, dominar las guías de este silo te asegurará acertar a la primera."
+      "text": "Frente a la pantalla de compra de tu primer instrumento musical, la confusión suele empezar con tres términos que parecen similares pero definen mundos opuestos: **teclas sin sensibilidad**, **teclas sensibles al tacto** y **teclas contrapesadas con acción de martillo**. Acertar a la primera no consiste en elegir el modelo con más botones o luces en el panel, sino en alinear la mecánica del teclado con tu meta real, entendiendo antes [cuánto invertir en tu primer piano digital o teclado en EE. UU. sin comprar un juguete](/primer-piano-o-teclado/cuanto-cuesta-un-buen-primer-piano-digital-o-teclado-en-estados-unidos/) para que tu aprendizaje sea fluido desde la primera semana."
     },
     {
       "type": "h2",
-      "text": "Qué aprenderás en Tu Primer Piano Digital o Teclado"
+      "text": "Paso 1: Cómo Decidir entre 88 Teclas Contrapesadas y 61 Teclas Sensibles al Tacto"
     },
     {
       "type": "p",
-      "text": "En cada una de las **60 guías especializadas** de esta categoría analizamos los cuatro factores reales que determinan tu comodidad al aprender: el **presupuesto real en dólares**, el **espacio disponible en centímetros y pulgadas** en tu habitación, la **sensación al tocar en tus dedos** (`GHC`, `GHS`, `PHA-4 con escape`, `Smart Scaled`, `RHC` o `Touch Response`) y la **compatibilidad exacta de pedales de sustain (con selector de polaridad `N.O./N.C.`), soportes en Z/X, bancos regulables y audífonos con adaptador de `1/4\"` (`6.35 mm`)**."
+      "text": "La primera bifurcación del camino es clara. Si tu ilusión es tocar piezas de piano a dos manos (bandas sonoras, pop-rock a piano solo, jazz o repertorio clásico) y desarrollar fuerza e independencia en los dedos para poder tocar en cualquier piano acústico de verdad, necesitas **88 teclas contrapesadas con acción de martillo graduado** (como el **Yamaha P-145**, **Roland FP-10**, **Casio Privia PX-S1100** o **Donner DEP-20**). En cambio, si buscas un instrumento ultraligero de **3.3 kg a 4.4 kg** para un niño pequeño, para aprender teoría musical y acordes sobre el escritorio, o para explorar cientos de sonidos de cuerdas, órganos y sintetizadores con ritmos de acompañamiento, un teclado de **61 teclas con sensibilidad a la velocidad** (como el **Yamaha PSR-E383**) es la puerta de entrada ideal. Lo único innegociable en ambos casos es que las teclas respondan a la fuerza de tus dedos: si pulsas suave debe sonar *pianissimo*, y si atacas con firmeza debe sonar *fortissimo*."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Tu Primer Piano Digital o Teclado",
       "headers": [
-        "Guía Especializada de Piano y Teclado",
-        "Acceso Directo"
+        "Factor de decisión",
+        "Piano Digital de 88 Teclas Contrapesadas",
+        "Teclado Portátil de 61 Teclas Sensibles al Tacto"
       ],
       "rows": [
         [
-          "Cómo Elegir tu Primer Piano Digital o Teclado Según tu Presupuesto Real en Dólares",
-          "[Ver guía completa](/primer-piano-o-teclado/como-elegir-tu-primer-piano-digital-o-teclado-segun-tu-presupuesto/)"
+          "Sensación física bajo los dedos",
+          "Peso real de martillo graduado (más firme en graves, más ágil en agudos)",
+          "Pulsación ligera por resorte con detección de velocidad (suave/fuerte)"
         ],
         [
-          "Diferencia entre Piano Digital y Teclado Musical (Arranger): Guía Clara para Quien Empieza",
-          "[Ver guía completa](/primer-piano-o-teclado/diferencia-entre-piano-digital-y-teclado-musical-explicada-desde-cero/)"
+          "Rango de octavas disponible",
+          "7 octavas y 1/4 completas (registro íntegro de un piano de cola)",
+          "5 octavas (suficiente para el 85 % del pop, métodos iniciales y acordes)"
         ],
         [
-          "¿Cuántas Teclas Necesita un Principiante para Aprender Piano? 61 vs 76 vs 88 Teclas",
-          "[Ver guía completa](/primer-piano-o-teclado/cuantas-teclas-necesita-un-principiante-61-76-u-88-teclas/)"
+          "Peso y movilidad en casa",
+          "10.5 kg a 14.8 kg (pensado para quedar montado en soporte o escritorio firme)",
+          "3.3 kg a 4.5 kg (se guarda en el clóset o bajo la cama en 30 segundos)"
         ],
         [
-          "Qué Canciones Puedes Tocar en un Teclado de 61 Teclas (y Cuándo Necesitarás las 88 Teclas)",
-          "[Ver guía completa](/primer-piano-o-teclado/que-canciones-se-pueden-tocar-en-un-teclado-de-61-teclas-y-cuales-no/)"
+          "Polifonía mínima recomendada",
+          "64 a 128 notas (ideal 192–256 para uso intensivo del pedal de sustain)",
+          "48 a 64 notas (adecuado para estudio melódico y acompañamientos básicos)"
         ],
         [
-          "Por Qué Evitar los Teclados de 37 o 49 Miniteclas si Quieres Aprender a Tocar con Ambas Manos",
-          "[Ver guía completa](/primer-piano-o-teclado/por-que-no-comprar-teclados-de-49-o-37-miniteclas-para-aprender-piano/)"
-        ],
-        [
-          "Qué Es la Polifonía en un Piano Digital (64 vs 128 vs 192 vs 256 Notas) y Por Qué Importa con el Pedal",
-          "[Ver guía completa](/primer-piano-o-teclado/que-es-la-polifonia-en-un-piano-digital-64-128-192-o-256-notas/)"
-        ],
-        [
-          "¿Por Qué un Piano de 88 Teclas Puede Necesitar 192 o 256 Notas de Polifonía?",
-          "[Ver guía completa](/primer-piano-o-teclado/por-que-un-piano-de-88-teclas-necesita-mas-de-88-notas-de-polifonia/)"
-        ],
-        [
-          "Guía por Edades para Niños (4 a 14 Años): ¿Cuándo Empezar con 61 Teclas y Cuándo con 88 Contrapesadas?",
-          "[Ver guía completa](/primer-piano-o-teclado/edad-ideal-para-empezar-con-teclado-de-61-teclas-o-piano-de-88-teclas-en-ninos/)"
-        ],
-        [
-          "Aprender Piano de Adulto desde Cero en Casa: Qué Piano Digital Elegir para No Abandonar",
-          "[Ver guía completa](/primer-piano-o-teclado/aprender-piano-de-adulto-desde-cero-que-instrumento-comprar-en-casa/)"
-        ],
-        [
-          "Cuánto Invertir en tu Primer Piano Digital o Teclado en EE. UU. sin Gastar de Más ni Comprar un Juguete",
-          "[Ver guía completa](/primer-piano-o-teclado/cuanto-cuesta-un-buen-primer-piano-digital-o-teclado-en-estados-unidos/)"
-        ],
-        [
-          "La Regla del 80/20 al Comprar tu Primer Piano: Cuánto Reservar para Pedal, Soporte, Banco y Audífonos",
-          "[Ver guía completa](/primer-piano-o-teclado/que-presupuesto-reservar-para-los-accesorios-pedal-soporte-banco-y-audifonos/)"
-        ],
-        [
-          "Qué Viene Incluido en la Caja de un Piano Digital Portátil Nuevo (Yamaha, Roland, Casio) y Qué No Trae",
-          "[Ver guía completa](/primer-piano-o-teclado/que-viene-en-la-caja-de-un-piano-digital-nuevo-y-que-falta-comprar/)"
+          "Modelos de referencia seguros",
+          "Yamaha P-145, Roland FP-10, Roland FP-30X, Casio PX-S1100, Donner DEP-20",
+          "Yamaha PSR-E383, Casio Casiotone CT-S300"
         ]
-      ]
+      ],
+      "caption": "Guía rápida para elegir tu formato de iniciación según objetivo, espacio y edad"
+    },
+    {
+      "type": "h2",
+      "text": "Paso 2: Polifonía, Motor de Sonido y Compatibilidad Eléctrica (100V–240V)"
+    },
+    {
+      "type": "p",
+      "text": "Una vez elegido el número y tipo de teclas, conviene fijarse en el cerebro acústico del instrumento. Muchos principiantes se preguntan por qué un piano de **88 teclas** anuncia **128, 192 o 256 notas de polifonía**; como explicamos al detalle en nuestra guía sobre [por qué un piano de 88 teclas puede necesitar 192 o 256 notas de polifonía](/primer-piano-o-teclado/por-que-un-piano-de-88-teclas-necesita-mas-de-88-notas-de-polifonia/), cada vez que mantienes pisado el pedal de sustain en muestras estéreo o combinas piano con cuerdas, el procesador suma decenas de voces simultáneas que no deben apagarse de golpe. Asimismo, el timbre cambia según la tecnología de grabación empleada —puedes comparar las diferencias en nuestro artículo sobre [motores de muestreo Yamaha CFX, Roland SuperNATURAL y Casio AiX](/primer-piano-o-teclado/que-es-el-muestreo-de-sonido-cfx-supernatural-y-aix-en-pianos-digitales/)—. Y si compras tu piano en Amazon Estados Unidos para enviarlo o viajar a Latinoamérica o Europa, revisa siempre nuestra guía sobre [voltaje multivoltaje 100V–240V en pianos digitales comprados en Amazon EE. UU.](/primer-piano-o-teclado/como-saber-si-un-piano-digital-de-amazon-usa-110v-funciona-en-220v/) para confirmar en la etiqueta del adaptador AC si soporta **100V–240V ~ 50/60Hz** directamente."
     },
     {
       "type": "callout",
       "variant": "etiqueta",
-      "title": "Compatibilidad universal verificada (Pedal Polaridad · Soporte en Z · Audífonos 1/4\" 0 ms)",
-      "text": "Antes de comprar accesorios en Amazon, recuerda las 3 reglas de compatibilidad: 1) Elige un pedal de sustain con interruptor de polaridad en la base (como el M-Audio SP-2) para que nunca suene al revés en Yamaha, Casio, Roland o Alesis; 2) Para 88 teclas usa un soporte en Z Heavy Duty o mueble oficial que deje espacio libre para tus rodillas; 3) Usa siempre audífonos con cable de 32–64 Ω con adaptador de 1/4\" (nunca Bluetooth, cuya latencia retrasa cada nota)."
+      "text": "Antes de enchufar un piano digital importado de Estados Unidos en una red de 220V (como en Perú, Chile, Argentina o España), lee la etiqueta impresa en la fuente de alimentación externa (transformador). Los adaptadores originales modernos de Yamaha (como el PA-150B o PA-130B), Roland (PSB-1U / PSB-5U) y Casio (AD-A12150LW) suelen ser multivoltaje universal (Input: 100-240V, 50/60Hz) y solo requieren un adaptador físico de clavija plana a redonda, pero confirmarlo visualmente toma 5 segundos y evita quemar la fuente.",
+      "title": "Verificación obligatoria en la etiqueta del adaptador de corriente AC"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces a Amazon Estados Unidos"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Mide primero tu espacio libre en centímetros:** si dispones de `129 a 133 cm` de ancho, puedes instalar un piano de 88 teclas contrapesadas como el [Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/) o el [Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/); si tienes un escritorio de `95 cm`, elige un teclado de 61 teclas con Touch Response como el [Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/) o el [Casio CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/).",
-        "**Completa tu setup desde el primer día:** añadir el [pedal metálico universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/), un [soporte en Z estable](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/) y los [audífonos de estudio Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/) transforma tu experiencia de práctica diaria y nocturna.",
-        "**Consulta las ofertas actualizadas en Amazon:** todas nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guiadepianos-20`)** y permiten cambiar con un clic a **Amazon España (`guiadepianos02-21`)**."
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿No sabes qué piano de 88 teclas, teclado de 61 teclas, pedal, soporte o audífonos de este silo elegir? Pregúntale en vivo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para estrenar tu primer piano digital o teclado en casa"
+      "text": "Los 4 Errores que Debes Evitar al Comprar tu Primer Instrumento"
     },
     {
       "type": "ul",
       "items": [
-        "**Exige siempre sensibilidad a la velocidad (Touch Response o Acción de Martillo):** nunca compres un teclado cuyas teclas suenen siempre al mismo volumen sin importar la fuerza de tus dedos.",
-        "**No enciendas el teclado mientras pisas el pedal de sustain:** si mantienes el pie sobre el pedal durante el encendido, el piano invertirá la polaridad y sonará al revés.",
-        "**Coloca las teclas blancas a 71–73 cm del suelo y ajusta el banco (45–53 cm):** tus antebrazos deben quedar horizontales y paralelos al piso para tocar sin dolor de muñecas ni espalda.",
-        "**Conecta tu iPad con un cable USB-MIDI (Tipo B a USB-C) y cubre las teclas al terminar:** el cable USB hace que Simply Piano y Flowkey reconozcan cada acorde sin fallos incluso con audífonos puestos, y el cubrepolvo protege los sensores durante décadas."
+        "**Comprar un teclado sin sensibilidad a la velocidad (*Touch Response*):** si las teclas suenan siempre al mismo volumen sin importar qué tan suave o fuerte las toques, no podrás aprender expresión musical básica.",
+        "**Olvidar medir la altura de tu mesa si no compras soporte:** un escritorio de trabajo mide **73 a 75 cm** de alto; al sumarle los **10 a 15 cm** de grosor del piano, las teclas quedarán a **85–90 cm** del suelo (demasiado altas a menos que uses un banco o silla alta regulable).",
+        "**Intentar tocar con audífonos Bluetooth inalámbricos:** el protocolo de audio Bluetooth añade un retraso (**latencia de 150 a 250 ms**) entre el instante en que bajas la tecla y el momento en que escuchas la nota, lo que hace imposible mantener el ritmo. Usa siempre audífonos con cable.",
+        "**Conformarse a largo plazo con el pedal de plástico de cortesía:** úsalo los primeros días para probar el piano, pero planifica incorporar un pedal de sustain metálico con base antideslizante para educar el movimiento real del pie derecho."
       ]
+    },
+    {
+      "type": "cta",
+      "text": "Explora los tutoriales paso a paso de esta sección para resolver tus dudas de principiante, consulta al Asesor IA del sitio para encontrar tu modelo ideal y revisa la disponibilidad en tiempo real en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Tu Primer Piano Digital o Teclado?",
-      "a": "Incluye 60 artículos prácticos y comparativas sobre cómo elegir entre un teclado de 61 teclas y un piano digital de 88 teclas según tu presupuesto y espacio, qué significa la polifonía de 64 a 256 notas, guía para niños y adultos y qué accesorios necesitas el primer día, con tablas de medidas en centímetros, sensación de tecla y compatibilidad de pedales, soportes, bancos y audífonos en Amazon Estados Unidos."
+      "q": "¿Son demasiado duras las teclas contrapesadas de 88 teclas para un niño que empieza?",
+      "a": "No es impedimento. Un niño desde los 5 o 6 años puede aprender perfectamente en un piano digital de 88 teclas contrapesadas (como el Yamaha P-145 o Casio CDP-S160), ya que su resistencia es idéntica o ligeramente más suave que la de un piano acústico vertical de conservatorio y fortalece su digitación desde el inicio."
     },
     {
-      "q": "¿Las recomendaciones sirven para quien busca su primer piano digital o teclado?",
-      "a": "Sí, todo el portal está redactado en español claro para principiantes, padres y estudiantes, comparando modelos de 61 y 88 teclas sin tecnicismos confusos."
+      "q": "¿Puedo aprender a tocar el piano con un teclado de 61 teclas o necesito 88 teclas sí o sí?",
+      "a": "Si tu objetivo es el piano como instrumento principal, 88 teclas contrapesadas es la inversión más inteligente porque no tendrás que reemplazarlo al segundo año. Sin embargo, puedes empezar durante los primeros 12 a 18 meses en un teclado de 61 teclas sensibles al tacto (como el Yamaha PSR-E383) si tienes poco espacio o presupuesto ajustado."
     },
     {
-      "q": "¿Puedo preguntar qué pedal, soporte o audífonos sirven para mi modelo exacto?",
-      "a": "Por supuesto: abre el chat del Asesor de Pianos IA en la esquina inferior derecha, indícale tu presupuesto, espacio o modelo y te recomendará los accesorios 100 % compatibles en Amazon."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Pianos & Portable Keyboards Official Specs",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation US – FP-Series Digital Pianos & PHA-4 Action",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué accesorios son realmente necesarios el primer día junto con el piano digital?",
+      "a": "Solo necesitas tres elementos adicionales para estudiar con postura y técnica correctas: un soporte estable a la altura adecuada (preferiblemente en Z o mueble dedicado), un banco sin reposabrazos regulable entre 45 y 53 cm de altura, y unos audífonos con cable si deseas practicar en silencio sin molestar en casa."
     }
   ],
   "related": [
-    "/primer-piano-o-teclado/como-elegir-tu-primer-piano-digital-o-teclado-segun-tu-presupuesto/",
-    "/primer-piano-o-teclado/diferencia-entre-piano-digital-y-teclado-musical-explicada-desde-cero/",
-    "/primer-piano-o-teclado/cuantas-teclas-necesita-un-principiante-61-76-u-88-teclas/",
-    "/primer-piano-o-teclado/que-canciones-se-pueden-tocar-en-un-teclado-de-61-teclas-y-cuales-no/"
+    "/primer-piano-o-teclado/por-que-un-piano-de-88-teclas-necesita-mas-de-88-notas-de-polifonia/",
+    "/primer-piano-o-teclado/cuanto-cuesta-un-buen-primer-piano-digital-o-teclado-en-estados-unidos/",
+    "/primer-piano-o-teclado/como-saber-si-un-piano-digital-de-amazon-usa-110v-funciona-en-220v/",
+    "/primer-piano-o-teclado/que-es-el-muestreo-de-sonido-cfx-supernatural-y-aix-en-pianos-digitales/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/primer-piano-o-teclado.webp"
 }

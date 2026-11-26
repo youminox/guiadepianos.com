@@ -4,158 +4,132 @@
   "path": "/resenas-pianos-y-teclados/",
   "isPillar": true,
   "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "reseñas de pianos digitales y teclados en amazon",
   "title": "Reseñas de Pianos Digitales, Teclados (88 y 61 Teclas) y Accesorios en Amazon",
-  "seoTitle": "Reseñas de Pianos Digitales y Teclados: Yamaha, Roland, Casio y Accesorios en Amazon",
-  "metaDescription": "Reseñas de Pianos Digitales, Teclados (88 y 61 Teclas) y Accesorios en Amazon: hub completo con 40 guías sobre análisis individual por presupuesto en dólares, espacio que ocupa en centímetros, sensación al tocar (88 teclas contrapesadas con acción de martillo graduado vs 61 teclas sensibles al tacto) y compatibilidad exacta de pedales, soportes, bancos y audífonos y ofertas en Amazon EE. UU.",
-  "excerpt": "Explora las 40 guías especializadas de este silo sobre análisis individual por presupuesto en dólares, espacio que ocupa en centímetros, sensación al tocar (88 teclas contrapesadas con acción de martillo graduado vs 61 teclas sensibles al tacto) y compatibilidad exacta de pedales, soportes, bancos y audífonos.",
-  "quickAnswer": "En esta sección principal de Reseñas de Pianos Digitales, Teclados (88 y 61 Teclas) y Accesorios en Amazon reunimos 40 guías verificadas sobre análisis individual por presupuesto en dólares, espacio que ocupa en centímetros, sensación al tocar (88 teclas contrapesadas con acción de martillo graduado vs 61 teclas sensibles al tacto) y compatibilidad exacta de pedales, soportes, bancos y audífonos, diseñadas para ayudarte a elegir entre modelos de 61 y 88 teclas según tu presupuesto, espacio disponible y sensación al tocar, además de pedales, soportes, bancos y audífonos compatibles en Amazon.",
-  "readingMinutes": 8,
+  "seoTitle": "Reseñas de Pianos Digitales, Teclados (88 y 61 Teclas) y Accesorios en Amazon | guiadepianos.com",
+  "metaDescription": "Análisis técnicos de pianos digitales de 88 teclas, teclados de 61 teclas y accesorios en Amazon: mecanismos de martillo, polifonía, altavoces y medidas.",
+  "excerpt": "Explora nuestras pruebas a fondo de pianos contrapesados, teclados sensibles al tacto y accesorios esenciales con datos reales de mecanismos GHC, PHA-4, polifonía y dimensiones para tu espacio.",
+  "quickAnswer": "Para evaluar con precisión un piano digital o teclado portátil en Amazon conviene examinar cuatro especificaciones clave: el mecanismo mecánico de la tecla (**GHC** en Yamaha, **PHA-4 Standard** en Roland o **Smart Scaled Hammer Action** en Casio), la polifonía real (mínimo **64 a 128 notas**), la potencia RMS de los altavoces integrados (**14W a 22W**) y el fondo del chasis (**23.2 cm a 29.5 cm**) según tu habitación.",
+  "readingMinutes": 7,
   "image": {
-    "prompt": "A bright modern apartment music corner with an 88-key weighted digital piano on a Z-stand, a metallic sustain pedal on the rug, padded piano bench and studio headphones, warm morning daylight, realistic editorial photography",
-    "alt": "Piano digital de 88 teclas contrapesadas en apartamento luminoso con soporte en Z, pedal de sustain metálico, banco y audífonos"
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Reseñas de Pianos Digitales, Teclados (88 y 61 Teclas) y Accesorios en Amazon' (reseñas de pianos digitales y teclados en amazon) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, in a bright family home interior with clean architectural lines, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Reseñas de Pianos Digitales, Teclados (88 y 61 Teclas) y Accesorios en Amazon"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Reseñas de Pianos Digitales, Teclados (88 y 61 Teclas) y Accesorios en Amazon** en **GuiaDePianos.com**. Aquí reunimos todas las pruebas táctiles, mediciones en centímetros para apartamentos y criterios de compra sobre **análisis individual por presupuesto en dólares, espacio que ocupa en centímetros, sensación al tocar (88 teclas contrapesadas con acción de martillo graduado vs 61 teclas sensibles al tacto) y compatibilidad exacta de pedales, soportes, bancos y audífonos**, organizados bajo una arquitectura sin canibalización para que elijas tu primer piano digital o teclado y sus accesorios 100 % compatibles en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si buscas tu primer piano digital de 88 teclas contrapesadas con acción de martillo graduado como el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** o el ultradelgado **[Casio Privia PX-S1100](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)** (23.2 cm de fondo), como si prefieres un teclado portátil de 61 teclas con sensibilidad al tacto para un escritorio como el **[Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** o el **[Casio Casiotone CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/)**, dominar las guías de este silo te asegurará acertar a la primera."
+      "text": "Comprar un piano digital o un teclado por internet sin haber apoyado antes los dedos sobre sus teclas genera una duda legítima: las fotografías promocionales hacen que un teclado ligero con resortes luzca casi idéntico a un piano de **88 teclas contrapesadas** con acción de martillo graduado. En nuestras evaluaciones técnicas desglosamos el comportamiento mecánico, la respuesta dinámica y las dimensiones físicas reales de cada instrumento —desde opciones de iniciación como nuestro [análisis a fondo del Casio CDP-S160 de 88 teclas](/resenas-pianos-y-teclados/casio-cdp-s160-88-teclas/) hasta modelos de estudio avanzado— para que sepas exactamente qué vas a sentir al sacarlo de la caja."
     },
     {
       "type": "h2",
-      "text": "Qué aprenderás en Reseñas de Pianos Digitales, Teclados (88 y 61 Teclas) y Accesorios en Amazon"
+      "text": "Qué Evaluamos en Cada Ficha Técnica: Más Allá de las Fotos del Catálogo"
     },
     {
       "type": "p",
-      "text": "En cada una de las **40 guías especializadas** de esta categoría analizamos los cuatro factores reales que determinan tu comodidad al aprender: el **presupuesto real en dólares**, el **espacio disponible en centímetros y pulgadas** en tu habitación, la **sensación al tocar en tus dedos** (`GHC`, `GHS`, `PHA-4 con escape`, `Smart Scaled`, `RHC` o `Touch Response`) y la **compatibilidad exacta de pedales de sustain (con selector de polaridad `N.O./N.C.`), soportes en Z/X, bancos regulables y audífonos con adaptador de `1/4\"` (`6.35 mm`)**."
+      "text": "Cada reseña de este portal examina cinco parámetros verificables que determinan si un instrumento te acompañará durante años o limitará tu técnica a los pocos meses. Primero analizamos la arquitectura del teclado: mecanismos como el **Graded Hammer Compact (GHC)** del **Yamaha P-145**, el sistema **PHA-4 Standard** con triple sensor y simulación de escape del **Roland FP-10** y **FP-30X**, o el **Smart Scaled Hammer Action** del **Casio Privia PX-S1100**. Segundo, medimos la polifonía máxima (**64, 128 o 256 notas**) para comprobar que los acordes con pedal de sustain no sufran cortes prematuros, tal como detallamos en la [evaluación técnica del Yamaha P-225 con motor CFX](/resenas-pianos-y-teclados/yamaha-p-225-piano-digital/). Tercero, verificamos la proyección real de los altavoces en vatios (**14W a 22W**), la ubicación de las rejillas acústicas y la compatibilidad con pedaleras triples y aplicaciones vía **USB-MIDI** o **Bluetooth**."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Reseñas de Pianos Digitales, Teclados (88 y 61 Teclas) y Accesorios en Amazon",
       "headers": [
-        "Guía Especializada de Piano y Teclado",
-        "Acceso Directo"
+        "Modelo evaluado",
+        "Teclas y mecanismo",
+        "Polifonía y motor acústico",
+        "Potencia de altavoces",
+        "Profundidad del chasis"
       ],
       "rows": [
         [
-          "Yamaha P-145 (y P-143): Reseña Completa de sus 88 Teclas Contrapesadas GHC, Medidas y Accesorios Compatibles en Amazon",
-          "[Ver guía completa](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)"
+          "Yamaha P-145 / P-225",
+          "88 teclas contrapesadas GHC",
+          "64 / 192 notas (CFIIIS / CFX)",
+          "14W (2 × 7W)",
+          "26.8 cm / 27.2 cm"
         ],
         [
-          "Roland FP-10: Análisis de su Teclado PHA-4 Standard con Textura de Marfil, Espacio que Ocupa y Pedales Compatibles",
-          "[Ver guía completa](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)"
+          "Roland FP-10 / FP-30X",
+          "88 teclas PHA-4 con escape y triple sensor",
+          "96 / 256 notas (SuperNATURAL)",
+          "12W / 22W",
+          "25.8 cm / 28.4 cm"
         ],
         [
-          "Roland FP-30X: Reseña a Fondo de Polifonía de 256 Notas, Bluetooth Audio/MIDI, Sensación de Tecla y Audífonos Recomendados",
-          "[Ver guía completa](/resenas-pianos-y-teclados/roland-fp-30x-piano-digital/)"
+          "Casio Privia PX-S1100 / PX-S3100",
+          "88 teclas Smart Scaled Hammer Action",
+          "192 notas (Morphing AiR)",
+          "16W (2 × 8W)",
+          "23.2 cm (ultradelgado)"
         ],
         [
-          "Yamaha P-225: Análisis del Sonido de Concierto Yamaha CFX, Teclado GHC de 88 Teclas y Compatibilidad con 3 Pedales LP-1",
-          "[Ver guía completa](/resenas-pianos-y-teclados/yamaha-p-225-piano-digital/)"
+          "Donner DEP-20 / Alesis Recital Pro",
+          "88 teclas con acción de martillo graduado",
+          "128 notas (multimuestreo)",
+          "20W a 50W pico",
+          "29.5 cm a 35.1 cm"
         ],
         [
-          "Casio Privia PX-S1100: Reseña del Piano Digital de 88 Teclas Contrapesadas Más Delgado del Mundo (23.2 cm de Fondo)",
-          "[Ver guía completa](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)"
-        ],
-        [
-          "Yamaha P-45: ¿Sigue Valiendo la Pena el Piano de 88 Teclas GHS Más Vendido de Amazon EE. UU.? Análisis de Tacto y Precio",
-          "[Ver guía completa](/resenas-pianos-y-teclados/yamaha-p-45-piano-digital/)"
-        ],
-        [
-          "Casio CDP-S160: Reseña del Piano de 88 Teclas con Acción de Martillo Escalada Más Accesible de Casio para Principiantes",
-          "[Ver guía completa](/resenas-pianos-y-teclados/casio-cdp-s160-88-teclas/)"
-        ],
-        [
-          "Kawai ES120: Análisis de su Mecanismo Responsive Hammer Compact (RHC), Calidez Acústica Shigeru Kawai y Sensación al Tocar",
-          "[Ver guía completa](/resenas-pianos-y-teclados/kawai-es120-piano-digital/)"
-        ],
-        [
-          "Alesis Recital Pro: Reseña del Piano Digital de 88 Teclas con Acción de Martillo por Menos de $380 en Amazon EE. UU.",
-          "[Ver guía completa](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)"
-        ],
-        [
-          "Donner DEP-20: Análisis de sus 88 Teclas Contrapesadas, Polifonía de 128 Notas, Pantalla y Relación Calidad-Precio",
-          "[Ver guía completa](/resenas-pianos-y-teclados/donner-dep-20-piano-digital-88-teclas/)"
-        ],
-        [
-          "Alesis Prestige Artist: Reseña de sus 88 Teclas de Martillo Graduado, Polifonía de 256 Voces, Pantalla OLED y Pedal Incluido",
-          "[Ver guía completa](/resenas-pianos-y-teclados/alesis-prestige-artist-88-teclas/)"
-        ],
-        [
-          "Alesis Recital (88 Teclas Semicontrapesadas): Reseña Honesta de Presupuesto Económico, Peso Ligero y Para Quién Es",
-          "[Ver guía completa](/resenas-pianos-y-teclados/alesis-recital-88-teclas-semicontrapesadas/)"
+          "Yamaha PSR-E383",
+          "61 teclas tipo órgano sensibles al tacto",
+          "48 notas (AWM Stereo Sampling)",
+          "5W (2 × 2.5W)",
+          "31.7 cm (3.3 a 4.4 kg)"
         ]
-      ]
+      ],
+      "caption": "Especificaciones clave de los pianos digitales y teclados de referencia analizados en el catálogo"
+    },
+    {
+      "type": "h2",
+      "text": "Diferencias Críticas entre Pianos Contrapesados de 88 Teclas y Portátiles de 61 Teclas"
+    },
+    {
+      "type": "p",
+      "text": "No todos los estudiantes buscan el mismo formato ni disponen del mismo espacio en casa. Quienes siguen un programa de piano clásico o contemporáneo a dos manos necesitan las **7 octavas y un cuarto (88 teclas)** con resistencia de martillo real; aquí brillan tanto alternativas completas con pantalla y controles directos como las que revisamos en la [reseña del Donner DEP-20 de 88 teclas contrapesadas](/resenas-pianos-y-teclados/donner-dep-20-piano-digital-88-teclas/), como instrumentos ultracompactos con ritmos y cientos de voces analizados en el [análisis del Casio Privia PX-S3100](/resenas-pianos-y-teclados/casio-privia-px-s3100/). En cambio, si el objetivo es iniciarse con un instrumento de apenas **3.3 kg a 4.4 kg** que pueda guardarse bajo la cama o transportarse a clases con **6 pilas AA**, un teclado de **61 teclas sensibles a la velocidad** como el **Yamaha PSR-E383** ofrece control dinámico real sin ocupar un mueble permanente."
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Compatibilidad universal verificada (Pedal Polaridad · Soporte en Z · Audífonos 1/4\" 0 ms)",
-      "text": "Antes de comprar accesorios en Amazon, recuerda las 3 reglas de compatibilidad: 1) Elige un pedal de sustain con interruptor de polaridad en la base (como el M-Audio SP-2) para que nunca suene al revés en Yamaha, Casio, Roland o Alesis; 2) Para 88 teclas usa un soporte en Z Heavy Duty o mueble oficial que deje espacio libre para tus rodillas; 3) Usa siempre audífonos con cable de 32–64 Ω con adaptador de 1/4\" (nunca Bluetooth, cuya latencia retrasa cada nota)."
+      "variant": "fabricante",
+      "text": "La mayoría de los pianos portátiles incluyen de fábrica un interruptor cuadrado de plástico ligero (como el Yamaha FC5 o el Roland DP-2) cuyo cable corto y base sin peso hacen que resbale por el suelo al tercer compás. En nuestras reseñas de accesorios comprobamos qué pedales metálicos cromados tipo lengua de piano incluyen interruptor físico de polaridad (N.O./N.C.) y base de goma antideslizante, además de evaluar soportes en Z con capacidad de 113 kg y audífonos cerrados de 32 Ω a 47 Ω sin latencia.",
+      "title": "Por qué analizamos los accesorios de fábrica con lupa técnica"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces a Amazon Estados Unidos"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Mide primero tu espacio libre en centímetros:** si dispones de `129 a 133 cm` de ancho, puedes instalar un piano de 88 teclas contrapesadas como el [Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/) o el [Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/); si tienes un escritorio de `95 cm`, elige un teclado de 61 teclas con Touch Response como el [Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/) o el [Casio CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/).",
-        "**Completa tu setup desde el primer día:** añadir el [pedal metálico universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/), un [soporte en Z estable](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/) y los [audífonos de estudio Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/) transforma tu experiencia de práctica diaria y nocturna.",
-        "**Consulta las ofertas actualizadas en Amazon:** todas nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guiadepianos-20`)** y permiten cambiar con un clic a **Amazon España (`guiadepianos02-21`)**."
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿No sabes qué piano de 88 teclas, teclado de 61 teclas, pedal, soporte o audífonos de este silo elegir? Pregúntale en vivo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para estrenar tu primer piano digital o teclado en casa"
+      "text": "Criterios Prácticos para Interpretar Nuestras Evaluaciones según tu Perfil"
     },
     {
       "type": "ul",
       "items": [
-        "**Exige siempre sensibilidad a la velocidad (Touch Response o Acción de Martillo):** nunca compres un teclado cuyas teclas suenen siempre al mismo volumen sin importar la fuerza de tus dedos.",
-        "**No enciendas el teclado mientras pisas el pedal de sustain:** si mantienes el pie sobre el pedal durante el encendido, el piano invertirá la polaridad y sonará al revés.",
-        "**Coloca las teclas blancas a 71–73 cm del suelo y ajusta el banco (45–53 cm):** tus antebrazos deben quedar horizontales y paralelos al piso para tocar sin dolor de muñecas ni espalda.",
-        "**Conecta tu iPad con un cable USB-MIDI (Tipo B a USB-C) y cubre las teclas al terminar:** el cable USB hace que Simply Piano y Flowkey reconozcan cada acorde sin fallos incluso con audífonos puestos, y el cubrepolvo protege los sensores durante décadas."
+        "**Peso de pulsación y retorno de tecla:** revisa si el mecanismo emplea sensores dobles o triples y si el acabado de las teclas es acrílico brillante o texturizado mate (simulando marfil y ébano) para evitar que los dedos resbalen con el sudor.",
+        "**Espacio real en escritorio o dormitorio:** compara siempre el fondo del instrumento; un chasis de **23.2 cm** como el **Casio Privia PX-S1100** o de **26.8 cm** como el **Yamaha P-145** deja margen libre en mesas estándar de **60 cm** de profundidad.",
+        "**Salidas de audífonos y conectividad:** verifica si el panel trasero o frontal utiliza conector estéreo grande de **1/4 de pulgada (6.35 mm)** o minijack de **3.5 mm**, y si transmite solo **Bluetooth MIDI** o también **Bluetooth Audio**.",
+        "**Compatibilidad con mueble y triple pedal:** si planeas estudiar repertorio intermedio, confirma si el chasis admite soporte oficial a medida y pedalera de **3 pedales** con función de medio pedal (*half-damper*)."
       ]
+    },
+    {
+      "type": "cta",
+      "text": "Explora nuestras reseñas individuales para conocer los puntos fuertes de cada modelo, consulta al Asesor IA del portal para filtrar según tu espacio y revisa la disponibilidad actual en las tarjetas de Amazon integradas en cada análisis."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Reseñas de Pianos Digitales, Teclados (88 y 61 Teclas) y Accesorios en Amazon?",
-      "a": "Incluye 40 artículos prácticos y comparativas sobre análisis individual por presupuesto en dólares, espacio que ocupa en centímetros, sensación al tocar (88 teclas contrapesadas con acción de martillo graduado vs 61 teclas sensibles al tacto) y compatibilidad exacta de pedales, soportes, bancos y audífonos, con tablas de medidas en centímetros, sensación de tecla y compatibilidad de pedales, soportes, bancos y audífonos en Amazon Estados Unidos."
+      "q": "¿Qué diferencia real hay entre un piano digital de 88 teclas y un teclado de 61 teclas?",
+      "a": "Un piano digital de 88 teclas reproduce el peso físico de un piano acústico mediante contrapesos o martillos internos graduados (más pesados en los graves y más ligeros en los agudos). Un teclado portátil de 61 teclas utiliza muelles ligeros: aunque detecta la fuerza con que pulsas (sensibilidad a la velocidad), no ofrece inercia de martillo."
     },
     {
-      "q": "¿Las recomendaciones sirven para quien busca su primer piano digital o teclado?",
-      "a": "Sí, todo el portal está redactado en español claro para principiantes, padres y estudiantes, comparando modelos de 61 y 88 teclas sin tecnicismos confusos."
+      "q": "¿Conviene comprar el piano digital solo o en paquete (bundle) con soporte y banco?",
+      "a": "Muchos combos incluyen soportes en X básicos cuyas barras cruzadas chocan con las rodillas al intentar alcanzar el pedal de sustain, además de banquetas bajas con poca espuma. A menudo resulta más ergonómico adquirir el piano por separado y sumarle un soporte en Z estable y un pedal metálico universal con interruptor de polaridad."
     },
     {
-      "q": "¿Puedo preguntar qué pedal, soporte o audífonos sirven para mi modelo exacto?",
-      "a": "Por supuesto: abre el chat del Asesor de Pianos IA en la esquina inferior derecha, indícale tu presupuesto, espacio o modelo y te recomendará los accesorios 100 % compatibles en Amazon."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Pianos & Portable Keyboards Official Specs",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation US – FP-Series Digital Pianos & PHA-4 Action",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Se puede practicar en total silencio de noche con cualquiera de los pianos reseñados?",
+      "a": "Sí. Al conectar audífonos con cable a la salida dedicada (Phones), los altavoces internos del piano se silencian automáticamente. El único sonido perceptible en la habitación será el leve golpe mecánico de tus dedos sobre las teclas contrapesadas, perfectamente tolerable para estudiar de noche sin molestar en departamentos."
     }
   ],
   "related": [
-    "/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/",
-    "/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/",
-    "/resenas-pianos-y-teclados/roland-fp-30x-piano-digital/",
-    "/resenas-pianos-y-teclados/yamaha-p-225-piano-digital/"
+    "/resenas-pianos-y-teclados/yamaha-p-225-piano-digital/",
+    "/resenas-pianos-y-teclados/casio-cdp-s160-88-teclas/",
+    "/resenas-pianos-y-teclados/donner-dep-20-piano-digital-88-teclas/",
+    "/resenas-pianos-y-teclados/casio-privia-px-s3100/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/resenas-pianos-y-teclados.webp"
 }

@@ -4,161 +4,144 @@
   "path": "/primer-piano-o-teclado/que-es-el-ajuste-master-tuning-440-hz-a-442-hz-en-un-piano-digital/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "ajuste 440 hz 442 hz master tuning piano digital",
   "title": "Para Qué Sirve el Ajuste de Afinación Fina (440.0 Hz vs 442.0 Hz) en Pianos Digitales Yamaha y Roland",
-  "seoTitle": "Para Qué Sirve el Ajuste de Afinación Fina (440.0 Hz vs 442.0 Hz) en Pianos Digitales Yamaha y Roland | Guía de Pianos",
-  "metaDescription": "Para Qué Sirve el Ajuste de Afinación Fina (440.0 Hz vs 442.0 Hz) en Pianos Digitales Yamaha y Roland: Aunque nunca se desafina, puedes subir la frecuencia central de La4 de 440 Hz a 442 Hz si acompañas a instrumentos de viento o grabaciones orquestales europeas. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Aunque nunca se desafina, puedes subir la frecuencia central de La4 de 440 Hz a 442 Hz si acompañas a instrumentos de viento o grabaciones orquestales europeas.",
-  "quickAnswer": "Sobre ajuste 440 hz 442 hz master tuning piano digital: Aunque nunca se desafina, puedes subir la frecuencia central de La4 de 440 Hz a 442 Hz si acompañas a instrumentos de viento o grabaciones orquestales europeas. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
+  "seoTitle": "Para Qué Sirve el Ajuste de Afinación Fina (440.0 Hz vs 442.0 Hz) en Pianos Digitales Yamaha y Roland | guiadepianos.com",
+  "metaDescription": "Aprende para qué sirve el parámetro Master Tuning en pianos digitales Yamaha, Roland y Casio y cuándo cambiar la referencia del La central de 440 a 442 Hz.",
+  "excerpt": "Aunque un piano digital nunca pierde su afinación, incluye un control de ajuste fino en pasos de 0.1 Hz o 0.2 Hz: te explicamos cómo sincronizarlo con violines, vientos o grabaciones antiguas.",
+  "quickAnswer": "El ajuste Master Tuning permite desplazar la frecuencia de referencia de la nota La central (A4) en fracciones de hercio, normalmente entre 414.8 Hz y 466.8 Hz. Mientras que los pianos digitales Roland y Casio vienen calibrados de fábrica al estándar internacional de 440.0 Hz, algunos modelos domésticos de Yamaha utilizan 440.0 Hz o permiten subir rápidamente a 442.0 Hz para acoplarse al brillo de orquestas sinfónicas, violines o instrumentos de viento.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Three-quarter editorial angle from slightly above in a bright music corner (50mm lens): Home digital piano and keyboard tutorial illustrating Para Qué Sirve el Ajuste de Afinación Fina (440.0 Hz vs 442.0 Hz) en Pianos Digitales Yamaha y Roland: Aunque nunca se desafina, puedes subir la frecuencia central de La4 de 440 Hz a 442 Hz si acompañas a instrumentos de viento o grabaciones orquestales europeas., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, crisp bright editorial studio lighting with neutral warm oak tones. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Para Qué Sirve el Ajuste de Afinación Fina (440.0 Hz vs 442.0 Hz) en Pianos Digitales Yamaha y Roland' (ajuste 440 hz 442 hz master tuning piano digital) for guiadepianos.com, featuring equipment in arctic white with warm stone-gray details, on a clean stone countertop with neatly arranged accessories, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Para Qué Sirve el Ajuste de Afinación Fina (440.0 Hz vs 442.0 Hz) en Pianos Digitales Yamaha y Roland"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **ajuste 440 hz 442 hz master tuning piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Aunque nunca se desafina, puedes subir la frecuencia central de La4 de 440 Hz a 442 Hz si acompañas a instrumentos de viento o grabaciones orquestales europeas."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Primer Piano O Teclado](/primer-piano-o-teclado/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Si hojeas el manual técnico de tu **Yamaha P-145**, tu **Roland FP-10**, tu **Roland FP-30X** o tu **Casio Privia PX-S1100**, encontrarás una tabla de funciones avanzadas con un parámetro llamado **Master Tuning (Afinación Maestra o Afinación Fina)** que permite subir o bajar la frecuencia de referencia del teclado en pasos milimétricos de **0.1 Hz o 0.2 Hz**, desde **414.8 Hz hasta 466.8 Hz**. La primera reacción lógica de cualquier estudiante es preguntarse: si un piano digital nunca se desafina por sí solo, ¿por qué los fabricantes incluyen un control manual para «desafinarlo» un par de hercios hacia arriba o hacia abajo?"
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: ajuste 440 hz 442 hz master tuning piano digital"
+      "text": "Por qué existen los estándares 440.0 Hz y 442.0 Hz (y por qué otro instrumento puede no coincidir con tu piano)"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **ajuste 440 hz 442 hz master tuning piano digital**:"
+      "text": "El estándar internacional ISO 16 establece que la nota La central situada por encima del Do central (**A4**, la tecla número **49** empezando por la izquierda en un piano de **88 teclas**) vibra exactamente a **440.0 Hz** (cuatrocientas cuarenta oscilaciones por segundo). Toda la música pop, rock, jazz moderno, aplicaciones de aprendizaje en iPad y los motores digitales que analizamos al comparar [el sonido muestreado y el modelado físico de resonancia](/primer-piano-o-teclado/diferencia-entre-sonido-muestreado-sampling-y-modelado-fisico-en-pianos/) trabajan por defecto sobre esa referencia universal de **440.0 Hz**."
+    },
+    {
+      "type": "p",
+      "text": "Sin embargo, en el mundo de la música clásica europea, las orquestas sinfónicas, los conservatorios y muchos constructores de instrumentos de viento-madera (como oboes, clarinetes y flautas traversas) o cuartetos de cuerda suelen afinar un poco más alto —a **442.0 Hz** o incluso **443.0 Hz**— porque esa ligerísima tensión adicional hace que los violines y los vientos proyecten un sonido más brillante en salas grandes. Si un familiar o amigo viene a tu casa con un saxofón, una flauta o un piano acústico que el técnico dejó afinado a **442.0 Hz**, tú no puedes pedirle a un piano acústico que baje dos hercios en un minuto, pero en tu piano digital puedes igualar su frecuencia exacta en cinco segundos usando **Master Tuning**."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: ajuste 440 hz 442 hz master tuning piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Marca y Modelos de referencia",
+        "Frecuencia A4 por defecto de fábrica",
+        "Rango total de Master Tuning permitido",
+        "Resolución de cada paso de ajuste"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Aunque nunca se desafina, puedes subir la frecuencia central de La4 de 440 Hz a 442 Hz si acompañas a instrumentos de viento o grabaciones orquestales europeas.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Roland (FP-10 / FP-30X)",
+          "440.0 Hz (estándar internacional ISO)",
+          "415.3 Hz a 466.2 Hz",
+          "Pasos finos de 0.1 Hz (mediante teclado o Roland Piano App)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Yamaha (P-145 / PSR-E383)",
+          "440.0 Hz (con atajo rápido a 442.0 Hz en serie P)",
+          "414.8 Hz a 466.8 Hz",
+          "Pasos de aproximadamente 0.2 Hz (o directo por app Smart Pianist)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Casio (Privia PX-S1100 / CT-S1)",
+          "440.0 Hz (estándar de fábrica)",
+          "415.5 Hz a 465.9 Hz",
+          "Pasos finos de 0.1 Hz (por teclado o app Casio Music Space)"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Alesis Recital Pro / Donner DEP-20",
+          "440.0 Hz (fijo o ajustable en menú)",
+          "Estándar 440.0 Hz (según revisión de firmware)",
+          "Orientado a práctica estándar en 440.0 Hz"
         ]
+      ],
+      "caption": "Valores de fábrica del parámetro Master Tuning y rango de ajuste en las marcas líderes del catálogo"
+    },
+    {
+      "type": "h2",
+      "text": "Los tres escenarios reales donde sí debes tocar el Master Tuning en casa (y cuándo dejarlo en 440.0 Hz)"
+    },
+    {
+      "type": "p",
+      "text": "Durante el **98 %** de tu tiempo de práctica individual —o cuando conectes el instrumento a aplicaciones interactivas, un uso donde un piano doméstico con su propio sistema de sonido de [6W+6W a 11W+11W de potencia de altavoces](/primer-piano-o-teclado/cuantos-vatios-de-potencia-de-altavoces-necesitas-para-tocar-en-casa/) resulta mucho más práctico que un [stage piano profesional sin altavoces](/primer-piano-o-teclado/diferencia-entre-piano-digital-de-escenario-stage-piano-y-portable-slab/)—, el parámetro **Master Tuning debe permanecer en 440.0 Hz**. Solo existen tres situaciones concretas donde cambiarlo resulta sumamente útil:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**1. Tocar a dúo con un instrumento acústico en la misma habitación:** Si acompañas en casa a un violinista, flautista, clarinetista o tocas a cuatro manos junto a un piano acústico vertical cuya afinación se ha movido ligeramente a **441.5 Hz** o **442.0 Hz**, ajustar tu piano digital a esa misma cifra elimina al instante el molesto batimiento (*chorus* desafinado) entre ambos instrumentos.",
+        "**2. Tocar encima de discos antiguos de jazz, rock clásico o soul de los años 60 y 70:** Muchas grabaciones históricas en cinta analógica (como temas de The Beatles, Queen, Miles Davis o AC/DC) se masterizaron con la velocidad del carrete ligeramente alterada, quedando entre un cuarto y medio tono fuera de **440.0 Hz**; con **Master Tuning** puedes clavar la frecuencia exacta del disco sin tener que desafinar una guitarra.",
+        "**3. Repertorio barroco con diapasón histórico (415.3 Hz):** El límite inferior de **415.3 Hz** en Roland, Yamaha y Casio equivale exactamente a medio tono por debajo de **440.0 Hz**, el estándar histórico (*Chorton/Kammerton*) utilizado para acompañar flautas dulces barrocas, violas da gamba o clavecines históricos en obras de J. S. Bach o Händel."
       ]
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre ajuste 440 hz 442 hz master tuning piano digital",
-      "text": "Aunque nunca se desafina, puedes subir la frecuencia central de La4 de 440 Hz a 442 Hz si acompañas a instrumentos de viento o grabaciones orquestales europeas. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      "variant": "fabricante",
+      "text": "En los pianos portátiles de la serie P de Yamaha (como el Yamaha P-145), debido a que en los conservatorios de Japón y Europa se utiliza muchísimo la referencia de 442.0 Hz, el manual incluye una combinación directa de dos teclas para saltar instantáneamente a 440.0 Hz o a 442.0 Hz. Si usas aplicaciones como Simply Piano o Flowkey y notas que la app falla al detectar algunas notas por micrófono, verifica en la app Yamaha Smart Pianist que la afinación esté en 440.0 Hz exactos.",
+      "title": "Atención en modelos Yamaha: el atajo de fábrica entre 440.0 Hz y 442.0 Hz"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar ajuste 440 hz 442 hz master tuning piano digital en tu piano digital o teclado"
+      "text": "Cómo cambiar o restaurar la frecuencia a 440.0 Hz desde las teclas o la app del fabricante"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "A lo largo de todos los años que te acompañará el instrumento —puedes revisar nuestra guía sobre la [vida útil real de un piano digital Yamaha, Roland o Casio en casa](/primer-piano-o-teclado/cuanto-dura-un-piano-digital-de-buena-marca-en-casa/)—, la forma más visual y cómoda de verificar en qué hercio exacto se encuentra tu piano es abrir la aplicación gratuita oficial en tu teléfono o tablet (**Roland Piano App**, **Yamaha Smart Pianist** o **Casio Music Space**), donde verás el indicador numérico `440.0 Hz` en pantalla. Si prefieres hacerlo directamente desde el teclado sin teléfono, sigue estos pasos rápidos:"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "En Yamaha P-145 (restaurar a 440.0 Hz exactos)",
+          "text": "Mantén presionado el botón izquierdo [GRAND PIANO/FUNCTION] y pulsa simultáneamente la tecla La4 (A4, la sexta tecla blanca a la derecha del Do central) o las teclas de subida/bajada indicadas en la guía rápida para fijarlo en 440.0 Hz."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "En Roland FP-10 y Roland FP-30X",
+          "text": "Mantén presionado el botón [FUNCTION] y utiliza las teclas asignadas al ajuste fino de hercios en el registro grave, o simplemente apaga el piano con el botón Power y vuelve a encenderlo (si no guardaste el cambio en Memory Backup, regresará automáticamente a 440.0 Hz)."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "En Casio Privia PX-S1100 y Casio CT-S1",
+          "text": "Mantén pulsado el botón [FUNCTION] y presiona las teclas correspondientes a Tuning (+) y (-) simultáneamente para que el valor vuelva de golpe al centro predeterminado de 440.0 Hz."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando ajuste 440 hz 442 hz master tuning piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Revisa las especificaciones completas y disponibilidad actual de estos pianos digitales Yamaha, Roland y Casio en las tarjetas de Amazon integradas en esta página, o consulta cualquier duda técnica de configuración con nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre ajuste 440 hz 442 hz master tuning piano digital?",
-      "a": "Aunque nunca se desafina, puedes subir la frecuencia central de La4 de 440 Hz a 442 Hz si acompañas a instrumentos de viento o grabaciones orquestales europeas. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿El oído humano nota la diferencia entre 440.0 Hz y 442.0 Hz cuando tocas el piano digital tú solo en casa?",
+      "a": "En un oído no entrenado para comparar dos fuentes simultáneas, una diferencia aislada de 2 Hz (apenas un 0.45 % de variación en la frecuencia del La central) es prácticamente imperceptible al tocar solo; sin embargo, en cuanto suenan dos instrumentos juntos (uno a 440 Hz y otro a 442 Hz), el choque de ondas produce una oscilación u ondulación muy evidente llamada batimiento."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Qué diferencia hay entre la función Transpose (Transposición) y la función Master Tuning?",
+      "a": "Transpose cambia la nota por semitonos enteros (por ejemplo, pulsas la tecla Do pero suena un Re o un Si, equivalente a unos 26 Hz de salto en la octava central), mientras que Master Tuning mueve la afinación en microfracciones de 0.1 Hz o 0.2 Hz dentro de la misma nota para emparejar la calibración fina con otros instrumentos."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Puedo afinar mi piano digital a 432.0 Hz usando el ajuste Master Tuning?",
+      "a": "No es verdadero respecto a sus propiedades curativas mágicas, pero si por curiosidad musical o para acompañar pistas de meditación grabadas en 432.0 Hz deseas probar esa afinación en tu piano digital, el control Master Tuning de cualquier Yamaha P-145, Roland FP-10/FP-30X o Casio PX-S1100 te permite bajar de 440.0 Hz a 432.0 Hz exactos en segundos."
     }
   ],
   "related": [
-    "/primer-piano-o-teclado/",
+    "/primer-piano-o-teclado/cuantos-vatios-de-potencia-de-altavoces-necesitas-para-tocar-en-casa/",
+    "/primer-piano-o-teclado/diferencia-entre-sonido-muestreado-sampling-y-modelado-fisico-en-pianos/",
     "/primer-piano-o-teclado/cuanto-dura-un-piano-digital-de-buena-marca-en-casa/",
-    "/primer-piano-o-teclado/necesita-afinacion-un-piano-digital-o-teclado-con-los-anos/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/primer-piano-o-teclado/diferencia-entre-piano-digital-de-escenario-stage-piano-y-portable-slab/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-es-el-ajuste-master-tuning-440-hz-a-442-hz-en-un-piano-digital.webp"
 }

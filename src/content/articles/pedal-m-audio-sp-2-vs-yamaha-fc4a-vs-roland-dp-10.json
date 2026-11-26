@@ -4,145 +4,119 @@
   "path": "/comparativas/pedal-m-audio-sp-2-vs-yamaha-fc4a-vs-roland-dp-10/",
   "isPillar": false,
   "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "m audio sp 2 vs yamaha fc4a vs roland dp 10 comparativa",
   "title": "M-Audio SP-2 vs Yamaha FC4A vs Roland DP-10: Tabla de Compatibilidad, Interruptor de Polaridad y Función de Medio Pedal",
-  "seoTitle": "M-Audio SP-2 vs Roland DP-10: Comparativa y Cuál Comprar en Amazon",
-  "metaDescription": "Comparativa a fondo M-Audio SP-2 vs Roland DP-10: diferencias de teclas, presupuesto, espacio en centímetros, sensación al tocar y accesorios en Amazon.",
-  "excerpt": "Enfrentamos M-Audio SP-2 frente a Roland DP-10: tabla por presupuesto, medidas, sensación al tocar y veredicto de compra.",
-  "quickAnswer": "En la comparativa entre M-Audio SP-2 y Roland DP-10, la decisión depende de tu presupuesto, espacio disponible y sensación de tecla buscada: El M-Audio SP-2 es la compra número uno en calidad-precio (~$25) porque su botón inferior de polaridad garantiza que funcione en absolutamente cualquier piano o teclado Yamaha, Casio, Roland o Alesis. Invierte en el Roland DP-10 o en el Yamaha FC3A si tu piano soporta medio pedal continuo (Half-Damper TRS) y quieres máxima sujeción en el suelo.",
-  "readingMinutes": 8,
+  "seoTitle": "M-Audio SP-2 vs Yamaha FC4A vs Roland DP-10: Tabla de Compatibilidad, Interruptor de Polaridad y Función de Medio Pedal | guiadepianos.com",
+  "metaDescription": "Comparativa M-Audio SP-2 vs Yamaha FC4A vs Roland DP-10: interruptor de polaridad, soporte de medio pedal TRS y goma antideslizante para pisos lisos.",
+  "excerpt": "Guía técnica para elegir tu pedal de sustain definitivo: analizamos compatibilidad de polaridad entre marcas, conectores TS frente a TRS para medio pedal y sistemas antideslizantes para el talón.",
+  "quickAnswer": "El **M-Audio SP-2** es la opción universal más versátil gracias a su **interruptor físico de polaridad (NO/NC)** que funciona con todas las marcas (**Yamaha, Casio, Roland, Korg y Alesis**) en modo interruptor (**TS**). El **Roland DP-10** es superior para pianos Roland (**FP-10 / FP-30X**) porque soporta **medio pedal continuo (TRS)** e incluye una **placa de goma bajo el talón** que impide que se deslice, mientras que el **Yamaha FC4A** ofrece la mecánica más silenciosa para teclados Yamaha sin medio pedal.",
+  "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Macro close-up shot with shallow depth of field (85mm f/2.8 lens): Side-by-side comparison of M-Audio SP-2 and Roland DP-10 digital piano and keyboard in a home music studio, in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, crisp bright editorial studio lighting with neutral warm oak tones. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
-    "alt": "Comparativa cara a cara entre M-Audio SP-2 y Roland DP-10"
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'M-Audio SP-2 vs Yamaha FC4A vs Roland DP-10: Tabla de Compatibilidad, Interruptor de Polaridad y Función de Medio Pedal' (m audio sp 2 vs yamaha fc4a vs roland dp 10 comparativa) for guiadepianos.com, featuring equipment in matte charcoal black with brushed aluminum accents, on a matte dark-gray technical mat with measuring tools nearby, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "M-Audio SP-2 vs Yamaha FC4A vs Roland DP-10: Tabla de Compatibilidad, Interruptor de Polaridad y Función de Medio Pedal"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Elegir entre **M-Audio SP-2** y **Roland DP-10** es una de las decisiones más importantes al buscar tu primer piano digital, teclado o accesorio en Amazon Estados Unidos (`amazon.com`). Aunque ambos gozan de excelentes valoraciones, sus diferencias en **número de teclas (`61` vs `88`), presupuesto en dólares, espacio que ocupan en centímetros, sensación al tocar y compatibilidad de pedales, soportes y audífonos** hacen que cada uno esté pensado para un espacio y objetivo distinto."
-    },
-    {
-      "type": "p",
-      "text": "En esta comparativa técnica enfrentamos cara a cara a **M-Audio SP-2 (~$25 USD · Interruptor de Polaridad Universal N.O./N.C. · Conector TS On/Off)** contra **Roland DP-10 (~$55 USD · Goma Antideslizante Bajo el Talón + Medio Pedal TRS) y Yamaha FC4A/FC3A** para que elijas con total seguridad."
+      "text": "Conectar un pedal de sustain nuevo a tu teclado y descubrir que el piano mantiene todas las notas sonando sin que toques el pedal —y que deja de sostenerlas justo cuando lo pisas— es el dolor de cabeza técnico más común entre principiantes. A esto se suma un segundo misterio que las tiendas rara vez explican bien: por qué algunos pedales permiten dosificar la resonancia a mitad de recorrido (**medio pedal** o *half-damper*) y otros solo funcionan como un interruptor de encendido y apagado."
     },
     {
       "type": "h2",
-      "text": "Tabla comparativa directa: M-Audio SP-2 vs Roland DP-10"
+      "text": "Polaridad (NO vs NC) y conectores TS frente a TRS: la ingeniería detrás del medio pedal"
+    },
+    {
+      "type": "p",
+      "text": "Para entender qué diferencia al **M-Audio SP-2**, al **Yamaha FC4A** y al **Roland DP-10**, hay que mirar la punta de su cable de **6.35 mm (1/4 de pulgada)** y su circuito interno. Los teclados utilizan dos lógicas opuestas de reposo eléctrico: **Normalmente Abierto (NO)**, empleada por **Casio**, **Korg** o **Alesis**, y **Normalmente Cerrado (NC)**, utilizada por **Yamaha**, **Roland** y **Kawai**. Si Aún usas el interruptor básico que venía en la caja, revisa primero por qué conviene jubilarlo en nuestra comparativa del [pedal cuadrado de plástico frente al pedal de sustain metálico estilo piano](/comparativas/pedal-cuadrado-footswitch-vs-pedal-sustain-tipo-piano/). El **M-Audio SP-2** resuelve la incompatibilidad entre marcas mediante un pequeño **interruptor de polaridad** empotrado en su base inferior: si el efecto sustain funciona al revés, basta con deslizar el selector con la uña. Sin embargo, tanto el **M-Audio SP-2** como el **Yamaha FC4A** llevan un conector **TS** (una sola línea negra aislante en la clavija), lo que significa que solo envían señal binaria (**On/Off**). El **Roland DP-10**, en cambio, incorpora una clavija **TRS** (dos anillos negros) y un potenciómetro continuo capaz de transmitir **medio pedal** real, además de un selector lateral para funcionar como interruptor estándar en teclados básicos."
     },
     {
       "type": "table",
-      "caption": "Duelo técnico por presupuesto, espacio, tacto y compatibilidad entre M-Audio SP-2 y Roland DP-10",
       "headers": [
-        "Criterio de Compra",
+        "Característica técnica",
         "M-Audio SP-2",
+        "Yamaha FC4A",
         "Roland DP-10"
       ],
       "rows": [
         [
-          "Configuración, Teclas y Medidas",
-          "M-Audio SP-2 (~$25 USD · Interruptor de Polaridad Universal N.O./N.C. · Conector TS On/Off)",
-          "Roland DP-10 (~$55 USD · Goma Antideslizante Bajo el Talón + Medio Pedal TRS) y Yamaha FC4A/FC3A"
+          "Tipo de conector y señal",
+          "TS 6.35 mm (Interruptor On/Off)",
+          "TS 6.35 mm (Interruptor On/Off)",
+          "TRS 6.35 mm (Continuo Half-Damper + Switch)"
         ],
         [
-          "Sensación al Tocar (Dinámica)",
-          "Respuesta expresiva calibrada para aprender técnica real",
-          "Excelente control táctil dentro de su segmento"
+          "Soporte de Medio Pedal (Half-Damper)",
+          "No (solo activado o desactivado)",
+          "No (para medio pedal en Yamaha se usa el FC3A)",
+          "Sí (lectura gradual del recorrido del pie)"
         ],
         [
-          "Espacio en Apartamento o Escritorio",
-          "Dimensiones optimizadas para habitaciones modernas",
-          "Fácil integración sobre soporte en Z, mesa o mueble"
+          "Interruptor de cambio de polaridad",
+          "Sí (universal para Yamaha, Casio, Roland, Korg)",
+          "No (polaridad fija NC para Yamaha/Roland)",
+          "Selector de modo Continuous (TRS) / Switch (TS)"
         ],
         [
-          "Práctica Nocturna con Audífonos",
-          "0 ms de latencia con audífonos con cable de 32–64 Ω",
-          "Silencio total en altavoces al conectar auriculares"
+          "Sistema antideslizante en el suelo",
+          "Base completa de goma texturizada (400 g)",
+          "Base de caucho de alta fricción (450 g)",
+          "Placa de goma desplegable bajo el talón (560 g)"
         ],
         [
-          "Pedal y Conectividad MIDI",
-          "Compatible con Pedal M-Audio SP-2 (Polaridad) y Apps MIDI",
-          "Accesorios universales disponibles en Amazon EE. UU."
+          "Longitud del cable integrado",
+          "1.8 metros",
+          "1.8 metros",
+          "2.2 metros"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Veredicto rápido del duelo",
-      "text": "El M-Audio SP-2 es la compra número uno en calidad-precio (~$25) porque su botón inferior de polaridad garantiza que funcione en absolutamente cualquier piano o teclado Yamaha, Casio, Roland o Alesis. Invierte en el Roland DP-10 o en el Yamaha FC3A si tu piano soporta medio pedal continuo (Half-Damper TRS) y quieres máxima sujeción en el suelo."
+      ],
+      "caption": "Tabla técnica y de compatibilidad: M-Audio SP-2 vs Yamaha FC4A vs Roland DP-10"
     },
     {
       "type": "h2",
-      "text": "1. Presupuesto, espacio disponible y sensación en los dedos: M-Audio SP-2 vs Roland DP-10"
+      "text": "La placa de goma para el talón del Roland DP-10 frente a la universalidad del M-Audio SP-2 y la robustez del Yamaha FC4A"
     },
     {
       "type": "p",
-      "text": "Al comparar **M-Audio SP-2** frente a **Roland DP-10**, la clave está en medir tu pared o escritorio y definir qué tacto prefieres bajo tus manos:"
+      "text": "En pisos de parquet barnizado, cerámica o porcelanato liso, incluso un pedal metálico de **400 g** tiende a desplazarse milímetro a milímetro hacia el fondo tras veinte minutos de práctica intensa. Aquí el **Roland DP-10** introduce la solución mecánica más ingeniosa del mercado: una **lengüeta de goma pivotante** que gira **180 grados** hacia el frente. Al colocar tu talón directamente sobre esa placa de goma, el propio peso de tu pierna ancla el pedal al suelo, haciendo físicamente imposible que se mueva. El **Yamaha FC4A** destaca por la tensión silenciosa de su muelle interno, calibrada para replicar la resistencia de un piano vertical Yamaha sin ruidos metálicos de rebote, ideal si tocas un **Yamaha PSR-E383** o un **Yamaha P-145** (aunque si quieres función de medio pedal en un P-145 o P-225 deberás optar por su hermano **Yamaha FC3A** con plug TRS). Puedes ver cómo interactúan estos sistemas según el fabricante en nuestra [comparativa de pianos digitales Yamaha vs Roland vs Casio vs Kawai](/comparativas/yamaha-vs-roland-vs-casio-vs-kawai-pianos-digitales/), o si prefieres olvidarte de pedales sueltos, revisar el duelo entre un [piano digital portátil (Slab) y un piano con mueble consola](/comparativas/piano-digital-portatil-slab-vs-piano-con-mueble-consola/)."
+    },
+    {
+      "type": "h2",
+      "text": "¿Cuál de los tres pedales comprar según tu teclado o piano digital actual?"
     },
     {
       "type": "ul",
       "items": [
-        "**Por qué elegir M-Audio SP-2:** destaca por *M-Audio SP-2 (~$25 USD · Interruptor de Polaridad Universal N.O./N.C. · Conector TS On/Off)*, siendo la opción ganadora si priorizas esas especificaciones en tu rincón de práctica.",
-        "**Por qué elegir Roland DP-10:** toma ventaja gracias a *Roland DP-10 (~$55 USD · Goma Antideslizante Bajo el Talón + Medio Pedal TRS) y Yamaha FC4A/FC3A*, resultando la compra ideal cuando tu presupuesto o espacio en centímetros encajan mejor con ese perfil."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "2. Pedales, soportes, bancos y audífonos compatibles para completar tu compra"
-    },
-    {
-      "type": "p",
-      "text": "Recuerda que ningún piano digital o teclado ofrece su verdadera comodidad si lo apoyas en una mesa alta o usas el pedal plástico sin agarre. Elijas el ganador que elijas en esta comparativa, acompáñalo de:"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Pedal de Sustain Metálico con Selector de Polaridad:** el **[M-Audio SP-2 Universal](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)** (o el **[Roland DP-10](/resenas-pianos-y-teclados/pedal-roland-dp-10-damper/)** / **[Yamaha FC4A](/resenas-pianos-y-teclados/pedal-yamaha-fc4a-y-fc3a-original/)**) funciona en ambos modelos sin sonar al revés y no se desliza por el suelo.",
-        "**Soporte en Z, Banco Regulable y Audífonos de 1/4\":** instala tu instrumento a `72 cm` de altura sobre un **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** con **[banco ajustable On-Stage](/resenas-pianos-y-teclados/banco-piano-ajustable-on-stage-kt7800-y-songmics/)** y practica de noche con los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**."
+        "**Elige el M-Audio SP-2:** si tienes un teclado **Casio** (**CT-S1**, **CT-S300**, **PX-S1100**), **Alesis**, **Donner** o **Yamaha** de 61 teclas, o si utilizas varios teclados de distintas marcas y necesitas un pedal metálico universal con interruptor de polaridad que funcione en todos.",
+        "**Elige el Roland DP-10:** si posees un **Roland FP-10**, **FP-30X**, **FP-60X** o **RD-88** para aprovechar su **medio pedal continuo (TRS)**, o si tocas sobre un suelo muy resbaladizo donde cualquier otro pedal se escapa hacia adelante.",
+        "**Elige el Yamaha FC4A (o FC3A para medio pedal):** si tienes un teclado o piano digital **Yamaha** y buscas la máxima durabilidad mecánica con un recorrido silencioso que no cruje durante sesiones nocturnas de estudio."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Quieres saber cuál de los dos (M-Audio SP-2 o Roland DP-10) encaja mejor en los centímetros exactos de tu habitación? Pregúntale ahora a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Conclusión: ¿Cuál comprar en Amazon entre M-Audio SP-2 y Roland DP-10?"
-    },
-    {
-      "type": "p",
-      "text": "Ambos forman parte de nuestra selección de [los mejores pianos digitales, teclados y accesorios en Amazon](/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/). **El M-Audio SP-2 es la compra número uno en calidad-precio (~$25) porque su botón inferior de polaridad garantiza que funcione en absolutamente cualquier piano o teclado Yamaha, Casio, Roland o Alesis. Invierte en el Roland DP-10 o en el Yamaha FC3A si tu piano soporta medio pedal continuo (Half-Damper TRS) y quieres máxima sujeción en el suelo.** Revisa las tarjetas comparativas de arriba y abajo para consultar el precio y disponibilidad hoy en Amazon.com o Amazon.es."
+      "text": "Comprueba la disponibilidad actual del M-Audio SP-2, el Yamaha FC4A y el Roland DP-10 en las tarjetas de Amazon integradas en esta página, o pregúntale a nuestro Asesor IA qué pedal es 100 % compatible con la entrada de tu teclado."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es mejor compra en Amazon: M-Audio SP-2 o Roland DP-10?",
-      "a": "El M-Audio SP-2 es la compra número uno en calidad-precio (~$25) porque su botón inferior de polaridad garantiza que funcione en absolutamente cualquier piano o teclado Yamaha, Casio, Roland o Alesis. Invierte en el Roland DP-10 o en el Yamaha FC3A si tu piano soporta medio pedal continuo (Half-Damper TRS) y quieres máxima sujeción en el suelo."
+      "q": "¿Qué es exactamente la función de medio pedal (Half-Damper) y cuándo se nota?",
+      "a": "El medio pedal (Half-Damper) mide cuánto hundes la lengüeta metálica mediante un conector TRS de tres contactos. Permite levantar los apagadores solo parcialmente para crear una resonancia sutil sin emborronar la armonía, esencial en obras clásicas románticas e impresionistas."
     },
     {
-      "q": "¿Qué pedal de sustain y audífonos son compatibles con M-Audio SP-2 y Roland DP-10?",
-      "a": "Te recomendamos el pedal universal M-Audio SP-2 (que incluye interruptor de polaridad N.O./N.C. compatible con todas las marcas) y los audífonos de estudio Audio-Technica ATH-M20x o Sony MDR-7506 (que incluyen conector de 3.5 mm y adaptador de 1/4\" sin latencia)."
+      "q": "¿El pedal Roland DP-10 funciona en un piano digital Yamaha o Casio?",
+      "a": "Sí, cambiando su selector lateral al modo Switch (interruptor). Sin embargo, la función de medio pedal continuo del Roland DP-10 solo es reconocida por pianos Roland y algunos modelos Kawai; en un Yamaha o Casio funcionará únicamente como pedal On/Off estándar."
     },
     {
-      "q": "¿Ambos se pueden conectar al iPad para usar Simply Piano o Flowkey?",
-      "a": "Sí, mediante su puerto USB-to-Host (con un cable USB Tipo B a USB-C o Lightning) o por Bluetooth MIDI en los modelos que lo integran de fábrica."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA & Roland Digital Piano Comparison Specifications",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Casio America – Privia & Casiotone Dimensions & Key Action",
-      "url": "https://www.casio.com/us/electronic-musical-instruments/"
+      "q": "¿Por qué mi teclado suena con sustain continuo cuando NO estoy pisando el pedal?",
+      "a": "Primero apaga el teclado, suelta el pedal por completo y vuelve a encender el instrumento sin tocar el pedal. Si el problema persiste y tienes un M-Audio SP-2, cambia la posición del pequeño interruptor de polaridad situado debajo de la base de goma."
     }
   ],
   "related": [
-    "/comparativas/",
+    "/comparativas/donner-ddp-80-vs-yamaha-arius-ydp-105/",
+    "/comparativas/yamaha-vs-roland-vs-casio-vs-kawai-pianos-digitales/",
     "/comparativas/pedal-cuadrado-footswitch-vs-pedal-sustain-tipo-piano/",
-    "/comparativas/soporte-madera-fijo-vs-soporte-portatil-plegable/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/comparativas/piano-digital-portatil-slab-vs-piano-con-mueble-consola/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/pedal-m-audio-sp-2-vs-yamaha-fc4a-vs-roland-dp-10.webp"
 }

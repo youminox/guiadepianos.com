@@ -18,8 +18,6 @@ export interface AmazonProductRecommendation {
   title: string;
   subtitle: string;
   features: string[];
-  rating: string;
-  reviewsCount: string;
   categoryType: AmazonCategoryType;
   specs?: {
     budget: string;
@@ -102,11 +100,9 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Diseño más corto y delgado que el clásico P-45 (132.6 × 26.8 cm y solo 11.1 kg), ideal para apartamentos, dormitorios y escritorios",
       "Puerto USB-to-Host para conectar directo a iPad/PC (Simply Piano, Flowkey, Smart Pianist) y salida de audífonos estéreo de 1/4\" (6.35 mm)",
     ],
-    rating: "4.8",
-    reviewsCount: "9.400+",
     categoryType: "piano-88",
     specs: {
-      budget: "~$499–$549 USD",
+      budget: "precio variable en Amazon",
       keyFeel: "88 Teclas Contrapesadas GHC (Martillo Graduado)",
       spaceSize: "132.6 × 26.8 cm (52.2\" × 10.5\") · 11.1 kg",
       compatibility: "Pedal Yamaha FC4A / M-Audio SP-2 · Mueble L-100 · Audífonos 1/4\"",
@@ -117,20 +113,18 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
   },
   ROLAND_FP10: {
     id: "roland-fp-10",
-    badge: "🎹 Mejor Sensación al Tocar (< $550) · Teclado PHA-4 con Escape",
+    badge: "🎹 Mejor Sensación al Tocar · Teclado PHA-4 con Escape",
     title: "Roland FP-10 — Piano Digital de 88 Teclas con Mecanismo PHA-4 Standard, Textura de Marfil y Bluetooth MIDI",
     subtitle:
-      "Si tu prioridad número uno es que las teclas se sientan idénticas a un piano acústico de cola, el Roland FP-10 monta el mismo teclado PHA-4 con simulación de escape y triple sensor que los modelos Roland de más de $1,200.",
+      "Si tu prioridad número uno es que las teclas se sientan idénticas a un piano acústico de cola, el Roland FP-10 monta el mismo teclado PHA-4 con simulación de escape y triple sensor que los modelos Roland de más de precio variable en Amazon.",
     features: [
       "Teclado PHA-4 Standard de 88 teclas con mecanismo de escape (let-off) y superficie Ivory Feel que absorbe el sudor de los dedos",
       "Motor de sonido SuperNATURAL Piano con 96 notas de polifonía y Bluetooth MIDI integrado para conectar sin cables a iPad y apps de aprendizaje",
       "Chasis ultracompacto de 128.4 × 25.8 cm (el más corto en ancho entre los pianos de 88 teclas con martillo real)",
     ],
-    rating: "4.8",
-    reviewsCount: "7.800+",
     categoryType: "piano-88",
     specs: {
-      budget: "~$499–$549 USD",
+      budget: "precio variable en Amazon",
       keyFeel: "88 Teclas PHA-4 Standard con Escape y Marfil Sintético",
       spaceSize: "128.4 × 25.8 cm (50.5\" × 10.1\") · 12.3 kg",
       compatibility: "Pedal Roland DP-10 / M-Audio SP-2 · Soporte KSCFP10 o Z · Audífonos 3.5mm",
@@ -150,11 +144,9 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Doble toma de audífonos frontal (una de 1/4\" y otra de 3.5 mm) para tocar a cuatro manos con tu profesor o en silencio total de noche",
       "Compatible tanto con pedal damper progresivo DP-10 como con el mueble oficial KSC-70 y la pedalera triple KPD-70",
     ],
-    rating: "4.8",
-    reviewsCount: "6.500+",
     categoryType: "piano-88",
     specs: {
-      budget: "~$699–$749 USD",
+      budget: "precio variable en Amazon",
       keyFeel: "88 Teclas PHA-4 Standard con Escape · Polifonía 256",
       spaceSize: "130.0 × 28.4 cm (51.2\" × 11.2\") · 14.8 kg",
       compatibility: "Pedal DP-10 / KPD-70 · Mueble KSC-70 · Audífonos 1/4\" y 3.5mm",
@@ -174,11 +166,9 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Panel táctil iluminado minimalista, 192 notas de polifonía y funcionamiento tanto enchufado como con 6 pilas AA para tocar sin cables",
       "Incluye el adaptador inalámbrico WU-BT10 para Bluetooth Audio y Bluetooth MIDI con la app Casio Music Space, Flowkey y Simply Piano",
     ],
-    rating: "4.7",
-    reviewsCount: "5.900+",
     categoryType: "piano-88",
     specs: {
-      budget: "~$579–$649 USD",
+      budget: "precio variable en Amazon",
       keyFeel: "88 Teclas Smart Scaled Hammer Action (Ébano/Marfil)",
       spaceSize: "132.2 × 23.2 cm (52.0\" × 9.1\") · 11.2 kg",
       compatibility: "Pedal M-Audio SP-2 / Casio SP-34 · Mueble CS-68 · Audífonos 3.5mm (×2)",
@@ -189,20 +179,18 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
   },
   ALESIS_RECITAL_PRO: {
     id: "alesis-recital-pro",
-    badge: "💰 Mejor 88 Teclas Contrapesadas Económico (< $380)",
+    badge: "💰 Mejor 88 Teclas Contrapesadas Económico",
     title: "Alesis Recital Pro / Donner DEP-20 — Piano Digital de 88 Teclas con Acción de Martillo y Altavoces de 20W",
     subtitle:
-      "Para quien quiere empezar con las 88 teclas completas y peso de martillo real pero tiene un presupuesto menor a $380: ofrece 128 notas de polifonía, pantalla LCD guía, modo lección para profesor/alumno y 12 voces integradas.",
+      "Para quien quiere empezar con las 88 teclas completas y peso de martillo real pero tiene un presupuesto menor a precio variable en Amazon: ofrece 128 notas de polifonía, pantalla LCD guía, modo lección para profesor/alumno y 12 voces integradas.",
     features: [
       "88 teclas de tamaño completo con acción de martillo (Hammer Action) y respuesta al tacto ajustable en 4 niveles (Fijo, Suave, Medio, Duro)",
       "Altavoces integrados de 20W, funciones Split, Layer y Lesson Mode (divide las 88 teclas en dos zonas iguales para practicar con profesor)",
       "Salida de audífonos de 1/4\" (6.35 mm), entrada para pedal de sustain universal de 1/4\" y puerto USB-MIDI plug-and-play",
     ],
-    rating: "4.6",
-    reviewsCount: "14.200+",
     categoryType: "piano-88",
     specs: {
-      budget: "~$319–$379 USD",
+      budget: "precio variable en Amazon",
       keyFeel: "88 Teclas Acción de Martillo (Hammer Action)",
       spaceSize: "131.0 × 35.1 cm (51.6\" × 13.8\") · 11.8 kg",
       compatibility: "Pedal M-Audio SP-2 · Soporte en Z / Doble X · Audífonos 1/4\"",
@@ -222,11 +210,9 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "650 voces de alta calidad (con piano de cola Yamaha), modo de lecciones Keys to Success y función Auto Chord Play",
       "Interfaz de audio y MIDI por un solo cable USB para conectar a iPad/PC, entrada para pedal de sustain y salida de audífonos de 1/4\"",
     ],
-    rating: "4.8",
-    reviewsCount: "18.500+",
     categoryType: "keyboard-61",
     specs: {
-      budget: "~$189–$219 USD",
+      budget: "precio variable en Amazon",
       keyFeel: "61 Teclas con Sensibilidad al Tacto (Touch Response)",
       spaceSize: "94.1 × 31.7 cm (37.0\" × 12.5\") · Solo 4.4 kg",
       compatibility: "Pedal M-Audio SP-2 / Yamaha FC4A · Soporte en X · Audífonos 1/4\"",
@@ -237,7 +223,7 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
   },
   CASIO_CT_S300: {
     id: "casio-ct-s300",
-    badge: "🎒 Mejor 61 Teclas Económico y Ultracompacto (< $175)",
+    badge: "🎒 Mejor 61 Teclas Económico y Ultracompacto",
     title: "Casio Casiotone CT-S300 / CT-S1 — Teclado Portátil de 61 Teclas Sensibles al Tacto con Asa de Transporte",
     subtitle:
       "El teclado de 61 teclas con sensibilidad al tacto más fácil de guardar debajo de la cama o colocar sobre un escritorio: pesa apenas 3.3 kg, tiene teclas estilo caja de piano y funciona tanto con corriente como con pilas.",
@@ -246,11 +232,9 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Diseño ultradelgado (93 × 25.6 cm) con asa integrada en el chasis, rueda de Pitch Bend y 400 tonos + 77 ritmos",
       "Salida de audífonos de 3.5 mm (conecta cualquier auricular con cable directo), entrada para pedal de sustain de 1/4\" y puerto USB-MIDI",
     ],
-    rating: "4.7",
-    reviewsCount: "21.300+",
     categoryType: "keyboard-61",
     specs: {
-      budget: "~$149–$179 USD",
+      budget: "precio variable en Amazon",
       keyFeel: "61 Teclas Sensibles al Tacto (Textura Tipo Piano)",
       spaceSize: "93.0 × 25.6 cm (36.6\" × 10.1\") · Solo 3.3 kg",
       compatibility: "Pedal M-Audio SP-2 · Soporte Plegable X · Audífonos 3.5mm Directo",
@@ -270,11 +254,9 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "88 teclas contrapesadas de tamaño estándar con respuesta dinámica graduada y sistema de altavoces estéreo envolventes de 20W+20W",
       "Fondo compacto ideal para paredes de apartamento, conexión USB-MIDI para apps y salida de audífonos para practicar en silencio",
     ],
-    rating: "4.6",
-    reviewsCount: "6.100+",
     categoryType: "console-piano",
     specs: {
-      budget: "~$499–$649 USD (Mueble + 3 Pedales Incluidos)",
+      budget: "precio variable en Amazon (Mueble + 3 Pedales Incluidos)",
       keyFeel: "88 Teclas Contrapesadas Hammer Action + 3 Pedales",
       spaceSize: "126.8 × 35.5 × 74.5 cm · Mueble Completo",
       compatibility: "Incluye Soporte y 3 Pedales · Compatible con Banco y Audífonos 1/4\"",
@@ -294,11 +276,9 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Base recubierta de goma antideslizante de alto agarre para que el pedal no se escape hacia adelante sobre pisos de madera, cerámica o alfombra",
       "Cable reforzado de 1.8 metros (6 ft) con conector estándar de 1/4\" (6.35 mm) y muelle de tensión calibrada estilo piano vertical",
     ],
-    rating: "4.8",
-    reviewsCount: "46.800+",
     categoryType: "pedal",
     specs: {
-      budget: "~$22–$29 USD",
+      budget: "precio variable en Amazon",
       keyFeel: "Pedal Metálico Cromado con Resistencia de Piano Real",
       spaceSize: "Base Antideslizante · Cable 1.8m con Jack 1/4\" (6.35 mm)",
       compatibility: "100% Universal (Selector Polaridad): Yamaha, Casio, Roland, Alesis",
@@ -318,11 +298,9 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Incluye correas de seguridad (security straps) que se atornillan debajo del piano para evitar caídas accidentales y gancho lateral para colgar los audífonos",
       "Acompáñalo con el banco acolchado de altura regulable (44 a 56 cm) para mantener los antebrazos paralelos al suelo sin dolor de espalda",
     ],
-    rating: "4.8",
-    reviewsCount: "19.400+",
     categoryType: "stand-bench",
     specs: {
-      budget: "~$59–$89 USD",
+      budget: "precio variable en Amazon",
       keyFeel: "Estabilidad Total hasta 113 kg (250 lb) · Espacio Libre de Piernas",
       spaceSize: "Ancho Ajustable 57–85 cm · Altura 60–85 cm (Apto 61, 76 y 88 Teclas)",
       compatibility: "Compatible con Yamaha P-145/PSR, Roland FP-10/30X, Casio y Alesis",
@@ -342,11 +320,9 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Impedancia ideal de 47 Ω (suenan potentes y cristalinos conectados directamente al piano sin necesitar amplificador adicional)",
       "Almohadillas circumaurales que rodean toda la oreja, aíslan el ruido exterior y cuentan con un cable largo de 3 metros que no estorba al tocar",
     ],
-    rating: "4.7",
-    reviewsCount: "39.200+",
     categoryType: "headphones",
     specs: {
-      budget: "~$49–$69 USD",
+      budget: "precio variable en Amazon",
       keyFeel: "Drivers de 40 mm (47 Ω) · 0 ms de Latencia · Cable de 3 Metros",
       spaceSize: "Orejeras Circumaurales Cómodas · Aislamiento Nocturno",
       compatibility: "Incluye Conector 3.5 mm + Adaptador 1/4\" (6.35 mm) para Todo Piano",
@@ -366,11 +342,9 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Cubrepolvo de tela spandex transpirable con cordón ajustable en medidas para 61/76 teclas y para 88 teclas (evita que el polvo calle las teclas)",
       "Opcional con funda acolchada impermeable (Gig Bag) para guardar o transportar el teclado con total seguridad",
     ],
-    rating: "4.8",
-    reviewsCount: "15.700+",
     categoryType: "midi-accessory",
     specs: {
-      budget: "~$14–$24 USD",
+      budget: "precio variable en Amazon",
       keyFeel: "Reconocimiento MIDI Instantáneo en Apps + Protección de Sensores",
       spaceSize: "Cable de 2 Metros + Cubrepolvo Elástico (Tallas 61 y 88 Teclas)",
       compatibility: "Puertos USB-to-Host de Yamaha, Casio, Roland, Alesis y Korg",
@@ -487,7 +461,7 @@ export function getContextualAmazonProducts(
     };
   }
 
-  // 5. Teclados de 61 / 76 Teclas, Niños y Presupuesto < $200
+  // 5. Teclados de 61 / 76 Teclas, Niños y Presupuesto precio variable en Amazon
   if (
     text.includes("61-teclas") ||
     text.includes("61 teclas") ||
@@ -516,7 +490,7 @@ export function getContextualAmazonProducts(
     };
   }
 
-  // 6. Pianos de 88 Teclas Económicos (< $380: Alesis Recital Pro / Donner DEP-20)
+  // 6. Pianos de 88 Teclas Económicos
   if (
     text.includes("alesis") ||
     text.includes("dep-20") ||

@@ -3,159 +3,121 @@
   "pillar": "mantenimiento-limpieza-y-transporte",
   "path": "/mantenimiento-limpieza-y-transporte/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "como limpiar y proteger un piano digital cubrepolvos y fundas",
   "title": "Mantenimiento y Limpieza de Pianos Digitales, Cubrepolvos y Fundas de Transporte",
-  "seoTitle": "Cómo Limpiar las Teclas de un Piano Digital, Cubrepolvos y Fundas de 88 y 61 Teclas",
-  "metaDescription": "Mantenimiento y Limpieza de Pianos Digitales, Cubrepolvos y Fundas de Transporte: hub completo con 50 guías sobre cómo limpiar teclas blancas y negras sin dañar el acabado mate ni los contactos internos, protección frente al polvo, humedad y mascotas con cubrepolvos elásticos, y elección de fundas acolchadas (Gig Bags) por medidas en centímetros y ofertas en Amazon EE. UU.",
-  "excerpt": "Explora las 50 guías especializadas de este silo sobre cómo limpiar teclas blancas y negras sin dañar el acabado mate ni los contactos internos, protección frente al polvo, humedad y mascotas con cubrepolvos elásticos, y elección de fundas acolchadas (Gig Bags) por medidas en centímetros.",
-  "quickAnswer": "En esta sección principal de Mantenimiento y Limpieza de Pianos Digitales, Cubrepolvos y Fundas de Transporte reunimos 50 guías verificadas sobre cómo limpiar teclas blancas y negras sin dañar el acabado mate ni los contactos internos, protección frente al polvo, humedad y mascotas con cubrepolvos elásticos, y elección de fundas acolchadas (Gig Bags) por medidas en centímetros, diseñadas para ayudarte a elegir entre modelos de 61 y 88 teclas según tu presupuesto, espacio disponible y sensación al tocar, además de pedales, soportes, bancos y audífonos compatibles en Amazon.",
-  "readingMinutes": 8,
+  "seoTitle": "Mantenimiento y Limpieza de Pianos Digitales, Cubrepolvos y Fundas de Transporte | guiadepianos.com",
+  "metaDescription": "Cómo limpiar y proteger un piano digital o teclado: limpieza segura de teclas, cubrepolvos de 61 y 88 teclas, fundas acolchadas con ruedas y cuidado de pilas.",
+  "excerpt": "Aprende a limpiar correctamente las teclas de tu piano digital o teclado sin dañar el acabado marfil ni los sensores internos, por qué usar un cubrepolvos diario y cómo elegir una funda acolchada de transporte.",
+  "quickAnswer": "Para mantener intactos los sensores de velocidad y el mecanismo de martillo de tu piano digital durante más de una década, limpia las teclas únicamente con un **paño de microfibra apenas humedecido en agua tibia** (sin alcohol, cloro ni aerosoles), coloca un **cubrepolvos ajustable de 61 u 88 teclas** al terminar cada sesión, retira las **6 pilas AA** si no las usas y transpórtalo en una **funda acolchada (*Gig Bag*) con correas internas**.",
+  "readingMinutes": 7,
   "image": {
-    "prompt": "A fitted black spandex dust cover partially pulled back over an 88-key digital piano alongside a clean microfiber cloth and a padded wheeled gig bag in a tidy room, realistic photo",
-    "alt": "Cubrepolvo elástico negro sobre un piano digital de 88 teclas junto a un paño de microfibra y funda acolchada"
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Mantenimiento y Limpieza de Pianos Digitales, Cubrepolvos y Fundas de Transporte' (como limpiar y proteger un piano digital cubrepolvos y fundas) for guiadepianos.com, featuring equipment in sleek titanium silver with carbon-gray texture, in a bright family home interior with clean architectural lines, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Mantenimiento y Limpieza de Pianos Digitales, Cubrepolvos y Fundas de Transporte"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Mantenimiento y Limpieza de Pianos Digitales, Cubrepolvos y Fundas de Transporte** en **GuiaDePianos.com**. Aquí reunimos todas las pruebas táctiles, mediciones en centímetros para apartamentos y criterios de compra sobre **cómo limpiar teclas blancas y negras sin dañar el acabado mate ni los contactos internos, protección frente al polvo, humedad y mascotas con cubrepolvos elásticos, y elección de fundas acolchadas (Gig Bags) por medidas en centímetros**, organizados bajo una arquitectura sin canibalización para que elijas tu primer piano digital o teclado y sus accesorios 100 % compatibles en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si buscas tu primer piano digital de 88 teclas contrapesadas con acción de martillo graduado como el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** o el ultradelgado **[Casio Privia PX-S1100](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)** (23.2 cm de fondo), como si prefieres un teclado portátil de 61 teclas con sensibilidad al tacto para un escritorio como el **[Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** o el **[Casio Casiotone CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/)**, dominar las guías de este silo te asegurará acertar a la primera."
+      "text": "Debajo de las **88 o 61 teclas** de tu instrumento no hay cuerdas de acero ni clavijeros que requieran la visita semestral de un afinador, pero sí existe un componente delicado que tiene un enemigo silencioso en casa: las **tiras de sensores de goma conductora** y la **grasa lubricante de fábrica** de los pivotes de las teclas. Cuando un teclado queda descubierto semanas enteras o se limpia con líquidos agresivos de cocina, el polvo doméstico mezclado con humedad penetra por las ranuras entre tecla y tecla hasta bloquear los sensores de velocidad, del mismo modo que exponer el instrumento a temperaturas extremas puede deformar su chasis, como advertimos en nuestra guía sobre [por qué nunca debes dejar tu piano digital o teclado dentro de un auto estacionado al sol en verano (más de 55 °C)](/mantenimiento-limpieza-y-transporte/cuidado-con-dejar-el-piano-digital-dentro-de-un-coche-cerrado-al-sol-en-verano/)."
     },
     {
       "type": "h2",
-      "text": "Qué aprenderás en Mantenimiento y Limpieza de Pianos Digitales, Cubrepolvos y Fundas de Transporte"
+      "text": "Cómo Limpiar las Teclas (Acrílico Liso vs Textura de Marfil) sin Dañar el Acabado ni los Sensores"
     },
     {
       "type": "p",
-      "text": "En cada una de las **50 guías especializadas** de esta categoría analizamos los cuatro factores reales que determinan tu comodidad al aprender: el **presupuesto real en dólares**, el **espacio disponible en centímetros y pulgadas** en tu habitación, la **sensación al tocar en tus dedos** (`GHC`, `GHS`, `PHA-4 con escape`, `Smart Scaled`, `RHC` o `Touch Response`) y la **compatibilidad exacta de pedales de sustain (con selector de polaridad `N.O./N.C.`), soportes en Z/X, bancos regulables y audífonos con adaptador de `1/4\"` (`6.35 mm`)**."
+      "text": "La regla número uno de conservación de cualquier piano digital (**Yamaha, Roland, Casio o Kawai**) es **no pulverizar jamás alcohol isopropílico concentrado, limpiavidrios con amoníaco, acetona ni aerosoles limpiamuebles con silicona** directamente sobre el teclado. El alcohol y los solventes resecan, agrietan y amarillean tanto el acrílico brillante como los recubrimientos microporosos que imitan el marfil y el ébano (**Ivory Feel** en **Roland FP-10/FP-30X** o **Casio Privia PX-S1100**), mientras que el líquido rociado en spray escurre entre las teclas hacia la placa electrónica inferior. Para una limpieza segura, utiliza siempre **dos paños de microfibra suaves**: uno apenas humedecido en agua tibia (con una sola gota de jabón neutro diluido si hay grasa de los dedos, bien escurrido para que no gotee) deslizando siempre **desde el fondo de la tecla hacia ti** (nunca de lado a lado, para no empujar suciedad entre las ranuras), y el segundo paño totalmente seco inmediatamente después."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Mantenimiento y Limpieza de Pianos Digitales, Cubrepolvos y Fundas de Transporte",
       "headers": [
-        "Guía Especializada de Piano y Teclado",
-        "Acceso Directo"
+        "Componente del piano / teclado",
+        "Qué hacer y qué accesorio utilizar",
+        "Qué evitar bajo cualquier circunstancia"
       ],
       "rows": [
         [
-          "Cómo Limpiar las Teclas Blancas y Negras de tu Piano Digital Paso a Paso (Solo Paño de Microfibra y Agua Tibia)",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/como-limpiar-las-teclas-blancas-y-negras-de-un-piano-digital-sin-danarlas/)"
+          "Superficie de las 88 / 61 teclas",
+          "Paño de microfibra limpio apenas humedecido en agua tibia + secado inmediato de atrás hacia adelante",
+          "Alcohol puro, limpiavidrios, toallitas desinfectantes con cloro o rociar líquidos en spray sobre las teclas"
         ],
         [
-          "El Sentido del Paño Importa: Por Qué Siempre Debes Limpiar las Teclas de Atrás Hacia Adelante y Nunca de Izquierda a Derecha",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/por-que-nunca-debes-limpiar-de-lado-a-lado-las-teclas-del-piano-para-no-meter-polvo-en-las-ranuras/)"
+          "Sensores internos bajo las teclas",
+          "Colocar un cubrepolvos elástico (88 o 61 teclas) con cordón de ajuste cada vez que termines de tocar",
+          "Dejar el teclado descubierto día y noche cerca de ventanas abiertas, mascotas o ventiladores"
         ],
         [
-          "Los 5 Productos Químicos que JAMÁS Debes Aplicar a las Teclas de un Piano Digital (Alcohol, Cloro, Limpiacristales y Aerosoles)",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/productos-prohibidos-por-que-el-alcohol-la-acetona-el-cloro-y-las-toallitas-desinfectantes-opacan-las-teclas/)"
+          "Compartimento de 6 pilas AA (Casio / Yamaha)",
+          "Retirar las pilas si usas el cable de corriente o si no vas a tocar el teclado durante más de 3 a 4 semanas",
+          "Dejar pilas alcalinas puestas durante meses (la sulfatación por ácido corroe los resortes y la placa)"
         ],
         [
-          "Cómo Quitar Huellas de Grasa Rebeldes de las Teclas con una Gota de Jabón Neutro Diluida en un Vaso de Agua",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/que-jabon-neutro-diluido-puedes-usar-si-las-teclas-tienen-grasa-o-manchas-de-dedos/)"
+          "Transporte a clases, ensayos o viajes",
+          "Funda acolchada (Gig Bag) con 15–25 mm de espuma EPE, correas internas de sujeción y ruedas en modelos de 88 teclas",
+          "Llevar el piano suelto en el maletero o dejarlo dentro de un coche cerrado al sol (> 55 °C)"
         ],
         [
-          "El Hábito de 30 Segundos de los Conservatorios: Lavarse y Secarse Bien las Manos Antes de Sentarse al Piano",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/por-que-es-tan-importante-lavarse-las-manos-con-jabon-antes-de-tocar-el-piano-digital/)"
-        ],
-        [
-          "Por Qué el Polvo Es el Enemigo #1 de los Sensores de Velocidad de un Piano Digital (Y Cómo un Cubrepolvo Lo Evita al 100 %)",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/para-que-sirve-el-cubrepolvo-dust-cover-y-por-que-es-el-accesorio-de-14-dolares-mas-importante/)"
-        ],
-        [
-          "Guía de Tallas de Cubrepolvos Elásticos de Spandex en Amazon: Medidas para 61/76 Teclas vs 88 Teclas",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/como-elegir-la-talla-correcta-de-cubrepolvo-en-amazon-talla-61-76-teclas-vs-talla-88-teclas/)"
-        ],
-        [
-          "Por Qué un Cubrepolvo con Abertura Superior con Velcro Te Permite Tapar el Piano sin Tener que Quitar el Atril ni los Libros",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/cubrepolvo-con-ranura-para-el-atril-de-partituras-vs-cubrepolvo-cerrado-cual-es-mas-practico/)"
-        ],
-        [
-          "Cada Cuánto Sacudir y Lavar el Cubrepolvo de tu Piano Digital (¡En Otro Cuarto Lejos del Teclado!)",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/como-lavar-el-cubrepolvo-de-tela-o-spandex-para-que-no-suelte-pelusa-sobre-el-piano/)"
-        ],
-        [
-          "Por Qué Amarillean las Teclas Blancas del Piano con el Tiempo (Radiación Ultravioleta del Sol) y Cómo Evitarlo",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/por-que-se-ponen-amarillas-las-teclas-blancas-de-un-piano-o-teclado-con-los-anos-rayos-uv/)"
-        ],
-        [
-          "Cómo Aspirar o Pasar un Rodillo Quita-Pelusas por la Tela de los Altavoces (Casio CT-S1 / Yamaha P-225 / Roland)",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/como-limpiar-las-rejillas-de-tela-o-metal-de-los-altavoces-de-tu-piano-digital-sin-empujar-el-polvo-adentro/)"
-        ],
-        [
-          "Cuidado del Panel Acrílico Tipo Espejo del Casio Privia PX-S1100 / S3100: Paño de Lentes de Microfibra en Seco",
-          "[Ver guía completa](/mantenimiento-limpieza-y-transporte/como-limpiar-el-panel-tactil-brillante-del-casio-privia-px-s1100-sin-hacer-micro-rayones/)"
+          "Mudanza de casa (portátil o con mueble)",
+          "Desmontar del soporte, envolver en plástico de burbujas grueso + cartón o usar su caja original con poliestireno",
+          "Transportar un piano digital con mueble armado cargándolo desde la barra superior del teclado"
         ]
-      ]
+      ],
+      "caption": "Guía de mantenimiento preventivo, protección contra el polvo y transporte seguro por componente"
+    },
+    {
+      "type": "h2",
+      "text": "Cubrepolvos, Retirada de Pilas AA, Fundas con Ruedas y Embalaje para Mudanzas"
+    },
+    {
+      "type": "p",
+      "text": "El accesorio más económico y rentable que existe para alargar diez años la vida de tu instrumento es un **cubrepolvos de tela transpirable o spandex elástico con abertura para el atril**: toma tres segundos colocarlo al terminar tu sesión y bloquea el **99 %** del polvo, pelos de mascota y salpicaduras accidentales. Si tu teclado o piano (como el **Casio Privia PX-S1100**, **CDP-S160** o **Yamaha PSR-E383**) admite alimentación a baterías, aplica siempre la precaución explicada en nuestro artículo sobre [por qué debes retirar las 6 pilas AA del compartimento inferior si usas el teclado enchufado a la pared o no lo usarás en un mes](/mantenimiento-limpieza-y-transporte/que-hacer-si-usas-tu-teclado-con-pilas-y-no-lo-vas-a-usar-en-un-mes-retirar-las-pilas/) para evitar que el hidróxido de potasio de una pila sulfatada destruya los terminales. Y cuando toque mover el instrumento fuera de casa, consulta cuándo elegir [fundas de piano de 88 teclas con ruedas tipo maleta (Wheeled Gig Bag) para pianos de 12 a 15 kilos](/mantenimiento-limpieza-y-transporte/fundas-de-piano-de-88-teclas-con-ruedas-tipo-maleta-wheeled-gig-bag-cuando-valen-la-pena/) y nuestra guía sobre [cómo proteger y embalar tu piano digital durante una mudanza de casa paso a paso](/mantenimiento-limpieza-y-transporte/como-proteger-tu-piano-digital-durante-una-mudanza-de-casa-paso-a-paso/)."
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Compatibilidad universal verificada (Pedal Polaridad · Soporte en Z · Audífonos 1/4\" 0 ms)",
-      "text": "Antes de comprar accesorios en Amazon, recuerda las 3 reglas de compatibilidad: 1) Elige un pedal de sustain con interruptor de polaridad en la base (como el M-Audio SP-2) para que nunca suene al revés en Yamaha, Casio, Roland o Alesis; 2) Para 88 teclas usa un soporte en Z Heavy Duty o mueble oficial que deje espacio libre para tus rodillas; 3) Usa siempre audífonos con cable de 32–64 Ω con adaptador de 1/4\" (nunca Bluetooth, cuya latencia retrasa cada nota)."
+      "variant": "tip",
+      "text": "Si te mudas de casa o vas a guardar tu piano digital a largo plazo, conservar la caja de cartón original junto con sus bloques internos de poliestireno expandido (tecnopor / unicel) hechos a medida vale oro. Esos moldes sujetan el chasis por los extremos estructurales sin presionar ninguna de las 88 teclas ni las perillas de volumen. Si no tienes espacio para la caja entera, guarda al menos los moldes laterales de espuma dentro de una bolsa en el altillo del armario.",
+      "title": "El consejo de taller: por qué conservar los moldes de espuma de la caja original"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces a Amazon Estados Unidos"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Mide primero tu espacio libre en centímetros:** si dispones de `129 a 133 cm` de ancho, puedes instalar un piano de 88 teclas contrapesadas como el [Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/) o el [Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/); si tienes un escritorio de `95 cm`, elige un teclado de 61 teclas con Touch Response como el [Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/) o el [Casio CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/).",
-        "**Completa tu setup desde el primer día:** añadir el [pedal metálico universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/), un [soporte en Z estable](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/) y los [audífonos de estudio Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/) transforma tu experiencia de práctica diaria y nocturna.",
-        "**Consulta las ofertas actualizadas en Amazon:** todas nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guiadepianos-20`)** y permiten cambiar con un clic a **Amazon España (`guiadepianos02-21`)**."
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿No sabes qué piano de 88 teclas, teclado de 61 teclas, pedal, soporte o audífonos de este silo elegir? Pregúntale en vivo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para estrenar tu primer piano digital o teclado en casa"
+      "text": "Rutina de Cuidado en 4 Hábitos para que Tu Piano Dure Más de 10 Años"
     },
     {
       "type": "ul",
       "items": [
-        "**Exige siempre sensibilidad a la velocidad (Touch Response o Acción de Martillo):** nunca compres un teclado cuyas teclas suenen siempre al mismo volumen sin importar la fuerza de tus dedos.",
-        "**No enciendas el teclado mientras pisas el pedal de sustain:** si mantienes el pie sobre el pedal durante el encendido, el piano invertirá la polaridad y sonará al revés.",
-        "**Coloca las teclas blancas a 71–73 cm del suelo y ajusta el banco (45–53 cm):** tus antebrazos deben quedar horizontales y paralelos al piso para tocar sin dolor de muñecas ni espalda.",
-        "**Conecta tu iPad con un cable USB-MIDI (Tipo B a USB-C) y cubre las teclas al terminar:** el cable USB hace que Simply Piano y Flowkey reconozcan cada acorde sin fallos incluso con audífonos puestos, y el cubrepolvo protege los sensores durante décadas."
+        "**Lávate y sécate las manos antes de cada sesión de práctica:** el sudor y la grasa natural de las yemas de los dedos son la causa principal de que las teclas texturizadas (*Ivory Feel*) pierdan su tacto mate y adquieran brillos resbaladizos con los meses.",
+        "**Cubre el teclado apenas apagues el botón Power:** mantén el cubrepolvos de **61 u 88 teclas** doblado sobre una esquina del soporte mientras tocas para que tapar el instrumento al terminar sea un gesto automático.",
+        "**Ubica el piano lejos de radiadores, aires acondicionados directos y luz solar de ventana:** los rayos UV directos amarillean el polímero blanco de las teclas y el calor seco degrada prematuramente la grasa amortiguadora de los martillos internos.",
+        "**Elige la funda de transporte (*Gig Bag*) midiendo los 3 ejes exactos de tu modelo:** no todas las fundas de **88 teclas** miden lo mismo; un piano compacto de **132 × 26 × 11 cm** bailará suelto dentro de una funda gigante para sintetizadores de escenario de **145 × 40 cm** a menos que la funda incluya correas internas de velcro acolchadas."
       ]
+    },
+    {
+      "type": "cta",
+      "text": "Revisa nuestras guías de limpieza, protección y transporte seguro, consulta al Asesor IA para encontrar el cubrepolvos o la funda acolchada con las medidas exactas de tu modelo y verifica la disponibilidad en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Mantenimiento y Limpieza de Pianos Digitales, Cubrepolvos y Fundas de Transporte?",
-      "a": "Incluye 50 artículos prácticos y comparativas sobre cómo limpiar teclas blancas y negras sin dañar el acabado mate ni los contactos internos, protección frente al polvo, humedad y mascotas con cubrepolvos elásticos, y elección de fundas acolchadas (Gig Bags) por medidas en centímetros, con tablas de medidas en centímetros, sensación de tecla y compatibilidad de pedales, soportes, bancos y audífonos en Amazon Estados Unidos."
+      "q": "¿Se pueden limpiar las teclas de un piano digital con alcohol o toallitas desinfectantes?",
+      "a": "Nunca uses alcohol isopropílico puro, gel antibacterial hidroalcohólico ni toallitas con cloro o amoníaco sobre las teclas de un piano digital. Esos solventes atacan el recubrimiento microporoso (Ivory Feel) y cuartean el plástico acrílico. Usa únicamente un paño de microfibra humedecido con agua tibia (y una gota mínima de jabón neutro muy diluido) bien escurrido."
     },
     {
-      "q": "¿Las recomendaciones sirven para quien busca su primer piano digital o teclado?",
-      "a": "Sí, todo el portal está redactado en español claro para principiantes, padres y estudiantes, comparando modelos de 61 y 88 teclas sin tecnicismos confusos."
+      "q": "¿Por qué es tan importante ponerle un cubrepolvos a un piano digital si no tiene cuerdas?",
+      "a": "Porque el espacio milimétrico entre cada tecla conduce directamente a las tiras de goma con sensores de carbono que miden la velocidad de pulsación. Cuando el polvo doméstico se acumula bajo esa membrana de goma, impide que el circuito haga contacto limpio y provoca que una tecla deje de sonar o dispare siempre el volumen al máximo."
     },
     {
-      "q": "¿Puedo preguntar qué pedal, soporte o audífonos sirven para mi modelo exacto?",
-      "a": "Por supuesto: abre el chat del Asesor de Pianos IA en la esquina inferior derecha, indícale tu presupuesto, espacio o modelo y te recomendará los accesorios 100 % compatibles en Amazon."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Pianos & Portable Keyboards Official Specs",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation US – FP-Series Digital Pianos & PHA-4 Action",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Es mejor una funda normal con correa al hombro o una funda con ruedas para un piano de 88 teclas?",
+      "a": "Para un teclado ligero de 61 teclas (de 3.3 a 4.5 kg), una funda acolchada tipo mochila o con correa al hombro de 10 a 15 mm de espuma es ideal. En cambio, para un piano digital de 88 teclas contrapesadas (que pesa entre 11 y 15 kg y mide más de 1.30 metros), una funda con ruedas integradas (Wheeled Gig Bag) y acolchado de 20–25 mm evita lesiones de espalda."
     }
   ],
   "related": [
-    "/mantenimiento-limpieza-y-transporte/como-limpiar-las-teclas-blancas-y-negras-de-un-piano-digital-sin-danarlas/",
-    "/mantenimiento-limpieza-y-transporte/por-que-nunca-debes-limpiar-de-lado-a-lado-las-teclas-del-piano-para-no-meter-polvo-en-las-ranuras/",
-    "/mantenimiento-limpieza-y-transporte/productos-prohibidos-por-que-el-alcohol-la-acetona-el-cloro-y-las-toallitas-desinfectantes-opacan-las-teclas/",
-    "/mantenimiento-limpieza-y-transporte/que-jabon-neutro-diluido-puedes-usar-si-las-teclas-tienen-grasa-o-manchas-de-dedos/"
+    "/mantenimiento-limpieza-y-transporte/fundas-de-piano-de-88-teclas-con-ruedas-tipo-maleta-wheeled-gig-bag-cuando-valen-la-pena/",
+    "/mantenimiento-limpieza-y-transporte/como-proteger-tu-piano-digital-durante-una-mudanza-de-casa-paso-a-paso/",
+    "/mantenimiento-limpieza-y-transporte/cuidado-con-dejar-el-piano-digital-dentro-de-un-coche-cerrado-al-sol-en-verano/",
+    "/mantenimiento-limpieza-y-transporte/que-hacer-si-usas-tu-teclado-con-pilas-y-no-lo-vas-a-usar-en-un-mes-retirar-las-pilas/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/mantenimiento-limpieza-y-transporte.webp"
 }

@@ -4,158 +4,125 @@
   "path": "/comparativas/",
   "isPillar": true,
   "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "comparativa pianos digitales yamaha vs roland vs casio",
   "title": "Comparativas de Pianos Digitales (88 vs 61 Teclas) y Accesorios: Duelos Modelo vs Modelo",
-  "seoTitle": "Comparativas de Pianos Digitales y Teclados: Yamaha vs Roland vs Casio en Amazon",
-  "metaDescription": "Comparativas de Pianos Digitales (88 vs 61 Teclas) y Accesorios: Duelos Modelo vs Modelo: hub completo con 30 guías sobre duelos directos entre modelos de 88 y 61 teclas (Yamaha P-145, Roland FP-10/FP-30X, Casio Privia PX-S1100, Yamaha PSR-E383, Casio CT-S300, Alesis Recital Pro) y accesorios según presupuesto, espacio y sensación al tocar y ofertas en Amazon EE. UU.",
-  "excerpt": "Explora las 30 guías especializadas de este silo sobre duelos directos entre modelos de 88 y 61 teclas (Yamaha P-145, Roland FP-10/FP-30X, Casio Privia PX-S1100, Yamaha PSR-E383, Casio CT-S300, Alesis Recital Pro) y accesorios según presupuesto, espacio y sensación al tocar.",
-  "quickAnswer": "En esta sección principal de Comparativas de Pianos Digitales (88 vs 61 Teclas) y Accesorios reunimos 30 guías verificadas sobre duelos directos entre modelos de 88 y 61 teclas (Yamaha P-145, Roland FP-10/FP-30X, Casio Privia PX-S1100, Yamaha PSR-E383, Casio CT-S300, Alesis Recital Pro) y accesorios según presupuesto, espacio y sensación al tocar, diseñadas para ayudarte a elegir entre modelos de 61 y 88 teclas según tu presupuesto, espacio disponible y sensación al tocar, además de pedales, soportes, bancos y audífonos compatibles en Amazon.",
-  "readingMinutes": 8,
+  "seoTitle": "Comparativas de Pianos Digitales (88 vs 61 Teclas) y Accesorios: Duelos Modelo vs Modelo | guiadepianos.com",
+  "metaDescription": "Comparativas cara a cara de pianos digitales Yamaha, Roland, Casio y Alesis: diferencias reales en peso de tecla, motores de sonido, fondo y conectividad.",
+  "excerpt": "Ponemos frente a frente los pianos digitales de 88 teclas y teclados de 61 teclas más buscados para que compares mecanismos de martillo, motores acústicos, dimensiones y salidas de audio.",
+  "quickAnswer": "Al enfrentar modelos directos de **Yamaha**, **Roland** y **Casio**, la decisión rara vez depende de una sola cifra: **Roland** prioriza el realismo mecánico con triple sensor y escape en su teclado **PHA-4**, **Yamaha** equilibra un ataque ágil en su mecanismo **GHC** con muestras de cola **CFIIIS/CFX**, y **Casio** lidera en portabilidad ultradelgada con **23.2 cm** de fondo y conectividad **Bluetooth Audio/MIDI**.",
+  "readingMinutes": 7,
   "image": {
-    "prompt": "Side-by-side comparison of an 88-key weighted digital piano and a compact 61-key touch-sensitive keyboard on a wooden studio table with sustain pedals and studio headphones, natural daylight, realistic photo",
-    "alt": "Comparativa lado a lado entre un piano digital de 88 teclas contrapesadas y un teclado compacto de 61 teclas"
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Comparativas de Pianos Digitales (88 vs 61 Teclas) y Accesorios: Duelos Modelo vs Modelo' (comparativa pianos digitales yamaha vs roland vs casio) for guiadepianos.com, featuring equipment in arctic white with warm stone-gray details, beside a neat storage shelf in a sunlit modern room, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Comparativas de Pianos Digitales (88 vs 61 Teclas) y Accesorios: Duelos Modelo vs Modelo"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Comparativas de Pianos Digitales (88 vs 61 Teclas) y Accesorios: Duelos Modelo vs Modelo** en **GuiaDePianos.com**. Aquí reunimos todas las pruebas táctiles, mediciones en centímetros para apartamentos y criterios de compra sobre **duelos directos entre modelos de 88 y 61 teclas (Yamaha P-145, Roland FP-10/FP-30X, Casio Privia PX-S1100, Yamaha PSR-E383, Casio CT-S300, Alesis Recital Pro) y accesorios según presupuesto, espacio y sensación al tocar**, organizados bajo una arquitectura sin canibalización para que elijas tu primer piano digital o teclado y sus accesorios 100 % compatibles en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si buscas tu primer piano digital de 88 teclas contrapesadas con acción de martillo graduado como el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** o el ultradelgado **[Casio Privia PX-S1100](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)** (23.2 cm de fondo), como si prefieres un teclado portátil de 61 teclas con sensibilidad al tacto para un escritorio como el **[Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** o el **[Casio Casiotone CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/)**, dominar las guías de este silo te asegurará acertar a la primera."
+      "text": "Cuando colocas dos fichas técnicas una al lado de la otra y ambas prometen **88 teclas contrapesadas con acción de martillo graduado**, resulta difícil adivinar por qué dos instrumentos de la misma categoría se sienten y suenan tan distintos en la práctica. Un cambio de generación o de fabricante modifica por completo el punto de pivote de la tecla, la curva de velocidad y el tamaño del mueble, como comprobamos al medir milímetro a milímetro la [comparativa entre el nuevo Yamaha P-145 con teclado GHC y el clásico Yamaha P-45](/comparativas/yamaha-p-145-vs-yamaha-p-45/). En esta sección enfrentamos cara a cara los modelos más buscados para mostrarte qué ganas y qué cedes en cada elección."
     },
     {
       "type": "h2",
-      "text": "Qué aprenderás en Comparativas de Pianos Digitales (88 vs 61 Teclas) y Accesorios"
+      "text": "Yamaha vs Roland vs Casio en 88 Teclas: Filosofía Mecánica y Timbre Acústico"
     },
     {
       "type": "p",
-      "text": "En cada una de las **30 guías especializadas** de esta categoría analizamos los cuatro factores reales que determinan tu comodidad al aprender: el **presupuesto real en dólares**, el **espacio disponible en centímetros y pulgadas** en tu habitación, la **sensación al tocar en tus dedos** (`GHC`, `GHS`, `PHA-4 con escape`, `Smart Scaled`, `RHC` o `Touch Response`) y la **compatibilidad exacta de pedales de sustain (con selector de polaridad `N.O./N.C.`), soportes en Z/X, bancos regulables y audífonos con adaptador de `1/4\"` (`6.35 mm`)**."
+      "text": "Los tres grandes fabricantes japoneses abordan la simulación del piano acústico desde prioridades distintas. **Roland** construye sus modelos **FP-10** y **FP-30X** alrededor del mecanismo **PHA-4 Standard**, que añade simulación mecánica de escape (ese ligero clic táctil al presionar la tecla muy despacio) y **triple sensor** para repetir notas rápidas sin levantar la tecla hasta arriba, ofreciendo un tacto firme y ligeramente más pesado. **Yamaha**, por su parte, apuesta en el **P-145** y **P-225** por el mecanismo **GHC (Graded Hammer Compact)**, de respuesta más rápida y uniforme, combinado con muestras brillantes de sus pianos de cola **CFIIIS** y **CFX**. **Casio** prioriza la reducción extrema de volumen físico en la serie **CDP-S** y **Privia PX-S1100**, logrando fondos de entre **23.2 cm y 23.2 cm**, una ventaja decisiva que desglosamos en nuestro duelo directo [Casio CDP-S160 vs Yamaha P-145 para principiantes](/comparativas/casio-cdp-s160-vs-yamaha-p-145/)."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Comparativas de Pianos Digitales (88 vs 61 Teclas) y Accesorios",
       "headers": [
-        "Guía Especializada de Piano y Teclado",
-        "Acceso Directo"
+        "Fabricante y serie",
+        "Mecanismo de tecla y sensores",
+        "Carácter del motor de sonido",
+        "Ventaja competitiva principal",
+        "Limitación frente a sus rivales"
       ],
       "rows": [
         [
-          "Piano de 88 Teclas Contrapesadas vs Teclado de 61 Teclas: ¿Cuál Comprar Primero según tu Presupuesto, Espacio y Estilo?",
-          "[Ver guía completa](/comparativas/piano-88-teclas-vs-teclado-61-teclas-principiantes/)"
+          "Yamaha (P-145 / P-225)",
+          "GHC (Graded Hammer Compact), 2 sensores",
+          "Muestreo CFIIIS / CFX limpio y brillante, ideal para corte en mezcla",
+          "Pulsación ágil, chasis compacto de 26.8 cm e interfaz USB Audio/MIDI integrada",
+          "Teclas con acabado acrílico liso (sin textura porosa) y 64 notas en el P-145"
         ],
         [
-          "Yamaha P-145 vs Roland FP-10: ¿Qué Piano Digital de 88 Teclas Tiene Mejor Sensación al Tocar y Sonido por Menos de $550?",
-          "[Ver guía completa](/comparativas/yamaha-p-145-vs-roland-fp-10/)"
+          "Roland (FP-10 / FP-30X)",
+          "PHA-4 Standard con escape y 3 sensores",
+          "SuperNATURAL Piano con resonancia cálida y rica en armónicos medios",
+          "Tacto más cercano a un cola acústico con acabado Ivory Feel absorbente",
+          "Altavoces de 12W algo contenidos en el FP-10 y mayor peso (12.3 a 14.8 kg)"
         ],
         [
-          "Roland FP-10 vs Roland FP-30X: Diferencias Reales de Altavoces, Polifonía, Bluetooth Audio y Cuál Conviene Comprar",
-          "[Ver guía completa](/comparativas/roland-fp-10-vs-roland-fp-30x/)"
+          "Casio (CDP-S160 / PX-S1100)",
+          "Scaled Hammer Action II / Smart Scaled",
+          "Motor AiR con timbre redondo y excelente definición en graves",
+          "El chasis más delgado del mercado (23.2 cm) y opción de funcionar con 6 pilas AA",
+          "Longitud de pivote más corta al pulsar cerca del fondo de las teclas negras"
         ],
         [
-          "Yamaha P-145 vs Yamaha P-225: Comparativa de Motor de Sonido CFX, Polifonía, Potencia de Altavoces y Pedales Compatibles",
-          "[Ver guía completa](/comparativas/yamaha-p-145-vs-yamaha-p-225/)"
-        ],
-        [
-          "Yamaha P-145 vs Yamaha P-45: ¿En Qué Mejora el Nuevo Teclado Compacto GHC Frente al Clásico GHS y Cuánto Espacio Ahorras?",
-          "[Ver guía completa](/comparativas/yamaha-p-145-vs-yamaha-p-45/)"
-        ],
-        [
-          "Casio Privia PX-S1100 vs Yamaha P-145: Diseño Ultradelgado con Bluetooth para Apartamentos vs Tacto Tradicional Yamaha",
-          "[Ver guía completa](/comparativas/casio-privia-px-s1100-vs-yamaha-p-145/)"
-        ],
-        [
-          "Casio Privia PX-S1100 vs Roland FP-30X: Comparativa de Fondo en Centímetros, Acción de Tecla Smart Scaled vs PHA-4 y Conectividad",
-          "[Ver guía completa](/comparativas/casio-privia-px-s1100-vs-roland-fp-30x/)"
-        ],
-        [
-          "Casio CDP-S160 vs Yamaha P-145: ¿Cuál Es el Mejor Piano de 88 Teclas Contrapesadas de Entrada para Empezar en Serio?",
-          "[Ver guía completa](/comparativas/casio-cdp-s160-vs-yamaha-p-145/)"
-        ],
-        [
-          "Alesis Recital Pro vs Donner DEP-20: Duelo de Pianos de 88 Teclas con Acción de Martillo por Menos de $380 en Amazon EE. UU.",
-          "[Ver guía completa](/comparativas/alesis-recital-pro-vs-donner-dep-20/)"
-        ],
-        [
-          "Alesis Recital (Semicontrapesado) vs Alesis Recital Pro (Acción de Martillo): Cómo Cambia la Sensación en los Dedos al Aprender",
-          "[Ver guía completa](/comparativas/alesis-recital-vs-alesis-recital-pro/)"
-        ],
-        [
-          "Alesis Prestige Artist vs Yamaha P-145: 256 Notas de Polifonía y Pantalla OLED Frente a la Fiabilidad Japonesa de Yamaha",
-          "[Ver guía completa](/comparativas/alesis-prestige-artist-vs-yamaha-p-145/)"
-        ],
-        [
-          "Kawai ES120 vs Roland FP-30X: Comparativa de Pulsación RHC vs PHA-4 Standard para Estudiantes de Piano Clásico y Moderno",
-          "[Ver guía completa](/comparativas/kawai-es120-vs-roland-fp-30x/)"
+          "Alesis / Donner (Prestige / DEP-20)",
+          "Acción de martillo graduado estándar",
+          "Multimuestreo directo con alta potencia de amplificación (20W a 50W)",
+          "128 a 256 notas de polifonía, pantallas guía y salidas de línea de 1/4\" incluidas",
+          "Simulación de resonancia de pedal más sencilla que en motores japoneses"
         ]
-      ]
+      ],
+      "caption": "Comparativa técnica de las arquitecturas principales frente a frente en 88 teclas"
+    },
+    {
+      "type": "h2",
+      "text": "Duelos de Polifonía, Altavoces y Conectividad en Gama de Entrada e Intermedia"
+    },
+    {
+      "type": "p",
+      "text": "Más allá del mecanismo de martillo, muchas dudas surgen al comparar pianos japoneses minimalistas frente a alternativas con especificaciones numéricas muy elevadas en polifonía y potencia de altavoces. Por ejemplo, al analizar el enfrentamiento [Alesis Prestige Artist vs Yamaha P-145](/comparativas/alesis-prestige-artist-vs-yamaha-p-145/), vemos dos enfoques opuestos: mientras **Alesis** integra **256 notas de polifonía**, pantalla **OLED**, **30 voces** y sistema de microarreglos de **50W**, **Yamaha** concentra todo su desarrollo en la fidelidad del muestreo acústico **CFIIIS**, la durabilidad mecánica de su teclado **GHC** y la transmisión de audio digital directo por un solo cable **USB-C / USB To Host**. Del mismo modo, en el segmento de **61 teclas sensibles al tacto**, nuestro duelo [Yamaha PSR-E383 vs Casio Casiotone CT-S300](/comparativas/yamaha-psr-e383-vs-casio-ct-s300/) demuestra cómo el **PSR-E383** gana en expresividad pedagógica y biblioteca de **650 sonidos**, mientras que el **CT-S300** triunfa en portabilidad gracias a su asa integrada y rueda de inflexión de tono (*pitch bend*)."
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Compatibilidad universal verificada (Pedal Polaridad · Soporte en Z · Audífonos 1/4\" 0 ms)",
-      "text": "Antes de comprar accesorios en Amazon, recuerda las 3 reglas de compatibilidad: 1) Elige un pedal de sustain con interruptor de polaridad en la base (como el M-Audio SP-2) para que nunca suene al revés en Yamaha, Casio, Roland o Alesis; 2) Para 88 teclas usa un soporte en Z Heavy Duty o mueble oficial que deje espacio libre para tus rodillas; 3) Usa siempre audífonos con cable de 32–64 Ω con adaptador de 1/4\" (nunca Bluetooth, cuya latencia retrasa cada nota)."
+      "variant": "tip",
+      "text": "Si dudas entre dos modelos de 88 teclas con especificaciones parejas, haz esta prueba mental: ¿vas a tocar el 80 % del tiempo con audífonos o al aire? Si estudias casi siempre con audífonos de estudio, el mecanismo físico de la tecla (como el PHA-4 de Roland o el GHC de Yamaha) y la calidad del motor de sonido por auriculares pesan mucho más que tener altavoces de 20W en lugar de 14W.",
+      "title": "El criterio definitivo para desempatar entre dos pianos parejos"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces a Amazon Estados Unidos"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Mide primero tu espacio libre en centímetros:** si dispones de `129 a 133 cm` de ancho, puedes instalar un piano de 88 teclas contrapesadas como el [Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/) o el [Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/); si tienes un escritorio de `95 cm`, elige un teclado de 61 teclas con Touch Response como el [Yamaha PSR-E383](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/) o el [Casio CT-S300](/resenas-pianos-y-teclados/casio-casiotone-ct-s300-61-teclas/).",
-        "**Completa tu setup desde el primer día:** añadir el [pedal metálico universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/), un [soporte en Z estable](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/) y los [audífonos de estudio Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/) transforma tu experiencia de práctica diaria y nocturna.",
-        "**Consulta las ofertas actualizadas en Amazon:** todas nuestras tarjetas apuntan por defecto a **Amazon Estados Unidos (`guiadepianos-20`)** y permiten cambiar con un clic a **Amazon España (`guiadepianos02-21`)**."
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿No sabes qué piano de 88 teclas, teclado de 61 teclas, pedal, soporte o audífonos de este silo elegir? Pregúntale en vivo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro para estrenar tu primer piano digital o teclado en casa"
+      "text": "Puntos Clave que Deciden Nuestras Comparativas Modelo vs Modelo"
     },
     {
       "type": "ul",
       "items": [
-        "**Exige siempre sensibilidad a la velocidad (Touch Response o Acción de Martillo):** nunca compres un teclado cuyas teclas suenen siempre al mismo volumen sin importar la fuerza de tus dedos.",
-        "**No enciendas el teclado mientras pisas el pedal de sustain:** si mantienes el pie sobre el pedal durante el encendido, el piano invertirá la polaridad y sonará al revés.",
-        "**Coloca las teclas blancas a 71–73 cm del suelo y ajusta el banco (45–53 cm):** tus antebrazos deben quedar horizontales y paralelos al piso para tocar sin dolor de muñecas ni espalda.",
-        "**Conecta tu iPad con un cable USB-MIDI (Tipo B a USB-C) y cubre las teclas al terminar:** el cable USB hace que Simply Piano y Flowkey reconozcan cada acorde sin fallos incluso con audífonos puestos, y el cubrepolvo protege los sensores durante décadas."
+        "**Longitud del punto de pivote:** en pianos ultradelgados, comprueba qué tan cómoda resulta la palanca cuando tienes que tocar acordes complejos que obligan a meter los dedos entre las teclas negras.",
+        "**Ubicación de los altavoces:** los modelos cuyos altavoces apuntan hacia abajo requieren dejar espacio libre respecto a la mesa, mientras que los que proyectan hacia arriba o hacia el músico ofrecen mayor claridad en agudos sobre un escritorio.",
+        "**Conectividad sin adaptadores extras:** verifica si el modelo incluye interfaz de audio USB integrada (como el **Yamaha P-145** y **P-225**) o adaptador **Bluetooth Audio/MIDI** en la caja (como el **WU-BT10** incluido en el **Casio Privia PX-S1100**).",
+        "**Expansión futura a 3 pedales:** algunos pianos de entrada solo admiten un pedal de sustain simple por jack de **1/4\"**, mientras que otros cuentan con puerto propietario multiclavija para añadir pedalera triple (**Una Corda, Sostenuto y Sustain**)."
       ]
+    },
+    {
+      "type": "cta",
+      "text": "Revisa nuestras comparativas directas para ver qué instrumento se adapta mejor a tu técnica, apóyate en nuestro Asesor IA si dudas entre dos referencias concretas y consulta la disponibilidad actual en las tarjetas de Amazon de cada artículo."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Comparativas de Pianos Digitales (88 vs 61 Teclas) y Accesorios?",
-      "a": "Incluye 30 artículos prácticos y comparativas sobre duelos directos entre modelos de 88 y 61 teclas (Yamaha P-145, Roland FP-10/FP-30X, Casio Privia PX-S1100, Yamaha PSR-E383, Casio CT-S300, Alesis Recital Pro) y accesorios según presupuesto, espacio y sensación al tocar, con tablas de medidas en centímetros, sensación de tecla y compatibilidad de pedales, soportes, bancos y audífonos en Amazon Estados Unidos."
+      "q": "¿Qué teclado tiene las teclas más pesadas entre Yamaha y Roland?",
+      "a": "El Roland FP-10 ofrece una pulsación inicialmente más firme y pesada gracias a su mecanismo PHA-4 Standard con simulación de escape y textura rugosa tipo marfil. El Yamaha P-145 presenta un ataque ligeramente más ligero y veloz en su teclado GHC, muy cómodo para sesiones largas y manos que recién desarrollan fuerza."
     },
     {
-      "q": "¿Las recomendaciones sirven para quien busca su primer piano digital o teclado?",
-      "a": "Sí, todo el portal está redactado en español claro para principiantes, padres y estudiantes, comparando modelos de 61 y 88 teclas sin tecnicismos confusos."
+      "q": "¿Se nota realmente la diferencia entre 64 y 192 o 256 notas de polifonía?",
+      "a": "Para los primeros dos o tres años de estudio de piano clásico o pop, 64 notas de polifonía (como en el Yamaha P-145) cubren sin problema obras a dos manos con pedal. Los 192 o 256 tonos de polifonía se vuelven determinantes al superponer dos sonidos (Dual/Layer), usar acompañamientos rítmicos complejos o ejecutar pasajes románticos rápidos con pedal profundo."
     },
     {
-      "q": "¿Puedo preguntar qué pedal, soporte o audífonos sirven para mi modelo exacto?",
-      "a": "Por supuesto: abre el chat del Asesor de Pianos IA en la esquina inferior derecha, indícale tu presupuesto, espacio o modelo y te recomendará los accesorios 100 % compatibles en Amazon."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Pianos & Portable Keyboards Official Specs",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation US – FP-Series Digital Pianos & PHA-4 Action",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué marca fabrica los pianos digitales de 88 teclas más compactos para habitaciones pequeñas?",
+      "a": "Casio logra el chasis de 88 teclas contrapesadas más estilizado del mundo con el Privia PX-S1100 y PX-S3100 (solo 23.2 cm de profundidad), seguido muy de cerca por el Roland FP-10 (25.8 cm) y el Yamaha P-145 (26.8 cm). Todos ellos caben sobre escritorios donde un piano tradicional de 35 cm sobresaldría peligrosamente."
     }
   ],
   "related": [
-    "/comparativas/piano-88-teclas-vs-teclado-61-teclas-principiantes/",
-    "/comparativas/yamaha-p-145-vs-roland-fp-10/",
-    "/comparativas/roland-fp-10-vs-roland-fp-30x/",
-    "/comparativas/yamaha-p-145-vs-yamaha-p-225/"
+    "/comparativas/yamaha-p-145-vs-yamaha-p-45/",
+    "/comparativas/casio-cdp-s160-vs-yamaha-p-145/",
+    "/comparativas/alesis-prestige-artist-vs-yamaha-p-145/",
+    "/comparativas/yamaha-psr-e383-vs-casio-ct-s300/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/comparativas.webp"
 }
