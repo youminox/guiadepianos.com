@@ -4,161 +4,128 @@
   "path": "/conexiones-midi-apps-y-aprendizaje/como-usar-tu-piano-digital-con-garageband-en-ipad-o-mac-totalmente-gratis/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como usar piano digital con garageband en ipad o mac",
   "title": "Tutorial Rápido: Cómo Conectar tu Piano Digital a GarageBand (Gratis en iPad y Mac) y Tocar Decenas de Pianos y Sintetizadores",
-  "seoTitle": "Tutorial Rápido | Guía de Pianos",
-  "metaDescription": "Tutorial Rápido: Cómo Conectar tu Piano Digital a GarageBand (Gratis en iPad y Mac) y Tocar Decenas de Pianos y Sintetizadores: Conecta el cable USB-MIDI, abre GarageBand, elige 'Teclado → Grand Piano o Alchemy Synth' y toca: podrás grabar multipista sin gastar un dólar en software. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Conecta el cable USB-MIDI, abre GarageBand, elige 'Teclado → Grand Piano o Alchemy Synth' y toca: podrás grabar multipista sin gastar un dólar en software.",
-  "quickAnswer": "Sobre como usar piano digital con garageband en ipad o mac: Conecta el cable USB-MIDI, abre GarageBand, elige 'Teclado → Grand Piano o Alchemy Synth' y toca: podrás grabar multipista sin gastar un dólar en software. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Tutorial Rápido: Cómo Conectar tu Piano Digital a GarageBand (Gratis en iPad y Mac) y Tocar Decenas de Pianos y Sintetizadores | guiadepianos.com",
+  "metaDescription": "Tutorial práctico sobre cómo usar tu piano digital con GarageBand en iPad o Mac gratis: conexión USB-MIDI, ajuste de sensibilidad y grabación multipista.",
+  "excerpt": "Convierte tu piano digital de 61 u 88 teclas en un estudio musical conectándolo a GarageBand en iPad o Mac: configuración plug-and-play, descarga de librerías Steinway y grabación MIDI.",
+  "quickAnswer": "Para usar tu piano digital con **GarageBand** en un **iPad** o **Mac**, solo necesitas enlazar el puerto **USB-to-Host** del instrumento al dispositivo Apple con un cable de datos o mediante **Bluetooth MIDI**. Gracias al motor nativo **CoreMIDI**, GarageBand detecta las **88 o 61 teclas** y el pedal de sustain automáticamente sin instalar drivers, permitiéndote tocar pianos de cola, órganos, sintetizadores y grabar pistas editables con latencia imperceptible.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Detailed close-up focusing on pianist hands, pedal action and studio headphones: Home digital piano and keyboard tutorial illustrating Tutorial Rápido: Cómo Conectar tu Piano Digital a GarageBand (Gratis en iPad y Mac) y Tocar Decenas de Pianos y Sintetizadores: Conecta el cable USB-MIDI, abre GarageBand, elige 'Teclado → Grand Piano o Alchemy Synth' y toca: podrás grabar multipista sin gastar un dólar en software., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, soft natural morning window daylight with gentle warm shadows. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Three-quarter 50mm studio-natural close-up shot: realistic scene illustrating 'Tutorial Rápido: Cómo Conectar tu Piano Digital a GarageBand (Gratis en iPad y Mac) y Tocar Decenas de Pianos y Sintetizadores' (como usar piano digital con garageband en ipad o mac) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, inside a bright contemporary apartment with minimalist decor, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Tutorial Rápido: Cómo Conectar tu Piano Digital a GarageBand (Gratis en iPad y Mac) y Tocar Decenas de Pianos y Sintetizadores"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como usar piano digital con garageband en ipad o mac** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Conecta el cable USB-MIDI, abre GarageBand, elige 'Teclado → Grand Piano o Alchemy Synth' y toca: podrás grabar multipista sin gastar un dólar en software."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Conexiones Midi Apps Y Aprendizaje](/conexiones-midi-apps-y-aprendizaje/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Muchos estudiantes que practican en un teclado básico de 61 teclas como el **Yamaha PSR-E383** o en un piano compacto de 88 teclas como el **Alesis Recital Pro** y el **Roland FP-10** ignoran que tienen acceso gratuito a una colección de pianos de cola Steinway, pianos eléctricos Fender Rhodes, órganos Hammond B3 y sintetizadores analógicos si poseen un **iPad** o una computadora **Mac**. **GarageBand** viene incluido sin costo en la App Store de Apple y, al enlazarlo con tu teclado físico, utiliza las teclas contrapesadas y el pedal de sustain de tu instrumento para disparar sus propios motores de muestreo multicapa. El procedimiento es idéntico a [conectar tu piano digital a un iPhone](/conexiones-midi-apps-y-aprendizaje/como-conectar-tu-piano-digital-a-un-iphone-para-aprender-o-grabar-ideas-musicales/), pero en la pantalla amplia del iPad o Mac dispones de edición nota por nota, metrónomo visual y acompañamiento automático de batería."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como usar piano digital con garageband en ipad o mac"
+      "text": "Conexión inmediata por cable USB-to-Host o Bluetooth MIDI en iPad y MacBook"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como usar piano digital con garageband en ipad o mac**:"
+      "text": "Una de las mayores ventajas de macOS y iPadOS es que sus arquitecturas internas **CoreMIDI** y **CoreAudio** trabajan con una latencia inferior a **4 milisegundos** sin necesidad de configurar buffers complejos ni instalar drivers de terceros. Si tu teclado cuenta con salida cuadrada trasera, conviene entender la [diferencia entre puertos MIDI de 5 pines y puerto USB-to-Host](/conexiones-midi-apps-y-aprendizaje/diferencia-entre-los-puertos-midi-din-redondos-de-5-pines-antiguos-y-el-puerto-usb-to-host-moderno/): hoy basta un solo cable **USB Tipo B a USB-C** para enlazar directamente modelos como el **Yamaha P-145**, el **Roland FP-10** o el **Casio CDP-S160** a cualquier iPad Air, iPad Pro o MacBook moderno. Si prefieres trabajar sin cables porque tienes un **Roland FP-30X** o un **Casio Privia PX-S1100** (con el adaptador **WU-BT10**), GarageBand en iPad incluye un menú interno de **Dispositivos Bluetooth MIDI** que empareja el piano de forma inalámbrica. Además, grabar tus ejercicios diarios en GarageBand te permite revisar visualmente en la cuadrícula de tiempo si mantuviste el pulso estable al [entrenar la lectura a primera vista cinco minutos al día](/conexiones-midi-apps-y-aprendizaje/que-es-la-lectura-a-primera-vista-sight-reading-y-como-entrenarla-5-minutos-al-dia/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: como usar piano digital con garageband en ipad o mac",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Instrumento en GarageBand",
+        "Dónde encontrarlo en la Biblioteca de Sonidos",
+        "Por qué mejora el sonido de tu teclado físico",
+        "Respuesta al pedal de sustain (CC 64)"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Conecta el cable USB-MIDI, abre GarageBand, elige 'Teclado → Grand Piano o Alchemy Synth' y toca: podrás grabar multipista sin gastar un dólar en software.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Classical Grand (Steinway)",
+          "Teclados > Acústicos (requiere descargar paquete Teclados)",
+          "Muestras estéreo profundas con transición suave entre pianissimo y fortissimo",
+          "Completa, incluye resonancia al mantener el pedal pisado"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Vintage Electric Piano (Rhodes / Wurlitzer)",
+          "Teclados > Pianos Eléctricos Clásicos",
+          "Emula el ladrido metálico de las púas al pulsar las teclas con velocidad alta",
+          "Completa, con controles táctiles de Tremolo, Chorus y Drive"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Alchemy Synth (Pads y Cuerdas)",
+          "Teclados > Alchemy Synth > Almohadillas / Arpegios",
+          "Transforma tu piano en un sintetizador con filtro Transform Pad en tiempo real",
+          "Sostiene acordes largos mientras cambias texturas en pantalla"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Heavy / Classic Rock Organ (Hammond B3)",
+          "Teclados > Órganos Clásicos",
+          "Permite mover los 9 tiradores armónicos (drawbars) y la velocidad del altavoz Leslie",
+          "El pedal de sustain puede conmutar la rotación rápida/lenta del rotor"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre como usar piano digital con garageband en ipad o mac",
-      "text": "Conecta el cable USB-MIDI, abre GarageBand, elige 'Teclado → Grand Piano o Alchemy Synth' y toca: podrás grabar multipista sin gastar un dólar en software. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Ajustes y librerías recomendadas dentro de GarageBand para pianistas"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar como usar piano digital con garageband en ipad o mac en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Cómo conectar el piano a GarageBand y corregir notas equivocadas en 4 pasos"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Conecta el cable USB o activa Bluetooth MIDI desde el icono de llave inglesa",
+          "text": "En conexiones por cable **USB Tipo B a USB-C**, simplemente enchufa el piano encendido al iPad o Mac. Si usas Bluetooth MIDI en iPad, abre una pista en GarageBand, toca el icono de **Ajustes (llave inglesa) > Avanzado > Dispositivos Bluetooth MIDI** y pulsa sobre tu **Roland FP-10 / FP-30X** o **WU-BT10** para cambiar su estado a **Conectado**."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Crea una pista de Teclado (Smart Piano / Alchemy) y descarga el paquete completo",
+          "text": "En la pantalla de selección de instrumentos, desliza hasta **Teclado** y toca **Más sonidos**. Entra en la **Biblioteca de sonidos** gratuita de GarageBand para descargar el paquete **Teclados** y **Teclados de estudio**, donde se encuentra el timbre **Classical Grand** completo."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "Baja el volumen de los altavoces del piano para escuchar solo GarageBand",
+          "text": "Para no escuchar dos pianos superpuestos a la vez, gira la perilla de volumen de tu piano digital al mínimo (o desactiva el **Local Control**) y conecta tus audífonos con cable al iPad, a la Mac o al propio piano si cuenta con **USB Audio** como el **Yamaha PSR-E383** o **P-145**."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Graba tu interpretación y edita errores desde el Editor de Teclado (Piano Roll)",
+          "text": "Pulsa el botón rojo de grabación y toca tu pieza. Al terminar, da doble toque sobre la región verde grabada y selecciona **Editar**: podrás arrastrar con el dedo cualquier nota falsa hacia el semitono correcto, alargar su duración o aplicar **Cuantización (1/8 o 1/16)** para clavar el ritmo al compás."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Por qué no debes usar audífonos Bluetooth (AirPods) al tocar en GarageBand"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Aunque el enlace **Bluetooth MIDI** entre tu piano y el iPad transmite notas casi al instante (**3 a 6 ms** de latencia porque solo envía pocos bytes de texto), el **Bluetooth Audio** de unos **AirPods** o audífonos inalámbricos comprime y descomprime la onda sonora añadiendo entre **120 ms y 250 ms de retraso**. Ese cuarto de segundo entre el momento en que tu dedo golpea la tecla y el sonido llega a tu oído hace imposible tocar a tiempo. Utiliza siempre audífonos con cable conectados a la salida de **3.5 mm** de tu Mac, a un adaptador **USB-C a Jack de 3.5 mm** en el iPad, o a la salida del piano si soporta retorno de audio USB.",
+      "title": "Bluetooth MIDI sí tiene baja latencia; los audífonos Bluetooth no"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como usar piano digital con garageband en ipad o mac en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Consulta en las tarjetas de Amazon integradas en esta página la disponibilidad actual de cables USB Tipo B a USB-C, adaptadores para iPad y audífonos de estudio sin latencia, o pide ayuda a nuestro Asesor IA para elegir el conector exacto para tu modelo de Apple."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como usar piano digital con garageband en ipad o mac?",
-      "a": "Conecta el cable USB-MIDI, abre GarageBand, elige 'Teclado → Grand Piano o Alchemy Synth' y toca: podrás grabar multipista sin gastar un dólar en software. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Qué hago si el piano suena muy bajito en GarageBand aunque pulse las teclas con fuerza?",
+      "a": "En **Mac**, abre **GarageBand > Configuración (Preferencias) > Audio/MIDI** y ajusta la barra de **Sensibilidad del teclado** hacia la derecha si sientes que necesitas golpear muy fuerte para sonar brillante. Además, en el propio piano físico puedes ajustar la curva de velocidad (**Touch Response**) en modo **Light / Soft** o **Medium**."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Por qué el pedal de sustain funciona al revés cuando toco en GarageBand?",
+      "a": "Eso ocurre cuando enciendes el piano digital manteniendo pisado el pedal de sustain o cuando usas un pedal externo con el interruptor de polaridad invertido. Apaga el piano, asegúrate de no tocar el pedal al encenderlo (o cambia el selector inferior del pedal entre **N.O.** y **N.C.**) y vuelve a tocar en GarageBand."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Existe GarageBand para computadoras con Windows o tablets Android?",
+      "a": "No, **GarageBand** es un software exclusivo de Apple para **iPad, iPhone y Mac**. Si utilizas una computadora con **Windows**, puedes obtener resultados muy similares sin costo instalando **Cakewalk by BandLab**, **Waveform Free** o el piano virtual gratuito **Spitfire Audio LABS (Soft Piano)** junto con el driver **ASIO4ALL**."
     }
   ],
   "related": [
-    "/conexiones-midi-apps-y-aprendizaje/",
-    "/conexiones-midi-apps-y-aprendizaje/por-que-suenan-dos-sonidos-a-la-vez-cuando-conecto-el-piano-a-la-computadora-funcion-local-control-off/",
-    "/conexiones-midi-apps-y-aprendizaje/como-grabar-un-video-tocando-el-piano-con-tu-iphone-y-que-se-escuche-el-sonido-limpio-por-usb/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/conexiones-midi-apps-y-aprendizaje/como-conectar-tu-piano-digital-a-un-iphone-para-aprender-o-grabar-ideas-musicales/",
+    "/conexiones-midi-apps-y-aprendizaje/que-es-el-driver-asio4all-en-windows-para-eliminar-el-retraso-al-tocar-instrumentos-virtuales-en-pc/",
+    "/conexiones-midi-apps-y-aprendizaje/diferencia-entre-los-puertos-midi-din-redondos-de-5-pines-antiguos-y-el-puerto-usb-to-host-moderno/",
+    "/conexiones-midi-apps-y-aprendizaje/que-es-la-lectura-a-primera-vista-sight-reading-y-como-entrenarla-5-minutos-al-dia/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-usar-tu-piano-digital-con-garageband-en-ipad-o-mac-totalmente-gratis.webp"
 }

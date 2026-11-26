@@ -4,161 +4,130 @@
   "path": "/conexiones-midi-apps-y-aprendizaje/como-aprender-los-acordes-menores-y-septimas-despues-de-dominar-los-mayores/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como formar acordes mayores y menores en el piano facil",
   "title": "La Regla del Semitono (3+4 vs 4+3): Cómo Convertir Cualquier Acorde Mayor en Acorde Menor Bajando Solo el Dedo del Medio",
-  "seoTitle": "La Regla del Semitono (3+4 vs 4+3) | Guía de Pianos",
-  "metaDescription": "La Regla del Semitono (3+4 vs 4+3): Cómo Convertir Cualquier Acorde Mayor en Acorde Menor Bajando Solo el Dedo del Medio: Para un acorde Mayor cuentas 4 teclas desde la raíz y luego 3; para convertirlo en Menor, simplemente bajas media tecla hacia la izquierda la nota central (el dedo 3). Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Para un acorde Mayor cuentas 4 teclas desde la raíz y luego 3; para convertirlo en Menor, simplemente bajas media tecla hacia la izquierda la nota central (el dedo 3).",
-  "quickAnswer": "Sobre como formar acordes mayores y menores en el piano facil: Para un acorde Mayor cuentas 4 teclas desde la raíz y luego 3; para convertirlo en Menor, simplemente bajas media tecla hacia la izquierda la nota central (el dedo 3). Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "La Regla del Semitono (3+4 vs 4+3): Cómo Convertir Cualquier Acorde Mayor en Acorde Menor Bajando Solo el Dedo del Medio | guiadepianos.com",
+  "metaDescription": "Aprende cómo formar acordes mayores y menores en el piano fácil con la regla de semitonos 4+3 y 3+4. Convierte cualquier tríada bajando solo un dedo.",
+  "excerpt": "Domina la fórmula matemática de semitonos 4+3 y 3+4 para construir cualquier acorde mayor, menor o de séptima al instante, transformando la sonoridad de tu teclado con mover únicamente el dedo central.",
+  "quickAnswer": "Para formar cualquier **acorde mayor** en el piano se aplica la regla de **4+3 semitonos** (nota base, cuentas 4 teclas contiguas hacia la derecha para el dedo medio y 3 más para el meñique), y para convertirlo al instante en **acorde menor (fórmula 3+4)** basta con **bajar únicamente el dedo del medio 1 semitono** (una tecla inmediata hacia la izquierda) manteniendo fijos los dos dedos exteriores.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Overhead angled composition showcasing keyboard layout, music rest and accessories (35mm lens): Home digital piano and keyboard tutorial illustrating La Regla del Semitono (3+4 vs 4+3): Cómo Convertir Cualquier Acorde Mayor en Acorde Menor Bajando Solo el Dedo del Medio: Para un acorde Mayor cuentas 4 teclas desde la raíz y luego 3; para convertirlo en Menor, simplemente bajas media tecla hacia la izquierda la nota central (el dedo 3)., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'La Regla del Semitono (3+4 vs 4+3): Cómo Convertir Cualquier Acorde Mayor en Acorde Menor Bajando Solo el Dedo del Medio' (como formar acordes mayores y menores en el piano facil) for guiadepianos.com, featuring equipment in terracotta copper accent with matte slate body, beside a neat storage shelf in a sunlit modern room, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "La Regla del Semitono (3+4 vs 4+3): Cómo Convertir Cualquier Acorde Mayor en Acorde Menor Bajando Solo el Dedo del Medio"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como formar acordes mayores y menores en el piano facil** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Para un acorde Mayor cuentas 4 teclas desde la raíz y luego 3; para convertirlo en Menor, simplemente bajas media tecla hacia la izquierda la nota central (el dedo 3)."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Conexiones Midi Apps Y Aprendizaje](/conexiones-midi-apps-y-aprendizaje/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "El mayor bloqueo al que se enfrenta quien empieza a acompañar canciones en un teclado de **61 teclas** como el **Yamaha PSR-E383** o en un piano contrapesado de **88 teclas** como el **Roland FP-10** es creer que debe memorizar docenas de dibujos independientes para cada acorde mayor, menor y de séptima. En realidad, el teclado del piano es una regla geométrica exacta donde todas las tríadas obedecen a una sola proporción de distancias. Si ya sabes tocar un acorde mayor cualquiera, estás literalmente a **un milímetro de movimiento de un solo dedo** de dominar los doce acordes menores del sistema musical, como puedes comprobar en nuestras guías de [conexiones MIDI, apps y aprendizaje de piano](/conexiones-midi-apps-y-aprendizaje/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como formar acordes mayores y menores en el piano facil"
+      "text": "La fórmula matemática de semitonos: 4+3 para acordes mayores y 3+4 para menores"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como formar acordes mayores y menores en el piano facil**:"
+      "text": "Un **semitono** es la distancia mínima entre dos teclas contiguas del piano, sin importar si son blancas o negras (siempre contando la tecla inmediata que sigue hacia la derecha o hacia la izquierda). Todo **acorde mayor** se construye con la proporción **4+3**: colocas el pulgar (**dedo 1**) en la nota raíz que da nombre al acorde, cuentas **4 semitonos** hacia la derecha para ubicar el dedo del medio (**dedo 3** en la tercera mayor) y desde ahí sumas **3 semitonos** más para apoyar el meñique (**dedo 5** en la quinta justa). Para transformar ese mismo acorde en un **acorde menor**, la distancia total entre los extremos no cambia (**7 semitonos** entre pulgar y meñique); únicamente debes **bajar el dedo del medio 1 semitono hacia la izquierda**, invirtiendo la proporción a **3+4**. Puedes verificar al instante tu precisión armónica si decides [conectar el piano por cable USB-MIDI en vez del micrófono en Simply Piano](/conexiones-midi-apps-y-aprendizaje/por-que-es-100-veces-mejor-usar-cable-usb-midi-que-el-microfono-del-ipad-en-simply-piano/) o si practicas [grabando la mano izquierda y la derecha por separado en la memoria interna](/conexiones-midi-apps-y-aprendizaje/como-grabar-mano-izquierda-y-mano-derecha-por-separado-en-la-memoria-interna-de-tu-piano/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: como formar acordes mayores y menores en el piano facil",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Tonalidad base",
+        "Acorde Mayor (Fórmula 4+3)",
+        "Acorde Menor (Fórmula 3+4: baja el dedo 3)",
+        "Acorde de Séptima Dominante (4+3+3)"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Para un acorde Mayor cuentas 4 teclas desde la raíz y luego 3; para convertirlo en Menor, simplemente bajas media tecla hacia la izquierda la nota central (el dedo 3).",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Do (C)",
+          "Do – Mi – Sol",
+          "Do – Mi♭ (tecla negra) – Sol",
+          "Do – Mi – Sol – Si♭ (2 semitonos bajo Do)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Re (D)",
+          "Re – Fa# (negra) – La",
+          "Re – Fa (blanca) – La",
+          "Re – Fa# – La – Do (2 semitonos bajo Re)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Mi (E)",
+          "Mi – Sol# (negra) – Si",
+          "Mi – Sol (blanca) – Si",
+          "Mi – Sol# – Si – Re (2 semitonos bajo Mi)"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
+          "Fa (F)",
+          "Fa – La – Do",
+          "Fa – La♭ (negra) – Do",
+          "Fa – La – Do – Mi♭ (2 semitonos bajo Fa)"
         ],
         [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "La (A)",
+          "La – Do# (negra) – Mi",
+          "La – Do (blanca) – Mi",
+          "La – Do# – Mi – Sol (2 semitonos bajo La)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre como formar acordes mayores y menores en el piano facil",
-      "text": "Para un acorde Mayor cuentas 4 teclas desde la raíz y luego 3; para convertirlo en Menor, simplemente bajas media tecla hacia la izquierda la nota central (el dedo 3). Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Transformación de acordes mayores a menores y séptimas mediante la regla del semitono"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar como formar acordes mayores y menores en el piano facil en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Cómo añadir la séptima (acordes 7 y m7) sin contar desde la primera nota"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Forma primero tu tríada mayor (4+3) o menor (3+4)",
+          "text": "Ubica la posición base en tu **Yamaha P-145** o **Casio Privia PX-S1100** utilizando la digitación **1 – 2 – 3** en la mano derecha (reservando el meñique libre para la cuarta nota del acorde)."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Localiza la octava superior de tu nota raíz",
+          "text": "Sin pulsarla todavía, mira la misma nota que tienes en el pulgar pero una octava más arriba (por ejemplo, si tu pulgar está en **Do4**, observa el **Do5** agudo)."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Retrocede exactamente 2 semitonos desde esa octava para obtener la séptima menor",
+          "text": "Baja **2 teclas contiguas hacia la izquierda** desde la octava superior y pulsa esa nota con el meñique (**dedo 5**). En un acorde de **Do**, **2 semitonos** abajo del Do agudo encuentras el **Si♭**: al sumarlo a Do Mayor obtienes **Do7 (C7)**, y al sumarlo a Do menor obtienes **Do menor séptima (Cm7)**."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "El control del peso en el dedo central para que el acorde suene equilibrado"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "En pianos con mecanismo de martillo graduado como el **PHA-4 Standard** del **Roland FP-10** y **FP-30X** o el sistema **GHC** del **Yamaha P-145**, la nota del medio (**la tercera del acorde**) es la que define emocionalmente si el acorde suena alegre (mayor) o melancólico (menor). Un error habitual en principiantes es dejar caer todo el peso del brazo sobre el pulgar, tapando la tercera. Practica presionando el **dedo 3** con un **15 % más de firmeza** para que el cambio de un semitono entre modo mayor y menor destaque con total claridad acústica.",
+      "title": "Destaca ligeramente la nota central en teclados sensibles a la velocidad"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como formar acordes mayores y menores en el piano facil en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Compara en las tarjetas de Amazon de esta página los pianos digitales con sensibilidad al tacto y acción de martillo ideales para entrenar armonía, o pide a nuestro Asesor IA una rutina adaptada a tu nivel."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como formar acordes mayores y menores en el piano facil?",
-      "a": "Para un acorde Mayor cuentas 4 teclas desde la raíz y luego 3; para convertirlo en Menor, simplemente bajas media tecla hacia la izquierda la nota central (el dedo 3). Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Por qué el acorde de Re Mayor lleva una tecla negra en el medio y el de Do Mayor solo teclas blancas?",
+      "a": "Porque entre Mi y Fa (igual que entre Si y Do) no existe tecla negra intermedia; ambas teclas blancas están separadas por solo 1 semitono. Por eso, al contar los 4 semitonos desde Re (Re# es 1, Mi es 2, Fa es 3, Fa# es 4), el cuarto semitono cae obligatoriamente sobre la tecla negra Fa sostenido."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Qué dedos debo usar en la mano izquierda y en la derecha para tocar acordes mayores y menores?",
+      "a": "La digitación estándar para tríadas de tres notas es 1 – 3 – 5 (pulgar, medio y meñique) en ambas manos. Cuando pasas a un acorde de cuatro notas con séptima, la mano derecha utiliza 1 – 2 – 3 – 5 y la mano izquierda emplea 5 – 3 – 2 – 1 para mantener la muñeca relajada sin abrir en exceso los tendones."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Cuál es la diferencia entre un acorde de séptima dominante (C7) y uno de séptima mayor (Cmaj7)?",
+      "a": "Para formar una séptima mayor (como Cmaj7, muy usada en jazz y bossa nova), en lugar de retroceder 2 semitonos desde la octava superior, retrocedes únicamente 1 semitono. En el caso de Do, 1 semitono por debajo del Do agudo es la tecla blanca Si natural (Do – Mi – Sol – Si)."
     }
   ],
   "related": [
-    "/conexiones-midi-apps-y-aprendizaje/",
-    "/conexiones-midi-apps-y-aprendizaje/que-es-la-lectura-a-primera-vista-sight-reading-y-como-entrenarla-5-minutos-al-dia/",
-    "/conexiones-midi-apps-y-aprendizaje/por-que-mi-ipad-o-pc-no-detecta-el-piano-digital-por-usb-cables-de-solo-carga-vs-cables-de-datos/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/conexiones-midi-apps-y-aprendizaje/como-grabar-mano-izquierda-y-mano-derecha-por-separado-en-la-memoria-interna-de-tu-piano/",
+    "/conexiones-midi-apps-y-aprendizaje/resumen-de-conectividad-el-unico-cable-de-12-dolares-que-conecta-tu-piano-al-mundo-digital/",
+    "/conexiones-midi-apps-y-aprendizaje/por-que-es-100-veces-mejor-usar-cable-usb-midi-que-el-microfono-del-ipad-en-simply-piano/",
+    "/conexiones-midi-apps-y-aprendizaje/que-cable-exacto-comprar-en-amazon-para-un-ipad-con-puerto-usb-c-vs-un-ipad-con-puerto-lightning/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-aprender-los-acordes-menores-y-septimas-despues-de-dominar-los-mayores.webp"
 }

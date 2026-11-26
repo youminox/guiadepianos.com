@@ -4,161 +4,113 @@
   "path": "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-aftertouch-y-por-que-los-pianos-digitales-no-lo-necesitan/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es aftertouch diferencia con sensibilidad a la velocidad",
   "title": "Qué Es el Aftertouch (Presión Posterior) y Por Qué Es una Función de Sintetizadores y No de Pianos Digitales",
-  "seoTitle": "Qué Es el Aftertouch (Presión Posterior) y Por Qué Es una Función de Sintetizadores y No de Pianos Digitales | Guía de Pianos",
-  "metaDescription": "Qué Es el Aftertouch (Presión Posterior) y Por Qué Es una Función de Sintetizadores y No de Pianos Digitales: La sensibilidad a la velocidad (Velocity) actúa al bajar la tecla y es indispensable en el piano; el Aftertouch modifica vibrato apretando la tecla ya hundida, algo que un piano acústico no hace. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "La sensibilidad a la velocidad (Velocity) actúa al bajar la tecla y es indispensable en el piano; el Aftertouch modifica vibrato apretando la tecla ya hundida, algo que un piano acústico no hace.",
-  "quickAnswer": "Sobre que es aftertouch diferencia con sensibilidad a la velocidad: La sensibilidad a la velocidad (Velocity) actúa al bajar la tecla y es indispensable en el piano; el Aftertouch modifica vibrato apretando la tecla ya hundida, algo que un piano acústico no hace. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Es el Aftertouch (Presión Posterior) y Por Qué Es una Función de Sintetizadores y No de Pianos Digitales | guiadepianos.com",
+  "metaDescription": "Entiende qué es el Aftertouch y su diferencia con la sensibilidad a la velocidad: por qué es vital en sintetizadores pero innecesario en un piano digital.",
+  "excerpt": "Muchos compradores confunden la respuesta al impacto inicial con la presión continua sobre el fondo de la tecla: aclaramos cómo funciona cada sensor y por qué un piano de cola real no usa aftertouch.",
+  "quickAnswer": "Para comprender **qué es el Aftertouch y su diferencia con la sensibilidad a la velocidad**, hay que separar el impacto inicial de la presión mantenida. La **sensibilidad a la velocidad** mide cuán rápido bajas la tecla para definir el volumen inicial, mientras que el **Aftertouch** es un sensor en el fondo que detecta si aprietas más fuerte **después** de hacer tope, función exclusiva de sintetizadores para modular vibrato o filtros.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Detailed close-up focusing on pianist hands, pedal action and studio headphones: Home digital piano and keyboard tutorial illustrating Qué Es el Aftertouch (Presión Posterior) y Por Qué Es una Función de Sintetizadores y No de Pianos Digitales: La sensibilidad a la velocidad (Velocity) actúa al bajar la tecla y es indispensable en el piano; el Aftertouch modifica vibrato apretando la tecla ya hundida, algo que un piano acústico no hace., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, crisp bright editorial studio lighting with neutral warm oak tones. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Qué Es el Aftertouch (Presión Posterior) y Por Qué Es una Función de Sintetizadores y No de Pianos Digitales' (que es aftertouch diferencia con sensibilidad a la velocidad) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, on a solid oak workbench in a tidy modern home space, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Es el Aftertouch (Presión Posterior) y Por Qué Es una Función de Sintetizadores y No de Pianos Digitales"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **que es aftertouch diferencia con sensibilidad a la velocidad** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. La sensibilidad a la velocidad (Velocity) actúa al bajar la tecla y es indispensable en el piano; el Aftertouch modifica vibrato apretando la tecla ya hundida, algo que un piano acústico no hace."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Sensacion Al Tocar Y Tipos De Tecla](/sensacion-al-tocar-y-tipos-de-tecla/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Al comparar fichas técnicas antes de elegir su primer instrumento, muchos compradores ven que ciertos teclados controladores presumen de incluir *Aftertouch* y temen que un **Yamaha P-145**, un **Roland FP-30X** o un **Casio Privia PX-S1100** estén incompletos por carecer de él. Aclarar **qué es el Aftertouch y su diferencia con la sensibilidad a la velocidad** te ahorrará pagar por un sensor pensado para diseño sonoro electrónico que en realidad contradice la mecánica natural de un piano acústico."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: que es aftertouch diferencia con sensibilidad a la velocidad"
+      "text": "Impacto inicial (Velocity) frente a presión en el fondo (Aftertouch)"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **que es aftertouch diferencia con sensibilidad a la velocidad**:"
+      "text": "Aunque ambos conceptos responden a tus dedos, ocurren en momentos físicos completamente distintos del recorrido de **10 mm** de la tecla. La **sensibilidad a la velocidad** (*Velocity Sensitivity* o *Touch Response*) mide cuán rápido viaja la tecla desde su posición de reposo hasta el fondo: si bajas rápido, el procesador calcula una velocidad alta (cercana a **MIDI 127**), dispara un sonido potente y ajusta [qué es el ajuste Hammer Response o retardo del martillo](/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-hammer-response-tiempo-de-retardo-del-martillo-en-pianos-digitales/). El **Aftertouch** (presión posterior), en cambio, entra en acción **después** de que la tecla ya tocó fondo: consiste en una tira piezoresistiva colocada bajo el fieltro de tope que detecta si sigues apretando la tecla hundida con más fuerza para alterar el sonido mientras se sostiene, antes de que intervenga [cómo afecta la velocidad con la que sueltas la tecla (Key-Off Velocity)](/sensacion-al-tocar-y-tipos-de-tecla/como-afecta-la-velocidad-con-la-que-sueltas-la-tecla-key-off-velocity/)."
+    },
+    {
+      "type": "h2",
+      "text": "Por qué en un piano acústico apretar la tecla hundida no cambia el sonido"
+    },
+    {
+      "type": "p",
+      "text": "La razón por la que los pianos digitales de **88 teclas contrapesadas** prescinden del *Aftertouch* es puramente acústica y ergonómica. En un piano de cola real, gracias al mecanismo de doble escape (*escapement*), el macillo de fieltro se desconecta del empuje de la tecla aproximadamente **1.5 a 2 mm** antes de llegar al fondo, golpea la cuerda por inercia libre y rebota al instante. Una vez que la nota sonó, por más que presiones el fondo de la tecla con **5 kg** de fuerza extra, es físicamente imposible modificar el volumen o añadir vibrato a la cuerda. Es más: en cualquier escuela de piano —incluso al evaluar [si se pierde técnica al empezar en 61 teclas sensibles y luego pasar a 88 contrapesadas](/sensacion-al-tocar-y-tipos-de-tecla/pasa-algo-si-aprendo-primero-en-61-teclas-sensibles-y-al-ano-paso-a-88-contrapesadas/)— los profesores enseñan a descargar la tensión de la muñeca inmediatamente después del ataque; apretar el fondo del teclado se considera un vicio postural que provoca fatiga y tendinitis."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: que es aftertouch diferencia con sensibilidad a la velocidad",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Parámetro / Sensor",
+        "Momento en que Actúa",
+        "Qué Modifica en el Sonido",
+        "Presencia en el Catálogo"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "La sensibilidad a la velocidad (Velocity) actúa al bajar la tecla y es indispensable en el piano; el Aftertouch modifica vibrato apretando la tecla ya hundida, algo que un piano acústico no hace.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Sensibilidad a la Velocidad (Touch Response)",
+          "Durante la bajada de la tecla (antes del tope)",
+          "Volumen inicial, brillo armónico y ataque del martillo",
+          "Imprescindible: presente en Yamaha P-145, Roland FP-10/FP-30X, Casio PX-S1100 y PSR-E383"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Aftertouch Monofónico (Channel Pressure)",
+          "Con la tecla ya hundida al fondo al apretar más",
+          "Modula vibrato, filtro LFO o volumen de todas las notas a la vez",
+          "Sintetizadores y controladores MIDI de estudio; ausente en pianos digitales puros"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Aftertouch Polifónico (Poly Aftertouch)",
+          "Con la tecla hundida, mediante sensor individual por tecla",
+          "Modula el timbre o vibrato únicamente del dedo que ejerce más presión",
+          "Sintetizadores de diseño sonoro avanzado y controladores MPE especializados"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre que es aftertouch diferencia con sensibilidad a la velocidad",
-      "text": "La sensibilidad a la velocidad (Velocity) actúa al bajar la tecla y es indispensable en el piano; el Aftertouch modifica vibrato apretando la tecla ya hundida, algo que un piano acústico no hace. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Diferencias técnicas entre Sensibilidad a la Velocidad, Aftertouch de Canal y Polifónico"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar que es aftertouch diferencia con sensibilidad a la velocidad en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando que es aftertouch diferencia con sensibilidad a la velocidad en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Cómo expresarte con sonidos de cuerdas, órganos o vientos en un piano digital"
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**Dinámica por capas en modo Dual:** en modelos como el **Roland FP-30X** o el **Yamaha PSR-E383**, puedes combinar piano con cuerdas (*Strings*) y controlar la intensidad de entrada del colchón orquestal mediante la propia velocidad inicial del toque.",
+        "**Uso del pedal de sustain y medio pedal:** permite mantener la atmósfera armónica respirando mientras tus manos quedan relajadas y listas para el siguiente acorde sin forzar los tendones contra el fondo del chasis.",
+        "**Efectos DSP y articulación Super Voice:** en teclados portátiles orientados a múltiples instrumentos como el **Yamaha PSR-E383**, un toque firme sobre voces de saxofón, guitarra o metales activa automáticamente matices expresivos (*growl*, *slides* o vibrato natural) sin requerir presión posterior."
       ]
     },
     {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "Cuando revises las especificaciones en Amazon Estados Unidos, asegúrate de que el teclado indique **Touch Response**, **Velocity Sensitive** o **Graded Hammer Action** (sensibilidad a la velocidad). Esa es la función obligatoria para aprender piano. Si ves que dice \"No Aftertouch\", ten total tranquilidad: ningún piano acústico ni digital de estudio clásico lo utiliza.",
+      "title": "Cómo leer la ficha técnica en Amazon sin confundir términos"
     },
     {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "cta",
+      "text": "¿Quieres asegurarte de elegir un piano digital con la sensibilidad al tacto y respuesta dinámica adecuadas para tu nivel? Consulta a nuestro Asesor IA o revisa las opciones disponibles en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre que es aftertouch diferencia con sensibilidad a la velocidad?",
-      "a": "La sensibilidad a la velocidad (Velocity) actúa al bajar la tecla y es indispensable en el piano; el Aftertouch modifica vibrato apretando la tecla ya hundida, algo que un piano acústico no hace. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Touch Response y sensibilidad a la velocidad significan lo mismo?",
+      "a": "Son exactamente lo mismo. Los fabricantes usan nombres comerciales como **Touch Response** (Yamaha), **Touch Sensitivity** (Casio) o **Key Touch** (Roland) para referirse a la sensibilidad a la velocidad de pulsación: que la nota suene suave al acariciar la tecla y potente al atacarla con rapidez."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Pierdo alguna función pianística si mi piano digital no tiene Aftertouch?",
+      "a": "Absolutamente ninguno para estudiar o tocar piano, jazz, pop, rock o música clásica. Solo lo echarías de menos si tu objetivo principal fuera programar sintetizadores analógicos virtuales y quisieras abrir filtros de frecuencia empujando una tecla con una sola mano mientras la otra está ocupada."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Es bueno acostumbrarse a presionar fuerte la tecla después de bajarla?",
+      "a": "Para aprender piano es contraproducente. En la técnica pianística correcta, una vez que escuchas el ataque de la nota, el dedo debe sostener la tecla abajo con el mínimo peso necesario (apenas unos gramos) manteniendo la muñeca suelta; empujar el fondo entorpece la agilidad para pasar a la siguiente nota."
     }
   ],
   "related": [
-    "/sensacion-al-tocar-y-tipos-de-tecla/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/pasa-algo-si-aprendo-primero-en-61-teclas-sensibles-y-al-ano-paso-a-88-contrapesadas/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/como-afecta-la-velocidad-con-la-que-sueltas-la-tecla-key-off-velocity/",
     "/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-con-nucleo-de-madera-wooden-keys-vs-resina-en-pianos-digitales/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-glissando-y-en-que-tipo-de-teclas-es-mas-comodo-hacerlo/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-hammer-response-tiempo-de-retardo-del-martillo-en-pianos-digitales/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-es-el-aftertouch-y-por-que-los-pianos-digitales-no-lo-necesitan.webp"
 }

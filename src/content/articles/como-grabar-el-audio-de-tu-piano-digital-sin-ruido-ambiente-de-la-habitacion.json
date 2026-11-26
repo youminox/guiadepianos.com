@@ -4,161 +4,124 @@
   "path": "/audifonos-sonido-y-practica-silenciosa/como-grabar-el-audio-de-tu-piano-digital-sin-ruido-ambiente-de-la-habitacion/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como grabar el audio de un piano digital sin ruido externo",
   "title": "Cómo Grabar el Sonido Puro de tu Piano Digital Directo al Celular o PC sin que Se Escuche el Golpe de las Teclas",
-  "seoTitle": "Cómo Grabar el Sonido Puro de tu Piano Digital Directo al Celular o PC sin que Se Escuche el Golpe de las Teclas | Guía de Pianos",
-  "metaDescription": "Cómo Grabar el Sonido Puro de tu Piano Digital Directo al Celular o PC sin que Se Escuche el Golpe de las Teclas: En modelos con interfaz USB Audio integrada (Yamaha PSR-E383, P-225, Piaggero NP-15, Korg B2/Liano) el sonido digital viaja limpio por el mismo cable USB al móvil o computadora. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "En modelos con interfaz USB Audio integrada (Yamaha PSR-E383, P-225, Piaggero NP-15, Korg B2/Liano) el sonido digital viaja limpio por el mismo cable USB al móvil o computadora.",
-  "quickAnswer": "Sobre como grabar el audio de un piano digital sin ruido externo: En modelos con interfaz USB Audio integrada (Yamaha PSR-E383, P-225, Piaggero NP-15, Korg B2/Liano) el sonido digital viaja limpio por el mismo cable USB al móvil o computadora. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
+  "seoTitle": "Cómo Grabar el Sonido Puro de tu Piano Digital Directo al Celular o PC sin que Se Escuche el Golpe de las Teclas | guiadepianos.com",
+  "metaDescription": "Aprende a grabar el audio interno de tu piano digital directo al celular o PC por USB Audio o interfaz sin captar el golpe mecánico de las teclas.",
+  "excerpt": "Guía técnica para capturar el sonido estéreo puro de tu piano digital en videos de celular o computadora: diferencias entre USB Audio directo en Yamaha y conexión por interfaz para Roland o Casio.",
+  "quickAnswer": "Para grabar tu piano digital sin el golpeteo mecánico de las teclas ni ruido ambiente, debes capturar la señal interna: en modelos con **USB Audio integrado** (como el **Yamaha P-145** o **PSR-E383**) basta un cable **USB Tipo B** con adaptador **OTG** directo al celular. En pianos cuyo puerto USB solo envía MIDI (como el **Roland FP-10** o **Casio PX-S1100**), debes conectar la salida de audio a una **interfaz USB estéreo**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Overhead angled composition showcasing keyboard layout, music rest and accessories (35mm lens): Home digital piano and keyboard tutorial illustrating Cómo Grabar el Sonido Puro de tu Piano Digital Directo al Celular o PC sin que Se Escuche el Golpe de las Teclas: En modelos con interfaz USB Audio integrada (Yamaha PSR-E383, P-225, Piaggero NP-15, Korg B2/Liano) el sonido digital viaja limpio por el mismo cable USB al móvil o computadora., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, crisp bright editorial studio lighting with neutral warm oak tones. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Three-quarter 50mm studio-natural close-up shot: realistic scene illustrating 'Cómo Grabar el Sonido Puro de tu Piano Digital Directo al Celular o PC sin que Se Escuche el Golpe de las Teclas' (como grabar el audio de un piano digital sin ruido externo) for guiadepianos.com, featuring equipment in deep navy blue with satin metallic trim, inside a bright contemporary apartment with minimalist decor, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Grabar el Sonido Puro de tu Piano Digital Directo al Celular o PC sin que Se Escuche el Golpe de las Teclas"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como grabar el audio de un piano digital sin ruido externo** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. En modelos con interfaz USB Audio integrada (Yamaha PSR-E383, P-225, Piaggero NP-15, Korg B2/Liano) el sonido digital viaja limpio por el mismo cable USB al móvil o computadora."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Audifonos Sonido Y Practica Silenciosa](/audifonos-sonido-y-practica-silenciosa/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Colocas tu teléfono sobre un trípode para grabar esa pieza que llevas semanas puliendo en tu **Yamaha P-145**, **Roland FP-10** o **Casio Privia PX-S1100**, pero al reproducir el video te llevas una decepción: el micrófono del celular ha comprimido el sonido de los altavoces, ha amplificado el eco del cuarto y cada vez que tus dedos bajan con firmeza se oye un **«clac-clac» mecánico de las teclas contrapesadas** más fuerte que la propia música. Tal como explicamos en nuestro portal de [audífonos, sonido y práctica silenciosa](/audifonos-sonido-y-practica-silenciosa/), el golpe físico de los martillos es la misma razón por la que vigilamos las vibraciones cuando revisamos [a qué hora de la noche es seguro practicar con piano digital y audífonos en un edificio](/audifonos-sonido-y-practica-silenciosa/a-que-hora-de-la-noche-es-seguro-practicar-con-piano-digital-y-audifonos-en-un-edificio/). Para conseguir un video o pista digna de estudio donde solo exista la resonancia pura del motor de piano, debes puentear por completo el aire de la habitación."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como grabar el audio de un piano digital sin ruido externo"
+      "text": "USB Audio integrado vs USB solo MIDI: la gran diferencia técnica entre Yamaha, Roland y Casio"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como grabar el audio de un piano digital sin ruido externo**:"
-    },
-    {
-      "type": "table",
-      "caption": "Referencias técnicas verificadas para: como grabar el audio de un piano digital sin ruido externo",
-      "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
-      ],
-      "rows": [
-        [
-          "Clave técnica principal",
-          "En modelos con interfaz USB Audio integrada (Yamaha PSR-E383, P-225, Piaggero NP-15, Korg B2/Liano) el sonido digital viaja limpio por el mismo cable USB al móvil o computadora.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
-        ],
-        [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
-        ],
-        [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
-        ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre como grabar el audio de un piano digital sin ruido externo",
-      "text": "En modelos con interfaz USB Audio integrada (Yamaha PSR-E383, P-225, Piaggero NP-15, Korg B2/Liano) el sonido digital viaja limpio por el mismo cable USB al móvil o computadora. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
-    },
-    {
-      "type": "h2",
-      "text": "Guía paso a paso para aplicar como grabar el audio de un piano digital sin ruido externo en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "El error más común al intentar grabar un piano digital consiste en comprar un cable **USB Tipo B (de impresora)** pensando que todos los teclados envían sonido por ese puerto. En modelos de **Yamaha** como el **P-145** o el portátil de **61 teclas Yamaha PSR-E383**, el puerto **USB TO HOST** incorpora una **interfaz de audio digital bidireccional (USB Audio)** de **44.1 kHz y 16 bits**: al conectarlo con un adaptador **OTG (USB-C o Lightning)** a tu smartphone o directamente a tu PC, la aplicación de cámara del celular desactiva automáticamente su micrófono ambiental y graba el sonido estéreo interno del piano de cola **Yamaha CFIIIS** con cero ruido externo. En cambio, en pianos como el **Roland FP-10**, el **Roland FP-30X**, el **Casio Privia PX-S1100** o el **Alesis Recital Pro**, el puerto USB transmite **exclusivamente datos USB-MIDI** (notas y velocidad para controlar instrumentos virtuales VST como Pianoteq o GarageBand, pero no el audio interno del piano). Para grabar el sonido propio de estos modelos necesitas capturar su salida analógica mediante una interfaz de audio USB estéreo, de la misma forma que enrutarías la señal hacia unos [monitores de estudio activos de campo cercano](/audifonos-sonido-y-practica-silenciosa/que-son-los-monitores-de-estudio-activos-de-campo-cercano-nearfield-de-3-5-a-5-pulgadas/)."
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Método A — Grabación digital pura por USB Audio (Yamaha P-145 y PSR-E383)",
+          "text": "Conecta un cable **USB 2.0 Tipo B a Tipo A** en la parte trasera del piano y únelo a tu teléfono mediante un adaptador **OTG certificado (a USB-C o Lightning)**. Conecta tus audífonos con cable a la salida **Phones** del piano para escucharte mientras tocas, abre la cámara de video nativa del celular y graba: el video quedará sincronizado automáticamente con el audio digital estéreo del piano."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Método B — Grabación analógica estéreo mediante Interfaz de Audio USB (Roland FP-10, FP-30X, Casio PX-S1100)",
+          "text": "Conecta la salida de línea (**L/L+R y R** en el **FP-30X** o **PX-S1100**) o la salida **Phones** (usando un cable en Y **TRS a doble TS** en el **Roland FP-10**) a las dos entradas de línea de una **interfaz de audio USB de 2 canales**. Conecta la interfaz por USB a tu computadora o celular y monitorea tu interpretación enchufando tus audífonos en la salida **Direct Monitor** de la propia interfaz."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Método C — Grabación MIDI con instrumentos virtuales VST en computadora o iPad",
+          "text": "Si buscas calidad de estudio cinematográfica con cualquier piano que tenga puerto **USB-MIDI**, conecta el cable USB a tu PC, Mac o iPad, abre un software como **GarageBand** o un piano virtual VST y coloca el volumen propio del piano en **cero**. La computadora grabará los datos MIDI limpios sin ningún ruido de la habitación y podrás incluso corregir una nota falsa después de grabar."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Qué método de grabación elegir según el modelo exacto de tu piano digital"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Modelo de piano digital",
+        "¿Envía audio real por su puerto USB?",
+        "Equipo necesario para grabar audio directo al celular/PC",
+        "Dónde conectar tus audífonos mientras grabas"
+      ],
+      "rows": [
+        [
+          "Yamaha P-145 / Yamaha PSR-E383",
+          "Sí (USB Audio + MIDI a 44.1 kHz)",
+          "Solo cable USB-B + adaptador OTG al celular o PC",
+          "Directamente en la toma Phones trasera del piano"
+        ],
+        [
+          "Roland FP-10",
+          "No (solo envía datos USB-MIDI)",
+          "Cable divisor 3.5 mm TRS a 2x TS + Interfaz de audio USB estéreo",
+          "En la salida de monitoreo directo de la interfaz USB (o con divisor en el piano)"
+        ],
+        [
+          "Roland FP-30X / Casio PX-S1100",
+          "No (solo envía datos USB-MIDI)",
+          "2 cables TS de 6.35 mm desde Line Out (L y R) + Interfaz de audio USB de 2 entradas",
+          "En la toma Phones frontal del piano o en la interfaz de audio"
+        ],
+        [
+          "Alesis Recital Pro / Donner DEP-20",
+          "No (solo envía datos USB-MIDI)",
+          "2 cables TS desde salidas traseras + Interfaz de audio USB estéreo",
+          "En la toma Phones del piano o en la interfaz USB"
+        ]
+      ],
+      "caption": "Rutas de grabación sin ruido ambiente según la arquitectura USB y salidas de cada piano digital"
+    },
+    {
+      "type": "h2",
+      "text": "El error de conectar la salida de audífonos del piano directo a la entrada TRRS del celular"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Muchos pianistas intentan ahorrar pasos conectando un cable auxiliar **3.5 mm macho a macho** desde la salida del piano hasta el puerto o adaptador de audífonos del teléfono. Esto falla por tres razones eléctricas: la entrada de micrófono de un conector **TRRS** de celular es **estrictamente monofónica** (perderás toda la imagen estéreo del piano), aplica un filtro de recorte de frecuencias graves pensado para voz hablada y su preamplificador se satura (**clipping**) al recibir el voltaje de línea del piano, produciendo una distorsión áspera y desagradable. Usa siempre entrada digital por **USB OTG** o una **interfaz de audio con entradas de línea estéreo**.",
+      "title": "Por qué un cable auxiliar 3.5 mm directo al teléfono distorsiona y graba en mono"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como grabar el audio de un piano digital sin ruido externo en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Quieres armar tu kit de grabación limpia con cables USB-B, adaptadores OTG y audífonos de monitoreo sin latencia? Revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página o consulta a nuestro Asesor IA para verificar qué método soporta tu piano."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como grabar el audio de un piano digital sin ruido externo?",
-      "a": "En modelos con interfaz USB Audio integrada (Yamaha PSR-E383, P-225, Piaggero NP-15, Korg B2/Liano) el sonido digital viaja limpio por el mismo cable USB al móvil o computadora. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Puedo grabar el audio de mi piano en el celular por Bluetooth sin usar cables?",
+      "a": "No, el estándar **Bluetooth Audio** de los pianos digitales como el **Roland FP-30X** o el **Casio Privia PX-S1100 (con adaptador WU-BT10)** funciona únicamente como **receptor (entrada)**: sirve para enviar música desde tu teléfono hacia los altavoces del piano para tocar encima, pero no transmite el audio del piano hacia afuera para grabar."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Por qué necesito una interfaz de audio con dos entradas en lugar de una de una sola entrada para guitarra?",
+      "a": "Si tu interfaz de audio USB solo tiene **1 entrada de instrumento/línea (1 canal)**, al conectar únicamente la salida **L/L+R** de tu piano grabarás el sonido completo pero sumado en **mono**. Para conservar el efecto envolvente donde los graves suenan a la izquierda y los agudos a la derecha, necesitas una interfaz con **2 entradas de línea independientes**."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Puedo grabar el audio limpio en una memoria USB directamente desde el piano sin computadora?",
+      "a": "Sí. Muchos modelos como el **Roland FP-30X** o el **Casio PX-S1100** permiten insertar una **memoria USB (pendrive)** en su puerto USB Tipo A para grabar directamente archivos de audio **.WAV estéreo a 44.1 kHz / 16 bits**. Luego solo pasas ese archivo `.WAV` a tu computadora y lo sincronizas con el video de tu cámara."
     }
   ],
   "related": [
-    "/audifonos-sonido-y-practica-silenciosa/",
-    "/audifonos-sonido-y-practica-silenciosa/diferencia-entre-salida-de-audifonos-phones-y-salidas-de-linea-aux-out-l-l-r-r-de-1-4/",
-    "/audifonos-sonido-y-practica-silenciosa/adaptador-de-1-4-a-rosca-screw-on-vs-adaptador-a-presion-snap-on/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/audifonos-sonido-y-practica-silenciosa/a-que-hora-de-la-noche-es-seguro-practicar-con-piano-digital-y-audifonos-en-un-edificio/",
+    "/audifonos-sonido-y-practica-silenciosa/diferencia-entre-sensibilidad-en-db-mw-100-db-vs-96-db-y-la-impedancia-en-audifonos/",
+    "/audifonos-sonido-y-practica-silenciosa/cuanto-aislan-hacia-afuera-unos-audifonos-abiertos-se-escucha-en-la-habitacion/",
+    "/audifonos-sonido-y-practica-silenciosa/que-son-los-monitores-de-estudio-activos-de-campo-cercano-nearfield-de-3-5-a-5-pulgadas/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-grabar-el-audio-de-tu-piano-digital-sin-ruido-ambiente-de-la-habitacion.webp"
 }

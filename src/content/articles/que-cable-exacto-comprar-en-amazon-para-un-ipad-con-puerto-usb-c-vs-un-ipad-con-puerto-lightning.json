@@ -3,162 +3,116 @@
   "pillar": "conexiones-midi-apps-y-aprendizaje",
   "path": "/conexiones-midi-apps-y-aprendizaje/que-cable-exacto-comprar-en-amazon-para-un-ipad-con-puerto-usb-c-vs-un-ipad-con-puerto-lightning/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "que cable usb midi comprar para ipad usb c o lightning",
   "title": "Qué Cable USB-MIDI Comprar en Amazon según tu Modelo de iPad o iPhone (USB-C Directo vs Adaptador Lightning Camera)",
-  "seoTitle": "Qué Cable USB-MIDI Comprar en Amazon según tu Modelo de iPad o iPhone (USB-C Directo vs Adaptador Lightning Camera) | Guía de Pianos",
-  "metaDescription": "Qué Cable USB-MIDI Comprar en Amazon según tu Modelo de iPad o iPhone (USB-C Directo vs Adaptador Lightning Camera): Si tu iPad tiene puerto USB-C moderno, compra un cable directo 'USB 2.0 Tipo B a USB-C'; si tiene puerto Lightning antiguo, usa un cable USB-B a USB-C/A con adaptador OTG Lightning. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Si tu iPad tiene puerto USB-C moderno, compra un cable directo 'USB 2.0 Tipo B a USB-C'; si tiene puerto Lightning antiguo, usa un cable USB-B a USB-C/A con adaptador OTG Lightning.",
-  "quickAnswer": "Sobre que cable usb midi comprar para ipad usb c o lightning: Si tu iPad tiene puerto USB-C moderno, compra un cable directo 'USB 2.0 Tipo B a USB-C'; si tiene puerto Lightning antiguo, usa un cable USB-B a USB-C/A con adaptador OTG Lightning. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Cable USB-MIDI Comprar en Amazon según tu Modelo de iPad o iPhone (USB-C Directo vs Adaptador Lightning Camera) | guiadepianos.com",
+  "metaDescription": "Aprende qué cable USB-MIDI comprar para tu iPad con USB-C o puerto Lightning y conecta tu Yamaha P-145, PSR-E383 o Roland FP-10 sin cortes de señal.",
+  "excerpt": "Guía de compra técnica para elegir entre un cable directo USB-B a USB-C o el adaptador Lightning a USB con certificación MFi según la generación de tu iPad o iPhone al conectar tu piano digital.",
+  "quickAnswer": "La elección depende del puerto de tu dispositivo Apple y del conector **USB To Host (Tipo B cuadrado)** de pianos como el **Yamaha P-145** o el **Roland FP-30X**. Si tienes un iPad con **USB-C**, solo necesitas un cable directo **USB-B 2.0 a USB-C**; si tu iPad o iPhone usa puerto **Lightning**, requieres un cable **USB-B a USB-A** unido a un **Adaptador de Cámara Lightning a USB** con chip OTG.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Side-profile acoustic studio shot highlighting key travel and matte ebony/ivory texture: Home digital piano and keyboard tutorial illustrating Qué Cable USB-MIDI Comprar en Amazon según tu Modelo de iPad o iPhone (USB-C Directo vs Adaptador Lightning Camera): Si tu iPad tiene puerto USB-C moderno, compra un cable directo 'USB 2.0 Tipo B a USB-C'; si tiene puerto Lightning antiguo, usa un cable USB-B a USB-C/A con adaptador OTG Lightning., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, crisp bright editorial studio lighting with neutral warm oak tones. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'Qué Cable USB-MIDI Comprar en Amazon según tu Modelo de iPad o iPhone (USB-C Directo vs Adaptador Lightning Camera)' (que cable usb midi comprar para ipad usb c o lightning) for guiadepianos.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a solid oak workbench in a tidy modern home space, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Cable USB-MIDI Comprar en Amazon según tu Modelo de iPad o iPhone (USB-C Directo vs Adaptador Lightning Camera)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **que cable usb midi comprar para ipad usb c o lightning** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Si tu iPad tiene puerto USB-C moderno, compra un cable directo 'USB 2.0 Tipo B a USB-C'; si tiene puerto Lightning antiguo, usa un cable USB-B a USB-C/A con adaptador OTG Lightning."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Conexiones Midi Apps Y Aprendizaje](/conexiones-midi-apps-y-aprendizaje/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "El micrófono del iPad falla en cuanto practicas en una habitación con ruido ambiental, tocas un acorde de tres o cuatro notas al mismo tiempo o bajas el volumen por la noche para estudiar con audífonos. La solución definitiva es unir físicamente tu piano digital a la tablet por cable para que cada pulsación viaje como un dato digital exacto. Sin embargo, al mirar la parte trasera de un **Yamaha P-145**, un **Yamaha PSR-E383**, un **Roland FP-10** o un **Alesis Recital Pro / Donner DEP-20**, no encontrarás un puerto USB rectangular común, sino una toma cuadrada biselada llamada **USB To Host (USB Tipo B 2.0)**, idéntica a la de las impresoras. Elegir el cable o adaptador correcto depende por completo de si tu iPad o iPhone utiliza el conector moderno **USB-C** o el puerto clásico **Lightning**, especialmente si quieres [conectar tu piano digital a un iPhone para aprender o grabar ideas](/conexiones-midi-apps-y-aprendizaje/como-conectar-tu-piano-digital-a-un-iphone-para-aprender-o-grabar-ideas-musicales/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: que cable usb midi comprar para ipad usb c o lightning"
+      "text": "Cómo identificar el puerto de tu piano digital y la generación de tu iPad o iPhone"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **que cable usb midi comprar para ipad usb c o lightning**:"
+      "text": "Casi el 95 % de los pianos digitales de **88 teclas** y teclados de **61 teclas** actuales equipan el conector **USB Tipo B hembra** porque su chasis cuadrado profundo resiste tirones accidentales sobre el soporte en Z o el escritorio sin doblar la placa base. En el extremo de Apple, la transición tecnológica divide tu compra en dos caminos incompatibles entre sí: todos los **iPad de 10.ª generación o posteriores**, **iPad Air (4.ª gen en adelante)**, **iPad mini (6.ª gen en adelante)**, **iPad Pro desde 2018** y los **iPhone 15 / 16** o posteriores incorporan un puerto **USB-C** ovalado simétrico con soporte nativo de host de datos. Por su parte, el **iPad de 9.ª generación (y anteriores con botón Home)** y los **iPhone 14 o previos** mantienen el conector **Lightning de 8 pines**, el cual no puede actuar como anfitrión USB con un cable simple, sino que exige un circuito controlador **OTG (On-The-Go)** para leer la señal mientras estudias cómo [coordinar las dos manos independientes sin bloquearte](/conexiones-midi-apps-y-aprendizaje/como-aprender-a-tocar-con-las-dos-manos-independientes-sin-que-la-izquierda-copie-a-la-derecha/) o practicas con [el metrónomo integrado del piano digital](/conexiones-midi-apps-y-aprendizaje/como-usar-el-metronomo-integrado-de-tu-piano-digital-para-no-acelerar-en-las-partes-faciles/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: que cable usb midi comprar para ipad usb c o lightning",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Dispositivo Apple",
+        "Conector en el iPad/iPhone",
+        "Conector en el Piano (Yamaha, Roland, Casio)",
+        "Qué Comprar Exactamente en Amazon"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Si tu iPad tiene puerto USB-C moderno, compra un cable directo 'USB 2.0 Tipo B a USB-C'; si tiene puerto Lightning antiguo, usa un cable USB-B a USB-C/A con adaptador OTG Lightning.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "iPad 10.ª gen, iPad Air 4/5/M2, iPad Pro, iPhone 15/16+",
+          "Puerto USB-C",
+          "USB To Host (USB-B cuadrado)",
+          "1 Cable directo USB-B 2.0 Macho a USB-C Macho (1.5 m a 2 m)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "iPad 9.ª gen o anterior, iPhone 14 / 13 / 12 o anterior",
+          "Puerto Lightning (8 pines)",
+          "USB To Host (USB-B cuadrado)",
+          "Adaptador Lightning a USB para Cámaras (con puerto de carga) + Cable USB-B a USB-A"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "iPad USB-C en sesiones largas de estudio (+2 horas)",
+          "Puerto USB-C",
+          "USB To Host (USB-B cuadrado)",
+          "Hub USB-C con entrada Power Delivery (PD) + Cable USB-B a USB-A"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Teclados ultracompactos con Micro-USB o USB-C (ej. Casiotone CT-S1/S200)",
+          "Puerto USB-C o Lightning",
+          "Micro-USB B o USB-C To Host",
+          "Cable OTG Micro-USB a USB-C o Adaptador Lightning Camera + Cable Micro-USB de datos"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre que cable usb midi comprar para ipad usb c o lightning",
-      "text": "Si tu iPad tiene puerto USB-C moderno, compra un cable directo 'USB 2.0 Tipo B a USB-C'; si tiene puerto Lightning antiguo, usa un cable USB-B a USB-C/A con adaptador OTG Lightning. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Guía rápida de compatibilidad de cables USB-MIDI según tu modelo de iPad o iPhone"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar que cable usb midi comprar para ipad usb c o lightning en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando que cable usb midi comprar para ipad usb c o lightning en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Las dos configuraciones de cableado que funcionan a la primera sin desconexiones"
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**Opción A — Para iPad o iPhone con puerto USB-C (Conexión Directa):** Compra un único **cable USB-B 2.0 a USB-C** de entre **1.5 metros y 2 metros** con blindaje trenzado. No necesitas ningún adaptador intermedio. Además, en modelos como el **Yamaha P-145**, **Yamaha P-225** y **Yamaha PSR-E383**, este único cable bidireccional transporta tanto **datos MIDI** como **Audio Digital Estéreo a 44.1 kHz**, permitiendo que el sonido de la app del iPad suene directamente por los altavoces o los audífonos conectados al piano.",
+        "**Opción B — Para iPad (9.ª gen o anterior) o iPhone con puerto Lightning:** Evita los cables económicos de una sola pieza \"Lightning a USB-B\", ya que suelen fallar cada vez que Apple actualiza iOS. La combinación profesional y estable es adquirir el **Adaptador de Lightning a USB 3 para Cámaras** (el modelo que incluye un puerto hembra USB-A junto a un puerto hembra Lightning de carga) y conectarle un cable estándar **USB-B a USB-A** de impresora. Así el chip interno del adaptador habilita el protocolo **CoreMIDI** y puedes mantener tu iPad cargando al mismo tiempo.",
+        "**Longitud y calibre recomendados:** Elige siempre un cable de **1.5 m (5 pies) a 2 m (6.6 pies)**. Los cables de **1 metro** quedan tensos entre la esquina trasera izquierda del piano y el centro del atril, mientras que los cables de más de **3 metros** pueden introducir caídas de voltaje o pérdida de paquetes de sincronización."
       ]
     },
     {
       "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "text": "Peligro con los cables \"Lightning a Impresora\" sin chip OTG certificado"
     },
     {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "callout",
+      "variant": "aviso",
+      "text": "En plataformas de comercio electrónico abundan cables directos que tienen punta **Lightning** en un extremo y punta cuadrada **USB-B** en el otro. Si compras uno que no incorpore un chip decodificador **MFi / OTG** real en el cabezal Lightning, al cabo de **10 o 15 minutos** de práctica en **Simply Piano** o **Flowkey** aparecerá en pantalla la alerta *\"Este accesorio no es compatible con este dispositivo\"* y el piano dejará de responder en mitad de la partitura. Si tu dispositivo Apple es **Lightning**, invertir en el adaptador tipo Camera Connection Kit con entrada de corriente junto a un cable **USB-B a USB-A** blindado te garantiza estabilidad total y evita que la batería de la tablet se agote mientras estudias.",
+      "title": "Por qué fallan los cables genéricos directos Lightning a USB-B"
+    },
+    {
+      "type": "cta",
+      "text": "¿Listo para conectar tu piano digital al iPad sin errores del micrófono? Revisa los cables USB-B a USB-C blindados y los adaptadores Lightning compatibles en las tarjetas de Amazon integradas en esta página o consulta a nuestro Asesor IA si tienes dudas sobre el puerto de tu teclado."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre que cable usb midi comprar para ipad usb c o lightning?",
-      "a": "Si tu iPad tiene puerto USB-C moderno, compra un cable directo 'USB 2.0 Tipo B a USB-C'; si tiene puerto Lightning antiguo, usa un cable USB-B a USB-C/A con adaptador OTG Lightning. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Me sirve el cable USB cuadrado de una impresora vieja para conectar mi piano digital?",
+      "a": "Sí, siempre que sea un cable estándar USB 2.0 (USB-A macho a USB-B macho) en buen estado. Si tu iPad tiene puerto USB-C, solo necesitarás añadirle un pequeño adaptador USB-A hembra a USB-C macho o comprar directamente un cable USB-B a USB-C para evitar piezas sueltas."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿El piano digital carga la batería del iPad cuando los conecto con un cable USB-B a USB-C?",
+      "a": "No. Por seguridad eléctrica, los pianos digitales con alimentación externa (como el Yamaha P-145 o el Roland FP-10) no envían amperaje de carga por su puerto USB To Host hacia la tablet. Para cargar el iPad mientras tocas, debes intercalar un Hub USB-C con Power Delivery o el adaptador Lightning con puerto de carga."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué pianos digitales envían tanto sonido como datos MIDI por el mismo cable USB al iPad?",
+      "a": "Los modelos actuales Yamaha P-145, P-225 y el teclado de 61 teclas PSR-E383 integran una interfaz de audio USB dentro del puerto USB To Host: envían y reciben audio digital y datos MIDI por el mismo cable USB-B. En cambio, el Roland FP-10 y el Alesis Recital Pro solo transmiten datos MIDI por ese puerto."
     }
   ],
   "related": [
-    "/conexiones-midi-apps-y-aprendizaje/",
-    "/conexiones-midi-apps-y-aprendizaje/como-conectar-tu-teclado-o-piano-digital-a-una-tablet-o-celular-android-por-usb-otg/",
-    "/conexiones-midi-apps-y-aprendizaje/tiene-latencia-el-bluetooth-midi-diferencia-con-el-bluetooth-audio/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/conexiones-midi-apps-y-aprendizaje/como-aprender-a-tocar-con-las-dos-manos-independientes-sin-que-la-izquierda-copie-a-la-derecha/",
+    "/conexiones-midi-apps-y-aprendizaje/como-usar-el-metronomo-integrado-de-tu-piano-digital-para-no-acelerar-en-las-partes-faciles/",
+    "/conexiones-midi-apps-y-aprendizaje/como-pasar-el-dedo-pulgar-por-debajo-thumb-under-para-tocar-la-escala-de-do-mayor-con-8-notas/",
+    "/conexiones-midi-apps-y-aprendizaje/como-conectar-tu-piano-digital-a-un-iphone-para-aprender-o-grabar-ideas-musicales/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-cable-exacto-comprar-en-amazon-para-un-ipad-con-puerto-usb-c-vs-un-ipad-con-puerto-lightning.webp"
 }

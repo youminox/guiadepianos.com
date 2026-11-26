@@ -4,161 +4,109 @@
   "path": "/pedales-compatibles-y-polaridad/diferencia-entre-pedal-damper-optico-y-potenciometro-en-pianos-digitales/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como funciona por dentro un pedal de sustain continuo trs",
   "title": "Cómo Detecta un Pedal Continuo (Roland DP-10 / Yamaha FC3A) Cuántos Milímetros Lo Has Pisado",
-  "seoTitle": "Cómo Detecta un Pedal Continuo (Roland DP-10 / Yamaha FC3A) Cuántos Milímetros Lo Has Pisado | Guía de Pianos",
-  "metaDescription": "Cómo Detecta un Pedal Continuo (Roland DP-10 / Yamaha FC3A) Cuántos Milímetros Lo Has Pisado: Un potenciómetro interno varía la resistencia eléctrica entre la punta (Tip) y el anillo (Ring) del conector TRS a medida que bajas la lengüeta metálica. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Un potenciómetro interno varía la resistencia eléctrica entre la punta (Tip) y el anillo (Ring) del conector TRS a medida que bajas la lengüeta metálica.",
-  "quickAnswer": "Sobre como funciona por dentro un pedal de sustain continuo trs: Un potenciómetro interno varía la resistencia eléctrica entre la punta (Tip) y el anillo (Ring) del conector TRS a medida que bajas la lengüeta metálica. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
+  "seoTitle": "Cómo Detecta un Pedal Continuo (Roland DP-10 / Yamaha FC3A) Cuántos Milímetros Lo Has Pisado | guiadepianos.com",
+  "metaDescription": "Descubre como funciona por dentro un pedal de sustain continuo TRS: comparativa entre potenciómetros de 10 kΩ (Roland DP-10, Yamaha FC3A) y sensores.",
+  "excerpt": "A diferencia de un interruptor binario, un pedal continuo mide el recorrido de la lengüeta metálica milímetro a milímetro mediante un divisor de tensión TRS o un obturador óptico para recrear el medio pedal.",
+  "quickAnswer": "Para entender **como funciona por dentro un pedal de sustain continuo TRS** como el **Roland DP-10** o el **Yamaha FC3A**, hay que observar su transductor: una cremallera acciona un **potenciómetro de 10 kΩ** o un obturador sobre un **sensor óptico**. Al bajar la lengüeta durante sus **18 a 22 mm** de recorrido, el voltaje entre punta, anillo y malla varía gradualmente y el piano lo traduce en **128 niveles** de resonancia.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Three-quarter editorial angle from slightly above in a bright music corner (50mm lens): Home digital piano and keyboard tutorial illustrating Cómo Detecta un Pedal Continuo (Roland DP-10 / Yamaha FC3A) Cuántos Milímetros Lo Has Pisado: Un potenciómetro interno varía la resistencia eléctrica entre la punta (Tip) y el anillo (Ring) del conector TRS a medida que bajas la lengüeta metálica., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, warm evening LED music stand lamp light for silent headphone practice. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Cómo Detecta un Pedal Continuo (Roland DP-10 / Yamaha FC3A) Cuántos Milímetros Lo Has Pisado' (como funciona por dentro un pedal de sustain continuo trs) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, on a solid oak workbench in a tidy modern home space, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Detecta un Pedal Continuo (Roland DP-10 / Yamaha FC3A) Cuántos Milímetros Lo Has Pisado"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como funciona por dentro un pedal de sustain continuo trs** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Un potenciómetro interno varía la resistencia eléctrica entre la punta (Tip) y el anillo (Ring) del conector TRS a medida que bajas la lengüeta metálica."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Pedales Compatibles Y Polaridad](/pedales-compatibles-y-polaridad/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "En un piano acústico de cola, cuando hundes el pedal derecho apenas **6 o 7 milímetros**, los apagadores de fieltro no se separan del todo: rozan suavemente las cuerdas vibrantes, apagando los agudos más rápido mientras dejan respirar un colchón cálido de armónicos graves. Para que un **Roland FP-30X**, un **Roland FP-10** o un **Yamaha P-145** recreen esa sutileza física, un simple interruptor de encendido y apagado no sirve de nada. Entender **como funciona por dentro un pedal de sustain continuo TRS** como el **Roland DP-10** o el **Yamaha FC3A** revela una pieza de ingeniería electromecánica fascinante: en lugar de dos láminas metálicas que chocan, su interior aloja un sensor analógico o fotoeléctrico que mide el ángulo exacto de tu pie en tiempo real. Puedes explorar todas las opciones de compatibilidad en nuestra guía central de [pedales compatibles y polaridad](/pedales-compatibles-y-polaridad/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como funciona por dentro un pedal de sustain continuo trs"
+      "text": "El Mecanismo de Cremallera y Potenciómetro Rotativo de 10 kΩ frente al Sensor Óptico"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como funciona por dentro un pedal de sustain continuo trs**:"
+      "text": "Si desarmas la carcasa de un **Roland DP-10** o un **Yamaha FC3A**, descubrirás que debajo de la lengüeta cromada y del muelle helicoidal de retorno desciende un vástago vertical dentado (una **cremallera de acetal o nylon lubricado** de unos **20 mm** de carrera útil). A medida que pisas el pedal, esos dientes hacen girar un piñón acoplado al eje de un **potenciómetro rotativo lineal (típicamente de 10 kΩ a 50 kΩ)**. Aquí entra en juego la clavija **TRS de 6.35 mm (3 polos: Punta, Anillo y Malla)**: el piano digital envía una tensión de referencia constante de **3.3 V o 5 V** por un polo, la masa por otro, y lee por el tercer conductor el voltaje variable que devuelve el cursor del potenciómetro según los milímetros que hayas bajado el pie. El convertidor analógico-digital (ADC) del piano muestrea ese voltaje cientos de veces por segundo para aplicar [la función de medio pedal (half-damper) en pianos compatibles](/pedales-compatibles-y-polaridad/que-es-la-funcion-de-medio-pedal-half-damper-o-half-pedaling-y-que-pianos-la-tienen/), una ventaja expresiva decisiva cuando evalúas [si basta con un buen pedal derecho continuo o una pedalera triple](/pedales-compatibles-y-polaridad/necesita-un-principiante-los-3-pedales-o-basta-con-el-pedal-de-sustain-derecho/). En gamas de concierto superiores (como ciertas pedaleras ópticas de Kawai o Yamaha GrandTouch), el potenciómetro físico se sustituye por un **obturador de escala de grises y un fotodiodo infrarrojo**, eliminando por completo la fricción mecánica sobre pistas de carbón."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: como funciona por dentro un pedal de sustain continuo trs",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Tecnología interna del pedal",
+        "Conector y señal eléctrica",
+        "Resolución enviada al piano (CC 64)",
+        "Modelos representativos y desgaste mecánico"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Un potenciómetro interno varía la resistencia eléctrica entre la punta (Tip) y el anillo (Ring) del conector TRS a medida que bajas la lengüeta metálica.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Microinterruptor de lámina (Switch On/Off)",
+          "Jack TS (2 polos) — Circuito abierto o cerrado",
+          "2 estados binarios: 0 (arriba) o 127 (abajo)",
+          "M-Audio SP-2, Yamaha FC4A — Desgaste bajo por contacto seco"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Cremallera + Potenciómetro rotativo (10–50 kΩ)",
+          "Jack TRS (3 polos) — Divisor de tensión analógico 0–5 V",
+          "Escala continua de 128 pasos (0 a 127) o curvas graduales",
+          "Roland DP-10, Yamaha FC3A, Korg DS-1H — Pista de carbón de larga duración"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Obturador progresivo + Fotodiodo óptico LED",
+          "Conector TRS o DIN multipin con alimentación activa",
+          "Lectura continua sin fricción ni deriva de resistencia",
+          "Pedaleras de muebles de gama alta — Cero desgaste por rozamiento en el sensor"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre como funciona por dentro un pedal de sustain continuo trs",
-      "text": "Un potenciómetro interno varía la resistencia eléctrica entre la punta (Tip) y el anillo (Ring) del conector TRS a medida que bajas la lengüeta metálica. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Comparativa técnica de transductores internos en pedales de sustain para piano digital"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar como funciona por dentro un pedal de sustain continuo trs en tu piano digital o teclado"
+      "text": "Por Qué el Roland DP-10 Tiene un Conmutador Trasero \"Continuous / Switch\" en su Carcasa"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Un detalle brillante del **Roland DP-10** es el selector deslizante situado en su costado con dos posiciones: **Continuous (Half-Damper)** y **Switch**. Cuando lo pones en **Continuous**, el conector **TRS** acopla toda la pista resistiva del potenciómetro interno para que pianos como el **Roland FP-10** o **FP-30X** lean cada milímetro del recorrido; si lo llevas a **Switch**, el circuito interno puentea la pista variable para comportarse como un interruptor clásico de dos estados compatible con teclados básicos de **61 teclas**.",
+      "title": "El doble circuito interno del Roland DP-10"
     },
     {
-      "type": "steps",
+      "type": "h2",
+      "text": "Qué Ocurre Milímetro a Milímetro Durante los 20 mm de Recorrido de la Lengüeta Metálica"
+    },
+    {
+      "type": "ol",
       "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
+        "**De 0 a 3 mm (Zona muerta de seguridad o *Deadband*):** Al apoyar el peso del zapato sin intención de activar el pedal, el potenciómetro se mantiene en el umbral inicial (`CC 64 = 0 a 5`) para evitar que los apagadores virtuales se levanten por error.",
+        "**De 4 a 12 mm (Región de Medio Pedal o *Half-Damper*):** La cremallera gira el piñón central del potenciómetro, el voltaje en el anillo del conector TRS cambia linealmente y el motor acústico del piano envía valores **CC 64 entre 35 y 90**, alargando la caída del sonido con amortiguación parcial.",
+        "**De 13 a 20 mm (Liberación total y resonancia simpática):** El cursor alcanza el extremo de la pista conductora (`CC 64 = 100 a 127`), retirando por completo los apagadores virtuales y activando en pianos avanzados la resonancia de cuerdas abiertas."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como funciona por dentro un pedal de sustain continuo trs en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Quieres dar el salto a un pedal continuo TRS para aprovechar el medio pedal en tu piano Yamaha, Roland o Korg? Consulta a nuestro Asesor IA o revisa el stock actualizado en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como funciona por dentro un pedal de sustain continuo trs?",
-      "a": "Un potenciómetro interno varía la resistencia eléctrica entre la punta (Tip) y el anillo (Ring) del conector TRS a medida que bajas la lengüeta metálica. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Puedo usar un pedal continuo Yamaha FC3A en un piano Roland FP-30X para hacer medio pedal?",
+      "a": "No son intercambiables para la función de medio pedal. Aunque ambos usan un conector TRS de 6.35 mm y un potenciómetro interno, Yamaha y Roland cablean la punta (Tip) y el anillo (Ring) con asignaciones de voltaje y curvas de resistencia distintas."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿El potenciómetro interno de un pedal continuo se ensucia o pierde precisión con los años?",
+      "a": "En un potenciómetro mecánico, el polvo fino del suelo puede entrar tras varios años y generar pequeños saltos en los valores intermedios de CC 64. Basta con abrir los tornillos de la base, limpiar la cremallera y aplicar una gota de limpiador de contactos electrónicos de residuo cero en el potenciómetro."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Por qué los pedales continuos como el Yamaha FC3A no traen interruptor de polaridad N.O./N.C. debajo?",
+      "a": "Porque un pedal continuo con potenciómetro no abre ni cierra un interruptor seco, sino que varía una resistencia entre tres polos TRS. Por eso cada fabricante calibra su curva de voltaje específica desde el menú de sistema del piano digital."
     }
   ],
   "related": [
-    "/pedales-compatibles-y-polaridad/",
-    "/pedales-compatibles-y-polaridad/que-significa-soft-sostenuto-pedal-assignment-en-el-menu-de-tu-teclado/",
-    "/pedales-compatibles-y-polaridad/que-hacer-si-el-pedal-de-sustain-aparece-invertido-dentro-de-garageband-o-logic-pro/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/pedales-compatibles-y-polaridad/por-que-mi-pedal-de-sustain-suena-al-reves-sostiene-cuando-no-lo-piso/",
+    "/pedales-compatibles-y-polaridad/por-que-nunca-debes-encender-el-teclado-con-el-pie-pisando-el-pedal-de-sustain/",
+    "/pedales-compatibles-y-polaridad/que-es-la-funcion-de-medio-pedal-half-damper-o-half-pedaling-y-que-pianos-la-tienen/",
+    "/pedales-compatibles-y-polaridad/necesita-un-principiante-los-3-pedales-o-basta-con-el-pedal-de-sustain-derecho/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/diferencia-entre-pedal-damper-optico-y-potenciometro-en-pianos-digitales.webp"
 }

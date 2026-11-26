@@ -4,161 +4,128 @@
   "path": "/sensacion-al-tocar-y-tipos-de-tecla/como-afecta-la-velocidad-con-la-que-sueltas-la-tecla-key-off-velocity/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es key off velocity en un piano digital",
   "title": "Sensibilidad al Soltar la Tecla (Key-Off Velocity): Cómo Influye en el Staccato y en el Legato",
-  "seoTitle": "Sensibilidad al Soltar la Tecla (Key-Off Velocity) | Guía de Pianos",
-  "metaDescription": "Sensibilidad al Soltar la Tecla (Key-Off Velocity): Cómo Influye en el Staccato y en el Legato: En mecanismos como el Roland PHA-4 o Casio Smart Scaled, soltar la tecla de golpe corta el sonido en seco (staccato), mientras soltarla despacio deja una cola suave. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "En mecanismos como el Roland PHA-4 o Casio Smart Scaled, soltar la tecla de golpe corta el sonido en seco (staccato), mientras soltarla despacio deja una cola suave.",
-  "quickAnswer": "Sobre que es key off velocity en un piano digital: En mecanismos como el Roland PHA-4 o Casio Smart Scaled, soltar la tecla de golpe corta el sonido en seco (staccato), mientras soltarla despacio deja una cola suave. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Sensibilidad al Soltar la Tecla (Key-Off Velocity): Cómo Influye en el Staccato y en el Legato | guiadepianos.com",
+  "metaDescription": "Descubre qué es Key-Off Velocity en un piano digital y cómo la velocidad al soltar la tecla controla el apagador virtual en pasajes de staccato y legato.",
+  "excerpt": "La articulación pianística no termina al hundir la nota: analizamos cómo los sensores miden el retorno de la tecla para cortar resonancias de forma abrupta o fundir acordes con realismo acústico.",
+  "quickAnswer": "El **Key-Off Velocity** (velocidad de liberación) es el valor MIDI de **0 a 127** que mide la rapidez con la que una tecla sube al soltarla. Mientras que levantar el dedo bruscamente ordena al apagador virtual frenar la cuerda en seco para lograr un *staccato* incisivo, una liberación pausada prolonga la cola armónica en fraseos *legato*. Mecanismos de **triple sensor** como el **Roland PHA-4 Standard** registran esta diferencia en tiempo real.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Side-profile acoustic studio shot highlighting key travel and matte ebony/ivory texture: Home digital piano and keyboard tutorial illustrating Sensibilidad al Soltar la Tecla (Key-Off Velocity): Cómo Influye en el Staccato y en el Legato: En mecanismos como el Roland PHA-4 o Casio Smart Scaled, soltar la tecla de golpe corta el sonido en seco (staccato), mientras soltarla despacio deja una cola suave., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Diagonal isometric product-in-use composition in modern home setting: realistic scene illustrating 'Sensibilidad al Soltar la Tecla (Key-Off Velocity): Cómo Influye en el Staccato y en el Legato' (que es key off velocity en un piano digital) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, inside a bright contemporary apartment with minimalist decor, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Sensibilidad al Soltar la Tecla (Key-Off Velocity): Cómo Influye en el Staccato y en el Legato"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **que es key off velocity en un piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. En mecanismos como el Roland PHA-4 o Casio Smart Scaled, soltar la tecla de golpe corta el sonido en seco (staccato), mientras soltarla despacio deja una cola suave."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Sensacion Al Tocar Y Tipos De Tecla](/sensacion-al-tocar-y-tipos-de-tecla/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Cuando un estudiante ensaya una sonatina de Muzio Clementi o un estudio de Czerny en un teclado elemental, suele notar un defecto sutil pero molesto: todos los finales de nota se apagan con el mismo \"tijeretazo\" artificial, sin importar si levanta la mano con delicadeza al cerrar una frase lenta o si despega el dedo como si el marfil quemara. Entender **qué es Key-Off Velocity en un piano digital** explica exactamente por qué algunos instrumentos logran que el silencio tras cada nota respire como en una caja de resonancia de madera y otros suenan mecánicos."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: que es key off velocity en un piano digital"
+      "text": "Física del apagador acústico frente a los sensores de retorno digital"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **que es key off velocity en un piano digital**:"
+      "text": "En un piano acústico vertical o de cola, sobre cada juego de cuerdas descansa un fieltro apagador (*damper*). Al hundir la tecla, ese fieltro se eleva para dejar vibrar el acero; al soltarla, vuelve a caer sobre la cuerda. Si retiras el dedo con lentitud, el fieltro roza las cuerdas gradualmente y apaga los armónicos durante una fracción de segundo; si sueltas de golpe, frena la vibración en seco. Para recrear este fenómeno dentro de nuestra [guía sobre sensación al tocar y tipos de tecla](/sensacion-al-tocar-y-tipos-de-tecla/), los pianos digitales miden en milisegundos el tiempo que tarda el mecanismo en recorrer el tramo ascendente entre el interruptor inferior y el superior. Modelos con **triple sensor** como el **Roland FP-10** y el **Roland FP-30X** (equipados con acción **PHA-4 Standard**) leen este retroceso incluso cuando la tecla no ha subido hasta arriba del todo, una ventaja crucial que notarás en tu [evolución técnica al pasar de 61 teclas sensibles a 88 contrapesadas](/sensacion-al-tocar-y-tipos-de-tecla/pasa-algo-si-aprendo-primero-en-61-teclas-sensibles-y-al-ano-paso-a-88-contrapesadas/)."
+    },
+    {
+      "type": "h2",
+      "text": "Impacto real del Key-Off en articulaciones Staccato, Tenuto y Legato"
+    },
+    {
+      "type": "p",
+      "text": "El protocolo MIDI traduce la rapidez de subida en un mensaje llamado **Note-Off Velocity** con una escala de **0 a 127**. Cuando el procesador interno recibe un valor alto (entre **95 y 127**) tras un ataque picado, acorta la envolvente de caída (*release time*) a unos **40–60 ms** y dispara una muestra sutil del golpe del fieltro contra la cuerda. En cambio, un valor bajo (entre **15 y 45**) al ligar acordes extiende la cola sonora por encima de **250–350 ms**, permitiendo que dos notas consecutivas se fundan sin brusquedad aunque no estés pisando el pedal de *sustain*. Esta capacidad de esculpir el final del sonido influye directamente al decidir [qué tipo de tecla elegir según tu género musical](/sensacion-al-tocar-y-tipos-de-tecla/diferencia-de-tacto-entre-tocar-piano-clasico-pop-jazz-y-sintetizador/), sobre todo en repertorio barroco de Bach o jazz íntimo donde el pedal derecho apenas se toca."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: que es key off velocity en un piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Modelo / Mecanismo",
+        "Sensores por Tecla",
+        "Lectura Key-Off Variable",
+        "Respuesta en Staccato y Legato Sin Pedal"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "En mecanismos como el Roland PHA-4 o Casio Smart Scaled, soltar la tecla de golpe corta el sonido en seco (staccato), mientras soltarla despacio deja una cola suave.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Roland FP-10 / FP-30X (PHA-4 Standard)",
+          "Triple sensor",
+          "Continua (0–127) + modelado SuperNATURAL",
+          "Transición progresiva del apagador y articulación ultra precisa"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Yamaha P-145 (Acción GHC)",
+          "Doble sensor",
+          "Ajuste interno optimizado para motor CFIIIS",
+          "Corte limpio en picados y caída natural en baladas o estudios clásicos"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Casio Privia PX-S1100 (Smart Scaled)",
+          "Doble sensor con simulación Key-Off",
+          "Simulador de respuesta de liberación integrado",
+          "Control expresivo del decaimiento armónico en apenas 23.2 cm de fondo"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Yamaha PSR-E383 (61 teclas sensibles)",
+          "Contacto de velocidad de bajada",
+          "Valor Note-Off fijo estándar (MIDI 64)",
+          "Envolvente de corte uniforme; ideal para iniciación y sonidos de teclado"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre que es key off velocity en un piano digital",
-      "text": "En mecanismos como el Roland PHA-4 o Casio Smart Scaled, soltar la tecla de golpe corta el sonido en seco (staccato), mientras soltarla despacio deja una cola suave. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Comportamiento de la lectura de liberación (Key-Off) en modelos de referencia del catálogo"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar que es key off velocity en un piano digital en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Cómo comprobar la respuesta de liberación en tu piano o software VST"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Aísla el apagador sin tocar el pedal derecho",
+          "text": "Desconecta o evita pisar el pedal de sustain, selecciona el timbre principal de piano de concierto y toca un acorde de Do mayor en el registro central manteniendo las teclas hundidas durante 3 segundos."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Contrasta una liberación lenta contra un rebote elástico",
+          "text": "En el primer intento, acompaña la subida de las teclas con las yemas durante casi 1 segundo; en el segundo, retira los dedos hacia la palma en un latigazo rápido. En pianos como el Roland FP-30X o el Casio PX-S1100 escucharás cómo el segundo corte es mucho más seco y percusivo."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Verifica el flujo MIDI en tu tablet o computadora",
+          "text": "Si conectas el piano por USB a una app como Pianoteq o un monitor MIDI, observa la columna de datos Note-Off: si marca siempre 64 o 0, transmite liberación fija; si varía entre 10 y 120 según tu gesto, envía Key-Off Velocity real."
         }
       ]
     },
     {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si utilizas tu piano digital como controlador maestro conectado al iPad o PC para tocar librerías profesionales (como Garritan CFX, Keyscape o Pianoteq), contar con transmisión de **Key-Off Velocity** variable en el hardware marca una diferencia enorme: las librerías de estudio asignan muestras reales de caída de apagadores (*release trails*) distintas según el valor recibido.",
+      "title": "Ventaja oculta al usar librerías VST por USB-MIDI"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando que es key off velocity en un piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Quieres saber qué modelo del catálogo ofrece el control de articulación más fiel para tus estudios de piano? Consulta ahora mismo a nuestro Asesor IA o revisa la disponibilidad y stock actualizado en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre que es key off velocity en un piano digital?",
-      "a": "En mecanismos como el Roland PHA-4 o Casio Smart Scaled, soltar la tecla de golpe corta el sonido en seco (staccato), mientras soltarla despacio deja una cola suave. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Todos los pianos digitales envían velocidad de liberación variable por MIDI?",
+      "a": "No necesariamente en todos los modelos. Muchos pianos de entrada aplican una curva de extinción inteligente dentro de su propio procesador de sonido al detectar cómo suben los interruptores internos, pero por el puerto USB-MIDI envían un valor estándar fijo de **64**. Modelos con **PHA-4 Standard** como el **Roland FP-10** y **FP-30X** sí gestionan ambos niveles con gran detalle."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Cuál es la diferencia entre Key-Off Velocity y Key-Off Sample?",
+      "a": "El **Key-Off Velocity** es la medición numérica de la rapidez con la que sueltas la tecla, mientras que el **Key-Off Sample** (muestra de liberación) es la grabación de audio real del roce del fieltro sobre la cuerda que el motor del piano reproduce como resultado de esa medición."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Se nota el Key-Off Velocity cuando tengo pisado el pedal de sustain?",
+      "a": "Cuando mantienes el pedal de *sustain* pisado a fondo, los apagadores virtuales quedan levantados y las cuerdas siguen resonando, por lo que la velocidad de liberación pierde su efecto de corte inmediato. Su función brilla cuando tocas pasajes articulados sin pedal o utilizando técnica de medio pedal."
     }
   ],
   "related": [
-    "/sensacion-al-tocar-y-tipos-de-tecla/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/medida-estandar-del-ancho-de-una-tecla-de-piano-y-de-una-octava-16-5-cm/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/pasa-algo-si-aprendo-primero-en-61-teclas-sensibles-y-al-ano-paso-a-88-contrapesadas/",
     "/sensacion-al-tocar-y-tipos-de-tecla/diferencia-de-tacto-entre-tocar-piano-clasico-pop-jazz-y-sintetizador/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-ruido-de-liberacion-key-off-sample-cuando-sueltas-la-tecla/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-con-nucleo-de-madera-wooden-keys-vs-resina-en-pianos-digitales/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/como-afecta-la-velocidad-con-la-que-sueltas-la-tecla-key-off-velocity.webp"
 }

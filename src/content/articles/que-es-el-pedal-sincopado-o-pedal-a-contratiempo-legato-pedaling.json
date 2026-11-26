@@ -4,161 +4,122 @@
   "path": "/pedales-compatibles-y-polaridad/que-es-el-pedal-sincopado-o-pedal-a-contratiempo-legato-pedaling/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como usar el pedal de sustain sin ensuciar el sonido pedal sincopado",
   "title": "El Secreto del Pedal Limpio (Pedal Sincopado): Por Qué Se Pisa DESPUÉS de Tocar la Tecla y No al Mismo Tiempo",
-  "seoTitle": "El Secreto del Pedal Limpio (Pedal Sincopado) | Guía de Pianos",
-  "metaDescription": "El Secreto del Pedal Limpio (Pedal Sincopado): Por Qué Se Pisa DESPUÉS de Tocar la Tecla y No al Mismo Tiempo: Toca primero el nuevo acorde con los dedos e, inmediatamente después (una fracción de segundo más tarde), levanta y vuelve a bajar el pie en el pedal para limpiar el acorde viejo sin dejar huecos. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Toca primero el nuevo acorde con los dedos e, inmediatamente después (una fracción de segundo más tarde), levanta y vuelve a bajar el pie en el pedal para limpiar el acorde viejo sin dejar huecos.",
-  "quickAnswer": "Sobre como usar el pedal de sustain sin ensuciar el sonido pedal sincopado: Toca primero el nuevo acorde con los dedos e, inmediatamente después (una fracción de segundo más tarde), levanta y vuelve a bajar el pie en el pedal para limpiar el acorde viejo sin dejar huecos. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "El Secreto del Pedal Limpio (Pedal Sincopado): Por Qué Se Pisa DESPUÉS de Tocar la Tecla y No al Mismo Tiempo | guiadepianos.com",
+  "metaDescription": "Aprende la técnica del pedal sincopado o legato pedaling para unir acordes sin embarrar el sonido en tu piano digital de 88 teclas o teclado.",
+  "excerpt": "Domina el desfase de milisegundos entre la mano y el pie que evita tanto los huecos secos de silencio como la superposición disonante al enlazar acordes en cualquier piano digital.",
+  "quickAnswer": "El pedal sincopado (o pedal a contratiempo) consiste en levantar el pie exactamente en el instante en que los dedos pulsan el nuevo acorde y volver a pisar la lengüeta metálica entre **100 y 250 milisegundos después**. Este microdesfase apaga limpiamente la resonancia del acorde anterior en el motor de sonido del piano digital y captura la cola armónica del nuevo acorde antes de que levantes las manos.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Overhead angled composition showcasing keyboard layout, music rest and accessories (35mm lens): Home digital piano and keyboard tutorial illustrating El Secreto del Pedal Limpio (Pedal Sincopado): Por Qué Se Pisa DESPUÉS de Tocar la Tecla y No al Mismo Tiempo: Toca primero el nuevo acorde con los dedos e, inmediatamente después (una fracción de segundo más tarde), levanta y vuelve a bajar el pie en el pedal para limpiar el acorde viejo sin dejar huecos., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, golden hour afternoon sunlight streaming into a cozy apartment. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'El Secreto del Pedal Limpio (Pedal Sincopado): Por Qué Se Pisa DESPUÉS de Tocar la Tecla y No al Mismo Tiempo' (como usar el pedal de sustain sin ensuciar el sonido pedal sincopado) for guiadepianos.com, featuring equipment in olive sage green with anodized silver accents, on a clean stone countertop with neatly arranged accessories, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "El Secreto del Pedal Limpio (Pedal Sincopado): Por Qué Se Pisa DESPUÉS de Tocar la Tecla y No al Mismo Tiempo"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como usar el pedal de sustain sin ensuciar el sonido pedal sincopado** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Toca primero el nuevo acorde con los dedos e, inmediatamente después (una fracción de segundo más tarde), levanta y vuelve a bajar el pie en el pedal para limpiar el acorde viejo sin dejar huecos."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Pedales Compatibles Y Polaridad](/pedales-compatibles-y-polaridad/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Cuando un estudiante conecta por primera vez un pedal de sustain a su **Yamaha P-145** o **Roland FP-30X**, su reflejo natural es pisar la lengüeta metálica exactamente al mismo tiempo que baja los dedos sobre las teclas, como si llevara el pulso con el pie en un concierto de rock. Al enlazar dos acordes seguidos con ese movimiento simultáneo, ocurren dos fallos opuestos: o bien el pie se levanta demasiado pronto y deja un **corte seco de silencio** entre un compás y otro, o bien baja antes de que los apagadores virtuales hayan silenciado las cuerdas anteriores, generando un choque armónico turbio. Antes de pensar que tu accesorio tiene un problema de polaridad —algo que puedes descartar en nuestra [guía central de pedales compatibles y polaridad](/pedales-compatibles-y-polaridad/)—, necesitas dominar el **pedal sincopado** (también llamado *legato pedaling* o pedal a contratiempo), donde el pie siempre actúa **una fracción de segundo después** que la mano."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como usar el pedal de sustain sin ensuciar el sonido pedal sincopado"
+      "text": "Física acústica y digital: qué ocurre en esos 150 milisegundos de desfase"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como usar el pedal de sustain sin ensuciar el sonido pedal sincopado**:"
+      "text": "En un piano digital con motor de muestreo como el **Yamaha CFIIIS** o el modelado **SuperNATURAL** de Roland, levantar el pedal envía un mensaje **MIDI CC 64 con valor 0** que activa el apagado inmediato de todas las notas cuyas teclas ya no estén pulsadas por tus dedos. Si levantas el pie exactamente en el milisegundo en que tus dedos hunden el nuevo acorde, tus falanges retienen físicamente las nuevas notas abiertas mientras el motor limpia por completo la cola armónica del acorde viejo. Apenas **100 a 250 milisegundos después**, cuando bajas el pie de nuevo (**CC 64 a valor 127**), el pedal atrapa únicamente las frecuencias limpias del acorde entrante. Es un principio mecánico muy distinto al de regular dinámicas con el pie, como explicamos al comparar el [pedal de sustain frente al pedal de expresión o volumen continuo](/pedales-compatibles-y-polaridad/que-es-el-pedal-de-expresion-ev-5-o-fc7-y-en-que-se-diferencia-del-pedal-de-sustain/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: como usar el pedal de sustain sin ensuciar el sonido pedal sincopado",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Instante del cambio",
+        "Acción de las manos",
+        "Acción del pie derecho",
+        "Estado del motor de sonido (CC 64)"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Toca primero el nuevo acorde con los dedos e, inmediatamente después (una fracción de segundo más tarde), levanta y vuelve a bajar el pie en el pedal para limpiar el acorde viejo sin dejar huecos.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "0 ms (pulso exacto del compás)",
+          "Los dedos pulsan y mantienen hundido el nuevo acorde",
+          "El pie sube por completo liberando la lengüeta",
+          "Se apaga el acorde anterior; el nuevo suena por presión de dedo"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "150 a 250 ms (contratiempo)",
+          "Los dedos siguen apoyados en el fondo de la tecla",
+          "El pie vuelve a pisar el pedal hasta el fondo",
+          "El sustain captura limpio el nuevo acorde sin residuos previos"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "400 ms en adelante",
+          "La mano puede levantar los dedos para buscar el siguiente acorde",
+          "El pie permanece abajo sosteniendo la resonancia",
+          "Las notas continúan sonando con puente legato perfecto"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre como usar el pedal de sustain sin ensuciar el sonido pedal sincopado",
-      "text": "Toca primero el nuevo acorde con los dedos e, inmediatamente después (una fracción de segundo más tarde), levanta y vuelve a bajar el pie en el pedal para limpiar el acorde viejo sin dejar huecos. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Cronología en milisegundos de un cambio de acorde limpio con pedal sincopado"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar como usar el pedal de sustain sin ensuciar el sonido pedal sincopado en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Rutina verbal en tres tiempos para reprogramar la coordinación mano-pie"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Tiempo 1: «Toco y subo» en el pulso fuerte",
+          "text": "Elige una escala de Do Mayor a blancas en tu piano de 88 teclas. En el pulso 1, hunde la tecla Do con el dedo índice y, en ese mismo instante exacto, levanta la punta del pie hacia arriba mientras dices en voz alta «Toco-Subo»."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Tiempo 2: «Piso» mientras el dedo sigue abajo",
+          "text": "En la segunda mitad del pulso (el contratiempo «y»), hunde el pedal metálico hasta el tope mientras tu dedo todavía presiona la tecla contra el fieltro. Solo después de sentir el tope del pedal puedes levantar el dedo para viajar hacia la tecla Re."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Tiempo 3: Cambio continuo sin huecos de silencio",
+          "text": "Al pulsar la tecla Re, vuelve a levantar el pie en el ataque del dedo y pósalo una fracción de segundo después. Sabrás que el movimiento es correcto cuando escuches las notas enlazadas sin que nunca suenen dos grados conjuntos superpuestos."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como usar el pedal de sustain sin ensuciar el sonido pedal sincopado en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
       "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "text": "Ergonomía del talón y recorrido del muelle en pedales tipo piano"
     },
     {
       "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "El pedal sincopado fracasa cuando el pianista levanta todo el zapato en el aire y golpea el pedal desde arriba. Para lograr una respuesta de **150 ms**, el **talón debe permanecer clavado en el suelo** actuando como bisagra fija frente a un pedal con lengüeta cromada de **400 a 650 gramos** como el **Roland DP-10** o el **M-Audio SP-2**. Cuando quien estudia es un menor de entre **5 y 9 años** cuyas piernas quedan colgando de la banqueta, el tobillo pierde ese punto de pivote y pisa a destiempo; en esos casos resulta indispensable instalar un [extensor de pedal con escabel regulable para niños](/pedales-compatibles-y-polaridad/pedal-de-sustain-para-ninos-que-no-alcanzan-el-suelo-extensores-de-pedal/) que suba el suelo firme hasta sus talones."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "No levantes los dedos de las teclas hasta haber sentido físicamente que la lengüeta metálica superó la mitad de su recorrido descendente. En pianos con acción rápida como el mecanismo PHA-4 del Roland FP-10, soltar la tecla 50 milisegundos antes de que el interruptor cierre el circuito dejará el acorde seco.",
+      "title": "El oído manda sobre el metrónomo en el punto de enganche"
+    },
+    {
+      "type": "cta",
+      "text": "¿Buscas un pedal tipo piano con muelle progresivo que facilite el pedal sincopado en tu modelo actual? Consulta disponibilidad en las tarjetas de Amazon de esta página o pregúntale a nuestro Asesor IA qué pedal continuo se adapta a tu teclado."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como usar el pedal de sustain sin ensuciar el sonido pedal sincopado?",
-      "a": "Toca primero el nuevo acorde con los dedos e, inmediatamente después (una fracción de segundo más tarde), levanta y vuelve a bajar el pie en el pedal para limpiar el acorde viejo sin dejar huecos. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Por qué se corta el sonido entre acordes cuando intento hacer pedal sincopado?",
+      "a": "Porque tus dedos están soltando las teclas del acorde viejo un instante antes de que el nuevo acorde sea pulsado, o estás pisando el pedal demasiado tarde, cuando tus dedos ya levantaron las teclas nuevas. Mantén los dedos presionados hasta que tu pie termine de bajar la lengüeta."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Puedo practicar el pedal sincopado con el pedal cuadrado de plástico que viene en la caja?",
+      "a": "Sí, la técnica rítmica de levantar en el ataque de la tecla y pisar unos 150 milisegundos después funciona exactamente igual en un interruptor on/off como el Yamaha FC5 o Casio SP-3, aunque una lengüeta metálica tipo piano ofrece un pivote de talón mucho más cómodo y preciso."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Cómo se aplica el pedal sincopado cuando la canción va muy rápido?",
+      "a": "En pasajes rápidos de corcheas o semicorcheas a más de 110 BPM no se cambia el pedal en cada nota individual, sino únicamente en los pulsos donde cambia la armonía del bajo (por lo general cada dos tiempos o al inicio de cada compás)."
     }
   ],
   "related": [
-    "/pedales-compatibles-y-polaridad/",
-    "/pedales-compatibles-y-polaridad/error-del-principiante-dejar-el-pedal-de-sustain-pisado-durante-toda-la-cancion/",
-    "/pedales-compatibles-y-polaridad/por-que-es-fundamental-apoyar-el-talon-en-el-suelo-al-usar-el-pedal-de-sustain/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/pedales-compatibles-y-polaridad/pedal-de-sustain-para-ninos-que-no-alcanzan-el-suelo-extensores-de-pedal/",
+    "/pedales-compatibles-y-polaridad/que-es-el-pedal-de-expresion-ev-5-o-fc7-y-en-que-se-diferencia-del-pedal-de-sustain/",
+    "/pedales-compatibles-y-polaridad/que-pasa-si-conecto-los-audifonos-por-error-en-la-entrada-del-pedal-de-sustain/",
+    "/pedales-compatibles-y-polaridad/como-enrollar-y-guardar-el-cable-del-pedal-de-sustain-para-que-no-se-rompa-por-dentro/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-es-el-pedal-sincopado-o-pedal-a-contratiempo-legato-pedaling.webp"
 }

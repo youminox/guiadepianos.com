@@ -4,161 +4,128 @@
   "path": "/solucion-de-problemas-y-configuracion/como-configurar-la-sensibilidad-del-pedal-damper-threshold-si-sientes-que-activa-muy-arriba/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "ajustar punto de activacion de medio pedal piano digital",
   "title": "Punto de Activación del Pedal Continuo (Half-Damper Point): Cómo Ajustarlo en Modelos Avanzados",
-  "seoTitle": "Punto de Activación del Pedal Continuo (Half-Damper Point) | Guía de Pianos",
-  "metaDescription": "Punto de Activación del Pedal Continuo (Half-Damper Point): Cómo Ajustarlo en Modelos Avanzados: Te permite decidir a partir de cuántos milímetros de recorrido del pie empiezan a levantarse virtualmente los apagadores sobre las cuerdas. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Te permite decidir a partir de cuántos milímetros de recorrido del pie empiezan a levantarse virtualmente los apagadores sobre las cuerdas.",
-  "quickAnswer": "Sobre ajustar punto de activacion de medio pedal piano digital: Te permite decidir a partir de cuántos milímetros de recorrido del pie empiezan a levantarse virtualmente los apagadores sobre las cuerdas. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Punto de Activación del Pedal Continuo (Half-Damper Point): Cómo Ajustarlo en Modelos Avanzados | guiadepianos.com",
+  "metaDescription": "Aprende a ajustar el punto de activación de medio pedal (Half-Damper Point) en pianos Yamaha, Roland y Casio para evitar resonancias sucias al tocar.",
+  "excerpt": "Si tu pedal continuo sostiene las notas apenas apoyas el pie o requiere pisar hasta el fondo, descubre cómo calibrar el umbral del potenciómetro TRS desde el teclado o mediante apps oficiales.",
+  "quickAnswer": "Para ajustar el punto de activación de medio pedal (**Half-Damper Point**) necesitas un pedal continuo con conector **TRS de 6.35 mm** (como el **Yamaha FC3A** o **Roland DP-10**) en pianos como el **Yamaha P-145** o **Roland FP-30X**. Este umbral regula a qué milímetro del recorrido empieza la resonancia, configurándose en escalas de **-2 a +2** mediante combinaciones con el botón **Function** o desde las aplicaciones **Smart Pianist** y **Roland Piano App**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Side-profile acoustic studio shot highlighting key travel and matte ebony/ivory texture: Home digital piano and keyboard tutorial illustrating Punto de Activación del Pedal Continuo (Half-Damper Point): Cómo Ajustarlo en Modelos Avanzados: Te permite decidir a partir de cuántos milímetros de recorrido del pie empiezan a levantarse virtualmente los apagadores sobre las cuerdas., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Punto de Activación del Pedal Continuo (Half-Damper Point): Cómo Ajustarlo en Modelos Avanzados' (ajustar punto de activacion de medio pedal piano digital) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, in a well-organized domestic utility area with natural plants nearby, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Punto de Activación del Pedal Continuo (Half-Damper Point): Cómo Ajustarlo en Modelos Avanzados"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **ajustar punto de activacion de medio pedal piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Te permite decidir a partir de cuántos milímetros de recorrido del pie empiezan a levantarse virtualmente los apagadores sobre las cuerdas."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Solucion De Problemas Y Configuracion](/solucion-de-problemas-y-configuracion/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Reemplazar el interruptor cuadrado de plástico que viene en la caja por un pedal continuo metálico con conector **TRS de 6.35 mm**, como el **Roland DP-10** o el **Yamaha FC3A**, transforma por completo el control dinámico en obras de Chopin o Debussy. Sin embargo, muchos pianistas notan de inmediato un efecto molesto: basta con apoyar el peso de la zapatilla sobre la lengüeta cromada para que el piano empiece a sostener y embarrar las armonías sin haber pisado realmente. En un piano de cola acústico existe una holgura física de **3 a 5 mm** antes de que la varilla levante los apagadores de fieltro de las cuerdas; en tu piano digital, esa zona muerta inicial se gobierna mediante el parámetro **Half-Damper Point** (umbral de activación del medio pedal). Si además de una cola armónica excesiva percibes ruidos mecánicos al mantener acordes graves con el pedal pisado, conviene revisar [por qué se escucha una vibración o zumbido en el atril](/solucion-de-problemas-y-configuracion/por-que-se-escucha-una-vibracion-o-zumbido-en-el-atril-al-tocar-ciertas-notas-graves/) para descartar objetos que entren en resonancia simpática con los altavoces."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: ajustar punto de activacion de medio pedal piano digital"
+      "text": "Diferencia eléctrica entre un pedal interruptor (TS) y un pedal continuo con potenciómetro (TRS)"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **ajustar punto de activacion de medio pedal piano digital**:"
+      "text": "Antes de intentar calibrar el punto de enganche en el menú del instrumento, es imprescindible confirmar qué tipo de clavija está insertada en el puerto **Damper/Sustain**. Un pedal universal estándar funciona como un simple interruptor binario con conector **TS de 2 polos** (punta y cuerpo) que únicamente transmite dos valores MIDI en el controlador **CC 64**: **0 (apagado)** y **127 (encendido total)**. Por el contrario, los pedales continuos emplean una clavija **TRS de 3 polos** (punta, anillo y cuerpo) conectada a un potenciómetro rotativo interno que envía una curva gradual de **0 a 127** según el ángulo exacto de tu tobillo. En pianos de **88 teclas contrapesadas** como el **Roland FP-10**, el **Roland FP-30X** o el **Yamaha P-145**, el procesador lee ese voltaje continuo para calcular cuánta resonancia de cuerdas debe inyectar. Si al configurar funciones avanzadas con combinaciones de teclas alteras por error la afinación histórica del teclado, puedes consultar en nuestra [guía general de solución de problemas y configuración](/solucion-de-problemas-y-configuracion/) cómo devolver cada parámetro a su estado original, incluyendo [qué son los temperamentos musicales en el menú del piano](/solucion-de-problemas-y-configuracion/que-son-los-temperamentos-musicales-equal-werckmeister-kirnberger-en-el-menu-del-piano/) y por qué conviene mantenerlos en modo **Equal**."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: ajustar punto de activacion de medio pedal piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Modelo de Piano Digital",
+        "Pedal Continuo Compatible",
+        "Lectura MIDI (CC 64)",
+        "Ajuste de Punto de Activación (Threshold)"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Te permite decidir a partir de cuántos milímetros de recorrido del pie empiezan a levantarse virtualmente los apagadores sobre las cuerdas.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Yamaha P-145 / P-225",
+          "Yamaha FC3A (TRS 6.35 mm) o pedalera LP-1",
+          "Continua (0 a 127)",
+          "Calibración automática al encender y ajuste fino en app Smart Pianist"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Roland FP-10 / FP-30X",
+          "Roland DP-10 en modo Continuous (TRS)",
+          "Continua con modelado multicapa",
+          "Regulable desde Roland Piano App y compensación mecánica del muelle"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Casio Privia PX-S1100",
+          "Pedalera triple Casio SP-34 (conector propietario)",
+          "Continua en pedal derecho",
+          "Umbral de medio pedal precalibrado de fábrica en 3 niveles de respuesta"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Alesis Recital Pro / Donner DEP-20",
+          "Pedal universal tipo M-Audio SP-2 (TS)",
+          "Binaria (0 o 127)",
+          "No admite medio pedal continuo; activación fija a mitad del resorte"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Diagnóstico técnico clave sobre ajustar punto de activacion de medio pedal piano digital",
-      "text": "Te permite decidir a partir de cuántos milímetros de recorrido del pie empiezan a levantarse virtualmente los apagadores sobre las cuerdas. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Comportamiento del umbral de medio pedal según el modelo de piano y pedal conectado"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar ajustar punto de activacion de medio pedal piano digital en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Cómo retrasar o adelantar el punto de enganche del medio pedal paso a paso"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Verifica el selector lateral en el pedal físico",
+          "text": "Si utilizas un **Roland DP-10**, inspecciona el costado izquierdo de la base de goma: encontrarás un selector deslizable con dos posiciones (**Switch** y **Continuous**). Asegúrate de colocarlo en **Continuous** con el piano apagado para habilitar el barrido completo del potenciómetro TRS."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Enciende el piano sin apoyar el pie sobre la lengüeta metálica",
+          "text": "Los modelos de **Yamaha** y **Roland** miden la resistencia eléctrica en reposo durante los primeros **2 segundos** del arranque para fijar el punto **0**. Si rozas el pedal al pulsar **Power**, el microcontrolador desplazará el umbral hacia arriba y activará el sustain apenas lo toques."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "Ajusta la profundidad de respuesta en la aplicación oficial via Bluetooth o USB",
+          "text": "Conecta tu **Roland FP-30X** a **Roland Piano App** o tu **Yamaha P-145** a **Smart Pianist** mediante cable USB. Dentro de la sección **Pedal Settings / Half-Damper Point**, desplaza el valor hacia **+1 o +2** para exigir un recorrido más profundo del pie antes de que los apagadores virtuales empiecen a abrirse."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Comprueba el punto de corte con un acorde grave en Do2",
+          "text": "Toca un acorde de **Do mayor** en la segunda octava, pisa a fondo y levanta el empeine milímetro a milímetro. El ajuste ideal debe mantener un velo sutil de armónicos a **mitad de recorrido (50 %)** y cortar limpiamente el sonido cuando aún queden unos **4 mm** antes del tope superior."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cómo evitar la activación involuntaria por fatiga del muelle o postura del talón"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Muchos estudiantes que pasan de un teclado ligero de **61 teclas** como el **Yamaha PSR-E383** a un piano de **88 teclas** con acción de martillo conservan la costumbre de descansar el peso del pie sobre la paleta metálica mientras no usan el sustain. En un pedal continuo de alta sensibilidad, una presión involuntaria de apenas **150 a 200 gramos** basta para desplazar el potenciómetro del valor **0** al **25**, introduciendo una neblina constante en escalas rápidas. Apoya siempre el talón firme en el suelo (o sobre la lengüeta antideslizante de goma del **Roland DP-10**) y mantén la suela ligeramente separada del metal cuando el pasaje exija articulación *staccato* seca. Si tras años de estudio notas que el muelle interno ha cedido y la paleta baja sola los primeros **3 mm**, puedes adherir un disco de fieltro autoadhesivo de **2 mm** bajo el tope interno para devolverle tensión inicial sin perder recorrido útil.",
+      "title": "Regla postural y ajuste físico del recorrido muerto"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando ajustar punto de activacion de medio pedal piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Tienes dudas sobre qué pedal continuo TRS es compatible con la entrada trasera de tu piano digital? Consulta a nuestro Asesor IA o revisa la disponibilidad actual de pedales con soporte de medio pedal en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre ajustar punto de activacion de medio pedal piano digital?",
-      "a": "Te permite decidir a partir de cuántos milímetros de recorrido del pie empiezan a levantarse virtualmente los apagadores sobre las cuerdas. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Puedo ajustar el punto de medio pedal en un pedal universal como el M-Audio SP-2?",
+      "a": "No. Los pedales universales como el **M-Audio SP-2** utilizan un cable con conector **TS de 2 polos** y un microinterruptor interno de encendido/apagado. Aunque son excelentes por su peso y tacto mecánico, solo envían valores MIDI **0 o 127**, por lo que no permiten regular el medio pedal continuo."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Por qué mi piano suena con un eco constante aunque no esté pisando el pedal?",
+      "a": "En pianos con detección continua como el **Yamaha P-145**, insertar un pedal TRS incompatible o tener el potenciómetro descalibrado al encender hace que el sistema lea un valor intermedio permanente (por ejemplo, **CC 64 = 45**), dejando los apagadores virtuales semiabiertos todo el tiempo."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Realmente necesito un pedal con Half-Damper o me basta uno estándar?",
+      "a": "Si tocas repertorio clásico a partir de nivel intermedio (estudios de Czerny, nocturnos de Chopin o preludios de Debussy), el pedal continuo **TRS** es indispensable para limpiar acordes sin cortar el bajo. Para iniciación, pop o acompañamiento básico, un buen pedal metálico tipo interruptor es suficiente."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/",
-    "/solucion-de-problemas-y-configuracion/por-que-al-usar-transpose-en-el-teclado-las-apps-como-simply-piano-reciben-la-nota-original-o-la-transpuesta/",
-    "/solucion-de-problemas-y-configuracion/que-hacer-si-el-conector-multipin-de-la-pedalera-triple-tiene-un-pin-doblado-precaucion-al-enchufar/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-no-enciende-4-comprobaciones-basicas-de-corriente-y-boton-power/",
+    "/solucion-de-problemas-y-configuracion/por-que-se-escucha-una-vibracion-o-zumbido-en-el-atril-al-tocar-ciertas-notas-graves/",
+    "/solucion-de-problemas-y-configuracion/que-son-los-temperamentos-musicales-equal-werckmeister-kirnberger-en-el-menu-del-piano/",
+    "/solucion-de-problemas-y-configuracion/para-que-sirve-el-boton-portable-grand-en-todos-los-teclados-yamaha-de-61-y-76-teclas/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-configurar-la-sensibilidad-del-pedal-damper-threshold-si-sientes-que-activa-muy-arriba.webp"
 }

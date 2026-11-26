@@ -3,162 +3,120 @@
   "pillar": "solucion-de-problemas-y-configuracion",
   "path": "/solucion-de-problemas-y-configuracion/configurar-tipo-de-pilas-alcalinas-vs-recargables-ni-mh-en-el-menu-de-pianos-casio-y-yamaha/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "configurar pilas alcalinas o ni mh en teclado casio yamaha",
   "title": "Por Qué Debes Indicar en el Menú si Usas Pilas Alcalinas (1.5V) o Recargables Ni-MH (1.2V) en Tu Teclado",
-  "seoTitle": "Por Qué Debes Indicar en el Menú si Usas Pilas Alcalinas (1.5V) o Recargables Ni-MH (1.2V) en Tu Teclado | Guía de Pianos",
-  "metaDescription": "Por Qué Debes Indicar en el Menú si Usas Pilas Alcalinas (1.5V) o Recargables Ni-MH (1.2V) en Tu Teclado: Permite que el indicador de batería en pantalla calcule con exactitud cuántas horas reales de autonomía te quedan antes de apagarse. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Permite que el indicador de batería en pantalla calcule con exactitud cuántas horas reales de autonomía te quedan antes de apagarse.",
-  "quickAnswer": "Sobre configurar pilas alcalinas o ni mh en teclado casio yamaha: Permite que el indicador de batería en pantalla calcule con exactitud cuántas horas reales de autonomía te quedan antes de apagarse. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Debes Indicar en el Menú si Usas Pilas Alcalinas (1.5V) o Recargables Ni-MH (1.2V) en Tu Teclado | guiadepianos.com",
+  "metaDescription": "Aprende a configurar pilas alcalinas (1.5V) o recargables Ni-MH (1.2V) en el menú de teclados Casio y Yamaha para evitar apagones y alertas falsas.",
+  "excerpt": "Usar pilas recargables Ni-MH de 1.2V sin cambiar el ajuste interno del teclado provoca lecturas erróneas de batería baja. Te explicamos cómo calibrar el menú en modelos Yamaha y Casio paso a paso.",
+  "quickAnswer": "Debes configurar el tipo de batería (**Alkaline** o **Ni-MH**) en el menú **Function** de tu teclado Casio o Yamaha porque las pilas alcalinas entregan **1.5 V** (**9.0 V** en total) mientras que las recargables **Ni-MH** operan a **1.2 V** (**7.2 V** en total). Si usas recargables con el menú en modo alcalino, el sensor interpretará esos **7.2 V** como batería agotada y apagará el teclado aunque las pilas estén recién cargadas.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Eye-level realistic lifestyle photograph in a sunlit modern apartment: Home digital piano and keyboard tutorial illustrating Por Qué Debes Indicar en el Menú si Usas Pilas Alcalinas (1.5V) o Recargables Ni-MH (1.2V) en Tu Teclado: Permite que el indicador de batería en pantalla calcule con exactitud cuántas horas reales de autonomía te quedan antes de apagarse., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, warm evening LED music stand lamp light for silent headphone practice. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Por Qué Debes Indicar en el Menú si Usas Pilas Alcalinas (1.5V) o Recargables Ni-MH (1.2V) en Tu Teclado' (configurar pilas alcalinas o ni mh en teclado casio yamaha) for guiadepianos.com, featuring equipment in matte charcoal black with brushed aluminum accents, in a bright family home interior with clean architectural lines, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Debes Indicar en el Menú si Usas Pilas Alcalinas (1.5V) o Recargables Ni-MH (1.2V) en Tu Teclado"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **configurar pilas alcalinas o ni mh en teclado casio yamaha** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Permite que el indicador de batería en pantalla calcule con exactitud cuántas horas reales de autonomía te quedan antes de apagarse."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Solucion De Problemas Y Configuracion](/solucion-de-problemas-y-configuracion/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Compras un paquete de **6 pilas recargables AA Ni-MH** recién cargadas al máximo para tu **Yamaha PSR-E383**, **Casio Casiotone CT-S1** o **Casio Privia PX-S1100**, las colocas en el compartimento inferior y, a los quince minutos de ensayo, el teclado empieza a parpadear indicando batería baja o se apaga solo aunque las celdas sigan al **90 %** de su energía real. No se trata de pilas defectuosas: simplemente falta cambiar un parámetro interno del sistema que detallamos en nuestro bloque de [solución de problemas y configuración](/solucion-de-problemas-y-configuracion/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: configurar pilas alcalinas o ni mh en teclado casio yamaha"
+      "text": "La diferencia de voltaje entre 1.5 V (Alcalinas) y 1.2 V (Ni-MH) que confunde al sensor"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **configurar pilas alcalinas o ni mh en teclado casio yamaha**:"
+      "text": "De fábrica, todos los teclados portátiles vienen calibrados para **pilas alcalinas desechables**, cuya química entrega **1.5 V** por celda recién estrenadas (**9.0 V** en total para 6 pilas) y va descendiendo en línea recta hasta agotarse cerca de **6.0 V**. En cambio, las pilas recargables de **Níquel-Metal Hidruro (Ni-MH)** trabajan a una tensión nominal de **1.2 V** por celda (**7.2 V** en total), pero mantienen esa tensión estable durante casi toda su descarga. Si insertas pilas **Ni-MH** sin avisar al teclado en el menú, el sensor de batería lee **7.2 V** y cree erróneamente que tienes unas pilas alcalinas a punto de morir, activando el apagado preventivo mucho antes de tiempo. Si alternas el uso en calle con el transformador en casa, recuerda también [pasar el cable del cargador por el gancho sujetacables trasero](/solucion-de-problemas-y-configuracion/que-hacer-si-el-conector-del-cargador-dc-trasero-hace-falso-contacto-al-mover-el-cable/) y aprovechar el mismo menú **Function** donde sueles [cambiar el compás del metrónomo a 3/4 o 0](/solucion-de-problemas-y-configuracion/como-cambiar-el-compas-del-metronomo-de-4-4-a-3-4-vals-o-0-sin-campanita/) para declarar el tipo exacto de pila instalada."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: configurar pilas alcalinas o ni mh en teclado casio yamaha",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Característica técnica",
+        "Pilas AA Alcalinas (Ajuste Alkaline)",
+        "Pilas AA Recargables (Ajuste Ni-MH)"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Permite que el indicador de batería en pantalla calcule con exactitud cuántas horas reales de autonomía te quedan antes de apagarse.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Voltaje nominal por pila (y total x6)",
+          "1.5 V por celda (9.0 V total nuevas)",
+          "1.2 V por celda (7.2 V total en uso)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Curva de descarga bajo carga de altavoces",
+          "Descenso continuo desde el primer minuto",
+          "Meseta estable a 1.2 V hasta el 85 % del ciclo"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Qué ocurre si el menú está mal configurado",
+          "Si está en Ni-MH, no avisa con antelación antes de apagarse",
+          "Si está en Alkaline, marca batería baja falsa con las pilas llenas"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Capacidad recomendada en Amazon",
+          "Estándar industrial de un solo uso",
+          "Entre 1900 mAh y 2500 mAh de baja autodescarga (LSD)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Diagnóstico técnico clave sobre configurar pilas alcalinas o ni mh en teclado casio yamaha",
-      "text": "Permite que el indicador de batería en pantalla calcule con exactitud cuántas horas reales de autonomía te quedan antes de apagarse. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Comparativa técnica entre pilas AA Alcalinas y Recargables Ni-MH en teclados de 6 celdas"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar configurar pilas alcalinas o ni mh en teclado casio yamaha en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Pasos para cambiar el ajuste Battery Type a Ni-MH en Yamaha y Casio"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "En teclados Yamaha con pantalla LCD (PSR-E383, PSR-E373, PSR-E473)",
+          "text": "Pulsa repetidamente el botón Function hasta encontrar en pantalla Battery Type (BattType). Usa los botones + / YES o - / NO para cambiar de Alkaline a Ni-MH. El ajuste queda guardado automáticamente en la memoria no volátil."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "En Casio Privia PX-S1100 y PX-S3100 (mediante botón Function + tecla)",
+          "text": "Mantén presionado el botón táctil FUNCTION y pulsa la tecla Re#1 (D#1) para seleccionar pilas Alcalinas o la tecla Mi1 (E1) para activar el perfil de pilas recargables Ni-MH; escucharás el pitido de confirmación."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "En Casio Casiotone CT-S1 (sin pantalla LCD)",
+          "text": "Mantén pulsado el botón FUNCTION y presiona la tecla La#0 (A#0, tercera tecla desde la izquierda) para pilas Alcalinas, o la tecla Si0 (B0, cuarta tecla desde la izquierda) para pilas recargables Ni-MH."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Qué especificaciones buscar al elegir pilas AA recargables para tu teclado"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Para alimentar teclados con altavoces integrados como el **Casio Privia PX-S1100** (**8 W + 8 W**) o el **Yamaha PSR-E383**, elige packs de **8 pilas AA Ni-MH de baja autodescarga (Low Self-Discharge / Pre-Charged)** de entre **2000 mAh y 2500 mAh** acompañadas de un **cargador inteligente de canales independientes** (capaz de cargar 6 pilas o dos tandas de 4 y 2 sin obligarte a emparejarlas de dos en dos). Evita las baterías recargables de litio AA de **1.5 V** con conversor USB integrado, ya que su circuito interno Step-Down puede introducir ruido eléctrico audible en los altavoces del piano.",
+      "title": "Consejo de compra: pilas Ni-MH de baja autodescarga y cargador individual"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando configurar pilas alcalinas o ni mh en teclado casio yamaha en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Consulta la disponibilidad actual de teclados compatibles con alimentación a pilas y kits de baterías recargables AA Ni-MH en las tarjetas de Amazon integradas en esta página, o escribe a nuestro Asesor IA si necesitas el atajo exacto para tu modelo."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre configurar pilas alcalinas o ni mh en teclado casio yamaha?",
-      "a": "Permite que el indicador de batería en pantalla calcule con exactitud cuántas horas reales de autonomía te quedan antes de apagarse. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Se puede dañar mi teclado si pongo pilas recargables de 1.2V sin cambiar el menú?",
+      "a": "No se daña ningún circuito electrónico, ya que 7.2 V entra dentro del rango seguro del regulador interno. El único inconveniente es que el medidor de carga creerá que las pilas están agotadas y apagará el teclado prematuramente."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Tengo que volver a configurar el modo Ni-MH cada vez que saco las pilas para cargarlas?",
+      "a": "Tanto en el Yamaha PSR-E383 como en el Casio Privia PX-S1100 y CT-S1, el parámetro Battery Type se conserva en la memoria flash interna incluso cuando apagas el teclado o retiras las pilas para recargarlas, salvo que ejecutes un Factory Reset."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Por qué conviene comprar un paquete de 8 pilas AA si el teclado solo usa 6?",
+      "a": "Porque la gran mayoría de cargadores de pared cargan de 4 en 4. Si compras un pack de 8 pilas AA junto a un cargador de 4 u 8 ranuras independientes, podrás cargar las 6 pilas necesarias para el teclado y tener siempre 2 de reserva."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/",
-    "/solucion-de-problemas-y-configuracion/que-es-el-ajuste-brilliance-mellow-normal-bright-en-pianos-digitales-yamaha-y-roland/",
-    "/solucion-de-problemas-y-configuracion/como-saber-si-las-pilas-aa-de-tu-teclado-se-estan-agotando-distorsion-y-reinicios/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/solucion-de-problemas-y-configuracion/que-hacer-si-el-conector-del-cargador-dc-trasero-hace-falso-contacto-al-mover-el-cable/",
+    "/solucion-de-problemas-y-configuracion/por-que-se-oye-un-leve-soplido-de-aire-o-fieltro-al-pisar-el-pedal-en-voces-de-piano-de-gama-media/",
+    "/solucion-de-problemas-y-configuracion/como-ajustar-el-balance-de-volumen-del-acompanamiento-acmp-volume-en-teclados-de-61-teclas/",
+    "/solucion-de-problemas-y-configuracion/como-cambiar-el-compas-del-metronomo-de-4-4-a-3-4-vals-o-0-sin-campanita/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/configurar-tipo-de-pilas-alcalinas-vs-recargables-ni-mh-en-el-menu-de-pianos-casio-y-yamaha.webp"
 }

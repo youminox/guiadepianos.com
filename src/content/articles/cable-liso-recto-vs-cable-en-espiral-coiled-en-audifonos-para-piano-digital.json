@@ -3,162 +3,115 @@
   "pillar": "audifonos-sonido-y-practica-silenciosa",
   "path": "/audifonos-sonido-y-practica-silenciosa/cable-liso-recto-vs-cable-en-espiral-coiled-en-audifonos-para-piano-digital/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "cable recto vs cable en espiral audifonos para piano",
   "title": "Cable Recto de 3 Metros (ATH-M20x / HD 599) vs Cable en Espiral Tipo Teléfono (Sony MDR-7506 / ATH-M50x): ¿Cuál Estorba Menos?",
-  "seoTitle": "Cable Recto de 3 Metros (ATH-M20x / HD 599) vs Cable en Espiral Tipo Teléfono (Sony MDR-7506 / ATH-M50x) | Guía de Pianos",
-  "metaDescription": "Cable Recto de 3 Metros (ATH-M20x / HD 599) vs Cable en Espiral Tipo Teléfono (Sony MDR-7506 / ATH-M50x): ¿Cuál Estorba Menos?: El cable en espiral se recoge solo a 1.2 metros y se estira a 3 metros sin arrastrar por el suelo ni engancharse en el pedal; el cable recto es más ligero y no pesa en un lado. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "El cable en espiral se recoge solo a 1.2 metros y se estira a 3 metros sin arrastrar por el suelo ni engancharse en el pedal; el cable recto es más ligero y no pesa en un lado.",
-  "quickAnswer": "Sobre cable recto vs cable en espiral audifonos para piano: El cable en espiral se recoge solo a 1.2 metros y se estira a 3 metros sin arrastrar por el suelo ni engancharse en el pedal; el cable recto es más ligero y no pesa en un lado. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Cable Recto de 3 Metros (ATH-M20x / HD 599) vs Cable en Espiral Tipo Teléfono (Sony MDR-7506 / ATH-M50x): ¿Cuál Estorba Menos? | guiadepianos.com",
+  "metaDescription": "Comparamos el cable recto de 3 m (ATH-M20x, HD 599) frente al cable en espiral (Sony MDR-7506, ATH-M50x) para piano digital según la ubicación del conector.",
+  "excerpt": "¿Es mejor el cable recto de 3 metros de los ATH-M20x y HD 599 o el cable en espiral tipo teléfono de los Sony MDR-7506 y ATH-M50x? Comparamos su peso y comodidad según dónde tenga la salida tu piano.",
+  "quickAnswer": "El **cable en espiral (*coiled*)** estorba menos en pianos con salida frontal izquierda (**Roland FP-10**, **FP-30X**, **Casio PX-S1100**) porque se recoge a **1.2 metros** y no se arrastra por el suelo ni los pedales. En cambio, el **cable recto de 3.0 metros** (**ATH-M20x**, **Sennheiser HD 599**) es mucho más cómodo en pianos con toma trasera (**Yamaha P-145**) porque rodea el mueble sin ejercer tensión de resorte ni peso sobre la oreja izquierda.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Three-quarter editorial angle from slightly above in a bright music corner (50mm lens): Home digital piano and keyboard tutorial illustrating Cable Recto de 3 Metros (ATH-M20x / HD 599) vs Cable en Espiral Tipo Teléfono (Sony MDR-7506 / ATH-M50x): ¿Cuál Estorba Menos?: El cable en espiral se recoge solo a 1.2 metros y se estira a 3 metros sin arrastrar por el suelo ni engancharse en el pedal; el cable recto es más ligero y no pesa en un lado., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, golden hour afternoon sunlight streaming into a cozy apartment. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Cable Recto de 3 Metros (ATH-M20x / HD 599) vs Cable en Espiral Tipo Teléfono (Sony MDR-7506 / ATH-M50x): ¿Cuál Estorba Menos?' (cable recto vs cable en espiral audifonos para piano) for guiadepianos.com, featuring equipment in deep navy blue with satin metallic trim, on a matte dark-gray technical mat with measuring tools nearby, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cable Recto de 3 Metros (ATH-M20x / HD 599) vs Cable en Espiral Tipo Teléfono (Sony MDR-7506 / ATH-M50x): ¿Cuál Estorba Menos?"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **cable recto vs cable en espiral audifonos para piano** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. El cable en espiral se recoge solo a 1.2 metros y se estira a 3 metros sin arrastrar por el suelo ni engancharse en el pedal; el cable recto es más ligero y no pesa en un lado."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Audifonos Sonido Y Practica Silenciosa](/audifonos-sonido-y-practica-silenciosa/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Cuando comparas monitores clásicos para estudiar de noche como los **Audio-Technica ATH-M20x** o **Sennheiser HD 599** frente a estándares de grabación como los **Sony MDR-7506** o **Audio-Technica ATH-M50x**, aparece una diferencia física que cambia por completo tu rutina frente al teclado: el tipo de cordón. Mientras los primeros traen un **cable liso recto de 3.0 metros**, los segundos apuestan por un **cable en espiral (*coiled*)** estilo teléfono antiguo que mide **1.2 metros** en reposo y se estira hasta **3.0 metros**. Elegir uno u otro dentro del catálogo de [audífonos, sonido y práctica silenciosa](/audifonos-sonido-y-practica-silenciosa/) depende directamente de si el conector de tu piano está delante o detrás."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: cable recto vs cable en espiral audifonos para piano"
+      "text": "Cuándo gana el cable en espiral: tomas frontales en Roland y Casio"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **cable recto vs cable en espiral audifonos para piano**:"
+      "text": "En pianos digitales cuya salida de audífonos se ubica en el borde frontal izquierdo bajo el teclado —como el **Roland FP-10**, el **Roland FP-30X** o el **Casio Privia PX-S1100**—, la distancia en línea recta entre el conector y tu oreja izquierda es de apenas **75 cm a 95 cm**. Aquí el cable en espiral del **Sony MDR-7506** o del paquete incluido con el **ATH-M40x / ATH-M50x** resulta imbatible: se mantiene recogido en el aire sin tocar el suelo, nunca se enreda con las ruedas de una silla ni invade el recorrido de tu pie izquierdo hacia el pedal, sobre todo si lo combinas con un [adaptador de audífonos en ángulo de 90 grados para tomas frontales](/audifonos-sonido-y-practica-silenciosa/donde-colocar-un-adaptador-en-angulo-recto-de-90-grados-si-la-salida-de-audifonos-es-frontal/)."
+    },
+    {
+      "type": "h2",
+      "text": "Cuándo es superior el cable recto de 3 metros: salidas traseras y sesiones largas"
+    },
+    {
+      "type": "p",
+      "text": "El punto débil del diseño en espiral aparece cuando debes estirarlo más allá de **1.8 metros**, algo habitual si conectas los audífonos en la parte trasera de un **Yamaha P-145**, un **Yamaha PSR-E383** o un **Alesis Recital Pro**. Al abrir las espiras de poliuretano, el propio resorte del cable ejerce una tracción constante hacia abajo y concentra entre **60 g y 85 g** de peso colgando de la copa izquierda. En cambio, el cable recto de **3.0 metros** del **ATH-M20x** o del **Sennheiser HD 599** apoya su masa en el piso o sobre el soporte en Z, dejando apenas **15 g** suspendidos hasta tu cabeza para que puedas concentrarte en [ajustar la reverberación Hall o Room al practicar con audífonos](/audifonos-sonido-y-practica-silenciosa/como-ajustar-el-efecto-de-reverberacion-reverb-hall-room-stage-al-tocar-con-audifonos/) sin sentir peso asimétrico en el cuello."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: cable recto vs cable en espiral audifonos para piano",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Característica técnica",
+        "Cable recto liso (3.0 m)",
+        "Cable en espiral / Coiled (1.2 m – 3.0 m)"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "El cable en espiral se recoge solo a 1.2 metros y se estira a 3 metros sin arrastrar por el suelo ni engancharse en el pedal; el cable recto es más ligero y no pesa en un lado.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Modelos representativos",
+          "Audio-Technica ATH-M20x, ATH-M30x, Sennheiser HD 599",
+          "Sony MDR-7506, Audio-Technica ATH-M40x y ATH-M50x (incluyen ambos)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Peso suspendido sobre la oreja izquierda",
+          "Muy ligero (15 g a 25 g en el tramo aéreo)",
+          "Moderado a alto (60 g a 85 g por concentración de espiras)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Comportamiento en toma frontal (Roland FP-30X / Casio)",
+          "Sobra más de 1.8 m en el suelo; requiere recoger con velcro",
+          "Excelente: queda suspendido sin tocar el piso ni los pedales"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Comportamiento en toma trasera (Yamaha P-145 / PSR-E383)",
+          "Óptimo: rodea el mueble sin tirar de la diadema",
+          "Incómodo: el resorte tira de la cabeza al estirarse más de 1.8 m"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre cable recto vs cable en espiral audifonos para piano",
-      "text": "El cable en espiral se recoge solo a 1.2 metros y se estira a 3 metros sin arrastrar por el suelo ni engancharse en el pedal; el cable recto es más ligero y no pesa en un lado. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Comparativa técnica y práctica: Cable recto liso vs. Cable en espiral (Coiled)"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar cable recto vs cable en espiral audifonos para piano en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando cable recto vs cable en espiral audifonos para piano en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Cómo elegir según tu modelo de piano y mobiliario de estudio"
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**Elige cable recto de 3.0 m** si tienes un **Yamaha P-145**, **PSR-E383** o piano de mueble con salida trasera u oculta bajo el fondo del teclado, o si eres sensible al peso lateral en sesiones de más de **60 minutos**.",
+        "**Elige cable en espiral (coiled)** si tocas en un **Roland FP-10**, **FP-30X** o **Casio PX-S1100** con salida frontal izquierda, o si usas una silla de escritorio con ruedas que podría aplastar un cable suelto en el piso.",
+        "**Aprovecha paquetes de doble cable (ATH-M40x / ATH-M50x)** si alternas entre tocar el piano digital en casa y llevar los audífonos a clases o grabación portátil, ya que incluyen tanto el cable en espiral como el recto liso de **3.0 m** con cierre de bayoneta."
       ]
     },
     {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Los modelos Audio-Technica ATH-M40x y ATH-M50x incluyen en la caja ambos cables intercambiables (uno recto de 3.0 m y otro en espiral de 1.2 m–3.0 m), mientras que en los ATH-M20x, ATH-M30x y Sony MDR-7506 el cable viene soldado de forma fija a la copa izquierda.",
+      "title": "Cables fijos frente a cables desmontables en la serie de estudio"
     },
     {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "cta",
+      "text": "Revisa la disponibilidad y los accesorios incluidos de los modelos Audio-Technica, Sennheiser y Sony en las tarjetas de Amazon de esta página, o consulta a nuestro Asesor IA para verificar qué cable viene en la caja del modelo que tienes en mente."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre cable recto vs cable en espiral audifonos para piano?",
-      "a": "El cable en espiral se recoge solo a 1.2 metros y se estira a 3 metros sin arrastrar por el suelo ni engancharse en el pedal; el cable recto es más ligero y no pesa en un lado. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Cómo evito que el peso del cable en espiral de los Sony MDR-7506 tire hacia abajo?",
+      "a": "Apoya el tramo central de la espiral sobre tu muslo izquierdo o pásalo por encima del travesaño lateral del soporte en Z; así el peso de las espiras descansa sobre una superficie firme en lugar de colgar directamente de tu oreja."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Se puede estirar permanentemente un cable en espiral para que deje de hacer fuerza?",
+      "a": "No es recomendable. Forzar el poliuretano con calor deforma el blindaje interno de cobre y deja el cable ondulado y rígido. Si necesitas un tramo liso sin tensión, es preferible añadir un extensor recto ligero de 1 metro en la base."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Los cables en espiral producen ruido al rozar con el borde del piano?",
+      "a": "No transmiten más ruido eléctrico, pero sí pueden generar un ligero roce mecánico (microfonía por fricción) si las espiras chocan contra el borde plástico del teclado al moverte; colocar el cable hacia el costado izquierdo elimina ese roce por completo."
     }
   ],
   "related": [
-    "/audifonos-sonido-y-practica-silenciosa/",
-    "/audifonos-sonido-y-practica-silenciosa/que-es-el-stereophonic-optimizer-de-yamaha-y-headphone-3d-ambience-de-roland/",
-    "/audifonos-sonido-y-practica-silenciosa/por-que-un-cable-de-audifonos-de-3-metros-es-mucho-mas-comodo-que-uno-de-1-2-metros/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/audifonos-sonido-y-practica-silenciosa/como-ajustar-el-efecto-de-reverberacion-reverb-hall-room-stage-al-tocar-con-audifonos/",
+    "/audifonos-sonido-y-practica-silenciosa/donde-colocar-un-adaptador-en-angulo-recto-de-90-grados-si-la-salida-de-audifonos-es-frontal/",
+    "/audifonos-sonido-y-practica-silenciosa/por-que-algunos-audifonos-anc-suenan-mejor-encendidos-aunque-los-conectes-por-cable-al-piano/",
+    "/audifonos-sonido-y-practica-silenciosa/a-que-hora-de-la-noche-es-seguro-practicar-con-piano-digital-y-audifonos-en-un-edificio/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/cable-liso-recto-vs-cable-en-espiral-coiled-en-audifonos-para-piano-digital.webp"
 }

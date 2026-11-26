@@ -4,161 +4,116 @@
   "path": "/pedales-compatibles-y-polaridad/puedo-usar-el-pedal-de-mi-antiguo-teclado-casio-en-mi-nuevo-piano-yamaha-o-roland/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "usar pedal casio en piano yamaha o roland",
   "title": "¿Sirve el Pedal de tu Antiguo Teclado Casio en un Piano Nuevo Yamaha o Roland?",
-  "seoTitle": "¿Sirve el Pedal de tu Antiguo Teclado Casio en un Piano Nuevo Yamaha o Roland? | Guía de Pianos",
-  "metaDescription": "¿Sirve el Pedal de tu Antiguo Teclado Casio en un Piano Nuevo Yamaha o Roland?: Si tu pedal antiguo tiene interruptor de polaridad en la base (como el M-Audio SP-2), sí servirá al 100 % con solo cambiar la posición del switch; si es fijo sin switch, sonará invertido. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Si tu pedal antiguo tiene interruptor de polaridad en la base (como el M-Audio SP-2), sí servirá al 100 % con solo cambiar la posición del switch; si es fijo sin switch, sonará invertido.",
-  "quickAnswer": "Sobre usar pedal casio en piano yamaha o roland: Si tu pedal antiguo tiene interruptor de polaridad en la base (como el M-Audio SP-2), sí servirá al 100 % con solo cambiar la posición del switch; si es fijo sin switch, sonará invertido. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "¿Sirve el Pedal de tu Antiguo Teclado Casio en un Piano Nuevo Yamaha o Roland? | guiadepianos.com",
+  "metaDescription": "¿Puedes usar un pedal Casio en un piano Yamaha o Roland? Conoce la diferencia de polaridad NO vs NC, el efecto de sustain invertido y cómo resolverlo.",
+  "excerpt": "Conectar el pedal de un teclado antiguo a un piano nuevo suele provocar que el sonido quede sostenido al soltar el pie. Explicamos por qué ocurre este choque eléctrico y qué adaptaciones funcionan.",
+  "quickAnswer": "Físicamente sí entra porque ambos utilizan un conector **jack de 1/4\" (6.35 mm)**, pero eléctricamente suelen ser incompatibles: los pedales **Casio** originales (**SP-3** o **SP-20**) operan con polaridad **Normalmente Abierta (NO)** sin interruptor de cambio, mientras que los pianos **Yamaha** y **Roland** requieren polaridad **Normalmente Cerrada (NC)**. Al conectarlo, lo más habitual es que el sustain funcione al revés (suena sostenido sin pisar y se apaga al pisar) y pierdas la función de **medio pedal TRS**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Side-profile acoustic studio shot highlighting key travel and matte ebony/ivory texture: Home digital piano and keyboard tutorial illustrating ¿Sirve el Pedal de tu Antiguo Teclado Casio en un Piano Nuevo Yamaha o Roland?: Si tu pedal antiguo tiene interruptor de polaridad en la base (como el M-Audio SP-2), sí servirá al 100 % con solo cambiar la posición del switch; si es fijo sin switch, sonará invertido., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, crisp bright editorial studio lighting with neutral warm oak tones. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating '¿Sirve el Pedal de tu Antiguo Teclado Casio en un Piano Nuevo Yamaha o Roland?' (usar pedal casio en piano yamaha o roland) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, on a warm walnut table beside a sunlit window, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "¿Sirve el Pedal de tu Antiguo Teclado Casio en un Piano Nuevo Yamaha o Roland?"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **usar pedal casio en piano yamaha o roland** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Si tu pedal antiguo tiene interruptor de polaridad en la base (como el M-Audio SP-2), sí servirá al 100 % con solo cambiar la posición del switch; si es fijo sin switch, sonará invertido."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Pedales Compatibles Y Polaridad](/pedales-compatibles-y-polaridad/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Acabas de desembalar tu nuevo **Yamaha P-145** o **Roland FP-10** y, para ahorrar o aprovechar un accesorio al que ya estás acostumbrado, conectas el pedal de tu antiguo teclado **Casio** (como el clásico interruptor rectangular **Casio SP-3** o el pedal tipo piano **Casio SP-20**) en la entrada trasera marcada como *Sustain / Damper*. Al encender el instrumento ocurre algo desconcertante: sin tocar siquiera el pedal con el pie, todas las teclas que pulsas se quedan sonando con un eco infinito, y cuando pisas el pedal hacia abajo, el sonido se corta en seco. Este fenómeno de «sustain al revés» se debe a una incompatibilidad histórica de polaridad eléctrica entre fabricantes japoneses que puedes contrastar en nuestra guía sobre [si funciona un pedal TRS de medio pedal en un teclado que solo acepta TS](/pedales-compatibles-y-polaridad/puedo-usar-un-pedal-con-medio-pedal-trs-en-un-teclado-de-61-teclas-que-solo-acepta-ts/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: usar pedal casio en piano yamaha o roland"
+      "text": "Por qué los pedales Casio operan con circuito Normalmente Abierto (NO) y Yamaha o Roland usan Normalmente Cerrado (NC)"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **usar pedal casio en piano yamaha o roland**:"
+      "text": "Aunque por fuera todos los pedales básicos compartan exactamente el mismo conector **jack TS de 1/4 de pulgada (6.35 mm)** de dos polos (punta y cuerpo metálico), por dentro funcionan como un interruptor de timbre con dos filosofías opuestas. Los teclados y pianos **Casio** (al igual que Korg y la mayoría de controladores económicos) emplean una arquitectura **Normalmente Abierta (NO, *Normally Open*)**: cuando el pedal está en reposo sin pisar, los dos cables internos no se tocan; al pisar, cierras el circuito y activas el sustain. En cambio, **Yamaha** (en toda su línea desde el **Yamaha PSR-E383** hasta el **Yamaha P-145**) y **Roland** (en los **Roland FP-10** y **FP-30X**) utilizan por estándar de fábrica un circuito **Normalmente Cerrado (NC, *Normally Closed*)**: en reposo la corriente circula cerrada y al pisar abres el contacto. Puedes consultar todas las equivalencias entre marcas en nuestro [directorio de pedales compatibles y polaridad](/pedales-compatibles-y-polaridad/) y revisar por qué el diseño físico de la lengüeta también influye al [apoyar el talón en el suelo al usar el pedal de sustain](/pedales-compatibles-y-polaridad/por-que-es-fundamental-apoyar-el-talon-en-el-suelo-al-usar-el-pedal-de-sustain/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: usar pedal casio en piano yamaha o roland",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Piano o teclado de destino",
+        "Polaridad nativa esperada",
+        "Comportamiento al enchufar un pedal Casio (NO fijo)",
+        "¿Admite medio pedal (Half-Damper) con el pedal Casio?"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Si tu pedal antiguo tiene interruptor de polaridad en la base (como el M-Audio SP-2), sí servirá al 100 % con solo cambiar la posición del switch; si es fijo sin switch, sonará invertido.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Yamaha PSR-E383 (61 teclas)",
+          "NC (con autodetección al arranque)",
+          "Funciona en On/Off si se enchufa con el teclado apagado y sin pisar",
+          "No (ni el teclado ni el pedal Casio básico tienen circuito TRS)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Yamaha P-145 (88 teclas GHC)",
+          "NC estricto / TRS continuo (FC3A)",
+          "Suele quedar con el sustain invertido (suena fijo sin pisar)",
+          "No (pierdes el medio pedal gradual del motor CFIIIS)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Roland FP-10 y Roland FP-30X",
+          "NC / TRS continuo (DP-10)",
+          "Invierte la acción en pedales sin selector o limita a On/Off binario",
+          "No (desaprovechas la respuesta progresiva SuperNATURAL)"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Casio Privia PX-S1100 / Alesis Recital Pro",
+          "NO (Normalmente Abierto)",
+          "100 % compatible de forma directa sin invertir la señal",
+          "No (solo funciona como interruptor binario 0 % o 100 %)"
         ]
-      ]
+      ],
+      "caption": "Matriz de compatibilidad al conectar un pedal antiguo Casio (SP-3 / SP-20) en pianos nuevos Yamaha y Roland"
+    },
+    {
+      "type": "h2",
+      "text": "El truco del encendido en frío: cuándo funciona la autodetección de polaridad y cuándo falla"
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre usar pedal casio en piano yamaha o roland",
-      "text": "Si tu pedal antiguo tiene interruptor de polaridad en la base (como el M-Audio SP-2), sí servirá al 100 % con solo cambiar la posición del switch; si es fijo sin switch, sonará invertido. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      "variant": "aviso",
+      "text": "Algunos teclados portátiles modernos de Yamaha (como la serie **PSR-E383**) leen el estado eléctrico del jack durante el primer segundo en que pulsas el botón de encendido (*Power*). Si conectas tu antiguo pedal **Casio SP-3** con el teclado **totalmente apagado** y enciendes el instrumento sin apoyar el pie en el pedal, la placa base puede reconocer el circuito abierto como estado de reposo. Sin embargo, si enchufas el cable con el piano ya encendido o en modelos dedicados de 88 teclas que esperan la resistencia específica de un pedal **Yamaha FC3A** o **Roland DP-10**, el sustain quedará bloqueado al revés de forma permanente.",
+      "title": "Cómo probar en 10 segundos si tu nuevo piano autodetecta el pedal Casio"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar usar pedal casio en piano yamaha o roland en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando usar pedal casio en piano yamaha o roland en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Tres soluciones definitivas si tu pedal Casio actúa al revés en tu nuevo Yamaha o Roland"
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**Reinicio de calibración con el cable conectado:** Apaga tu piano **Yamaha** o **Roland**, introduce hasta el fondo el conector **jack de 6.35 mm** de tu pedal Casio, retira por completo el pie del pedal y pulsa el botón de encendido esperando **5 segundos** antes de tocar la primera tecla para comprobar si el firmware invirtió la lectura lógica.",
+        "**Reemplazo por un pedal universal con selector mecánico NO/NC:** Si el pedal Casio carece de interruptor en la base y sigue sonando al revés, la opción más práctica y económica es adquirir un pedal metálico universal como el **M-Audio SP-2**, cuyo conmutador inferior cambia de **NO (Casio)** a **NC (Yamaha/Roland)** en un segundo.",
+        "**Actualización a un pedal TRS de medio pedal de la misma marca:** Si compraste un **Roland FP-10**, **Roland FP-30X** o **Yamaha P-145**, reciclar un pedal Casio básico de dos polos (**TS**) desperdicia la función de *Half-Damper* del piano; un **Roland DP-10** o **Yamaha FC3A** con conector **TRS de 3 polos** te dará control gradual del **0 % al 100 %**.",
+        "**No intentes invertir el pedal pisándolo al encender:** Aunque en foros se sugiere mantener pisado el pedal Casio mientras enciendes el piano para engañar al sensor, al menor corte de energía o reinicio volverá a desconfigurarse en mitad de tu práctica."
       ]
     },
     {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "cta",
+      "text": "¿Tu pedal antiguo funciona al revés o quieres dar el salto a un pedal con interruptor de polaridad y peso de piano acústico? Pregunta a nuestro Asesor IA o consulta los modelos universales y originales disponibles hoy en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre usar pedal casio en piano yamaha o roland?",
-      "a": "Si tu pedal antiguo tiene interruptor de polaridad en la base (como el M-Audio SP-2), sí servirá al 100 % con solo cambiar la posición del switch; si es fijo sin switch, sonará invertido. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Se puede quemar o dañar la placa de mi piano Yamaha o Roland si le conecto un pedal Casio?",
+      "a": "En absoluto. El circuito de pedal de sustain trabaja con señales de control de muy bajo voltaje (generalmente entre 3.3 V y 5 V continuos de lectura lógica) sin potencia eléctrica. Lo único que ocurrirá es que el efecto de resonancia funcionará al revés hasta que lo desconectes."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Tienen interruptor de polaridad los pedales originales Casio SP-3 o SP-20?",
+      "a": "Los pedales originales incluidos de serie con teclados Casio, como el cuadrado Casio SP-3 o el metálico Casio SP-20, vienen cableados de fábrica en modo Normalmente Abierto (NO) fijo y no incorporan selector de cambio de polaridad en su base."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué pedal puedo comprar que me sirva tanto para mi viejo Casio como para mi nuevo Yamaha?",
+      "a": "El M-Audio SP-2 es la mejor alternativa porque incluye un interruptor físico en la cara inferior que permite alternar entre polaridad Casio (NO) y polaridad Yamaha/Roland (NC), por lo que te servirá simultáneamente en ambos instrumentos sin adaptadores."
     }
   ],
   "related": [
-    "/pedales-compatibles-y-polaridad/",
-    "/pedales-compatibles-y-polaridad/mantenimiento-del-conector-jack-1-4-del-pedal-para-evitar-falsos-contactos/",
-    "/pedales-compatibles-y-polaridad/que-es-la-polifonia-consumida-por-el-pedal-de-sustain-y-como-notar-si-se-cortan-notas/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/pedales-compatibles-y-polaridad/puedo-usar-un-pedal-con-medio-pedal-trs-en-un-teclado-de-61-teclas-que-solo-acepta-ts/",
+    "/pedales-compatibles-y-polaridad/como-funciona-el-pedal-izquierdo-una-corda-soft-pedal-en-un-piano-digital/",
+    "/pedales-compatibles-y-polaridad/por-que-es-fundamental-apoyar-el-talon-en-el-suelo-al-usar-el-pedal-de-sustain/",
+    "/pedales-compatibles-y-polaridad/cuando-empezar-a-usar-el-pedal-de-sustain-al-aprender-piano/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/puedo-usar-el-pedal-de-mi-antiguo-teclado-casio-en-mi-nuevo-piano-yamaha-o-roland.webp"
 }

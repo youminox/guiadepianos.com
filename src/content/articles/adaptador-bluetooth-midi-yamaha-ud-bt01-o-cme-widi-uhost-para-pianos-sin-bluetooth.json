@@ -4,161 +4,128 @@
   "path": "/conexiones-midi-apps-y-aprendizaje/adaptador-bluetooth-midi-yamaha-ud-bt01-o-cme-widi-uhost-para-pianos-sin-bluetooth/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "adaptador bluetooth midi por usb para piano digital",
   "title": "Cómo Añadir Bluetooth MIDI Inalámbrico a un Piano que Solo Tiene Puerto USB (Adaptadores CME WIDI uHost)",
-  "seoTitle": "Cómo Añadir Bluetooth MIDI Inalámbrico a un Piano que Solo Tiene Puerto USB (Adaptadores CME WIDI uHost) | Guía de Pianos",
-  "metaDescription": "Cómo Añadir Bluetooth MIDI Inalámbrico a un Piano que Solo Tiene Puerto USB (Adaptadores CME WIDI uHost): Si tu teclado solo tiene puerto USB to Host con cable, puedes conectarle un micro-transmisor USB Bluetooth MIDI o usar directamente un cable USB-B a USB-C de $10. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Si tu teclado solo tiene puerto USB to Host con cable, puedes conectarle un micro-transmisor USB Bluetooth MIDI o usar directamente un cable USB-B a USB-C de $10.",
-  "quickAnswer": "Sobre adaptador bluetooth midi por usb para piano digital: Si tu teclado solo tiene puerto USB to Host con cable, puedes conectarle un micro-transmisor USB Bluetooth MIDI o usar directamente un cable USB-B a USB-C de $10. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Añadir Bluetooth MIDI Inalámbrico a un Piano que Solo Tiene Puerto USB (Adaptadores CME WIDI uHost) | guiadepianos.com",
+  "metaDescription": "Aprende a instalar un adaptador Bluetooth MIDI por USB en tu piano digital con CME WIDI uHost o Yamaha UD-BT01 para conectar tu iPad sin cables largos.",
+  "excerpt": "Guía técnica para añadir conectividad Bluetooth MIDI de ultra baja latencia (3 ms) a pianos digitales como el Yamaha P-145 o PSR-E383 mediante adaptadores CME WIDI uHost y Yamaha UD-BT01.",
+  "quickAnswer": "Si tu piano digital solo cuenta con puerto **USB-to-Host** —como el **Yamaha P-145**, **Yamaha PSR-E383** o **Casio CDP-S160**—, puedes añadirle **Bluetooth MIDI** conectando un transmisor externo como el **CME WIDI uHost** o el **Yamaha UD-BT01**. Estos adaptadores convierten los paquetes USB-MIDI en señal inalámbrica **BLE-MIDI** con una latencia ultrabaja de **3 ms**, permitiendo enlazar tu iPad o Mac sin tender cables por la habitación.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Eye-level realistic lifestyle photograph in a sunlit modern apartment: Home digital piano and keyboard tutorial illustrating Cómo Añadir Bluetooth MIDI Inalámbrico a un Piano que Solo Tiene Puerto USB (Adaptadores CME WIDI uHost): Si tu teclado solo tiene puerto USB to Host con cable, puedes conectarle un micro-transmisor USB Bluetooth MIDI o usar directamente un cable USB-B a USB-C de $10., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, warm evening LED music stand lamp light for silent headphone practice. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Cómo Añadir Bluetooth MIDI Inalámbrico a un Piano que Solo Tiene Puerto USB (Adaptadores CME WIDI uHost)' (adaptador bluetooth midi por usb para piano digital) for guiadepianos.com, featuring equipment in olive sage green with anodized silver accents, on a warm walnut table beside a sunlit window, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Añadir Bluetooth MIDI Inalámbrico a un Piano que Solo Tiene Puerto USB (Adaptadores CME WIDI uHost)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **adaptador bluetooth midi por usb para piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Si tu teclado solo tiene puerto USB to Host con cable, puedes conectarle un micro-transmisor USB Bluetooth MIDI o usar directamente un cable USB-B a USB-C de $10."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Conexiones Midi Apps Y Aprendizaje](/conexiones-midi-apps-y-aprendizaje/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Te encanta el tacto contrapesado **GHC** de tu **Yamaha P-145**, la sensibilidad del **Yamaha PSR-E383** o la portabilidad del **Casio CDP-S160**, pero cada vez que colocas el iPad sobre el atril para practicar con **Simply Piano**, **Flowkey** o **Smart Pianist**, tienes que lidiar con un cable USB más un adaptador colgando sobre las teclas centrales y ocupando el único puerto de carga de la tablet. A diferencia del **Roland FP-10** o del **Casio Privia PX-S1100**, muchos pianos digitales de excelente relación calidad-precio prescinden del chip Bluetooth de fábrica y solo incluyen en su panel trasero el conector cuadrado **USB-to-Host**. Por suerte, cualquier puerto **USB-MIDI Class Compliant** puede transformarse en una estación inalámbrica **Bluetooth Low Energy MIDI (BLE-MIDI)** de ultra baja latencia conectándole un adaptador inteligente como el **CME WIDI uHost** o el **Yamaha UD-BT01**, lo que además te permite disfrutar de [cero latencia con CoreAudio al conectar tu piano a un MacBook o iPad](/conexiones-midi-apps-y-aprendizaje/en-mac-no-hace-falta-asio-ventaja-de-coreaudio-al-conectar-tu-piano-digital-a-un-macbook/) sin un solo cable atravesando el salón."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: adaptador bluetooth midi por usb para piano digital"
+      "text": "Por qué un dongle Bluetooth de PC normal no sirve y qué hace un Host USB-MIDI"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **adaptador bluetooth midi por usb para piano digital**:"
+      "text": "Un error habitual es intentar enchufar una pequeña antena Bluetooth USB de computadora en la parte trasera del piano esperando que aparezca en el iPad. En la arquitectura USB existen dos roles estrictos: el **Host** (anfitrión, que normalmente es la computadora o el iPad) y el **Device** (periférico esclavo, que es tu piano digital). El puerto cuadrado **USB-to-Host** de tu **Yamaha P-145**, **PSR-E383** o **Alesis Recital Pro** es un puerto **Device** que no tiene sistema operativo para instalar un dongle de PC ni entrega corriente de **5 V** hacia afuera. Dispositivos especializados como el **CME WIDI uHost** o el **Yamaha UD-BT01** integran un microprocesador propio que **finge ser una computadora Host** frente al piano, lee los paquetes USB-MIDI en tiempo real y los emite por aire bajo el estándar **BLE-MIDI** con apenas **3 milisegundos de latencia**. Esta limpieza de montaje es ideal si sueles [combinar clases online por Zoom con práctica en apps MIDI](/conexiones-midi-apps-y-aprendizaje/como-combinar-clases-presenciales-u-online-por-zoom-con-practica-en-apps-midi/) o quieres olvidarte para siempre de [solucionar cuando el iPad o PC no detecta el piano por USB](/conexiones-midi-apps-y-aprendizaje/por-que-mi-ipad-o-pc-no-detecta-el-piano-digital-por-usb-cables-de-solo-carga-vs-cables-de-datos/) por culpa de adaptadores OTG desgastados."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: adaptador bluetooth midi por usb para piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Especificación técnica",
+        "CME WIDI uHost",
+        "Yamaha UD-BT01"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Si tu teclado solo tiene puerto USB to Host con cable, puedes conectarle un micro-transmisor USB Bluetooth MIDI o usar directamente un cable USB-B a USB-C de $10.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Función principal",
+          "Actúa como USB Host autónomo o USB Device para puertos USB-to-Host",
+          "Convierte el puerto USB-to-Host (Tipo B) en transmisor Bluetooth MIDI"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Latencia de transmisión MIDI",
+          "Ultra baja: 3 ms (Bluetooth 5 BLE-MIDI con algoritmo Smart Connectivity)",
+          "Baja: ~7 a 10 ms (Bluetooth 4.0 LE MIDI estándar)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Compatibilidad de sistemas operativos",
+          "iPadOS, iOS, macOS, Windows 10/11 y Android (más actualización por app WIDI)",
+          "Optimizado exclusivamente para iPad, iPhone y Mac (iOS / iPadOS / macOS)"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
+          "Cómo recibe alimentación eléctrica (5 V)",
+          "Entrada USB-C lateral para cargador de 5 V (pianos USB Tipo B no dan energía)",
+          "Se inserta entre el cable USB Tipo B del piano y un cargador USB de 5 V / Powerbank"
         ],
         [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Fijación en el piano digital",
+          "Peso pluma de 18 g con parche magnético adhesivo para la parte trasera del piano",
+          "Cuerpo compacto que queda conectado junto al transformador USB o batería externa"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre adaptador bluetooth midi por usb para piano digital",
-      "text": "Si tu teclado solo tiene puerto USB to Host con cable, puedes conectarle un micro-transmisor USB Bluetooth MIDI o usar directamente un cable USB-B a USB-C de $10. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Comparativa técnica entre los adaptadores Bluetooth MIDI por USB para pianos digitales"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar adaptador bluetooth midi por usb para piano digital en tu piano digital o teclado"
+      "text": "El detalle de alimentación eléctrica que debes saber antes de instalarlo"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "A diferencia de un puerto **USB Tipo A** rectangular (que sí entrega **5 V** de corriente), el puerto cuadrado **USB-to-Host (Tipo B)** de casi todos los pianos digitales (**Yamaha P-145**, **PSR-E383**, **Casio CDP-S160**, **Kawai ES60**) **no suministra energía eléctrica hacia el exterior**. Por eso, tanto el **CME WIDI uHost** como el **Yamaha UD-BT01** necesitan conectarse a una fuente de **5 V** (como un cargador USB de celular enchufado a la misma regleta del piano o una pequeña batería portátil **Powerbank**). En el **CME WIDI uHost**, un cable corto va de su puerto **Host** al puerto **USB Tipo B** del piano, y un segundo cable USB-C va de su puerto **Power** al cargador de 5 V. En cuanto enciendes la regleta de tu piano, el transmisor arranca automáticamente sin botones adicionales.",
+      "title": "Por qué el puerto cuadrado USB Tipo B necesita apoyo de 5 V externos"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo instalar y enlazar el CME WIDI uHost en tu piano en 4 pasos"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Conecta el cable USB OTG del puerto Host del WIDI al puerto USB-to-Host del piano",
+          "text": "Utiliza el cable corto **USB-C a USB Tipo B** (diseñado específicamente para el **WIDI uHost**) enchufando el extremo USB-C en la ranura marcada como **Host** del adaptador y la punta cuadrada en el panel trasero de tu piano digital."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Alimenta la entrada lateral Power (USB-C) con un cargador de 5 V o Powerbank",
+          "text": "Conecta cualquier cable USB-C estándar desde la ranura **Power** del **WIDI uHost** hacia un cargador de pared de **5 V** o al puerto USB de tu regleta eléctrica. Verás que el LED frontal del adaptador comienza a parpadear en azul indicando que ya está emitiendo señal **BLE-MIDI**."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "Actualiza el firmware una sola vez desde la app gratuita WIDI App (opcional)",
+          "text": "Descarga la aplicación gratuita **CME WIDI App** en tu móvil para verificar que tu unidad tenga la última revisión de firmware, la cual optimiza el emparejamiento automático y reduce el intervalo de conexión a **3 ms**."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Vincúlalo desde dentro de tu app de piano (no desde el menú Bluetooth del sistema)",
+          "text": "Abre **Simply Piano**, **Flowkey**, **GarageBand** o **Smart Pianist** en tu iPad, entra en el apartado **Dispositivos Bluetooth MIDI** de la propia aplicación y toca sobre **WIDI uHost**. El LED azul pasará a color turquesa fijo y tu teclado responderá al instante sin cables hacia la tablet."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando adaptador bluetooth midi por usb para piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Consulta la disponibilidad actual del adaptador CME WIDI uHost, sus cables cortos USB Tipo B y accesorios MIDI en las tarjetas de Amazon integradas en esta página, o pregunta a nuestro Asesor IA si tu piano digital necesita adaptador externo o ya trae Bluetooth oculto."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre adaptador bluetooth midi por usb para piano digital?",
-      "a": "Si tu teclado solo tiene puerto USB to Host con cable, puedes conectarle un micro-transmisor USB Bluetooth MIDI o usar directamente un cable USB-B a USB-C de $10. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿El adaptador CME WIDI uHost o Yamaha UD-BT01 también añade Bluetooth Audio para reproducir música?",
+      "a": "No. Tanto el **CME WIDI uHost** como el **Yamaha UD-BT01** transmiten exclusivamente datos **Bluetooth MIDI (BLE-MIDI)**: notas, velocidad de pulsación y pedal de sustain para aplicaciones de aprendizaje y software VST. No sirven para enviar canciones de Spotify o YouTube hacia los altavoces del piano (eso es **Bluetooth Audio**)."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Se siente algún retraso o latencia al tocar el piano con el adaptador CME WIDI uHost?",
+      "a": "Con **3 ms de latencia** en el **CME WIDI uHost** (Bluetooth 5), el tiempo de respuesta es idéntico al de un cable USB físico y completamente imperceptible para el oído humano, que recién empieza a notar desfase a partir de los **12 a 15 milisegundos**. Puedes tocar pasajes rápidos, trinos y arpegios con total precisión."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué diferencia hay entre el CME WIDI uHost y el CME WIDI Master?",
+      "a": "Si tu piano tiene los dos puertos MIDI redondos tradicionales de **5 pines (MIDI IN y MIDI OUT)** en la parte trasera, es aún más sencillo usar el modelo hermano **CME WIDI Master**: se enchufa directamente en los puertos redondos DIN de 5 pines y toma los **3.3 V / 5 V** de corriente directamente del propio puerto MIDI OUT sin necesitar cargador externo."
     }
   ],
   "related": [
-    "/conexiones-midi-apps-y-aprendizaje/",
-    "/conexiones-midi-apps-y-aprendizaje/plan-de-practica-de-20-minutos-diarios-para-tus-primeras-4-semanas-con-el-piano/",
-    "/conexiones-midi-apps-y-aprendizaje/que-longitud-maxima-puede-tener-un-cable-usb-midi-sin-perder-senal-2-a-3-metros/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/conexiones-midi-apps-y-aprendizaje/en-mac-no-hace-falta-asio-ventaja-de-coreaudio-al-conectar-tu-piano-digital-a-un-macbook/",
+    "/conexiones-midi-apps-y-aprendizaje/por-que-mi-ipad-o-pc-no-detecta-el-piano-digital-por-usb-cables-de-solo-carga-vs-cables-de-datos/",
+    "/conexiones-midi-apps-y-aprendizaje/para-que-sirve-el-atril-ancho-de-los-pianos-digitales-y-como-sujetar-libros-nuevos-que-se-cierran-solos/",
+    "/conexiones-midi-apps-y-aprendizaje/como-combinar-clases-presenciales-u-online-por-zoom-con-practica-en-apps-midi/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/adaptador-bluetooth-midi-yamaha-ud-bt01-o-cme-widi-uhost-para-pianos-sin-bluetooth.webp"
 }

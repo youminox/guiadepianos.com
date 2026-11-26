@@ -4,161 +4,128 @@
   "path": "/audifonos-sonido-y-practica-silenciosa/que-es-la-funcion-sound-boost-o-wall-eq-cuando-tocas-sin-audifonos/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es sound boost y table eq en pianos yamaha y roland",
   "title": "Para Qué Sirven los Modos 'Sound Boost' y Ecualizador de Mesa/Pared en Pianos Portátiles Yamaha y Roland",
-  "seoTitle": "Para Qué Sirven los Modos 'Sound Boost' y Ecualizador de Mesa/Pared en Pianos Portátiles Yamaha y Roland | Guía de Pianos",
-  "metaDescription": "Para Qué Sirven los Modos 'Sound Boost' y Ecualizador de Mesa/Pared en Pianos Portátiles Yamaha y Roland: Ajustan los graves de los altavoces internos según si tienes el piano apoyado sobre una mesa de madera maciza (que amplifica graves) o sobre un soporte en Z abierto al aire. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Ajustan los graves de los altavoces internos según si tienes el piano apoyado sobre una mesa de madera maciza (que amplifica graves) o sobre un soporte en Z abierto al aire.",
-  "quickAnswer": "Sobre que es sound boost y table eq en pianos yamaha y roland: Ajustan los graves de los altavoces internos según si tienes el piano apoyado sobre una mesa de madera maciza (que amplifica graves) o sobre un soporte en Z abierto al aire. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Para Qué Sirven los Modos 'Sound Boost' y Ecualizador de Mesa/Pared en Pianos Portátiles Yamaha y Roland | guiadepianos.com",
+  "metaDescription": "Descubre qué hacen las funciones Sound Boost, Wall EQ y Desk EQ en pianos Yamaha y Roland para evitar el sonido retumbante sobre mesas o pegado a paredes.",
+  "excerpt": "Aprende cuándo activar el compresor Sound Boost de Yamaha y cómo configurar el ecualizador de escritorio o pared en tu Roland FP-30X o Yamaha P-145 para eliminar resonancias graves al tocar al aire.",
+  "quickAnswer": "Los modos **Table/Desk EQ** (Roland) y **Wall EQ** (Yamaha) recortan el exceso de frecuencias graves (**120 Hz a 350 Hz**) que se acumula por rebote acústico cuando colocas el piano directamente sobre una mesa de madera o pegado a una pared. Por su parte, **Sound Boost** en pianos como el **Yamaha P-145** añade compresión dinámica y brillo en medios-agudos para que los altavoces destaquen sobre el ruido ambiente o pistas de acompañamiento.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Macro close-up shot with shallow depth of field (85mm f/2.8 lens): Home digital piano and keyboard tutorial illustrating Para Qué Sirven los Modos 'Sound Boost' y Ecualizador de Mesa/Pared en Pianos Portátiles Yamaha y Roland: Ajustan los graves de los altavoces internos según si tienes el piano apoyado sobre una mesa de madera maciza (que amplifica graves) o sobre un soporte en Z abierto al aire., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, soft natural morning window daylight with gentle warm shadows. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Para Qué Sirven los Modos 'Sound Boost' y Ecualizador de Mesa/Pared en Pianos Portátiles Yamaha y Roland' (que es sound boost y table eq en pianos yamaha y roland) for guiadepianos.com, featuring equipment in terracotta copper accent with matte slate body, beside a neat storage shelf in a sunlit modern room, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Para Qué Sirven los Modos 'Sound Boost' y Ecualizador de Mesa/Pared en Pianos Portátiles Yamaha y Roland"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **que es sound boost y table eq en pianos yamaha y roland** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Ajustan los graves de los altavoces internos según si tienes el piano apoyado sobre una mesa de madera maciza (que amplifica graves) o sobre un soporte en Z abierto al aire."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Audifonos Sonido Y Practica Silenciosa](/audifonos-sonido-y-practica-silenciosa/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Colocar un **Roland FP-10** o un **Yamaha P-145** directamente sobre un escritorio de madera o pegado a una pared de yeso transforma por completo su respuesta acústica cuando tocas sin audífonos. En lugar del timbre limpio de concierto que escuchas por auriculares, los altavoces integrados empiezan a producir un grave cavernoso y retumbante que emborrona los acordes de la mano izquierda. Para corregir este fenómeno físico sin necesidad de monitores externos, Yamaha y Roland integran procesadores DSP específicos llamados **Sound Boost**, **Table EQ** (Desk EQ) y **Wall EQ**."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: que es sound boost y table eq en pianos yamaha y roland"
+      "text": "Por qué retumba tu piano portátil sobre una mesa y cómo lo corrige el Table EQ o Wall EQ"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **que es sound boost y table eq en pianos yamaha y roland**:"
+      "text": "En pianos compactos como el **Roland FP-10** (con dos altavoces inferiores de **12 cm y 6W**) o el **Roland FP-30X** (con **11W x 2**), los conos disparan el sonido hacia abajo. Al montar el instrumento sobre un soporte abierto en Z o en X, las ondas graves se dispersan libremente hacia el suelo; pero si apoyas el chasis sobre un tablero sólido, se crea una cámara de reflexión a menos de **2 cm** de las rejillas. Algo similar ocurre en el **Yamaha P-145** cuando sus difusores traseros quedan a menos de **15 cm** de un muro: el efecto de contorno (*boundary effect*) suma entre **+3 dB y +6 dB** en la banda de **120 Hz a 350 Hz**. Al activar el modo **Desk EQ** en Roland o el filtro de pared en modelos superiores de la serie P, el procesador aplica una atenuación selectiva en los medios-graves y restablece la claridad original del motor **SuperNATURAL** o del muestreo **Yamaha CFIIIS**, complementando lo que lograrías al revisar nuestro [centro de recursos sobre sonido y práctica silenciosa](/audifonos-sonido-y-practica-silenciosa/)."
+    },
+    {
+      "type": "h2",
+      "text": "Qué hace exactamente el botón Sound Boost de Yamaha y cuándo conviene apagarlo"
+    },
+    {
+      "type": "p",
+      "text": "A diferencia de los ecualizadores de posición, la función **Sound Boost** presente en el **Yamaha P-145** y **Yamaha P-225** combina un ecualizador de presencia (que realza la franja de **1.5 kHz a 3.5 kHz**) con un compresor dinámico multibanda. Su objetivo es elevar el volumen percibido de las notas suaves sin saturar los amplificadores internos de **7W + 7W**. Resulta excelente cuando tocas pop, acompañas a un cantante en una sala con ruido ambiental o reproduces pistas de acompañamiento desde el móvil, tal como explicamos en la guía sobre [para qué sirve el Bluetooth Audio en pianos digitales](/audifonos-sonido-y-practica-silenciosa/para-que-sirve-entonces-el-bluetooth-audio-de-mi-piano-digital-roland-o-casio/). Sin embargo, para estudiar repertorio clásico en solitario debes desactivarlo: como el compresor iguala el volumen de las pulsaciones débiles y fuertes, reduce el rango dinámico entre un *pianissimo* (`pp`) y un *fortissimo* (`ff`), engañando a tus dedos sobre la fuerza real que estás aplicando al teclado **GHC**."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: que es sound boost y table eq en pianos yamaha y roland",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Función DSP / Modo",
+        "Modelos compatibles de referencia",
+        "Ajuste acústico en frecuencias",
+        "Escenario ideal de activación"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Ajustan los graves de los altavoces internos según si tienes el piano apoyado sobre una mesa de madera maciza (que amplifica graves) o sobre un soporte en Z abierto al aire.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Sound Boost (Yamaha)",
+          "Yamaha P-145, P-225, PSR-E383 (vía Master EQ Boost)",
+          "Compresión dinámica + realce entre 1.5 kHz y 3.5 kHz",
+          "Tocar con pistas de fondo, pop/rock o en salas ruidosas sin audífonos"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Desk / Table EQ (Roland)",
+          "Roland FP-10, Roland FP-30X, FP-60X",
+          "Recorte de resonancia grave entre 120 Hz y 300 Hz",
+          "Piano apoyado directamente sobre escritorio o mesa de madera maciza"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Wall EQ / Optimización de pared",
+          "Yamaha P-225, P-S500 y serie Clavinova",
+          "Filtro paso alto suave y atenuación de rebote trasero",
+          "Instrumento colocado a menos de 15 cm de una pared rígida"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Modo Normal / Flat (Off)",
+          "Todos los pianos de 88 y 61 teclas",
+          "Respuesta plana con rango dinámico completo (pp a ff)",
+          "Estudio de técnica clásica sobre soporte abierto en Z o mueble oficial"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre que es sound boost y table eq en pianos yamaha y roland",
-      "text": "Ajustan los graves de los altavoces internos según si tienes el piano apoyado sobre una mesa de madera maciza (que amplifica graves) o sobre un soporte en Z abierto al aire. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Comparativa técnica de modos DSP de altavoces en pianos portátiles Yamaha y Roland"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar que es sound boost y table eq en pianos yamaha y roland en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Pasos para configurar la ecualización según la ubicación de tu teclado"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Activar el modo de escritorio en Roland FP-10 y FP-30X",
+          "text": "En el **Roland FP-10**, mantén presionado el botón **Function** y pulsa la tecla **Do#2 (C#2)** para habilitar el ajuste de escritorio, o **Do2 (C2)** para volver al modo en soporte abierto. En el **Roland FP-30X**, desliza el interruptor físico o usa la app **Roland Piano App** para alternar el icono de mesa."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Alternar Sound Boost en el Yamaha P-145",
+          "text": "Pulsa directamente el botón dedicado **SOUND BOOST** en el panel frontal derecho del **Yamaha P-145** (el LED indicador se encenderá) cuando necesites proyección extra, o apágalo para recuperar la curva dinámica natural durante tus ejercicios de articulación."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Comprobar que la corrección se desactive al usar auriculares",
+          "text": "Ten presente que el ecualizador de mesa o pared solo actúa sobre los altavoces físicos; al conectar tus cascos para seguir nuestro [checklist de práctica nocturna silenciosa en casa](/audifonos-sonido-y-practica-silenciosa/resumen-de-practica-silenciosa-como-montar-tu-estudio-nocturno-100-por-ciento-silencioso-en-casa/), el piano conmuta automáticamente a la mezcla binaural o estéreo directa."
         }
       ]
     },
     {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si estudias técnica clásica o control de matices dinámicos en un **Yamaha P-145**, mantén el botón **Sound Boost** apagado el **90 %** del tiempo. Si te acostumbras a estudiar con el compresor encendido, tus dedos aprenderán a pulsar con menos control porque el procesador sube artificialmente el volumen de las notas flojas.",
+      "title": "Consejo de profesor sobre el estudio de dinámica"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando que es sound boost y table eq en pianos yamaha y roland en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Dudas entre la proyección acústica de los altavoces de 22W totales del Roland FP-30X o el diseño ultracompacto del Yamaha P-145 para tu escritorio? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre que es sound boost y table eq en pianos yamaha y roland?",
-      "a": "Ajustan los graves de los altavoces internos según si tienes el piano apoyado sobre una mesa de madera maciza (que amplifica graves) o sobre un soporte en Z abierto al aire. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿El modo Table EQ o Wall EQ afecta el sonido cuando conecto los audífonos?",
+      "a": "No. Los filtros Wall EQ y Table EQ están programados para corregir exclusivamente la salida de los altavoces internos frente a rebotes físicos de la habitación. En cuanto insertas un conector en la toma PHONES, el circuito deriva la señal limpia con simulación acústica espacial directamente hacia tus auriculares."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿El piano guarda el ajuste de Sound Boost o Table EQ al apagarlo?",
+      "a": "En el Yamaha P-145 el ajuste de Sound Boost se reinicia al modo estándar de concierto al apagar el interruptor principal para proteger la fidelidad dinámica en la siguiente sesión. En cambio, en el Roland FP-30X puedes guardar la preferencia del modo escritorio en la memoria del sistema."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Cómo logro un efecto similar a Sound Boost en un teclado Yamaha PSR-E383 de 61 teclas?",
+      "a": "Abre la función Master EQ manteniendo pulsado el botón de función o entrando al menú en la pantalla LCD y selecciona el perfil Boost o Bright. Esto aplica una curva de ganancia muy similar que destaca las frecuencias medias en los altavoces de 2.5W + 2.5W del teclado."
     }
   ],
   "related": [
-    "/audifonos-sonido-y-practica-silenciosa/",
-    "/audifonos-sonido-y-practica-silenciosa/a-que-hora-de-la-noche-es-seguro-practicar-con-piano-digital-y-audifonos-en-un-edificio/",
-    "/audifonos-sonido-y-practica-silenciosa/como-practicar-piano-con-una-pista-de-acompanamiento-del-celular-escuchando-ambos-por-los-audifonos/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/audifonos-sonido-y-practica-silenciosa/como-enrollar-el-cable-de-3-metros-de-los-audifonos-con-el-metodo-over-under-de-estudio/",
+    "/audifonos-sonido-y-practica-silenciosa/por-que-no-funcionan-los-audifonos-con-conector-usb-o-usb-c-en-el-puerto-usb-del-piano/",
+    "/audifonos-sonido-y-practica-silenciosa/resumen-de-practica-silenciosa-como-montar-tu-estudio-nocturno-100-por-ciento-silencioso-en-casa/",
+    "/audifonos-sonido-y-practica-silenciosa/para-que-sirve-entonces-el-bluetooth-audio-de-mi-piano-digital-roland-o-casio/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-es-la-funcion-sound-boost-o-wall-eq-cuando-tocas-sin-audifonos.webp"
 }

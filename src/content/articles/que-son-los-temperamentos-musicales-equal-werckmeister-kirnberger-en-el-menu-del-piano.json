@@ -4,161 +4,116 @@
   "path": "/solucion-de-problemas-y-configuracion/que-son-los-temperamentos-musicales-equal-werckmeister-kirnberger-en-el-menu-del-piano/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es el ajuste de temperamento en un piano digital",
   "title": "Para Qué Sirve el Ajuste de Temperamento (Temperament: Equal vs Pure Major vs Werckmeister) y Por Qué Dejarlo en 'Equal'",
-  "seoTitle": "Para Qué Sirve el Ajuste de Temperamento (Temperament | Guía de Pianos",
-  "metaDescription": "Para Qué Sirve el Ajuste de Temperamento (Temperament: Equal vs Pure Major vs Werckmeister) y Por Qué Dejarlo en 'Equal': El Temperamento Igual (Equal Temperament, valor por defecto 1) es el estándar moderno para que todas las tonalidades suenen afinadas; los demás son solo para música barroca histórica. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "El Temperamento Igual (Equal Temperament, valor por defecto 1) es el estándar moderno para que todas las tonalidades suenen afinadas; los demás son solo para música barroca histórica.",
-  "quickAnswer": "Sobre que es el ajuste de temperamento en un piano digital: El Temperamento Igual (Equal Temperament, valor por defecto 1) es el estándar moderno para que todas las tonalidades suenen afinadas; los demás son solo para música barroca histórica. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
+  "seoTitle": "Para Qué Sirve el Ajuste de Temperamento (Temperament: Equal vs Pure Major vs Werckmeister) y Por Qué Dejarlo en 'Equal' | guiadepianos.com",
+  "metaDescription": "¿Sabes qué es el ajuste de temperamento en un piano digital? Compara Equal, Pure Major, Werckmeister y Kirnberger, y entiende por qué usar Equal (Igual).",
+  "excerpt": "Exploramos para qué sirven los temperamentos históricos (Werckmeister, Kirnberger, Meantone y Pure Major) ocultos en el menú de tu piano digital y por qué Equal es el estándar actual.",
+  "quickAnswer": "El **ajuste de temperamento** de un piano digital define la fórmula matemática con la que se divide la octava en **12 semitonos**. Mientras que el **Temperamento Igual (Equal)** reparte cada semitono en **100 cents** exactos para poder tocar en cualquier tonalidad sin desafinaciones, los temperamentos históricos (**Pure Major**, **Werckmeister** o **Kirnberger**) alteran microtonalmente ciertos intervalos para interpretar música barroca o coral en una tonalidad raíz específica.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Eye-level realistic lifestyle photograph in a sunlit modern apartment: Home digital piano and keyboard tutorial illustrating Para Qué Sirve el Ajuste de Temperamento (Temperament: Equal vs Pure Major vs Werckmeister) y Por Qué Dejarlo en 'Equal': El Temperamento Igual (Equal Temperament, valor por defecto 1) es el estándar moderno para que todas las tonalidades suenen afinadas; los demás son solo para música barroca histórica., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Para Qué Sirve el Ajuste de Temperamento (Temperament: Equal vs Pure Major vs Werckmeister) y Por Qué Dejarlo en 'Equal'' (que es el ajuste de temperamento en un piano digital) for guiadepianos.com, featuring equipment in warm sand beige with matte black hardware, in a bright family home interior with clean architectural lines, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Para Qué Sirve el Ajuste de Temperamento (Temperament: Equal vs Pure Major vs Werckmeister) y Por Qué Dejarlo en 'Equal'"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **que es el ajuste de temperamento en un piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. El Temperamento Igual (Equal Temperament, valor por defecto 1) es el estándar moderno para que todas las tonalidades suenen afinadas; los demás son solo para música barroca histórica."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Solucion De Problemas Y Configuracion](/solucion-de-problemas-y-configuracion/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Mantienes presionado el botón **FUNCTION** en tu **Casio Privia PX-S1100**, **Roland FP-10** o **Roland FP-30X** mientras intentas cambiar la reverberación o el brillo del sonido pero, por error, pulsas una de las teclas asignadas a la escala del sistema. Minutos después tocas una canción en **Do Mayor** y suena extrañamente dulce, pero cuando pasas a un acorde con sostenidos o bemoles —como **Do# Mayor**, **Fa# Menor** o **La bemol Mayor**— el piano suena escandalosamente desafinado, como si un piano acústico viejo llevara veinte años sin ver a un afinador. Acabas de cambiar sin darte cuenta el temperamento de la escala. Entender **qué es el ajuste de temperamento en un piano digital** te ahorrará horas de confusión y te mostrará por qué el **99.9 %** del tiempo debes dejarlo configurado en **Equal (Temperamento Igual)**. Explora más funciones ocultas en nuestro [portal de solución de problemas y configuración](/solucion-de-problemas-y-configuracion/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: que es el ajuste de temperamento en un piano digital"
+      "text": "Por qué existe el menú Temperament: de los 100 cents del Temperamento Igual a las escalas barrocas"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **que es el ajuste de temperamento en un piano digital**:"
+      "text": "En la acústica física existe una paradoja matemática: si afinas las terceras mayores y las quintas de un teclado siguiendo proporciones armónicas puras (como se hacía en los clavecines y órganos de los siglos XVI al XVIII), los acordes de una tonalidad concreta como **Do Mayor** suenan con una pureza cristalina y sin ningún batimiento acústico, pero las tonalidades lejanas con muchos sostenidos acumulan un error de hasta **30 o 40 cents** (la llamada *quinta del lobo*) que las vuelve intocables. Para resolverlo, el estándar moderno adoptó el **Temperamento Igual (Equal Temperament)**, que divide la octava de **1200 cents** en **12 semitonos idénticos de 100 cents exactos** cada uno. Así puedes modular libremente a cualquiera de las 12 tonalidades mayores o menores en un **Yamaha P-145**, **Roland FP-30X** o **Casio Privia PX-S1100**. Si quieres evitar activar estos menús a ciegas, te recomendamos leer [cómo funcionan las confirmaciones auditivas del modo Function en pianos sin pantalla](/solucion-de-problemas-y-configuracion/por-que-suenan-campanitas-o-voces-al-pulsar-las-teclas-mientras-mantengo-presionado-el-boton-function/) y conocer detalles del motor acústico como [por qué tu piano digital reproduce el sonido físico de los fieltros (Damper Noise)](/solucion-de-problemas-y-configuracion/por-que-se-oye-un-leve-soplido-de-aire-o-fieltro-al-pisar-el-pedal-en-voces-de-piano-de-gama-media/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: que es el ajuste de temperamento en un piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Nombre en el menú (Temperament)",
+        "Diferencia en cents respecto a Equal",
+        "Cómo suenan los acordes al tocar",
+        "Cuándo se debe usar realmente"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "El Temperamento Igual (Equal Temperament, valor por defecto 1) es el estándar moderno para que todas las tonalidades suenen afinadas; los demás son solo para música barroca histórica.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Equal (Temperamento Igual - Valor 01/Default)",
+          "0 cents (100 cents exactos por cada semitono)",
+          "Equilibrado y homogéneo en las 12 tonalidades mayores y menores",
+          "Siempre (99.9 % del repertorio: clásico moderno, pop, jazz, rock, estudio diario y clases)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Pure Major / Pure Minor (Entonación Justa)",
+          "Tercera mayor a -13.7 cents (386.3 cents) y tercera menor a +15.6 cents",
+          "Armonía perfecta sin vibración en la tonalidad raíz elegida, pero muy desafinado al cambiar de tono",
+          "Práctica coral a capela o acordes estáticos con sonido de órgano de iglesia en una sola tonalidad"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Werckmeister III / Kirnberger III (Buen Temperamento)",
+          "Quintas y terceras ajustadas entre -4 y +10 cents según la nota",
+          "Las tonalidades con pocos sostenidos suenan cálidas y cada tonalidad tiene un color emocional distinto",
+          "Interpretación histórica de J.S. Bach (El Clave Bien Temperado) con voces de Harpsichord (Clave) u Organ"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Pythagorean / Meantone / Arabic",
+          "Desviaciones de hasta ±22 a ±50 cents (cuartos de tono en escala árabe)",
+          "Melodías monofónicas puras o intervalos orientales; los acordes occidentales de piano suenan disonantes",
+          "Melodías medievales a una sola voz (Pythagorean), música renacentista (Meantone) o maqams árabes"
         ]
-      ]
+      ],
+      "caption": "Comparativa técnica de los temperamentos incluidos en pianos digitales Roland, Casio y Yamaha"
+    },
+    {
+      "type": "h2",
+      "text": "Por qué los temperamentos históricos necesitan que definas una nota base (Temperament Base Note)"
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Diagnóstico técnico clave sobre que es el ajuste de temperamento en un piano digital",
-      "text": "El Temperamento Igual (Equal Temperament, valor por defecto 1) es el estándar moderno para que todas las tonalidades suenen afinadas; los demás son solo para música barroca histórica. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      "variant": "fabricante",
+      "text": "A diferencia del Temperamento Igual (Equal), donde no importa en qué nota empiece tu canción, todos los demás temperamentos del menú (Pure Major, Pure Minor, Kirnberger, Werckmeister o Meantone) requieren un segundo ajuste obligatorio llamado Temperament Key o Base Note (Do, Re, Mi, Fa, etc.). Si activas Pure Major con nota base en Do (C) pero tocas una pieza en Mi Mayor con sonido de clavecín, los intervalos chocarán entre sí. Por eso los fabricantes siempre restauran el temperamento a Equal cada vez que apagas y vuelves a encender el piano digital.",
+      "title": "El ajuste hermano: Temperament Base Note (Tonalidad raíz del temperamento)"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar que es el ajuste de temperamento en un piano digital en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando que es el ajuste de temperamento en un piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Cómo comprobar y devolver tu piano digital al Temperamento Igual (Equal) al instante"
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**El método universal de un segundo (Apagar y encender):** Salvo que hayas activado expresamente el guardado permanente de memoria (**Memory Backup / Auto Resume**), tanto en el **Roland FP-10**, **Roland FP-30X** como en el **Casio Privia PX-S1100**, apagar el piano con el botón **Power** y volver a encenderlo devuelve automáticamente el temperamento al estándar **Equal (Igual)** y la afinación maestra a **440.0 Hz**.",
+        "**En Casio Privia PX-S1100 y PX-S3100 por teclado:** Mantén presionado el sensor táctil **FUNCTION** y pulsa la tecla correspondiente a **Temperament Type** (en la octava grave asignada a escala) o selecciona el valor **01 (Equal)** usando la aplicación gratuita **Casio Music Space** desde la pantalla de tu tablet o celular conectado por USB o mediante el adaptador **WU-BT10**.",
+        "**En Roland FP-10 y Roland FP-30X:** Conecta tu smartphone por Bluetooth MIDI a la app **Roland Piano App**, entra en la pestaña de ajustes de afinación (**Master Tuning / Temperament**) y verifica que esté seleccionado **Equal** en lugar de **Just Major**, **Kirnberger** o **Werckmeister**.",
+        "**Si cambiaste a Equal y aún suena desafinado respecto a un video de YouTube:** Revisa que la función **Transpose** esté en **0** y que la afinación maestra (**Master Tuning / A4**) esté fijada en **440.0 Hz** (y no en **442 Hz** o **432 Hz**)."
       ]
     },
     {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "cta",
+      "text": "¿Quieres comparar cómo suenan los armónicos reales de cola del Yamaha P-145 frente al modelado SuperNATURAL del Roland FP-10 y FP-30X? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre que es el ajuste de temperamento en un piano digital?",
-      "a": "El Temperamento Igual (Equal Temperament, valor por defecto 1) es el estándar moderno para que todas las tonalidades suenen afinadas; los demás son solo para música barroca histórica. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿En qué temperamento debo dejar mi piano digital para estudiar y tocar canciones normales?",
+      "a": "Para que siempre suene afinado en cualquier canción, estilo o método de aprendizaje (clásico, pop, jazz o bandas sonoras), debes dejarlo invariablemente en Equal (Temperamento Igual). Es el único sistema en el que los 12 semitonos miden exactamente 100 cents y permiten tocar en cualquier tonalidad."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Cuál es la diferencia entre Temperament y Master Tuning (440 Hz vs 442 Hz)?",
+      "a": "El ajuste Temperament mantiene el La central (A4) en 440 Hz pero modifica ligeramente la distancia en cents entre las demás notas de la octava (las terceras y quintas). En cambio, Master Tuning sube o baja todas las 88 teclas por igual en hercios (por ejemplo, de 440.0 Hz a 442.0 Hz) manteniendo el temperamento igual intacto."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Cuándo vale la pena probar el temperamento Werckmeister o Kirnberger en mi piano digital?",
+      "a": "Cuando selecciones la voz Harpsichord (Clavecín) o Pipe Organ (Órgano de tubos) para tocar obras de Johann Sebastian Bach, Haendel o Couperin. Elegir Werckmeister III o Kirnberger III recrea fielmente la sonoridad histórica de los instrumentos de teclado del siglo XVIII."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/",
-    "/solucion-de-problemas-y-configuracion/como-bloquear-el-panel-panel-lock-en-el-casio-privia-px-s1100-para-no-tocar-botones-tactiles-por-error/",
-    "/solucion-de-problemas-y-configuracion/como-activar-y-ajustar-el-punto-de-division-split-point-en-tu-teclado-o-piano/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/solucion-de-problemas-y-configuracion/por-que-el-volumen-de-mi-celular-conectado-por-aux-in-o-bluetooth-suena-mas-fuerte-que-el-piano/",
+    "/solucion-de-problemas-y-configuracion/por-que-suenan-campanitas-o-voces-al-pulsar-las-teclas-mientras-mantengo-presionado-el-boton-function/",
+    "/solucion-de-problemas-y-configuracion/que-hacer-si-el-conector-del-cargador-dc-trasero-hace-falso-contacto-al-mover-el-cable/",
+    "/solucion-de-problemas-y-configuracion/por-que-se-oye-un-leve-soplido-de-aire-o-fieltro-al-pisar-el-pedal-en-voces-de-piano-de-gama-media/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-son-los-temperamentos-musicales-equal-werckmeister-kirnberger-en-el-menu-del-piano.webp"
 }

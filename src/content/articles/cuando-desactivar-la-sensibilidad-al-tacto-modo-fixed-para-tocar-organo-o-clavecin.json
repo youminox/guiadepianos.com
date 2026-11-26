@@ -4,161 +4,114 @@
   "path": "/sensacion-al-tocar-y-tipos-de-tecla/cuando-desactivar-la-sensibilidad-al-tacto-modo-fixed-para-tocar-organo-o-clavecin/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cuando usar sensibilidad fija fixed en piano digital",
   "title": "Por Qué al Tocar Sonidos de Órgano de Iglesia o Clavecín Barroco Conviene Poner la Sensibilidad en 'Fixed'",
-  "seoTitle": "Por Qué al Tocar Sonidos de Órgano de Iglesia o Clavecín Barroco Conviene Poner la Sensibilidad en 'Fixed' | Guía de Pianos",
-  "metaDescription": "Por Qué al Tocar Sonidos de Órgano de Iglesia o Clavecín Barroco Conviene Poner la Sensibilidad en 'Fixed': En los órganos de tubos y clavecines históricos reales el volumen no cambiaba por la fuerza del dedo; el modo Fixed iguala todas las notas a un volumen constante. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "En los órganos de tubos y clavecines históricos reales el volumen no cambiaba por la fuerza del dedo; el modo Fixed iguala todas las notas a un volumen constante.",
-  "quickAnswer": "Sobre cuando usar sensibilidad fija fixed en piano digital: En los órganos de tubos y clavecines históricos reales el volumen no cambiaba por la fuerza del dedo; el modo Fixed iguala todas las notas a un volumen constante. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué al Tocar Sonidos de Órgano de Iglesia o Clavecín Barroco Conviene Poner la Sensibilidad en 'Fixed' | guiadepianos.com",
+  "metaDescription": "Descubre cuándo usar sensibilidad fija (Fixed) en tu piano digital y por qué los sonidos de órgano tubular y clavecín barroco exigen volumen constante.",
+  "excerpt": "Explicamos la mecánica acústica del clavecín de cuerda pulsada y del órgano de tubos para entender por qué desactivar la sensibilidad al tacto mejora tu articulación en repertorio barroco y litúrgico.",
+  "quickAnswer": "Conviene activar la sensibilidad fija (**Fixed** u **Off**) al interpretar piezas de **órgano de iglesia**, **órgano Hammond** o **clavecín barroco**, así como al grabar pistas MIDI de sintetizador que requieran volumen uniforme. En los instrumentos históricos reales, las válvulas de aire y los plectros que pellizcan las cuerdas producen siempre la misma intensidad sonora sin importar la fuerza del dedo.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Macro close-up shot with shallow depth of field (85mm f/2.8 lens): Home digital piano and keyboard tutorial illustrating Por Qué al Tocar Sonidos de Órgano de Iglesia o Clavecín Barroco Conviene Poner la Sensibilidad en 'Fixed': En los órganos de tubos y clavecines históricos reales el volumen no cambiaba por la fuerza del dedo; el modo Fixed iguala todas las notas a un volumen constante., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, warm evening LED music stand lamp light for silent headphone practice. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Por Qué al Tocar Sonidos de Órgano de Iglesia o Clavecín Barroco Conviene Poner la Sensibilidad en 'Fixed'' (cuando usar sensibilidad fija fixed en piano digital) for guiadepianos.com, featuring equipment in matte charcoal black with brushed aluminum accents, on a clean stone countertop with neatly arranged accessories, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué al Tocar Sonidos de Órgano de Iglesia o Clavecín Barroco Conviene Poner la Sensibilidad en 'Fixed'"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **cuando usar sensibilidad fija fixed en piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. En los órganos de tubos y clavecines históricos reales el volumen no cambiaba por la fuerza del dedo; el modo Fixed iguala todas las notas a un volumen constante."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Sensacion Al Tocar Y Tipos De Tecla](/sensacion-al-tocar-y-tipos-de-tecla/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Seleccionas el sonido de clavecín (*Harpsichord*) o de órgano litúrgico (*Pipe Organ*) en tu teclado para ensayar una invención de Bach, pero a los pocos compases notas que las notas tocadas con tus dedos cuarto y quinto suenan apagadas y desiguales. Esa pérdida de volumen en las voces internas ocurre porque el teclado sigue aplicando una curva dinámica de piano a instrumentos históricos que jamás funcionaron por percusión de martillos, por lo que comprender [qué significa Touch Response o sensibilidad a la velocidad](/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-sensibles-al-tacto-touch-response-o-velocity-sensitive/) incluye también saber exactamente cuándo apagarla."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: cuando usar sensibilidad fija fixed en piano digital"
+      "text": "Por qué el clavecín y el órgano real no responden a la fuerza del golpe"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **cuando usar sensibilidad fija fixed en piano digital**:"
+      "text": "El piano nació a principios del siglo XVIII bajo el nombre de *pianoforte* precisamente porque sus antecesores eran incapaces de variar el volumen según la fuerza del dedo. En un **clavecín barroco**, al bajar la tecla sube una pieza vertical de madera llamada martinete (*jack*) equipada con una pequeña púa o plectro que **pellizca la cuerda** al pasar; ya sea que hundas la tecla con delicadeza o de un manotazo, el plectro dobla la cuerda exactamente la misma distancia y produce el mismo volumen. De igual modo, en un **órgano tubular de iglesia** o en un **órgano electromecánico Hammond**, la tecla solo abre una válvula de paso de aire a presión constante o cierra un contacto eléctrico: los matices de volumen se controlan con registros o con un pedal de expresión, nunca golpeando más fuerte el teclado."
+    },
+    {
+      "type": "h2",
+      "text": "Ventaja técnica del modo Fixed al estudiar articulación barroca en teclas pesadas"
+    },
+    {
+      "type": "p",
+      "text": "Cuando interpretas polifonía barroca en un piano digital de **88 teclas** contrapesadas —como [el sistema Smart Scaled Hammer Action del Casio Privia PX-S1100](/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-teclado-smart-scaled-hammer-action-de-casio-privia/), el **Yamaha P-145** o el **Roland FP-30X**—, el peso de los martillos puede jugarte en contra si el sonido elegido sigue respondiendo a la velocidad. Al activar el modo **Fixed (sensibilidad fija)**, todas las notas se disparan a un valor MIDI constante (habitualmente entre **64 y 100**). Esto transforma por completo tu estudio: al no poder acentuar una nota golpeándola más fuerte, te ves obligado a crear el acento mediante la **articulación y el silencio previo** (*agógica*), prestando máxima atención al momento en que sueltas la tecla gracias a [el peso de retorno (upweight) de la tecla](/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-peso-de-retorno-upweight-y-por-que-importa-para-que-la-tecla-no-se-sienta-lenta/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: cuando usar sensibilidad fija fixed en piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Sonido o escenario de práctica",
+        "Ajuste de sensibilidad recomendado",
+        "Razón técnica y musical"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "En los órganos de tubos y clavecines históricos reales el volumen no cambiaba por la fuerza del dedo; el modo Fixed iguala todas las notas a un volumen constante.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Piano de Cola (Grand Piano) y Piano Eléctrico (Rhodes/Wurlitzer)",
+          "Medium / Normal (Activa)",
+          "Son instrumentos de cuerda o varilla percutida; la velocidad define el timbre y volumen"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Órgano de Iglesia (Pipe Organ) y Órgano de Jazz (Tonewheel)",
+          "Fixed / Off (Fija)",
+          "Las válvulas de aire y contactos reales suenan al 100 % apenas bajan unos milímetros"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Clavecín Barroco (Harpsichord) y Clavinet en modo clásico",
+          "Fixed / Off (Fija)",
+          "La cuerda pulsada por plectro mantiene una amplitud sonora uniforme en todas las voces"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Grabación MIDI de bajos sintetizados o percusión en iPad/DAW",
+          "Fixed (ajustada a velocidad 100–110)",
+          "Evita tener que editar manualmente notas débiles en el secuenciador tras grabar"
         ]
+      ],
+      "caption": "Instrumentos y situaciones donde debes activar o desactivar el modo Fixed"
+    },
+    {
+      "type": "h2",
+      "text": "Otros tres usos prácticos del modo Fixed en estudio diario y producción MIDI"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**Control de sintetizadores virtuales (VST) por USB-MIDI:** Si conectas tu **Yamaha PSR-E383** o tu **Roland FP-10** al iPad o computador para tocar emulaciones de órganos clásicos o sintetizadores monofónicos que no ignoran la velocidad por defecto, poner el teclado en *Fixed* evita caídas bruscas de volumen.",
+        "**Auditoría de precisión rítmica en pasajes rápidos:** Muchos profesores piden al alumno tocar un estudio difícil de Czerny o Hanon durante cinco minutos en modo *Fixed*; al sonar todas las notas al mismo volumen, cualquier dedo que llegue tarde o se quede pegado queda expuesto de inmediato.",
+        "**Mezcla de capas (Dual / Layer) con cuerdas de fondo:** Si combinas piano con un colchón de cuerdas (*Strings*) en modelos de **256 notas de polifonía** como el **Roland FP-30X**, una sensibilidad fija o suave evita que las cuerdas desaparezcan cuando tocas un pasaje *pianissimo*."
       ]
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de profesor de piano sobre cuando usar sensibilidad fija fixed en piano digital",
-      "text": "En los órganos de tubos y clavecines históricos reales el volumen no cambiaba por la fuerza del dedo; el modo Fixed iguala todas las notas a un volumen constante. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
-    },
-    {
-      "type": "h2",
-      "text": "Guía paso a paso para aplicar cuando usar sensibilidad fija fixed en piano digital en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
+      "text": "En teclados portátiles como el Yamaha PSR-E383 y en pianos digitales conectados a sus aplicaciones oficiales (Smart Pianist, Roland Piano App o Casio Music Space), no solo puedes activar el modo Fixed, sino también elegir qué valor exacto de velocidad MIDI (entre 1 y 127) enviará el teclado en cada pulsación para que no suene estridente en tus audífonos.",
+      "title": "Ajusta el volumen interno del modo Fixed para no saturar tus oídos"
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando cuando usar sensibilidad fija fixed en piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Buscas un piano digital o teclado con sonidos auténticos de órgano, clavecín y piano de concierto? Consulta a nuestro Asesor IA o revisa la disponibilidad en tiempo real de los modelos recomendados en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre cuando usar sensibilidad fija fixed en piano digital?",
-      "a": "En los órganos de tubos y clavecines históricos reales el volumen no cambiaba por la fuerza del dedo; el modo Fixed iguala todas las notas a un volumen constante. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Mi piano digital cambia solo a modo Fixed cuando elijo el sonido de órgano?",
+      "a": "En pianos digitales dedicados como el Yamaha P-145 o el Roland FP-30X, los presets internos de Pipe Organ y Harpsichord ya vienen programados para ignorar o reducir casi a cero la variación de velocidad. Sin embargo, si usas sonidos externos por MIDI o teclados multipropósito, activar Fixed garantiza uniformidad total."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Debo estudiar todas las obras de Bach en modo Fixed en mi piano digital?",
+      "a": "No. Para las obras de Bach escritas para clave o clavicordio que hoy se estudian como repertorio pianístico en conservatorio, los profesores suelen pedir tocar con el sonido de piano normal y sensibilidad en Medium para trabajar el fraseo dinámico moderno, reservando el modo Fixed para práctica de articulación pura."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué valor MIDI entre 1 y 127 es el mejor al configurar la velocidad fija?",
+      "a": "Para un sonido equilibrado que no fatigue el oído ni sature los altavoces integrados, el valor ideal de velocidad fija (Fixed Velocity) se sitúa entre 80 y 95 sobre la escala de 127. Un valor de 127 constante sonaría excesivamente duro y metálico."
     }
   ],
   "related": [
-    "/sensacion-al-tocar-y-tipos-de-tecla/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-teclado-smart-scaled-hammer-action-de-casio-privia/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-sensibles-al-tacto-touch-response-o-velocity-sensitive/",
     "/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-semicontrapesadas-semi-weighted-y-como-se-sienten/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/como-ajustar-la-curva-de-sensibilidad-touch-sensitivity-soft-medium-hard-fixed/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-peso-de-retorno-upweight-y-por-que-importa-para-que-la-tecla-no-se-sienta-lenta/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/cuando-desactivar-la-sensibilidad-al-tacto-modo-fixed-para-tocar-organo-o-clavecin.webp"
 }

@@ -4,161 +4,126 @@
   "path": "/primer-piano-o-teclado/que-es-la-funcion-smart-chord-o-auto-chord-en-teclados-de-61-teclas/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es smart chord acompanamiento automatico teclado",
   "title": "Cómo Funciona el Acompañamiento de Acordes con Un Solo Dedo (Smart Chord / Fingered) en Teclados de 61 Teclas",
-  "seoTitle": "Cómo Funciona el Acompañamiento de Acordes con Un Solo Dedo (Smart Chord / Fingered) en Teclados de 61 Teclas | Guía de Pianos",
-  "metaDescription": "Cómo Funciona el Acompañamiento de Acordes con Un Solo Dedo (Smart Chord / Fingered) en Teclados de 61 Teclas: Permite tocar acordes mayores, menores y séptimas completos con la mano izquierda pulsando solo 1 o 2 teclas mientras la derecha lleva la melodía principal. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Permite tocar acordes mayores, menores y séptimas completos con la mano izquierda pulsando solo 1 o 2 teclas mientras la derecha lleva la melodía principal.",
-  "quickAnswer": "Sobre que es smart chord acompanamiento automatico teclado: Permite tocar acordes mayores, menores y séptimas completos con la mano izquierda pulsando solo 1 o 2 teclas mientras la derecha lleva la melodía principal. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Funciona el Acompañamiento de Acordes con Un Solo Dedo (Smart Chord / Fingered) en Teclados de 61 Teclas | guiadepianos.com",
+  "metaDescription": "Entiende qué es Smart Chord y el acompañamiento automático en un teclado de 61 teclas, cómo se diferencia del modo Fingered y cuándo usarlo al empezar.",
+  "excerpt": "Guía práctica sobre los modos de acompañamiento automático en teclados portátiles como el Yamaha PSR-E383: diferencias entre Smart Chord, Single Finger y Fingered para tocar canciones completas.",
+  "quickAnswer": "La función **Smart Chord** (en teclados **Yamaha como el PSR-E383**) o **Auto Chord** divide las **61 teclas** en dos zonas y permite disparar acordes completos de banda (bajo, batería y guitarra) pulsando **una sola tecla con la mano izquierda**. A diferencia del modo antiguo *Single Finger*, **Smart Chord** calcula automáticamente si el acorde debe sonar mayor, menor o disminuido según la tonalidad que le indiques antes de empezar.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Macro close-up shot with shallow depth of field (85mm f/2.8 lens): Home digital piano and keyboard tutorial illustrating Cómo Funciona el Acompañamiento de Acordes con Un Solo Dedo (Smart Chord / Fingered) en Teclados de 61 Teclas: Permite tocar acordes mayores, menores y séptimas completos con la mano izquierda pulsando solo 1 o 2 teclas mientras la derecha lleva la melodía principal., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, crisp bright editorial studio lighting with neutral warm oak tones. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Macro texture and build-quality detail shot with shallow depth of field: realistic scene illustrating 'Cómo Funciona el Acompañamiento de Acordes con Un Solo Dedo (Smart Chord / Fingered) en Teclados de 61 Teclas' (que es smart chord acompanamiento automatico teclado) for guiadepianos.com, featuring equipment in olive sage green with anodized silver accents, in a well-organized domestic utility area with natural plants nearby, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Funciona el Acompañamiento de Acordes con Un Solo Dedo (Smart Chord / Fingered) en Teclados de 61 Teclas"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **que es smart chord acompanamiento automatico teclado** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Permite tocar acordes mayores, menores y séptimas completos con la mano izquierda pulsando solo 1 o 2 teclas mientras la derecha lleva la melodía principal."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Primer Piano O Teclado](/primer-piano-o-teclado/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Uno de los mayores obstáculos durante el primer mes frente a un teclado consiste en coordinar tres o cuatro dedos de la mano izquierda para cambiar de acorde a tiempo mientras la mano derecha intenta no perder el hilo de la melodía. Para evitar que el alumno abandone frustrado antes de disfrutar de su primera canción completa, los teclados portátiles de **61 teclas** como el **Yamaha PSR-E383** integran sistemas de acompañamiento asistido: los modos **Smart Chord** y **Fingered**. Entender cómo funciona cada uno te permitirá sonar como una banda completa desde la primera tarde en tu [primer piano o teclado](/primer-piano-o-teclado/) sin sacrificar tu progreso técnico."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: que es smart chord acompanamiento automatico teclado"
+      "text": "Qué ocurre a la izquierda de la tecla F#2 cuando activas ACMP y Smart Chord"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **que es smart chord acompanamiento automatico teclado**:"
+      "text": "Cuando presionas el botón **ACMP (Accompaniment On/Off)** en un **Yamaha PSR-E383**, el procesador divide virtualmente las **61 teclas** en dos zonas independientes a la altura del punto de división predeterminado en **F#2 (la tecla número 19 contando desde la izquierda)**. Todo lo que toques a la derecha de **F#2** suena como piano o el instrumento solista elegido, mientras que las **19 teclas graves de la izquierda** dejan de sonar como notas sueltas y pasan a controlar al grupo de acompañamiento (batería, bajo eléctrico, guitarra rítmica y cuerdas). La genialidad del modo **Smart Chord** frente a los antiguos sistemas de un dedo es que tú le indicas al teclado en qué **tonalidad (Key Signature)** está escrita la canción —por ejemplo, Do Mayor o Sol Mayor— y el chip interno calcula automáticamente la armonía diatónica: basta con que pulses **una sola tecla blanca con un dedo** tras [identificar las notas por los grupos de 2 y 3 teclas negras](/primer-piano-o-teclado/como-identificar-todas-las-notas-del-piano-por-los-grupos-de-2-y-3-teclas-negras/) para que el teclado sepa por sí solo si ese grado debe sonar Mayor, menor o séptima dominante."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: que es smart chord acompanamiento automatico teclado",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Modo de acompañamiento",
+        "Cómo se ejecuta con la mano izquierda",
+        "Precisión armónica y musicalidad",
+        "Para qué etapa del aprendizaje se recomienda"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Permite tocar acordes mayores, menores y séptimas completos con la mano izquierda pulsando solo 1 o 2 teclas mientras la derecha lleva la melodía principal.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Smart Chord (Yamaha PSR-E383)",
+          "Pulsando 1 sola tecla (la nota raíz del acorde) tras fijar la tonalidad de la canción",
+          "Muy alta dentro de la tonalidad elegida; asigna mayores, menores y séptimas sin errores",
+          "Semanas 1 a 4, o para concentrarse al 100 % en una melodía difícil de la mano derecha"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Single Finger / Casio Chord",
+          "1 tecla para acorde Mayor, 2 teclas para menor, 3 teclas para séptima (sistema genérico)",
+          "Media; obliga a usar digitaciones artificiales que no coinciden con el acorde real de piano",
+          "Poco recomendable si planeas estudiar piano formal más adelante; útil solo como juego casual"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Fingered / Multi (Modo Completo)",
+          "Pulsando las 3 o 4 notas reales de la tríada o cuatríada (ej. Do - Mi - Sol para Do Mayor)",
+          "Total; reconoce más de 30 tipos de acordes, inversiones y modulaciones fuera de tonalidad",
+          "A partir del segundo mes en adelante; construye verdadera técnica y memoria muscular de piano"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre que es smart chord acompanamiento automatico teclado",
-      "text": "Permite tocar acordes mayores, menores y séptimas completos con la mano izquierda pulsando solo 1 o 2 teclas mientras la derecha lleva la melodía principal. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Comparativa técnica de modos de detección de acordes en teclados de 61 teclas"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar que es smart chord acompanamiento automatico teclado en tu piano digital o teclado"
+      "text": "Por qué y cuándo debes dar el salto de Smart Chord al modo Fingered"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "El modo **Smart Chord** es una herramienta pedagógica brillante para desarrollar el sentido del ritmo: te obliga a cambiar la nota de la mano izquierda exactamente en el tiempo **1** de cada compás para que el bajista y el baterista virtuales cambien de acorde a tiempo. Además, puedes combinarlo con el [arpegiador integrado del teclado portátil](/primer-piano-o-teclado/que-es-el-arpegiador-integrado-en-un-teclado-y-como-usarlo/) para enriquecer la textura sonora. Sin embargo, si te quedas usando un solo dedo durante meses, tu mano izquierda no aprenderá la forma física de las tríadas reales. La transición ideal consiste en aprender una canción nueva usando **Smart Chord** los primeros dos días para dominar la melodía derecha y, al tercer día, cambiar el ajuste a **Fingered** para pulsar las **3 notas completas** de cada acorde."
+    },
+    {
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "Si estás comparando un teclado de 61 teclas (como el Yamaha PSR-E383) con un piano digital contrapesado de 88 teclas (como el Yamaha P-145, el Roland FP-10 o el Casio Privia PX-S1100), ten en cuenta que los pianos de 88 teclas están diseñados para emular a un piano acústico de cola: su objetivo es que tú toques los bajos y acordes reales con tus propios dedos y peso de martillo, por lo que no incluyen botones ACMP ni Smart Chord en el panel.",
+      "title": "Diferencia de enfoque entre teclados de 61 teclas (Arrangers) y pianos de 88 teclas"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo activar y configurar Smart Chord paso a paso en tu teclado"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Paso 1: Elige el estilo rítmico y enciende la sección de acompañamiento",
+          "text": "Pulsa el botón 'Style', selecciona con el teclado numérico un ritmo acorde a tu canción (por ejemplo, 001 BritPopRock o una balada) y presiona el botón 'ACMP' para que aparezca el icono de acompañamiento activo en la pantalla LCD."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Paso 2: Pulsa el botón Smart Chord y selecciona la tonalidad de tu canción",
+          "text": "Presiona el botón dedicado 'Smart Chord' en el panel frontal. Gira o pulsa los botones '+ / -' (Yes/No) para indicar la tonalidad de la partitura o cifrado (por ejemplo, 'C' si la canción está en Do Mayor o 'Am' si está en La menor)."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "Paso 3: Activa Sync Start para que la banda entre al tocar tu primera nota",
+          "text": "Pulsa el botón 'Sync Start' (inicio sincronizado). De este modo, el teclado quedará en espera silenciosa y toda la banda arrancará en el instante exacto en que tu dedo índice o medio izquierdo pulse la primera nota a la izquierda de F#2."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Paso 4: Cambia entre las variaciones Main A/B y cierra con Ending",
+          "text": "Mientras tocas la melodía con la mano derecha, pulsa una sola tecla en la zona izquierda (Do, Fa, Sol o La) en cada cambio de compás. Presiona 'Main/Auto Fill' para que la batería haga un redoble al pasar al estribillo y 'Ending' para un final profesional."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando que es smart chord acompanamiento automatico teclado en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Revisa la disponibilidad actual del Yamaha PSR-E383 y otros teclados con acompañamiento inteligente en las tarjetas de Amazon integradas en esta página, o consulta a nuestro Asesor IA si tienes dudas antes de comprar."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre que es smart chord acompanamiento automatico teclado?",
-      "a": "Permite tocar acordes mayores, menores y séptimas completos con la mano izquierda pulsando solo 1 o 2 teclas mientras la derecha lleva la melodía principal. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿La función Smart Chord solo sirve para las canciones pregrabadas que trae el teclado de fábrica?",
+      "a": "En absoluto. Smart Chord es compatible con cualquier canción escrita dentro de una tonalidad estándar utilizando cualquier cancionero de guitarra o piano de internet. Solo necesitas mirar qué acorde suele abrir y cerrar la canción para saber su tonalidad (por ejemplo, Sol Mayor = G) e introducir esa letra en el botón Smart Chord."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Por qué no suenan los acordes cuando pulso una sola tecla con el acompañamiento encendido?",
+      "a": "Si pulsas una sola tecla en la sección izquierda teniendo activo el modo Fingered (en lugar de Smart Chord), el acompañamiento de bajo y guitarra no se activará o solo sonará la batería, porque el modo Fingered exige que presiones al menos 3 teclas simultáneas para reconocer si el acorde es Mayor o menor."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Se puede cambiar la tecla donde empieza y termina la zona de acordes de la mano izquierda?",
+      "a": "Sí. Aunque de fábrica el punto de división (Split Point) viene fijado en la tecla F#2 (tecla 19 desde la izquierda), puedes entrar al menú 'Function' del teclado, buscar la opción 'Split Point' y moverlo hacia la derecha (por ejemplo, hasta C3) si quieres disponer de más teclas para hacer inversiones de acordes con tu mano izquierda."
     }
   ],
   "related": [
-    "/primer-piano-o-teclado/",
+    "/primer-piano-o-teclado/que-significa-gm-general-midi-y-xglite-en-las-especificaciones-de-un-teclado/",
+    "/primer-piano-o-teclado/como-identificar-todas-las-notas-del-piano-por-los-grupos-de-2-y-3-teclas-negras/",
     "/primer-piano-o-teclado/que-es-el-arpegiador-integrado-en-un-teclado-y-como-usarlo/",
-    "/primer-piano-o-teclado/para-que-sirven-los-ritmos-de-bateria-en-lugar-del-metronomo-tradicional/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/primer-piano-o-teclado/como-elegir-entre-yamaha-roland-y-casio-si-es-un-regalo-sorpresa/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-es-la-funcion-smart-chord-o-auto-chord-en-teclados-de-61-teclas.webp"
 }

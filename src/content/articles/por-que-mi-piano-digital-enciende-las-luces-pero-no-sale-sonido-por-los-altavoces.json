@@ -4,161 +4,128 @@
   "path": "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-enciende-las-luces-pero-no-sale-sonido-por-los-altavoces/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "piano digital enciende pero no suena por los altavoces",
   "title": "El Piano Enciende pero No Suena por los Altavoces: Revisa Si Quedó un Adaptador de 1/4\" Metido en la Toma de Audífonos",
-  "seoTitle": "El Piano Enciende pero No Suena por los Altavoces | Guía de Pianos",
-  "metaDescription": "El Piano Enciende pero No Suena por los Altavoces: Revisa Si Quedó un Adaptador de 1/4\" Metido en la Toma de Audífonos: La causa #1 cuando un piano deja de sonar por sus bocinas es que alguien sacó los audífonos dejando el adaptador dorado de 1/4\" enchufado atrás (lo que mantiene los altavoces en modo silencio), o que Local Control está en Off. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "La causa #1 cuando un piano deja de sonar por sus bocinas es que alguien sacó los audífonos dejando el adaptador dorado de 1/4\" enchufado atrás (lo que mantiene los altavoces en modo silencio), o que Local Control está en Off.",
-  "quickAnswer": "Sobre piano digital enciende pero no suena por los altavoces: La causa #1 cuando un piano deja de sonar por sus bocinas es que alguien sacó los audífonos dejando el adaptador dorado de 1/4\" enchufado atrás (lo que mantiene los altavoces en modo silencio), o que Local Control está en Off. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "El Piano Enciende pero No Suena por los Altavoces: Revisa Si Quedó un Adaptador de 1/4\" Metido en la Toma de Audífonos | guiadepianos.com",
+  "metaDescription": "¿Tu piano digital enciende las luces pero no suena por los altavoces? Revisa si quedó un adaptador de 6.35 mm en la toma Phones o el modo Local Off.",
+  "excerpt": "Descubre por qué tu teclado o piano digital pierde el audio de sus altavoces aunque el LED de encendido esté activo: desde un adaptador de 1/4\" olvidado hasta el ajuste Local Control.",
+  "quickAnswer": "Cuando un piano digital enciende su luz LED pero no emite sonido por los altavoces internos, en más del **85 %** de los casos se debe a un adaptador de **6.35 mm (1/4\")** que quedó insertado en la salida **PHONES/OUTPUT** al retirar unos audífonos de **3.5 mm**. Ese cilindro metálico mantiene abierto el interruptor mecánico del jack y corta la señal hacia los amplificadores integrados hasta que lo extraigas por completo.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Overhead angled composition showcasing keyboard layout, music rest and accessories (35mm lens): Home digital piano and keyboard tutorial illustrating El Piano Enciende pero No Suena por los Altavoces: Revisa Si Quedó un Adaptador de 1/4\" Metido en la Toma de Audífonos: La causa #1 cuando un piano deja de sonar por sus bocinas es que alguien sacó los audífonos dejando el adaptador dorado de 1/4\" enchufado atrás (lo que mantiene los altavoces en modo silencio), o que Local Control está en Off., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Macro texture and build-quality detail shot with shallow depth of field: realistic scene illustrating 'El Piano Enciende pero No Suena por los Altavoces: Revisa Si Quedó un Adaptador de 1/4\" Metido en la Toma de Audífonos' (piano digital enciende pero no suena por los altavoces) for guiadepianos.com, featuring equipment in terracotta copper accent with matte slate body, inside a bright contemporary apartment with minimalist decor, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "El Piano Enciende pero No Suena por los Altavoces: Revisa Si Quedó un Adaptador de 1/4\" Metido en la Toma de Audífonos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **piano digital enciende pero no suena por los altavoces** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. La causa #1 cuando un piano deja de sonar por sus bocinas es que alguien sacó los audífonos dejando el adaptador dorado de 1/4\" enchufado atrás (lo que mantiene los altavoces en modo silencio), o que Local Control está en Off."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Solucion De Problemas Y Configuracion](/solucion-de-problemas-y-configuracion/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Presionas el botón de encendido de tu **Yamaha P-145**, **Roland FP-10** o **Yamaha PSR-E383**, el indicador LED se ilumina con total normalidad y deslizas el control maestro de volumen más allá de la mitad, pero al bajar un acorde solo escuchas el golpe seco del plástico y los fieltros de las teclas. Antes de pensar que la etapa de amplificación integrada de **14W** o **22W** se quemó, asómate detrás del chasis o debajo del borde frontal izquierdo: cuando un **piano digital enciende pero no suena por los altavoces**, en más del **85 %** de los reportes de soporte técnico la causa es un cilindro metálico de **6.35 mm (1/4\")** olvidado dentro de la toma **PHONES / OUTPUT** al desconectar unos audífonos la noche anterior. Puedes revisar otros diagnósticos rápidos en nuestra [guía central de solución de problemas y configuración](/solucion-de-problemas-y-configuracion/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: piano digital enciende pero no suena por los altavoces"
+      "text": "El interruptor mecánico oculto dentro del jack de 6.35 mm (1/4\") y por qué corta los altavoces"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **piano digital enciende pero no suena por los altavoces**:"
-    },
-    {
-      "type": "table",
-      "caption": "Referencias técnicas verificadas para: piano digital enciende pero no suena por los altavoces",
-      "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
-      ],
-      "rows": [
-        [
-          "Clave técnica principal",
-          "La causa #1 cuando un piano deja de sonar por sus bocinas es que alguien sacó los audífonos dejando el adaptador dorado de 1/4\" enchufado atrás (lo que mantiene los altavoces en modo silencio), o que Local Control está en Off.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
-        ],
-        [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
-        ],
-        [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
-        ]
-      ]
+      "text": "La mayoría de audífonos domésticos y de estudio (como los modelos cerrados de **47 Ω**) traen un conector nativo minijack de **3.5 mm (1/8\")** que se acopla a un adaptador estéreo TRS de **6.35 mm** para entrar en pianos como el **Yamaha P-145**, el **Alesis Recital Pro** o el **Donner DEP-20**. Al tirar del cable sin mirar el panel trasero, es sumamente habitual que el plug delgado de **3.5 mm** salga limpio y deje el barril de **6.35 mm** encajado al fondo. Dentro de ese puerto hembra existe una lengüeta mecánica de derivación (shunt switch): mientras cualquier cilindro de **6.35 mm** mantenga empujado el resorte interno, el circuito físico hacia los altavoces queda abierto. Además, si usas tu instrumento con tablets o aplicaciones educativas, conviene verificar que no hayas deshabilitado el sonido interno por teclado mediante las [combinaciones de teclas más útiles del Yamaha P-145 y P-45](/solucion-de-problemas-y-configuracion/tabla-de-combinaciones-de-teclas-mas-utiles-del-yamaha-p-145-y-p-45-imprimible/) o confundido la salida de línea al [conectar el adaptador inalámbrico Casio WU-BT10 en el Privia PX-S1100](/solucion-de-problemas-y-configuracion/como-conectar-el-adaptador-inalambrico-casio-wu-bt10-en-el-puerto-usb-tipo-a-del-privia-px-s1100/)."
     },
     {
       "type": "callout",
       "variant": "aviso",
-      "title": "Diagnóstico técnico clave sobre piano digital enciende pero no suena por los altavoces",
-      "text": "La causa #1 cuando un piano deja de sonar por sus bocinas es que alguien sacó los audífonos dejando el adaptador dorado de 1/4\" enchufado atrás (lo que mantiene los altavoces en modo silencio), o que Local Control está en Off. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      "text": "En pianos compactos como el Yamaha P-145, Roland FP-10 y Yamaha PSR-E383, la toma marcada como PHONES/OUTPUT cumple doble función: salida de audífonos y salida de línea estéreo. Si dejaste conectado un cable TRS hacia una interfaz de audio apagada o un transmisor externo, los altavoces del piano permanecerán totalmente mudos hasta retirar la clavija.",
+      "title": "Cuidado con los puertos traseros compartidos PHONES / OUTPUT"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar piano digital enciende pero no suena por los altavoces en tu piano digital o teclado"
+      "text": "Diagnóstico diferencial: adaptador olvidado vs función Speaker Off vs modo Local Control MIDI"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "type": "table",
+      "headers": [
+        "Síntoma en el piano digital",
+        "Causa técnica exacta",
+        "Modelos donde ocurre con más frecuencia",
+        "Solución inmediata"
+      ],
+      "rows": [
+        [
+          "No suenan los altavoces, pero al enchufar audífonos de 3.5 mm en la toma sí hay audio normal",
+          "Adaptador de 6.35 mm (1/4\") insertado en el puerto PHONES o interruptor de altavoz en posición Off",
+          "Yamaha P-145, Yamaha PSR-E383, Alesis Recital Pro, Donner DEP-20",
+          "Extraer el barril metálico de 6.35 mm del panel trasero o activar Speaker Control por teclado"
+        ],
+        [
+          "Hay dos tomas de audífonos frontales (3.5 mm y 6.35 mm) y los altavoces siguen silenciados",
+          "Adaptador olvidado en la segunda toma frontal o parámetro Speaker Auto Mute activo",
+          "Roland FP-30X y Casio Privia PX-S1100",
+          "Revisar ambas salidas bajo el borde izquierdo del teclado y liberar las dos tomas"
+        ],
+        [
+          "No suena ni por altavoces ni por audífonos al tocar las teclas, pero la canción Demo sí suena",
+          "Modo Local Control ajustado en OFF tras usar un programa MIDI o DAW por USB",
+          "Yamaha P-145, Roland FP-10, Casio Privia PX-S1100, Yamaha PSR-E383",
+          "Apagar y encender el piano o reactivar Local Control = ON en el menú Function"
+        ],
+        [
+          "El piano enciende el LED pero hace un chasquido débil o se apaga al subir el volumen",
+          "Fuente de alimentación DC incorrecta (voltaje o amperaje insuficiente)",
+          "Cualquier teclado conectado con un transformador genérico de 9V en vez de 12V o 16V",
+          "Conectar exclusivamente el adaptador AC original de 12V/1.5A o 16V según el fabricante"
+        ]
+      ],
+      "caption": "Causas principales por las que un piano digital enciende las luces pero no emite sonido por los altavoces"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo en 4 pasos para recuperar el sonido de los altavoces internos en menos de un minuto"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Inspecciona con linterna el panel trasero y el borde frontal inferior",
+          "text": "Pasa el dedo por la toma PHONES/OUTPUT trasera (en Yamaha P-145, Roland FP-10 o PSR-E383) o por las dos tomas frontales izquierdas (en Roland FP-30X y Casio Privia PX-S1100). Si sobresale un anillo dorado o plateado de 6.35 mm, retíralo tirando recto hacia afuera."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Haz la prueba del botón Demo o Metrónomo",
+          "text": "Pulsa el botón del metrónomo o reproduce la canción Demo integrada. Si el clic del metrónomo se escucha alto y claro por los altavoces pero las teclas siguen mudas, los altavoces funcionan perfecto y tienes el modo Local Control en OFF: apaga el piano 5 segundos y vuelve a encenderlo."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "Restaura la conmutación de altavoces (Speaker Switch) por teclado",
+          "text": "En pianos como el Yamaha P-145 o Roland FP-30X es posible forzar por comando que los altavoces queden apagados permanentemente. Mantén presionado el botón FUNCTION y pulsa la tecla asignada a Speaker Control (o haz un Factory Reset manteniendo pulsada la última tecla blanca Do8 al encender)."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Comprueba las salidas independientes L/L+R si tu piano las incluye",
+          "text": "En modelos con salidas de línea independientes de 6.35 mm como el Casio Privia PX-S1100 o el Roland FP-30X, asegúrate de no haber dejado un plug adaptador metido por error en el jack PHONES en lugar de la salida LINE OUT."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando piano digital enciende pero no suena por los altavoces en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Tu piano sigue sin emitir sonido tras revisar la toma de audífonos o necesitas un adaptador y audífonos de estudio de 47 Ω con conector roscado que nunca se quede atrapado? Consulta ahora a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre piano digital enciende pero no suena por los altavoces?",
-      "a": "La causa #1 cuando un piano deja de sonar por sus bocinas es que alguien sacó los audífonos dejando el adaptador dorado de 1/4\" enchufado atrás (lo que mantiene los altavoces en modo silencio), o que Local Control está en Off. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Por qué suena el metrónomo y la canción Demo por los altavoces pero las teclas no suenan?",
+      "a": "Porque la canción Demo y el metrónomo se envían directamente desde la memoria ROM interna al amplificador, mientras que el teclado físico puede haberse desconectado del generador de tonos si una app MIDI puso el ajuste Local Control en OFF. Apagar y encender el piano suele restaurarlo al instante."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Se daña el piano digital si dejo el adaptador de 6.35 mm metido en la salida de audífonos todo el tiempo?",
+      "a": "No daña la electrónica ni los amplificadores internos, ya que solo mantiene abierto un contacto mecánico pasivo. Sin embargo, dejar el adaptador puesto al guardar el piano en una funda o pegarlo contra la pared puede doblar el conector y quebrar las soldaduras de la placa base."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Puedo hacer que los altavoces del piano suenen aunque tenga algo conectado en la salida de audífonos?",
+      "a": "Sí. En el Roland FP-30X puedes entrar a los ajustes manteniendo presionado el botón Function para elegir si los altavoces integrados de 22W se silencian automáticamente al enchufar audífonos o si permanecen encendidos simultáneamente para monitoreo en vivo."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/",
-    "/solucion-de-problemas-y-configuracion/como-sacar-un-adaptador-de-audifonos-de-1-4-que-se-quedo-puesto-en-el-panel-trasero/",
-    "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-no-enciende-4-comprobaciones-basicas-de-corriente-y-boton-power/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/solucion-de-problemas-y-configuracion/como-conectar-el-adaptador-inalambrico-casio-wu-bt10-en-el-puerto-usb-tipo-a-del-privia-px-s1100/",
+    "/solucion-de-problemas-y-configuracion/que-hacer-si-la-rueda-de-pitch-bend-deja-el-piano-ligeramente-desafinado-calibracion-del-centro/",
+    "/solucion-de-problemas-y-configuracion/que-es-el-modo-auto-accompaniment-synchro-stop-y-intro-ending-en-teclados-de-61-teclas/",
+    "/solucion-de-problemas-y-configuracion/tabla-de-combinaciones-de-teclas-mas-utiles-del-yamaha-p-145-y-p-45-imprimible/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/por-que-mi-piano-digital-enciende-las-luces-pero-no-sale-sonido-por-los-altavoces.webp"
 }

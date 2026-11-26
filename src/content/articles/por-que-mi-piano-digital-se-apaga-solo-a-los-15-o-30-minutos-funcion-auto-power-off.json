@@ -4,161 +4,123 @@
   "path": "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-se-apaga-solo-a-los-15-o-30-minutos-funcion-auto-power-off/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "por que mi piano digital se apaga solo auto power off",
   "title": "No Es una Avería: Por Qué Tu Piano Digital Yamaha, Roland o Casio Se Apaga Solo tras 15–30 Minutos sin Tocar (Auto Power Off)",
-  "seoTitle": "No Es una Avería | Guía de Pianos",
-  "metaDescription": "No Es una Avería: Por Qué Tu Piano Digital Yamaha, Roland o Casio Se Apaga Solo tras 15–30 Minutos sin Tocar (Auto Power Off): Por normativa de ahorro energético, todos los pianos digitales vienen configurados de fábrica para apagarse solos tras 15 o 30 minutos de inactividad. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Por normativa de ahorro energético, todos los pianos digitales vienen configurados de fábrica para apagarse solos tras 15 o 30 minutos de inactividad.",
-  "quickAnswer": "Sobre por que mi piano digital se apaga solo auto power off: Por normativa de ahorro energético, todos los pianos digitales vienen configurados de fábrica para apagarse solos tras 15 o 30 minutos de inactividad. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "No Es una Avería: Por Qué Tu Piano Digital Yamaha, Roland o Casio Se Apaga Solo tras 15–30 Minutos sin Tocar (Auto Power Off) | guiadepianos.com",
+  "metaDescription": "¿Te preguntas por qué mi piano digital se apaga solo? Conoce cómo funciona el ahorro de energía Auto Power Off en Yamaha, Roland y Casio y cómo desactivarlo.",
+  "excerpt": "Si tu teclado se apaga tras 15 o 30 minutos de pausa en plena clase, no tiene un fallo eléctrico. Te enseñamos los atajos de teclado exactos para desactivar el Auto Power Off por marca.",
+  "quickAnswer": "Si tu piano digital Yamaha, Roland o Casio se apaga solo después de 15 o 30 minutos sin tocar ninguna tecla (o a los 6 minutos cuando funciona con pilas AA en modelos como el Casio Privia PX-S1100), no sufre ninguna avería eléctrica: tiene activada de fábrica la función de ahorro energético Auto Power Off. Puedes desactivarla permanentemente manteniendo pulsada la tecla más grave (A0) al encender en los Yamaha Serie P, o mediante el botón FUNCTION / app oficial en Roland, Casio y teclados Yamaha PSR.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Three-quarter editorial angle from slightly above in a bright music corner (50mm lens): Home digital piano and keyboard tutorial illustrating No Es una Avería: Por Qué Tu Piano Digital Yamaha, Roland o Casio Se Apaga Solo tras 15–30 Minutos sin Tocar (Auto Power Off): Por normativa de ahorro energético, todos los pianos digitales vienen configurados de fábrica para apagarse solos tras 15 o 30 minutos de inactividad., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, warm evening LED music stand lamp light for silent headphone practice. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'No Es una Avería: Por Qué Tu Piano Digital Yamaha, Roland o Casio Se Apaga Solo tras 15–30 Minutos sin Tocar (Auto Power Off)' (por que mi piano digital se apaga solo auto power off) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, in a clean modern garage or studio corner with slate flooring, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "No Es una Avería: Por Qué Tu Piano Digital Yamaha, Roland o Casio Se Apaga Solo tras 15–30 Minutos sin Tocar (Auto Power Off)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **por que mi piano digital se apaga solo auto power off** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Por normativa de ahorro energético, todos los pianos digitales vienen configurados de fábrica para apagarse solos tras 15 o 30 minutos de inactividad."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Solucion De Problemas Y Configuracion](/solucion-de-problemas-y-configuracion/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Estás en mitad de una clase de piano por videollamada o detienes tus manos durante **15 a 30 minutos** para anotar la digitación en tu partitura y, cuando vuelves a posar los dedos sobre tu **Yamaha P-145**, **Roland FP-10**, **Casio Privia PX-S1100** o **Yamaha PSR-E383**, el teclado está completamente muerto y con el botón de encendido apagado. Antes de pensar que el transformador de corriente se ha quemado o que tu piano nuevo tiene un defecto de fábrica en la fuente de alimentación, respira tranquilo: acabas de experimentar la función **Auto Power Off** obligatoria por normativa internacional de ahorro energético."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: por que mi piano digital se apaga solo auto power off"
+      "text": "Por Qué Todos los Pianos Modernos Vienen con 'Auto Power Off' Activado de Fábrica"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **por que mi piano digital se apaga solo auto power off**:"
+      "text": "Para poder comercializarse a nivel global —especialmente bajo las directivas europeas de diseño ecológico ErP y los estándares de eficiencia energética en Estados Unidos—, los fabricantes como **Yamaha**, **Roland**, **Casio** y **Kawai** están obligados a programar sus instrumentos para que entren en apagado automático tras un periodo determinado sin recibir pulsaciones de teclas, movimientos de pedal ni señales **MIDI**. En modelos que pueden funcionar de forma inalámbrica con baterías —como el **Casio Privia PX-S1100** o el **Yamaha PSR-E383**, que operan con **6 pilas AA**—, este temporizador es un salvavidas que evita vaciar un juego completo de baterías si te olvidas el piano encendido toda la noche. De hecho, en el **Casio PX-S1100** el sistema distingue automáticamente la fuente de energía: si está enchufado a la pared espera **4 horas (240 minutos)** antes de apagarse, pero si detecta que está funcionando con pilas AA reduce la ventana a tan solo **6 minutos** de inactividad. Puedes consultar más ajustes esenciales de tu equipo en nuestro [hub de solución de problemas y configuración de pianos digitales](/solucion-de-problemas-y-configuracion/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: por que mi piano digital se apaga solo auto power off",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Marca y Modelos de Referencia",
+        "Tiempo de Fábrica (Auto Power Off)",
+        "Atajo Exacto para Desactivarlo (Modo Siempre Encendido)"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Por normativa de ahorro energético, todos los pianos digitales vienen configurados de fábrica para apagarse solos tras 15 o 30 minutos de inactividad.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Yamaha P-145 / P-225 / P-45 (88 teclas)",
+          "30 minutos de inactividad",
+          "Con el piano apagado, mantén pulsada la primera tecla izquierda (A0 / La0) mientras presionas el botón de encendido, o usa botón FUNCTION + tecla A#0/A0 según revisión del manual"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Yamaha PSR-E383 / PSR-E373 (61 teclas)",
+          "30 minutos de inactividad",
+          "Mantén presionado el botón FUNCTION por 2 segundos hasta ver 'AutoOff' en la pantalla LCD y gira o pulsa [- / NO] hasta seleccionar 'Off' (o 'Never')"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Roland FP-10 / FP-30X (88 teclas)",
+          "30 minutos (ajustable a 10, 30, 240 min u Off)",
+          "Mantén presionado el botón FUNCTION y pulsa la tecla de configuración asignada a 'Auto Off: Off' en el registro grave, o cámbialo con un toque en Roland Piano App"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Casio Privia PX-S1100 / CDP-S160 (88 teclas)",
+          "240 min con enchufe AC / 6 min con pilas AA",
+          "Mantén presionado el botón FUNCTION y pulsa la tecla correspondiente al apagado automático (o desactívalo visualmente desde la app Casio Music Space)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Diagnóstico técnico clave sobre por que mi piano digital se apaga solo auto power off",
-      "text": "Por normativa de ahorro energético, todos los pianos digitales vienen configurados de fábrica para apagarse solos tras 15 o 30 minutos de inactividad. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Tiempo de apagado automático de fábrica y combinación exacta para desactivarlo por marca y modelo"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar por que mi piano digital se apaga solo auto power off en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Cómo Desactivar el Apagado Automático en Yamaha, Roland y Casio Paso a Paso"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "En Pianos Yamaha Serie P (Yamaha P-145 y P-225)",
+          "text": "El método más directo y universal en la serie P consiste en apagar primero el piano. Luego, mantén hundida la tecla más grave del extremo izquierdo (la primera tecla blanca, La0 / A0) y, sin soltarla, presiona el botón de encendido (Power) hasta que el piano arranque. El instrumento quedará con el Auto Power Off desactivado de forma permanente en su memoria interna (o bien puedes desactivarlo desde la app Smart Pianist)."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "En Pianos Roland Serie FP (Roland FP-10 y FP-30X)",
+          "text": "Si tienes vinculada la app gratuita Roland Piano App por Bluetooth, entra en Ajustes del Piano > Auto Off y selecciona 'Off' o '240 min'. Desde el propio teclado físico, mantén pulsado el botón FUNCTION y presiona la tecla grave indicada en la guía rápida del manual para 'Auto Off = Off'; escucharás un tono de confirmación y el ajuste quedará guardado aunque apagues el piano."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "En Pianos Casio Privia (Casio PX-S1100)",
+          "text": "Dado que el PX-S1100 utiliza una botonera táctil iluminada muy sensible, lo más cómodo es abrir la app Casio Music Space > Piano Remote Controller > Ajustes y desactivar 'Auto Power Off'. Si lo haces desde el panel, aprovecha también para configurar el bloqueo táctil automático y no alterar funciones mientras tocas."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando por que mi piano digital se apaga solo auto power off en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
       "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "text": "Cuándo Conviene Dejarlo Activado y Cuándo Apagarlo (y Qué Sí Sería una Avería Real)"
     },
     {
       "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Si utilizas el **Roland FP-30X** o el **Casio Privia PX-S1100** como sistema de altavoces **Bluetooth Audio** para escuchar música o pistas de acompañamiento mientras estudias teoría en tu escritorio, o si das clases donde pasas más de **20 minutos** explicando lectura musical sin tocar las teclas, te conviene cambiar el ajuste a **240 minutos (4 horas)** o a **Off**. Si tienes el modelo ultradelgado de Casio, te recomendamos además revisar [cómo activar el bloqueo automático del panel táctil (Panel Lock) en el Casio Privia PX-S1100](/solucion-de-problemas-y-configuracion/como-bloquear-el-panel-panel-lock-en-el-casio-privia-px-s1100-para-no-tocar-botones-tactiles-por-error/) para que un roce accidental de tu mano izquierda no apague ni cambie ajustes en mitad de una pieza. Por el contrario, ¿cómo distinguir el **Auto Power Off** normal de un problema eléctrico real? La regla es muy simple: el temporizador de ahorro de energía **jamás apaga el piano mientras estás tocando**. Cada vez que pulsas cualquier tecla o pisas el pedal de sustain, el contador interno vuelve a **0 minutos: 00 segundos**. Si tu teclado se apaga de golpe justo en el instante en que atacas un acorde fuerte con ambas manos, entonces no es la función de ahorro energético, sino una caída de tensión por pilas AA gastadas o un conector de corriente flojo. Y si acabas de estrenar tu instrumento y estás revisando que todo funcione bien, te será muy útil leer también [por qué una tecla nueva puede hacer un leve clic al bajar mientras se asienta la grasa interna del pivote](/solucion-de-problemas-y-configuracion/que-hacer-si-una-tecla-hace-un-clic-plastico-al-subir-o-bajar-en-un-piano-nuevo/)."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Importante al reproducir audio externo: si conectas un teléfono o reproductor por el jack de entrada auxiliar analógica (AUX IN / AUDIO IN) en ciertos modelos sin tocar ninguna tecla del piano durante 30 minutos, el procesador puede interpretar que el instrumento está inactivo y apagarse igual. Al transmitir por Bluetooth Audio o USB Audio, o al pulsar una sola tecla en volumen mínimo cada 25 minutos, el temporizador se reinicia.",
+      "title": "El Caso Especial de la Entrada Auxiliar (AUX IN) sin Tocar Teclas"
+    },
+    {
+      "type": "cta",
+      "text": "¿Buscas un piano digital moderno con control total desde app móvil y bajo consumo energético? Revisa las tarjetas de Amazon integradas en esta página para consultar disponibilidad actual de modelos Yamaha, Roland y Casio, o pregúntale cualquier duda técnica a nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre por que mi piano digital se apaga solo auto power off?",
-      "a": "Por normativa de ahorro energético, todos los pianos digitales vienen configurados de fábrica para apagarse solos tras 15 o 30 minutos de inactividad. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Si desactivo el Auto Power Off, el piano recuerda el ajuste cuando lo desenchufe?",
+      "a": "Sí. Tanto en el Yamaha P-145 y PSR-E383 como en el Roland FP-10/FP-30X y el Casio Privia PX-S1100, el estado de la función Auto Power Off se almacena en la memoria no volátil del sistema. No tendrás que repetir la combinación de teclas cada vez que lo enciendas."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Por qué mi teclado se apaga solo mientras estoy tocando una canción?",
+      "a": "Si el teclado se apaga exactamente en el momento en que tocas un acorde fuerte o subes el volumen por encima del 70 %, no es el Auto Power Off: se debe a que las pilas AA ya no entregan el voltaje suficiente o estás usando un adaptador de corriente genérico con menos amperios (A) de los que exige el amplificador."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Es seguro dejar mi piano digital encendido durante varias horas si desactivo el Auto Power Off?",
+      "a": "Totalmente seguro. Los pianos digitales modernos utilizan amplificación digital Clase D de alta eficiencia que consume menos de 6 a 15 vatios en reposo y no genera calor peligroso, aunque siempre es buena práctica apagarlo del botón principal al terminar el día."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/",
-    "/solucion-de-problemas-y-configuracion/como-desactivar-el-apagado-automatico-auto-power-off-en-yamaha-roland-y-casio/",
-    "/solucion-de-problemas-y-configuracion/como-limpiar-con-aire-comprimido-y-evitar-que-entre-polvo-en-los-sensores-de-las-teclas/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/solucion-de-problemas-y-configuracion/como-bloquear-el-panel-panel-lock-en-el-casio-privia-px-s1100-para-no-tocar-botones-tactiles-por-error/",
+    "/solucion-de-problemas-y-configuracion/que-hacer-si-una-tecla-hace-un-clic-plastico-al-subir-o-bajar-en-un-piano-nuevo/",
+    "/solucion-de-problemas-y-configuracion/que-es-el-ajuste-brilliance-mellow-normal-bright-en-pianos-digitales-yamaha-y-roland/",
+    "/solucion-de-problemas-y-configuracion/como-conectar-el-adaptador-inalambrico-casio-wu-bt10-en-el-puerto-usb-tipo-a-del-privia-px-s1100/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/por-que-mi-piano-digital-se-apaga-solo-a-los-15-o-30-minutos-funcion-auto-power-off.webp"
 }

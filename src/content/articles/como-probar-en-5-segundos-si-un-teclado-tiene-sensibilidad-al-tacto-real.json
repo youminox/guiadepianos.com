@@ -4,161 +4,127 @@
   "path": "/sensacion-al-tocar-y-tipos-de-tecla/como-probar-en-5-segundos-si-un-teclado-tiene-sensibilidad-al-tacto-real/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como saber si un teclado tiene sensibilidad al tacto",
   "title": "La Prueba de los 2 Dedos para Saber al Instante Si un Teclado Tiene Sensibilidad al Tacto Activada",
-  "seoTitle": "La Prueba de los 2 Dedos para Saber al Instante Si un Teclado Tiene Sensibilidad al Tacto Activada | Guía de Pianos",
-  "metaDescription": "La Prueba de los 2 Dedos para Saber al Instante Si un Teclado Tiene Sensibilidad al Tacto Activada: Presiona la misma tecla primero acariciándola muy despacio y luego con un golpe firme: si ambas veces suena exactamente al mismo volumen, carece de sensibilidad o tiene la curva en 'Fixed'. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Presiona la misma tecla primero acariciándola muy despacio y luego con un golpe firme: si ambas veces suena exactamente al mismo volumen, carece de sensibilidad o tiene la curva en 'Fixed'.",
-  "quickAnswer": "Sobre como saber si un teclado tiene sensibilidad al tacto: Presiona la misma tecla primero acariciándola muy despacio y luego con un golpe firme: si ambas veces suena exactamente al mismo volumen, carece de sensibilidad o tiene la curva en 'Fixed'. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "La Prueba de los 2 Dedos para Saber al Instante Si un Teclado Tiene Sensibilidad al Tacto Activada | guiadepianos.com",
+  "metaDescription": "Aprende cómo saber si un teclado tiene sensibilidad al tacto en 5 segundos con la prueba de los 2 dedos y descarta si está desactivada en el menú interno.",
+  "excerpt": "Método práctico paso a paso para comprobar al instante si cualquier teclado o piano digital responde a la velocidad de tus dedos, evitando falsos negativos por sonidos de órgano o ajustes en modo fijo.",
+  "quickAnswer": "Para comprobar en **5 segundos** si un teclado tiene sensibilidad al tacto, selecciona el sonido principal de piano acústico (**Voz 001**), hunde el **Do central (C4)** en cámara lenta con el índice y enseguida golpea el **Sol (G4)** con firmeza usando el meñique. Si la primera nota suena casi inaudible y opaca mientras la segunda resuena potente y brillante, el instrumento cuenta con sensores de velocidad activos.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial photography, Overhead angled composition showcasing keyboard layout, music rest and accessories (35mm lens): Home digital piano and keyboard tutorial illustrating La Prueba de los 2 Dedos para Saber al Instante Si un Teclado Tiene Sensibilidad al Tacto Activada: Presiona la misma tecla primero acariciándola muy despacio y luego con un golpe firme: si ambas veces suena exactamente al mismo volumen, carece de sensibilidad o tiene la curva en 'Fixed'., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, golden hour afternoon sunlight streaming into a cozy apartment. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Wide environmental domestic interior shot on 24mm lens: realistic scene illustrating 'La Prueba de los 2 Dedos para Saber al Instante Si un Teclado Tiene Sensibilidad al Tacto Activada' (como saber si un teclado tiene sensibilidad al tacto) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, in a well-organized domestic utility area with natural plants nearby, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "La Prueba de los 2 Dedos para Saber al Instante Si un Teclado Tiene Sensibilidad al Tacto Activada"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como saber si un teclado tiene sensibilidad al tacto** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Presiona la misma tecla primero acariciándola muy despacio y luego con un golpe firme: si ambas veces suena exactamente al mismo volumen, carece de sensibilidad o tiene la curva en 'Fixed'."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Sensacion Al Tocar Y Tipos De Tecla](/sensacion-al-tocar-y-tipos-de-tecla/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Tienes delante un teclado portátil sin manual a la vista —o acabas de encender por primera vez tu nuevo instrumento en casa— y sientes que todas las notas suenan extrañamente uniformes. Antes de pensar que el equipo vino defectuoso o que te vendieron un modelo básico sin sensores dinámicos, puedes salir de dudas en **5 segundos** aplicando una comprobación mecánica directa, sin importar [las diferencias físicas en teclados con acción de sintetizador o tipo caja](/sensacion-al-tocar-y-tipos-de-tecla/que-es-la-accion-de-sintetizador-synth-action-u-organ-style-en-teclados-de-61-teclas/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como saber si un teclado tiene sensibilidad al tacto"
-    },
-    {
-      "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como saber si un teclado tiene sensibilidad al tacto**:"
-    },
-    {
-      "type": "table",
-      "caption": "Referencias técnicas verificadas para: como saber si un teclado tiene sensibilidad al tacto",
-      "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
-      ],
-      "rows": [
-        [
-          "Clave técnica principal",
-          "Presiona la misma tecla primero acariciándola muy despacio y luego con un golpe firme: si ambas veces suena exactamente al mismo volumen, carece de sensibilidad o tiene la curva en 'Fixed'.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
-        ],
-        [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
-        ],
-        [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
-        ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre como saber si un teclado tiene sensibilidad al tacto",
-      "text": "Presiona la misma tecla primero acariciándola muy despacio y luego con un golpe firme: si ambas veces suena exactamente al mismo volumen, carece de sensibilidad o tiene la curva en 'Fixed'. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
-    },
-    {
-      "type": "h2",
-      "text": "Guía paso a paso para aplicar como saber si un teclado tiene sensibilidad al tacto en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Paso a paso: cómo ejecutar la prueba de los 2 dedos sin margen de error"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Selecciona la Voz 001 (Grand Piano) y sube el volumen al 60 %",
+          "text": "Enciende el teclado o presiona el botón 'Portable Grand / Piano' para asegurarte de estar usando el sonido principal de piano acústico de cola y no un órgano o sintetizador. Coloca la perilla o control maestro de volumen por encima de la mitad."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Hunde el Do central (C4) en cámara lenta con el dedo índice",
+          "text": "Apoya la yema del índice derecho sobre la tecla Do central y empújala hacia abajo tardando al menos 1.5 segundos en recorrer los 10 mm hasta el tope. En un teclado con sensibilidad real, la nota debe sonar como un susurro lejano o incluso quedar en silencio absoluto."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "Percute el Sol (G4) con un golpe seco del meñique o anular",
+          "text": "Sin levantar el índice del Do, deja caer con rapidez el dedo anular o meñique sobre la tecla Sol situada cuatro teclas blancas a la derecha, como si sacudieras una gota de agua."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Compara el contraste de decibelios y brillo armónico",
+          "text": "Si el Sol estalla con un timbre metálico, rico en agudos y diez veces más fuerte que el Do inicial, el teclado posee sensores dobles o triples de velocidad activos. Si ambas notas suenan al mismo volumen exacto, no hay respuesta al tacto activa en ese momento."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como saber si un teclado tiene sensibilidad al tacto en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
       "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "text": "Por qué un teclado con sensibilidad real puede fallar la prueba (Falsos negativos)"
     },
     {
       "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Si tu teclado falla la prueba de los dos dedos pero sabes por su ficha técnica que sí incluye sensores —por ejemplo, en un **Yamaha PSR-E383**, un **Alesis Recital Pro / Donner DEP-20** o incluso en un piano contrapesado con [el mecanismo PHA-4 Standard de los Roland FP-10 y FP-30X](/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-teclado-pha-4-standard-con-escape-de-roland/)—, estás ante un falso negativo de configuración. La causa número uno es haber hecho la prueba con un sonido de **Órgano (Organ)**, **Acordeón** o **Clavecín (Harpsichord)** seleccionado: estos timbres desactivan la variación de volumen automáticamente para imitar a los instrumentos acústicos reales. La segunda causa es que alguien haya dejado el parámetro de sensibilidad del menú interno en modo **Fixed** u **Off**; en ese caso, basta con revisar [cómo ajustar la curva de sensibilidad entre Soft, Medium, Hard y Fixed](/sensacion-al-tocar-y-tipos-de-tecla/como-ajustar-la-curva-de-sensibilidad-touch-sensitivity-soft-medium-hard-fixed/) para devolverlo al ajuste **Medium / Normal**."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Resultado al tocar lento vs rápido",
+        "Diagnóstico técnico",
+        "Acción recomendada"
+      ],
+      "rows": [
+        [
+          "La nota lenta casi no se oye y la rápida suena fuerte y brillante",
+          "Sensibilidad al tacto (Touch Response) 100 % operativa",
+          "Listo para estudiar; mantén la curva en Normal/Medium"
+        ],
+        [
+          "Ambas notas suenan igual de fuerte, pero estás en la voz 015 (Organ)",
+          "Falso negativo por categoría de instrumento histórico",
+          "Presiona el botón de Piano (Voz 001) y repite la prueba"
+        ],
+        [
+          "Ambas suenan igual en Voz 001 en un modelo que sí anuncia Touch Response",
+          "Curva bloqueada en modo Fixed / Off en el menú Function",
+          "Entra a Function > Touch Response y cámbialo a Medium/2"
+        ],
+        [
+          "Ambas suenan igual en Voz 001 tras reiniciar el teclado de fábrica",
+          "Teclado básico de 1 solo contacto por tecla (sin sensibilidad)",
+          "No apto para técnica de piano; considera actualizar a un modelo con Touch Response"
+        ]
+      ],
+      "caption": "Diagnóstico rápido según la respuesta acústica durante la prueba de los 2 dedos"
+    },
+    {
+      "type": "h2",
+      "text": "Inspección visual en pantalla o vía MIDI cuando no puedes hacer ruido"
+    },
+    {
+      "type": "p",
+      "text": "Si estás evaluando un teclado de noche o sin audífonos de estudio de **47 Ω** a la mano, puedes confirmar la sensibilidad visualmente. En modelos con pantalla LCD guía como el **Yamaha PSR-E383** o el **Donner DEP-20**, observa el ícono de barras dinámicas o el indicador **Touch** en el display: al pulsar suave se ilumina solo un segmento, y al golpear fuerte se llenan todas las barras. Asimismo, si conectas el puerto USB o Bluetooth MIDI (como el adaptador **WU-BT10** del **Casio Privia PX-S1100**) a una tablet con cualquier monitor MIDI o app de aprendizaje, verás que cada nota entrante registra un número distinto entre **1 y 127**; cuando un teclado no tiene sensibilidad, todas las notas marcan invariablemente un valor estático como **64** o **100**."
+    },
+    {
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "En la mayoría de teclados portátiles y pianos digitales modernos, apagar el botón de encendido (Power) y volver a prenderlo restablece automáticamente la Voz 001 (Grand Piano) y devuelve la sensibilidad al tacto a su nivel estándar (Medium). Es el truco más rápido antes de hacer la prueba.",
+      "title": "El truco de apagar y encender antes de probar cualquier teclado"
+    },
+    {
+      "type": "cta",
+      "text": "¿Tu teclado actual no superó la prueba y necesitas un instrumento con sensibilidad real para avanzar en tus clases? Consulta a nuestro Asesor IA o revisa las opciones de 61 y 88 teclas disponibles hoy en las tarjetas de Amazon integradas en la página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como saber si un teclado tiene sensibilidad al tacto?",
-      "a": "Presiona la misma tecla primero acariciándola muy despacio y luego con un golpe firme: si ambas veces suena exactamente al mismo volumen, carece de sensibilidad o tiene la curva en 'Fixed'. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Es normal que al bajar la tecla muy despacio no suene ningún sonido?",
+      "a": "Si al bajar la tecla extremadamente despacio no se escucha absolutamente nada, es una excelente señal: confirma que el instrumento no solo tiene sensibilidad al tacto, sino que imita el umbral de escape de un piano acústico donde un impulso demasiado lento no llega a proyectar el martillo contra la cuerda."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Se puede saber si un teclado tiene sensibilidad al tacto estando apagado?",
+      "a": "No existe ninguna marca externa en las teclas blancas o negras que distinga un teclado sensible de uno básico. La única pista visual sin encenderlo es buscar en el panel frontal un botón o serigrafía que diga 'Touch', 'Touch Response' o 'Key Touch' dentro de las funciones del menú."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué pasa si todas las teclas responden a la fuerza menos una que siempre suena fuerte?",
+      "a": "Si la prueba de los dos dedos funciona bien en casi todo el teclado pero falla en una o dos teclas específicas que suenan siempre fuertísimo, el teclado sí tiene sensibilidad, pero la tira de goma de contactos bajo esas teclas tiene polvo acumulado y requiere limpieza preventiva."
     }
   ],
   "related": [
-    "/sensacion-al-tocar-y-tipos-de-tecla/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-teclado-pha-4-standard-con-escape-de-roland/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/como-funciona-el-mecanismo-rhc-responsive-hammer-compact-de-kawai-es120/",
     "/sensacion-al-tocar-y-tipos-de-tecla/como-ajustar-la-curva-de-sensibilidad-touch-sensitivity-soft-medium-hard-fixed/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-sensibles-al-tacto-touch-response-o-velocity-sensitive/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-la-accion-de-sintetizador-synth-action-u-organ-style-en-teclados-de-61-teclas/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/como-probar-en-5-segundos-si-un-teclado-tiene-sensibilidad-al-tacto-real.webp"
 }

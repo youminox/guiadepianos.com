@@ -3,162 +3,121 @@
   "pillar": "sensacion-al-tocar-y-tipos-de-tecla",
   "path": "/sensacion-al-tocar-y-tipos-de-tecla/que-es-la-resolucion-midi-de-128-niveles-0-a-127-vs-alta-resolucion-en-pianos/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "niveles de velocidad midi 0 a 127 en pianos digitales",
   "title": "Los 128 Niveles de Velocidad MIDI (0 a 127) vs Alta Resolución en Pianos Digitales Modernos",
-  "seoTitle": "Los 128 Niveles de Velocidad MIDI (0 a 127) vs Alta Resolución en Pianos Digitales Modernos | Guía de Pianos",
-  "metaDescription": "Los 128 Niveles de Velocidad MIDI (0 a 127) vs Alta Resolución en Pianos Digitales Modernos: El estándar MIDI divide tu fuerza en 127 escalones de intensidad, mientras que motores internos como SuperNATURAL o CFX interpolan miles de matices intermedios sin escalones audibles. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "El estándar MIDI divide tu fuerza en 127 escalones de intensidad, mientras que motores internos como SuperNATURAL o CFX interpolan miles de matices intermedios sin escalones audibles.",
-  "quickAnswer": "Sobre niveles de velocidad midi 0 a 127 en pianos digitales: El estándar MIDI divide tu fuerza en 127 escalones de intensidad, mientras que motores internos como SuperNATURAL o CFX interpolan miles de matices intermedios sin escalones audibles. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Los 128 Niveles de Velocidad MIDI (0 a 127) vs Alta Resolución en Pianos Digitales Modernos | guiadepianos.com",
+  "metaDescription": "Compara los 128 niveles de velocidad MIDI (0 a 127) frente a la alta resolución de 16,384 pasos en pianos digitales modernos y cómo mejora tu expresión.",
+  "excerpt": "Descubre cómo mide tu piano digital los microsegundos entre sensores para traducir tu pulsación en 128 escalones MIDI estándar o en motores internos continuos como SuperNATURAL y Smart Scaled.",
+  "quickAnswer": "El estándar MIDI 1.0 codifica la fuerza de cada nota en **7 bits**, ofreciendo **128 niveles de velocidad** donde **0** equivale a nota apagada, **1** al *pianissimo* más tenue y **127** al *fortissimo* máximo. Los pianos digitales modernos con **triple sensor** y extensión de alta resolución (**MIDI CC#88** o MIDI 2.0 de **14 a 16 bits**) dividen cada escalón en hasta **16,384 micro-niveles**, eliminando saltos bruscos de timbre en pasajes lentos.",
+  "readingMinutes": 8,
   "image": {
-    "prompt": "Realistic editorial photography, Detailed close-up focusing on pianist hands, pedal action and studio headphones: Home digital piano and keyboard tutorial illustrating Los 128 Niveles de Velocidad MIDI (0 a 127) vs Alta Resolución en Pianos Digitales Modernos: El estándar MIDI divide tu fuerza en 127 escalones de intensidad, mientras que motores internos como SuperNATURAL o CFX interpolan miles de matices intermedios sin escalones audibles., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, warm evening LED music stand lamp light for silent headphone practice. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Los 128 Niveles de Velocidad MIDI (0 a 127) vs Alta Resolución en Pianos Digitales Modernos' (niveles de velocidad midi 0 a 127 en pianos digitales) for guiadepianos.com, featuring equipment in arctic white with warm stone-gray details, in a clean modern garage or studio corner with slate flooring, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Los 128 Niveles de Velocidad MIDI (0 a 127) vs Alta Resolución en Pianos Digitales Modernos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **niveles de velocidad midi 0 a 127 en pianos digitales** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. El estándar MIDI divide tu fuerza en 127 escalones de intensidad, mientras que motores internos como SuperNATURAL o CFX interpolan miles de matices intermedios sin escalones audibles."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Sensacion Al Tocar Y Tipos De Tecla](/sensacion-al-tocar-y-tipos-de-tecla/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Estás interpretando un *crescendo* lento de dieciséis compases con audífonos o grabando una pista de piano conectado por USB a tu computadora y percibes que, al aumentar milimétricamente el peso de tus dedos, el sonido no crece de forma continua como en un piano acústico de cola, sino que sube por pequeños escalones audibles de brillo y volumen. Entender cómo funcionan los **niveles de velocidad MIDI de 0 a 127 en pianos digitales** frente a los motores internos de alta resolución te permitirá elegir un instrumento que responda a cada matiz de tu interpretación dentro del universo de [sensación al tocar y tipos de tecla](/sensacion-al-tocar-y-tipos-de-tecla/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: niveles de velocidad midi 0 a 127 en pianos digitales"
+      "text": "De microsegundos a 7 bits: cómo calculan la velocidad los sensores bajo la tecla"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **niveles de velocidad midi 0 a 127 en pianos digitales**:"
+      "text": "Ningún piano digital mide la presión en kilogramos con una báscula; lo que mide es el tiempo de vuelo ($\\Delta t$) en microsegundos que tarda la tecla en cerrar secuencialmente dos o tres contactos de goma conductora separados por apenas **1.2 a 1.5 mm** de altura. Cuando acaricias una nota en *pianissimo*, transcurren cerca de **45 a 60 milisegundos** entre el cierre del primer y el último interruptor, lo que el protocolo MIDI 1.0 codifica en un mensaje binario de **7 bits** asignándole un valor bajo (por ejemplo, **velocidad 15 o 20**). Cuando descargas el peso del brazo en un acorde *fortissimo*, ambos sensores se cierran en menos de **2 milisegundos** y el procesador emite el tope de la escala: **velocidad 127** (siendo **0** el comando de nota apagada o *Note Off*). Por eso, cuando entra suciedad bajo la membrana y el primer contacto falla, ocurre el temido fallo en el que [una sola tecla se dispara al máximo volumen (Velocity 127)](/sensacion-al-tocar-y-tipos-de-tecla/por-que-una-tecla-suena-de-repente-al-maximo-volumen-aunque-la-toques-suave/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: niveles de velocidad midi 0 a 127 en pianos digitales",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Modelo del Catálogo",
+        "Arquitectura de Sensores por Tecla",
+        "Resolución Interna del Motor de Audio",
+        "Salida MIDI y Curvas de Tacto"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "El estándar MIDI divide tu fuerza en 127 escalones de intensidad, mientras que motores internos como SuperNATURAL o CFX interpolan miles de matices intermedios sin escalones audibles.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Roland FP-10 / Roland FP-30X",
+          "Triple sensor (PHA-4 Standard) con lectura sin retorno total",
+          "Modelado continuo SuperNATURAL sin escalones de muestra fijos",
+          "USB-MIDI + Bluetooth MIDI (5 niveles de sensibilidad en FP-10 / 100 en FP-30X)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Casio Privia PX-S1100",
+          "Doble sensor con algoritmo Smart Scaled Hammer Action",
+          "Muestreo Morphing AiR multidimensional con transición continua",
+          "USB-MIDI + Adaptador WU-BT10 incluido (5 curvas de respuesta + Off)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Yamaha P-145",
+          "Doble sensor de alta precisión en mecanismo compacto GHC",
+          "Muestreo multicapa del piano de concierto Yamaha CFIIIS",
+          "USB-to-Host de baja latencia (4 curvas: Hard, Medium, Soft, Fixed)"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Yamaha PSR-E383 (61 teclas)",
+          "Doble contacto sensible a la velocidad (Touch Response)",
+          "Motor AWM Stereo Sampling con 650 voces y 48 notas de polifonía",
+          "USB Audio/MIDI integrado (4 niveles de sensibilidad configurables)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre niveles de velocidad midi 0 a 127 en pianos digitales",
-      "text": "El estándar MIDI divide tu fuerza en 127 escalones de intensidad, mientras que motores internos como SuperNATURAL o CFX interpolan miles de matices intermedios sin escalones audibles. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Resolución dinámica, sensores y respuesta MIDI en los pianos digitales y teclados más recomendados"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar niveles de velocidad midi 0 a 127 en pianos digitales en tu piano digital o teclado"
+      "text": "Por qué el motor de sonido interno supera los 128 pasos del cable MIDI tradicional"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Una duda frecuente al comparar fichas técnicas en Amazon es pensar que **128 niveles** limitan por igual a todos los pianos digitales. En realidad, el límite de **0 a 127** solo rige cuando envías datos MIDI estándar de **7 bits** hacia una aplicación externa, a menos que el instrumento y el software empleen el prefijo **MIDI CC#88** de alta resolución (**14 bits**, equivalente a **16,384 niveles**) o el nuevo estándar **MIDI 2.0** (**16 bits**, con **65,536 pasos**). Sin embargo, cuando tocas escuchando el motor interno a través de los altavoces de **22 W** del **Roland FP-30X** o con audífonos conectados al **Casio PX-S1100**, el procesador interno lee directamente los microsegundos de los sensores sin recortarlos a 128 escalones, interpolando el brillo armónico y la resonancia de cuerdas en tiempo real. Esta precisión milimétrica resulta crucial para sincronizar el ataque del dedo con el pie y dominar [cómo afecta el tacto de la tecla al control del pedal de sustain](/sensacion-al-tocar-y-tipos-de-tecla/como-afecta-el-tacto-de-la-tecla-al-control-del-pedal-de-sustain/)."
     },
     {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando niveles de velocidad midi 0 a 127 en pianos digitales en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "Muchos teclados genéricos de bajo costo anuncian compatibilidad MIDI de 128 niveles en su puerto USB, pero su chip de sonido interno solo contiene 2 o 3 muestras grabadas por nota (suave, media y fuerte). Aunque el sensor envíe el número 42 o el 58, el altavoz reproducirá exactamente el mismo archivo de audio cambiando solo el volumen, lo que produce un sonido artificial conocido como efecto metralleta.",
+      "title": "Cómo identificar en la ficha técnica un teclado con falsos 128 niveles dinámicos"
     },
     {
       "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Qué modelo elegir en Amazon según tu exigencia dinámica y uso con software"
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**Para máxima expresividad clásica y control de VST en estudio (Roland FP-10 y FP-30X)**: Su mecanismo **PHA-4 Standard** de **triple sensor** y el motor **SuperNATURAL** ofrecen una transición tímbrica continua sin saltos de capa perceptibles, además de **256 notas de polifonía** en el **FP-30X** para sostener pasajes densos con pedal.",
+        "**Para estudiantes que buscan respuesta acústica fiel en poco espacio (Yamaha P-145)**: Su acción **GHC** de doble sensor está calibrada específicamente para las muestras del cola **Yamaha CFIIIS**, entregando una graduación natural entre *pianissimo* y *fortissimo* en solo **26.8 cm** de profundidad.",
+        "**Para habitaciones estrechas con Bluetooth Audio/MIDI incluido (Casio Privia PX-S1100)**: Combina su tecnología *Multi-dimensional Morphing AiR* —que suaviza cualquier salto entre los **128 niveles**— con un chasis récord de **23.2 cm** de fondo y adaptador **WU-BT10**.",
+        "**Para iniciarse en 61 teclas con sensibilidad dinámica auténtica (Yamaha PSR-E383)**: A diferencia de los teclados básicos sin velocidad que disparan siempre un valor fijo, el **PSR-E383** traduce tu fuerza real en matices progresivos e integra interfaz **USB Audio/MIDI** en un solo cable."
       ]
     },
     {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "cta",
+      "text": "¿No sabes qué piano digital se adapta mejor a tu nivel de control dinámico o a las apps de aprendizaje de tu iPad? Consulta a nuestro Asesor IA o revisa la disponibilidad actual del Roland FP-30X, Roland FP-10, Yamaha P-145 y Casio PX-S1100 en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre niveles de velocidad midi 0 a 127 en pianos digitales?",
-      "a": "El estándar MIDI divide tu fuerza en 127 escalones de intensidad, mientras que motores internos como SuperNATURAL o CFX interpolan miles de matices intermedios sin escalones audibles. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Es normal que al tocar fuerte en mi piano digital casi nunca llegue al valor MIDI 127?",
+      "a": "Con los sensores y fieltros limpios, la mayoría de los pianistas alcanzan de forma natural valores de 115 a 122 en acordes fuertes y solo llegan a 127 en acentos muy percusivos. Si llegas a 127 tocando con fuerza moderada, cambia la curva de sensibilidad del piano de Soft/Light a Medium o Hard."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Un principiante nota la diferencia entre doble sensor y triple sensor al estudiar en casa?",
+      "a": "En los primeros 3 años de estudio la diferencia principal del triple sensor no es el número de niveles MIDI, sino la velocidad de repetición: el tercer sensor intermedio permite volver a hacer sonar una nota rápida (como en trinos o notas repetidas) sin esperar a que la tecla suba hasta arriba."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué pasa si bajo una tecla tan despacio que ni siquiera llega al nivel 1 de velocidad MIDI?",
+      "a": "El valor MIDI 1 es el umbral mínimo en el que los sensores registran que la tecla bajó lo suficientemente rápido para que el martillo virtual golpee la cuerda. Si bajas la tecla en cámara lenta durante más de un segundo, el piano interpreta un movimiento silencioso y no emite sonido alguno (velocidad 0)."
     }
   ],
   "related": [
-    "/sensacion-al-tocar-y-tipos-de-tecla/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/por-que-una-tecla-suena-de-repente-al-maximo-volumen-aunque-la-toques-suave/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-fondo-de-tecla-keybed-fieltro-amortiguador-y-como-cuidarlo/",
     "/sensacion-al-tocar-y-tipos-de-tecla/que-tipo-de-tecla-es-mejor-si-tienes-artritis-tendinitis-o-dolor-articular-en-las-manos/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/como-probar-la-uniformidad-de-respuesta-entre-teclas-blancas-y-negras/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/sensacion-al-tocar-y-tipos-de-tecla/como-afecta-el-tacto-de-la-tecla-al-control-del-pedal-de-sustain/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-es-la-resolucion-midi-de-128-niveles-0-a-127-vs-alta-resolucion-en-pianos.webp"
 }

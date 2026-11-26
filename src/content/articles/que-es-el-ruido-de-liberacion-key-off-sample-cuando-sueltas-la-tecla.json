@@ -4,161 +4,128 @@
   "path": "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-ruido-de-liberacion-key-off-sample-cuando-sueltas-la-tecla/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es key off sample liberacion de tecla piano digital",
   "title": "Qué Son las Muestras de Liberación de Tecla (Key-Off Samples) al Soltar una Nota en Pianos Digitales de Gama Media",
-  "seoTitle": "Qué Son las Muestras de Liberación de Tecla (Key-Off Samples) al Soltar una Nota en Pianos Digitales de Gama Media | Guía de Pianos",
-  "metaDescription": "Qué Son las Muestras de Liberación de Tecla (Key-Off Samples) al Soltar una Nota en Pianos Digitales de Gama Media: Recrea el sutil sonido mecánico del apagador de fieltro posándose de nuevo sobre la cuerda vibrante en el instante en que levantas el dedo. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Recrea el sutil sonido mecánico del apagador de fieltro posándose de nuevo sobre la cuerda vibrante en el instante en que levantas el dedo.",
-  "quickAnswer": "Sobre que es key off sample liberacion de tecla piano digital: Recrea el sutil sonido mecánico del apagador de fieltro posándose de nuevo sobre la cuerda vibrante en el instante en que levantas el dedo. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Son las Muestras de Liberación de Tecla (Key-Off Samples) al Soltar una Nota en Pianos Digitales de Gama Media | guiadepianos.com",
+  "metaDescription": "Descubre qué es el Key-Off Sample o muestra de liberación de tecla en un piano digital y cómo recrea el roce del apagador de fieltro al soltar cada nota.",
+  "excerpt": "Guía acústica sobre las muestras Key-Off y la simulación de apagadores en pianos digitales Yamaha, Roland y Casio: por qué la forma en que termina una nota distingue a un piano realista de uno sintético.",
+  "quickAnswer": "Un **Key-Off Sample (muestra de liberación de tecla)** es la grabación o modelado acústico de alta precisión que un piano digital reproduce en el instante exacto en que levantas el dedo y el apagador de fieltro (*damper*) cae sobre la cuerda vibrante para silenciarla. En lugar de cortar el sonido de golpe como un interruptor electrónico, recrea esa cola armónica de **150 a 400 milisegundos** y el sutil susurro mecánico del fieltro.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Three-quarter editorial angle from slightly above in a bright music corner (50mm lens): Home digital piano and keyboard tutorial illustrating Qué Son las Muestras de Liberación de Tecla (Key-Off Samples) al Soltar una Nota en Pianos Digitales de Gama Media: Recrea el sutil sonido mecánico del apagador de fieltro posándose de nuevo sobre la cuerda vibrante en el instante en que levantas el dedo., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, golden hour afternoon sunlight streaming into a cozy apartment. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Close-up ergonomic grip and control panel perspective in crisp daylight: realistic scene illustrating 'Qué Son las Muestras de Liberación de Tecla (Key-Off Samples) al Soltar una Nota en Pianos Digitales de Gama Media' (que es key off sample liberacion de tecla piano digital) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, beside a neat storage shelf in a sunlit modern room, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Son las Muestras de Liberación de Tecla (Key-Off Samples) al Soltar una Nota en Pianos Digitales de Gama Media"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **que es key off sample liberacion de tecla piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Recrea el sutil sonido mecánico del apagador de fieltro posándose de nuevo sobre la cuerda vibrante en el instante en que levantas el dedo."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Sensacion Al Tocar Y Tipos De Tecla](/sensacion-al-tocar-y-tipos-de-tecla/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Cuando comparas con audífonos un teclado económico frente a un piano digital de gama media como el **Roland FP-30X** tocando una sola nota lenta, a menudo notas que el segundo suena vivo y tridimensional incluso después de haber levantado la mano del teclado. El secreto detrás de ese realismo orgánico está en entender **que es key off sample liberacion de tecla piano digital**: un detalle acústico casi imperceptible de forma consciente, pero cuya ausencia hace que cualquier melodía sin pedal suene artificialmente recortada."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: que es key off sample liberacion de tecla piano digital"
+      "text": "Qué sucede en las cuerdas de un piano de cola cuando el apagador de fieltro baja"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **que es key off sample liberacion de tecla piano digital**:"
+      "text": "En un piano de cola acústico como el **Yamaha CFIIIS**, mientras mantienes una tecla hundida, el apagador de fieltro (*damper*) permanece levantado para que las tres cuerdas de acero de esa nota vibren libremente. En el milisegundo en que sueltas la tecla sin pisar el pedal de sustain, la pieza de madera y fieltro de lana desciende sobre las cuerdas en movimiento. Ese contacto físico no produce un silencio instantáneo de laboratorio: genera un levísimo roce percusivo de fieltro contra metal, un breve zumbido de armónicos superiores mientras la cuerda termina de frenarse y una caída residual en la tabla armónica. En los teclados básicos antiguos, soltar la tecla simplemente aplicaba un fundido de volumen matemático (*fade-out* lineal); en cambio, un motor con **Key-Off Samples** dispara una muestra real grabada específicamente para el final de la nota, respondiendo en tiempo real a [cómo afecta la velocidad con la que sueltas la tecla o Key-Off Velocity](/sensacion-al-tocar-y-tipos-de-tecla/como-afecta-la-velocidad-con-la-que-sueltas-la-tecla-key-off-velocity/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: que es key off sample liberacion de tecla piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Tecnología de Motor de Sonido",
+        "Modelos Representativos del Catálogo",
+        "Qué Escuchas al Soltar la Tecla (Sin Pedal)",
+        "Ajuste por el Usuario"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Recrea el sutil sonido mecánico del apagador de fieltro posándose de nuevo sobre la cuerda vibrante en el instante en que levantas el dedo.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "SuperNATURAL Piano con modelado Key-Off",
+          "Roland FP-10 y Roland FP-30X",
+          "Cola armónica orgánica que varía según la velocidad de subida del dedo y el tiempo que duró la nota",
+          "Ajustable en Piano Designer (Key Off Resonance en FP-30X / app)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Muestreo Yamaha CFIIIS con transición de apagador",
+          "Yamaha P-145",
+          "Caída limpia y natural calibrada de fábrica sin corte abrupto en articulaciones cortas",
+          "Precalibrado automáticamente en las voces Grand Piano"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Multi-Dimensional Morphing AiR",
+          "Casio Privia PX-S1100",
+          "Simulación del retorno del apagador integrada con la resonancia de cuerdas abiertas",
+          "Configurable desde la app Casio Music Space vía WU-BT10"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Síntesis AWM Estándar / Teclados de iniciación",
+          "Yamaha PSR-E383 / Alesis Recital Pro",
+          "Envolvente de liberación (Release Envelope) suave y musical, sin sonido mecánico de fieltro",
+          "Fijo según el timbre seleccionado"
         ]
-      ]
+      ],
+      "caption": "Comportamiento del sonido al soltar la tecla según el motor acústico del piano digital"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo cambia la muestra Key-Off según el tiempo que mantuviste presionada la nota"
+    },
+    {
+      "type": "p",
+      "text": "Un procesador de piano avanzado no reproduce siempre el mismo archivo de liberación al levantar el dedo, porque las cuerdas no tienen la misma energía un instante después del ataque que cinco segundos más tarde. Si tocas un acorde en **fortissimo** y sueltas las teclas apenas **0.3 segundos** después (un *staccato* seco), las cuerdas están vibrando con su máxima amplitud, por lo que el choque contra el fieltro del apagador produce un **Key-Off Sample** rico y audible. Si en cambio mantienes ese mismo acorde presionado durante **6 segundos** hasta que el sonido casi se apaga solo y recién entonces levantas la mano, el motor del **Roland FP-30X** o del **Casio Privia PX-S1100** reduce la muestra de liberación a un susurro imperceptible. Es importante no confundir este fenómeno acústico que sale por tus altavoces o audífonos con [el golpe sordo mecánico que hacen las teclas contrapesadas en el chasis](/sensacion-al-tocar-y-tipos-de-tecla/por-que-las-teclas-contrapesadas-hacen-un-sonido-mecanico-sordo-al-tocar-con-audifonos/), ni tampoco con funciones propias de teclados electrónicos como [el aftertouch o presión posterior de los sintetizadores](/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-aftertouch-y-por-que-los-pianos-digitales-no-lo-necesitan/)."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de profesor de piano sobre que es key off sample liberacion de tecla piano digital",
-      "text": "Recrea el sutil sonido mecánico del apagador de fieltro posándose de nuevo sobre la cuerda vibrante en el instante en que levantas el dedo. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      "text": "Cada vez que sueltas una nota y se activa su muestra estéreo de liberación, el procesador abre dos canales adicionales de polifonía durante una fracción de segundo. Por eso modelos como el Roland FP-30X (256 notas de polifonía) o el Casio PX-S1100 (192 notas) van sobrados para reproducir estas sutilezas sin cortar notas anteriores.",
+      "title": "Por qué el Key-Off Sample consume al menos 2 notas de polifonía"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar que es key off sample liberacion de tecla piano digital en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Prueba de 3 pasos con audífonos para escuchar el Key-Off Sample en tu piano digital"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Conecta audífonos de estudio con cable y suelta el pedal",
+          "text": "Ponte unos audífonos cerrados o semiabiertos de baja impedancia (como 47 Ω) sin tocar el pedal de sustain, ya que con el pedal pisado los apagadores quedan levantados y el Key-Off no actúa."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Toca una nota grave en staccato fuerte (Do2 o Sol2)",
+          "text": "Pulsa con firmeza una nota de la octava grave y levanta el dedo de golpe tras medio segundo: percibirás un sutil 'thud' armónico de cuerda frenada por fieltro justo al soltar."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Repite la misma nota levantando el dedo en cámara lenta",
+          "text": "Vuelve a pulsar el mismo Do2 pero sube la tecla con extrema lentitud a lo largo de sus 10 mm; notarás cómo el apagador virtual apaga la cuerda con una transición mucho más sedosa."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando que es key off sample liberacion de tecla piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Quieres escuchar la riqueza de motores como SuperNATURAL de Roland o el muestreo CFIIIS de Yamaha en tu propio espacio? Consulta a nuestro Asesor IA o revisa la disponibilidad actual de estos pianos digitales en las tarjetas de Amazon integradas en la página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre que es key off sample liberacion de tecla piano digital?",
-      "a": "Recrea el sutil sonido mecánico del apagador de fieltro posándose de nuevo sobre la cuerda vibrante en el instante en que levantas el dedo. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Suena el Key-Off Sample cuando tengo pisado el pedal de sustain (damper)?",
+      "a": "No en el momento de soltar la tecla. Al mantener pisado el pedal de sustain, todos los apagadores de fieltro permanecen levantados lejos de las cuerdas, por lo que soltar la tecla con el dedo no frena la vibración; el sonido de apagador recién ocurre cuando levantas el pie del pedal."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Se puede subir o bajar el volumen del efecto Key-Off si lo siento demasiado presente en los audífonos?",
+      "a": "En modelos de gama media como el **Roland FP-30X** o a través de las aplicaciones **Roland Piano App** y **Casio Music Space** (usando el adaptador **WU-BT10** en el **PX-S1100**), puedes ajustar el parámetro **Key-Off Resonance / Key-Off Noise** en varios niveles según prefieras un timbre más íntimo o más limpio."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué diferencia hay entre Key-Off Sample y Key-Off Noise (ruido mecánico de liberación)?",
+      "a": "El **Key-Off Sample** (o *Key-Off Resonance*) es el sonido musical de la cuerda de acero siendo amortiguada por el fieltro del apagador. En cambio, el **Key-Off Noise** que añaden algunos motores de modelado recrea el levísimo sonido mecánico de la madera de la báscula interna cayendo dentro del piano acústico."
     }
   ],
   "related": [
-    "/sensacion-al-tocar-y-tipos-de-tecla/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-recubrimiento-ivory-feel-marfil-sintetico-y-ebano-en-las-teclas/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/por-que-las-teclas-contrapesadas-hacen-un-sonido-mecanico-sordo-al-tocar-con-audifonos/",
     "/sensacion-al-tocar-y-tipos-de-tecla/como-afecta-la-velocidad-con-la-que-sueltas-la-tecla-key-off-velocity/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/por-que-si-vas-a-clases-con-un-profesor-que-tiene-piano-acustico-conviene-comprar-88-contrapesadas/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-aftertouch-y-por-que-los-pianos-digitales-no-lo-necesitan/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-es-el-ruido-de-liberacion-key-off-sample-cuando-sueltas-la-tecla.webp"
 }

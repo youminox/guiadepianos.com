@@ -4,161 +4,128 @@
   "path": "/conexiones-midi-apps-y-aprendizaje/como-conectar-tu-teclado-o-piano-digital-a-una-tablet-o-celular-android-por-usb-otg/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como conectar teclado o piano digital a tablet android usb",
   "title": "Cómo Conectar un Teclado Yamaha, Casio o Roland a una Tablet Samsung o Celular Android por Cable USB-B a USB-C",
-  "seoTitle": "Cómo Conectar un Teclado Yamaha, Casio o Roland a una Tablet Samsung o Celular Android por Cable USB-B a USB-C | Guía de Pianos",
-  "metaDescription": "Cómo Conectar un Teclado Yamaha, Casio o Roland a una Tablet Samsung o Celular Android por Cable USB-B a USB-C: Activa la función OTG si tu teléfono lo pide, conecta el cable USB Tipo B a USB-C y abre Flowkey, Simply Piano o Casio Music Space. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Activa la función OTG si tu teléfono lo pide, conecta el cable USB Tipo B a USB-C y abre Flowkey, Simply Piano o Casio Music Space.",
-  "quickAnswer": "Sobre como conectar teclado o piano digital a tablet android usb: Activa la función OTG si tu teléfono lo pide, conecta el cable USB Tipo B a USB-C y abre Flowkey, Simply Piano o Casio Music Space. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Conectar un Teclado Yamaha, Casio o Roland a una Tablet Samsung o Celular Android por Cable USB-B a USB-C | guiadepianos.com",
+  "metaDescription": "Guía técnica sobre cómo conectar tu teclado o piano digital a una tablet Android por USB OTG usando un cable USB-B a USB-C y activando el modo MIDI.",
+  "excerpt": "Conecta tu Yamaha PSR-E383, P-145, Casio PX-S1100 o Roland FP-10 a cualquier tablet Samsung Galaxy o teléfono Android. Aprende a habilitar la función OTG y cambiar el protocolo USB de carga a MIDI.",
+  "quickAnswer": "Para conectar tu teclado o piano digital a una tablet **Android** con puerto **USB-C**, utiliza un cable directo **USB-B Macho a USB-C Macho** compatible con datos **USB OTG (On-The-Go)**. Una vez conectado al puerto **USB To Host** de tu **Yamaha PSR-E383**, **P-145** o **Roland FP-10**, desliza la barra de notificaciones de Android y cambia la preferencia de conexión USB de \"Solo carga\" a **\"MIDI\"** para que las apps lo detecten.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Eye-level realistic lifestyle photograph in a sunlit modern apartment: Home digital piano and keyboard tutorial illustrating Cómo Conectar un Teclado Yamaha, Casio o Roland a una Tablet Samsung o Celular Android por Cable USB-B a USB-C: Activa la función OTG si tu teléfono lo pide, conecta el cable USB Tipo B a USB-C y abre Flowkey, Simply Piano o Casio Music Space., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, golden hour afternoon sunlight streaming into a cozy apartment. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Cómo Conectar un Teclado Yamaha, Casio o Roland a una Tablet Samsung o Celular Android por Cable USB-B a USB-C' (como conectar teclado o piano digital a tablet android usb) for guiadepianos.com, featuring equipment in sleek titanium silver with carbon-gray texture, in a clean modern garage or studio corner with slate flooring, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Conectar un Teclado Yamaha, Casio o Roland a una Tablet Samsung o Celular Android por Cable USB-B a USB-C"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como conectar teclado o piano digital a tablet android usb** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Activa la función OTG si tu teléfono lo pide, conecta el cable USB Tipo B a USB-C y abre Flowkey, Simply Piano o Casio Music Space."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Conexiones Midi Apps Y Aprendizaje](/conexiones-midi-apps-y-aprendizaje/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Conectas un cable **USB-B a USB-C** desde la parte trasera de tu **Yamaha PSR-E383**, tu **Yamaha P-145** o tu **Roland FP-10** hasta tu tablet **Samsung Galaxy Tab** o tu teléfono Android, abres tu aplicación de piano favorita y no ocurre absolutamente nada: la app sigue escuchando por el micrófono como si el cable no existiera. A diferencia del ecosistema de Apple, donde el puerto activa los datos musicales de inmediato, el sistema operativo **Android** prioriza la seguridad energética del puerto **USB-C** y bloquea por defecto cualquier transferencia de datos externos colocándolo en modo *\"Solo carga\"*. Para que la tablet reconozca las **61 o 88 teclas** al instante y puedas empezar a practicar [los 4 acordes mágicos para tocar decenas de canciones en tu primer mes](/conexiones-midi-apps-y-aprendizaje/los-4-acordes-magicos-do-sol-la-menor-fa-con-los-que-puedes-tocar-100-canciones-el-primer-mes/), necesitas que el cable soporte la especificación **USB OTG (On-The-Go)** y cambiar manualmente el protocolo del puerto en la barra de estado."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como conectar teclado o piano digital a tablet android usb"
+      "text": "Cómo funciona el estándar USB OTG entre un piano digital y Android"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como conectar teclado o piano digital a tablet android usb**:"
+      "text": "En una conexión USB tradicional siempre existe un maestro (Host, como una computadora) y un esclavo (Device, como el puerto **USB To Host** de tu piano). Los teléfonos y tablets Android nacieron diseñados para actuar como esclavos cuando los enchufas a un ordenador para pasar fotos. La tecnología **USB OTG (On-The-Go)** invierte internamente los pines de identificación del conector **USB-C** para que tu tablet **Samsung Galaxy**, **Xiaomi Pad** o **Lenovo Tab** asuma el rol de computadora anfitriona y alimente la comunicación lógica con el controlador MIDI de tu teclado. Además de aprender canciones, esta conexión por cable te permite utilizar herramientas oficiales como la [app gratuita Yamaha Rec'n'Share para grabar videos con audio digital limpio](/conexiones-midi-apps-y-aprendizaje/que-es-la-app-yamaha-rec-n-share-para-grabar-videos-tocando-el-piano-y-compartirlos/) en modelos compatibles como el **Yamaha PSR-E383** o el **P-225**, siempre que coloques la tablet de forma estable utilizando un [soporte adecuado si el atril de tu teclado es bajo](/conexiones-midi-apps-y-aprendizaje/que-soporte-de-ipad-o-tablet-usar-si-el-atril-de-tu-teclado-es-bajo/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: como conectar teclado o piano digital a tablet android usb",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Marca del Dispositivo Android",
+        "Activación de USB OTG",
+        "Ruta para Activar el Modo MIDI",
+        "Comportamiento al Desconectar el Cable"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Activa la función OTG si tu teléfono lo pide, conecta el cable USB Tipo B a USB-C y abre Flowkey, Simply Piano o Casio Music Space.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Samsung Galaxy (Tab S / Tab A / Serie S y A)",
+          "Activa de fábrica en One UI",
+          "Deslizar barra superior > Tocar notificación \"Sistema Android USB\" > Seleccionar \"MIDI\"",
+          "Vuelve automáticamente a \"Transferencia de archivos\" o \"Solo carga\""
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Xiaomi / Redmi / POCO (MIUI y HyperOS)",
+          "Automática (en modelos antiguos revisar Ajustes adicionales > OTG)",
+          "Notificación \"Cargando este dispositivo por USB\" > Tocar para más opciones > Elegir \"MIDI\"",
+          "Requiere volver a marcar \"MIDI\" cada vez que enchufas el piano"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Lenovo Tab / Motorola (Android Stock)",
+          "Activa de fábrica por hardware USB-C",
+          "Ajustes > Dispositivos conectados > Preferencias de USB > Usar USB para \"MIDI\"",
+          "Se reinicia por seguridad al apagar el piano digital"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Realme / OPPO / OnePlus (ColorOS / OxygenOS)",
+          "Se apaga sola tras 10 min sin uso (Activar \"Conexión OTG\" en Ajustes)",
+          "Activar interruptor OTG en Ajustes del sistema > Deslizar notificación USB > Marcar \"MIDI\"",
+          "Desactiva OTG si desconectas el cable durante más de 10 minutos"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre como conectar teclado o piano digital a tablet android usb",
-      "text": "Activa la función OTG si tu teléfono lo pide, conecta el cable USB Tipo B a USB-C y abre Flowkey, Simply Piano o Casio Music Space. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Configuración del puerto USB-C en las principales marcas de tablets y celulares Android"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar como conectar teclado o piano digital a tablet android usb en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Pasos para activar el modo MIDI en tu tablet Samsung o celular Android"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Enciende primero el piano digital y luego conecta el cable USB-B a USB-C",
+          "text": "Conecta la punta cuadrada USB Tipo B en el puerto trasero \"USB To Host\" de tu teclado Yamaha, Casio, Roland o Alesis, y enchufa el extremo USB-C en tu tablet o celular Android con el instrumento ya encendido para que el chip OTG detecte la presencia del periférico."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Habilita el interruptor OTG si usas OPPO, Realme, OnePlus o Vivo",
+          "text": "En tablets Samsung, Lenovo y Xiaomi modernas el modo OTG está siempre despierto. Sin embargo, si tu dispositivo usa ColorOS u OxygenOS, entra primero a Ajustes > Ajustes del sistema (o Ajustes adicionales) y enciende la casilla \"Conexión OTG\"."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "Despliega la cortina de notificaciones y cambia de Carga a MIDI",
+          "text": "Desliza el dedo desde el borde superior de la pantalla de Android. Verás una notificación silenciosa que dice \"Cargando este dispositivo por USB\" o \"USB para transferencia de archivos\". Tócala para abrir el menú de Preferencias de USB y marca la casilla redonda \"MIDI\"."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Abre tu aplicación de piano después de haber activado el modo MIDI",
+          "text": "Inicia Simply Piano, Flowkey, Casio Music Space o Yamaha Smart Pianist recién cuando el sistema Android ya esté en modo MIDI. Si la app estaba abierta antes, ciérrala por completo y ábrela de nuevo para que refresque la lista de puertos USB."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Por qué Android olvida la configuración MIDI cada vez que apagas el piano"
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "No te alarmes si mañana vuelves a encender tu **Yamaha PSR-E383** o tu **Roland FP-10** con el cable **USB-B a USB-C** ya puesto y la tablet no detecta las teclas. Por arquitectura de seguridad del kernel de **Android**, el puerto **USB-C** restablece su estado a *\"Sin transferencia de datos / Solo carga\"* cada vez que se interrumpe la corriente del dispositivo externo o se apaga el teclado. Acostúmbrate a seguir siempre la misma rutina de **5 segundos** antes de empezar tu sesión: enciende el piano, desliza la barra de notificaciones de Android, cambia la preferencia USB a **MIDI** y recién entonces abre tu aplicación de estudio.",
+      "title": "Recordatorio importante del sistema operativo Android"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como conectar teclado o piano digital a tablet android usb en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Necesitas un cable USB-B a USB-C con soporte OTG verificado para conectar tu teclado a tu tablet Samsung o celular Android? Revisa las opciones disponibles en las tarjetas de Amazon integradas en esta guía o pregunta a nuestro Asesor IA para confirmar la compatibilidad con tu modelo."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como conectar teclado o piano digital a tablet android usb?",
-      "a": "Activa la función OTG si tu teléfono lo pide, conecta el cable USB Tipo B a USB-C y abre Flowkey, Simply Piano o Casio Music Space. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Qué cable necesito si mi teclado Casio tiene puerto Micro-USB en vez de USB-B cuadrado?",
+      "a": "Algunos teclados compactos de 61 teclas como el Casiotone CT-S200, CT-S300 o CT-S1 no usan el puerto cuadrado USB-B grande, sino un puerto Micro-USB To Host. En ese caso necesitas un cable OTG de Micro-USB macho a USB-C macho (o usar un adaptador OTG USB-A a USB-C)."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Funciona mejor el cable USB OTG o el Bluetooth MIDI en una tablet Android?",
+      "a": "En la mayoría de tablets Android (especialmente con procesadores de gama media), el Bluetooth MIDI presenta más fluctuaciones e incompatibilidades que en iPadOS. La conexión por cable físico USB-B a USB-C con modo MIDI activo es mucho más estable, instantánea y libre de desconexiones en Android."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Por qué no aparece la notificación de Preferencias USB en mi Android al enchufar el teclado?",
+      "a": "Eso ocurre cuando estás usando un cable Micro-USB o USB-C que fue fabricado únicamente con dos hilos internos para cargar baterías (sin los pines de datos D+ y D-). Asegúrate de usar un cable USB-B a USB-C certificado para datos USB 2.0 de 480 Mbps."
     }
   ],
   "related": [
-    "/conexiones-midi-apps-y-aprendizaje/",
-    "/conexiones-midi-apps-y-aprendizaje/como-conectar-tu-piano-digital-a-una-computadora-pc-windows-o-mac-para-grabar-en-daw/",
-    "/conexiones-midi-apps-y-aprendizaje/que-cable-exacto-comprar-en-amazon-para-un-ipad-con-puerto-usb-c-vs-un-ipad-con-puerto-lightning/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/conexiones-midi-apps-y-aprendizaje/los-4-acordes-magicos-do-sol-la-menor-fa-con-los-que-puedes-tocar-100-canciones-el-primer-mes/",
+    "/conexiones-midi-apps-y-aprendizaje/es-mejor-aprender-leyendo-partituras-tradicionales-cifrado-de-acordes-o-cascada-tipo-synthesia/",
+    "/conexiones-midi-apps-y-aprendizaje/que-soporte-de-ipad-o-tablet-usar-si-el-atril-de-tu-teclado-es-bajo/",
+    "/conexiones-midi-apps-y-aprendizaje/que-es-la-app-yamaha-rec-n-share-para-grabar-videos-tocando-el-piano-y-compartirlos/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-conectar-tu-teclado-o-piano-digital-a-una-tablet-o-celular-android-por-usb-otg.webp"
 }

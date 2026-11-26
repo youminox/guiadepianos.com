@@ -4,161 +4,120 @@
   "path": "/pedales-compatibles-y-polaridad/puedo-usar-un-pedal-con-medio-pedal-trs-en-un-teclado-de-61-teclas-que-solo-acepta-ts/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "usar pedal trs half damper en teclado basico ts",
   "title": "¿Funciona un Pedal de Medio Pedal (Roland DP-10 o Yamaha FC3A) en un Teclado Básico de 61 Teclas?",
-  "seoTitle": "¿Funciona un Pedal de Medio Pedal (Roland DP-10 o Yamaha FC3A) en un Teclado Básico de 61 Teclas? | Guía de Pianos",
-  "metaDescription": "¿Funciona un Pedal de Medio Pedal (Roland DP-10 o Yamaha FC3A) en un Teclado Básico de 61 Teclas?: El Roland DP-10 incluye un interruptor lateral ('Continuous / Switch') que lo adapta a cualquier teclado básico; en cambio, el Yamaha FC3A continuo puede no ser reconocido en teclados antiguos que solo aceptan FC4A/SP-2. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "El Roland DP-10 incluye un interruptor lateral ('Continuous / Switch') que lo adapta a cualquier teclado básico; en cambio, el Yamaha FC3A continuo puede no ser reconocido en teclados antiguos que solo aceptan FC4A/SP-2.",
-  "quickAnswer": "Sobre usar pedal trs half damper en teclado basico ts: El Roland DP-10 incluye un interruptor lateral ('Continuous / Switch') que lo adapta a cualquier teclado básico; en cambio, el Yamaha FC3A continuo puede no ser reconocido en teclados antiguos que solo aceptan FC4A/SP-2. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "¿Funciona un Pedal de Medio Pedal (Roland DP-10 o Yamaha FC3A) en un Teclado Básico de 61 Teclas? | guiadepianos.com",
+  "metaDescription": "¿Qué ocurre al conectar un pedal TRS como el Yamaha FC3A o Roland DP-10 en un teclado de 61 teclas con entrada TS? Guía de compatibilidad y soluciones.",
+  "excerpt": "Análisis eléctrico y práctico sobre el uso de pedales continuos TRS en teclados portátiles de 61 teclas con entrada TS: por qué el Yamaha FC3A falla en tomas básicas y cómo salva el problema el Roland DP-10.",
+  "quickAnswer": "Depende de si el pedal incluye un selector físico de modo. El **Roland DP-10** funciona sin problemas en teclados básicos de **61 teclas** con entrada **TS** porque incorpora un interruptor lateral para cambiar de lectura continua (**Continuous**) a interruptor simple (**Switch**). En cambio, el **Yamaha FC3A** carece de ese selector y, al conectarse a un puerto **TS** como el del **Yamaha PSR-E383**, suele provocar sustain invertido o bloqueo constante de las notas.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Eye-level realistic lifestyle photograph in a sunlit modern apartment: Home digital piano and keyboard tutorial illustrating ¿Funciona un Pedal de Medio Pedal (Roland DP-10 o Yamaha FC3A) en un Teclado Básico de 61 Teclas?: El Roland DP-10 incluye un interruptor lateral ('Continuous / Switch') que lo adapta a cualquier teclado básico; en cambio, el Yamaha FC3A continuo puede no ser reconocido en teclados antiguos que solo aceptan FC4A/SP-2., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, soft natural morning window daylight with gentle warm shadows. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating '¿Funciona un Pedal de Medio Pedal (Roland DP-10 o Yamaha FC3A) en un Teclado Básico de 61 Teclas?' (usar pedal trs half damper en teclado basico ts) for guiadepianos.com, featuring equipment in arctic white with warm stone-gray details, inside a bright contemporary apartment with minimalist decor, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "¿Funciona un Pedal de Medio Pedal (Roland DP-10 o Yamaha FC3A) en un Teclado Básico de 61 Teclas?"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **usar pedal trs half damper en teclado basico ts** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. El Roland DP-10 incluye un interruptor lateral ('Continuous / Switch') que lo adapta a cualquier teclado básico; en cambio, el Yamaha FC3A continuo puede no ser reconocido en teclados antiguos que solo aceptan FC4A/SP-2."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Pedales Compatibles Y Polaridad](/pedales-compatibles-y-polaridad/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Un error de compra muy habitual entre quienes se inician con un teclado de **61 teclas** como el **Yamaha PSR-E383** es adquirir directamente el pedal tope de gama de la marca —como el **Yamaha FC3A** con medio pedal— pensando en hacer una sola inversión que sirva también cuando más adelante den el salto a un piano de **88 teclas contrapesadas**. Sin embargo, al sacar el pedal de la caja y enchufarlo en la toma trasera del teclado básico, ocurre una sorpresa desagradable: el sustain se queda bloqueado de forma permanente o el pedal no responde al pisarlo."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: usar pedal trs half damper en teclado basico ts"
+      "text": "Por qué un conector TRS continuo desorienta a la entrada TS de un teclado portátil"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **usar pedal trs half damper en teclado basico ts**:"
+      "text": "La explicación es puramente eléctrica. El puerto **Sustain / Footswitch** de un teclado portátil de **61 teclas** está diseñado para recibir un conector **TS de 6.35 mm** (dos polos: punta y malla) que simplemente detecta si el circuito está abierto o cerrado en cortocircuito. Un pedal dedicado exclusivamente a medio pedal (**half-damper**), como el **Yamaha FC3A** o el **Korg DS-1H**, no contiene un interruptor mecánico, sino un potenciómetro variable soldado a una clavija **TRS** de tres contactos. Al introducir esa clavija **TRS** en la hembra **TS** del teclado básico, los contactos internos leen una resistencia fija intermedia en lugar de un cierre franco, provocando que el procesador interprete el pedal como pisado al **100 %** todo el tiempo o lo ignore por completo. Puedes revisar más detalles sobre conectores en nuestro [catálogo técnico de pedales compatibles y polaridad](/pedales-compatibles-y-polaridad/)."
+    },
+    {
+      "type": "h2",
+      "text": "La ventaja del interruptor Continuous/Switch en el Roland DP-10 frente al Yamaha FC3A"
+    },
+    {
+      "type": "p",
+      "text": "Aquí es donde el **Roland DP-10** marca una diferencia decisiva frente al **Yamaha FC3A**. Aunque ambos son pedales de medio pedal con clavija **TRS**, el **Roland DP-10** incorpora un pequeño selector físico en su costado izquierdo con dos posiciones: **Continuous** (para pianos de **88 teclas** con soporte half-damper) y **Switch** (para teclados con entrada **TS** estándar). Al deslizar el interruptor a **Switch**, el pedal anula su potenciómetro y pasa a comportarse como un interruptor normalmente cerrado, funcionando a la perfección en el **Yamaha PSR-E383** o en teclados **Casio** y **Alesis**. Además, incluye una alfombrilla de caucho desplegable para que el talón mismo sujete el pedal, la cual conservará su adherencia durante años si aplicas periódicamente [el método del paño húmedo para recuperar el agarre de la goma inferior](/pedales-compatibles-y-polaridad/como-limpiar-la-goma-antideslizante-de-la-base-del-pedal-para-que-recupere-su-agarre/). Cuando finalmente actualices tu equipo a un **Roland FP-10** o **FP-30X**, solo tendrás que devolver el selector a **Continuous** y personalizar [el volumen de resonancia de pedal Damper Resonance en las apps oficiales](/pedales-compatibles-y-polaridad/como-configurar-el-nivel-de-resonancia-de-pedal-damper-noise-en-la-app-del-piano/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: usar pedal trs half damper en teclado basico ts",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Modelo de pedal",
+        "Tipo de conector",
+        "¿Tiene selector Continuous / Switch?",
+        "¿Funciona en teclados básicos de 61 teclas (entrada TS)?"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "El Roland DP-10 incluye un interruptor lateral ('Continuous / Switch') que lo adapta a cualquier teclado básico; en cambio, el Yamaha FC3A continuo puede no ser reconocido en teclados antiguos que solo aceptan FC4A/SP-2.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Roland DP-10",
+          "TRS de 6.35 mm",
+          "Sí (conmutador lateral físico)",
+          "Sí, colocándolo en modo Switch"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Yamaha FC3A",
+          "TRS de 6.35 mm",
+          "No (solo lectura continua)",
+          "No (bloquea el sustain o no responde en el PSR-E383)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Yamaha FC4A",
+          "TS de 6.35 mm",
+          "No (interruptor puro N.C.)",
+          "Sí, 100 % compatible con Yamaha PSR-E383 y P-145 (sin medio pedal)"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Pedal universal (M-Audio SP-2 / Nektar NP-2)",
+          "TS de 6.35 mm",
+          "No (tiene selector de polaridad N.O./N.C.)",
+          "Sí, compatible con todas las marcas de 61 y 88 teclas (en modo on/off)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre usar pedal trs half damper en teclado basico ts",
-      "text": "El Roland DP-10 incluye un interruptor lateral ('Continuous / Switch') que lo adapta a cualquier teclado básico; en cambio, el Yamaha FC3A continuo puede no ser reconocido en teclados antiguos que solo aceptan FC4A/SP-2. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Compatibilidad de pedales de medio pedal (TRS) y pedales interruptores (TS) en teclados de 61 teclas"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar usar pedal trs half damper en teclado basico ts en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando usar pedal trs half damper en teclado basico ts en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Qué pedal elegir si hoy tienes un teclado de 61 teclas y planeas subir a 88 teclas"
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**Si tienes un Yamaha PSR-E383 y quieres un pedal original Yamaha:** elige el **Yamaha FC4A** (conector TS). No compres el **FC3A** para este teclado porque su circuito continuo TRS no es reconocido por la placa del PSR-E383.",
+        "**Si buscas un único pedal que hoy funcione en 61 teclas y mañana tenga medio pedal en 88 teclas:** el **Roland DP-10** es la opción más versátil gracias a su conmutador físico entre modo **Switch** y modo **Continuous**.",
+        "**Si utilizas el Casio Privia PX-S1100 o un teclado Casio de 61 teclas:** la entrada jack trasera de **6.35 mm** en ambos casos es de tipo **TS**, por lo que debes usar un pedal interruptor con polaridad seleccionable (o modo Switch) y no un pedal TRS puro.",
+        "**Si compartes el pedal entre distintas marcas en casa o en clases:** opta por un pedal metálico universal con interruptor de polaridad (**N.O. / N.C.**) en la base para corregir en un segundo cualquier inversión de sustain."
       ]
     },
     {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Nunca intentes solucionar la incompatibilidad de un **Yamaha FC3A** en un teclado básico colocando un adaptador de audio estéreo a mono (**TRS hembra a TS macho**). Ese adaptador simplemente pone en cortocircuito el anillo con la masa, pero el potenciómetro interno del pedal seguirá entregando una resistencia en ohmios que impide el cierre limpio que necesita el teclado.",
+      "title": "Por qué un adaptador TRS a TS no convierte al Yamaha FC3A en un pedal interruptor"
     },
     {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "cta",
+      "text": "Revisa el stock y las especificaciones actuales del Roland DP-10, el Yamaha FC4A y los pedales universales con selector en las tarjetas de Amazon integradas en esta guía, o consulta a nuestro Asesor IA si tienes dudas sobre la entrada trasera de tu teclado."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre usar pedal trs half damper en teclado basico ts?",
-      "a": "El Roland DP-10 incluye un interruptor lateral ('Continuous / Switch') que lo adapta a cualquier teclado básico; en cambio, el Yamaha FC3A continuo puede no ser reconocido en teclados antiguos que solo aceptan FC4A/SP-2. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Se puede dañar mi teclado de 61 teclas si conecto por error un pedal TRS como el Yamaha FC3A?",
+      "a": "No, no existe ningún riesgo de avería eléctrica. Los puertos de pedal trabajan con señales de control pasivas de muy bajo voltaje (generalmente entre 3.3 V y 5 V) sin potencia de audio; el único inconveniente es funcional, ya que las notas quedarán sostenidas sin control hasta que lo desconectes."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿El pedal Yamaha FC4A sirve también si más adelante compro un piano Yamaha P-145?",
+      "a": "Sí. El Yamaha FC4A funciona como un interruptor normalmente cerrado (conector TS) totalmente compatible con el Yamaha P-145. Tendrás un sustain limpio y fiable con lengüeta metálica pesada, con la única diferencia de que no dispondrás de graduación de medio pedal (half-damper)."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿El modo Switch del Roland DP-10 sirve para cualquier marca de teclado de 61 teclas?",
+      "a": "Los teclados Yamaha utilizan polaridad normalmente cerrada (N.C.), mientras que marcas como Casio suelen operar en normalmente abierta (N.O.). Si usas el Roland DP-10 en modo Switch en un teclado Casio y el sustain suena al revés, mantén pisado el pedal mientras enciendes el teclado o utiliza un pedal universal con selector de polaridad."
     }
   ],
   "related": [
-    "/pedales-compatibles-y-polaridad/",
-    "/pedales-compatibles-y-polaridad/para-que-sirven-los-3-pedales-del-piano-derecho-central-e-izquierdo/",
-    "/pedales-compatibles-y-polaridad/que-es-la-funcion-de-medio-pedal-half-damper-o-half-pedaling-y-que-pianos-la-tienen/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/pedales-compatibles-y-polaridad/como-limpiar-la-goma-antideslizante-de-la-base-del-pedal-para-que-recupere-su-agarre/",
+    "/pedales-compatibles-y-polaridad/se-puede-usar-el-pedal-de-sustain-para-pasar-paginas-de-partituras-en-el-ipad/",
+    "/pedales-compatibles-y-polaridad/como-configurar-el-nivel-de-resonancia-de-pedal-damper-noise-en-la-app-del-piano/",
+    "/pedales-compatibles-y-polaridad/se-puede-usar-un-pedal-de-sustain-en-dos-teclados-a-la-vez/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/puedo-usar-un-pedal-con-medio-pedal-trs-en-un-teclado-de-61-teclas-que-solo-acepta-ts.webp"
 }

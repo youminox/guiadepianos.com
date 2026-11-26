@@ -4,161 +4,134 @@
   "path": "/solucion-de-problemas-y-configuracion/como-desactivar-el-apagado-automatico-auto-power-off-en-yamaha-roland-y-casio/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como desactivar auto power off en piano digital yamaha roland casio",
   "title": "Cómo Desactivar la Función 'Auto Power Off' en Pianos Yamaha (Tecla La-1 al Encender), Roland y Casio",
-  "seoTitle": "Cómo Desactivar la Función 'Auto Power Off' en Pianos Yamaha (Tecla La-1 al Encender), Roland y Casio | Guía de Pianos",
-  "metaDescription": "Cómo Desactivar la Función 'Auto Power Off' en Pianos Yamaha (Tecla La-1 al Encender), Roland y Casio: En Yamaha mantén pulsada la tecla más grave de todas (La0) mientras presionas el botón de encendido; o desactívalo con un toque desde Smart Pianist / Roland Piano App. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "En Yamaha mantén pulsada la tecla más grave de todas (La0) mientras presionas el botón de encendido; o desactívalo con un toque desde Smart Pianist / Roland Piano App.",
-  "quickAnswer": "Sobre como desactivar auto power off en piano digital yamaha roland casio: En Yamaha mantén pulsada la tecla más grave de todas (La0) mientras presionas el botón de encendido; o desactívalo con un toque desde Smart Pianist / Roland Piano App. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Desactivar la Función 'Auto Power Off' en Pianos Yamaha (Tecla La-1 al Encender), Roland y Casio | guiadepianos.com",
+  "metaDescription": "Aprende cómo desactivar el apagado automático (Auto Power Off) en pianos Yamaha, Roland y Casio paso a paso usando combinaciones de teclas o menú LCD.",
+  "excerpt": "Evita que tu piano digital se apague en mitad de una clase o lectura de partitura: guía práctica con los atajos de teclado de Yamaha (tecla extrema izquierda), Roland FP-10/30X y Casio Privia.",
+  "quickAnswer": "Para desactivar el **Auto Power Off** de forma rápida en pianos digitales **Yamaha P-145** o **P-45**, apaga el instrumento y vuelve a encenderlo manteniendo presionada la primera tecla blanca de la izquierda (**La-1**). En los modelos **Roland FP-10** y **FP-30X**, mantén pulsado el botón **FUNCTION** y presiona la tecla asignada al modo **Off** (**La2**), mientras que en el **Casio Privia PX-S1100** se conmuta combinando **FUNCTION** con la tecla **La6**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Side-profile acoustic studio shot highlighting key travel and matte ebony/ivory texture: Home digital piano and keyboard tutorial illustrating Cómo Desactivar la Función 'Auto Power Off' en Pianos Yamaha (Tecla La-1 al Encender), Roland y Casio: En Yamaha mantén pulsada la tecla más grave de todas (La0) mientras presionas el botón de encendido; o desactívalo con un toque desde Smart Pianist / Roland Piano App., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, soft natural morning window daylight with gentle warm shadows. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Cómo Desactivar la Función 'Auto Power Off' en Pianos Yamaha (Tecla La-1 al Encender), Roland y Casio' (como desactivar auto power off en piano digital yamaha roland casio) for guiadepianos.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a matte dark-gray technical mat with measuring tools nearby, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Desactivar la Función 'Auto Power Off' en Pianos Yamaha (Tecla La-1 al Encender), Roland y Casio"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como desactivar auto power off en piano digital yamaha roland casio** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. En Yamaha mantén pulsada la tecla más grave de todas (La0) mientras presionas el botón de encendido; o desactívalo con un toque desde Smart Pianist / Roland Piano App."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Solucion De Problemas Y Configuracion](/solucion-de-problemas-y-configuracion/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Estás a mitad de una lección de lectura a primera vista: te detienes quince minutos para anotar la digitación con lápiz sobre la partitura o escuchar la explicación de tu profesor por videollamada y, cuando vuelves a posar las manos sobre el teclado, el instrumento está completamente mudo. No se trata de un fallo eléctrico ni de una desconexión del transformador, sino del temporizador europeo de ahorro energético **Auto Power Off** que viene activado de serie en todos los pianos digitales actuales. Si estás configurando tu instrumento por primera vez, puedes revisar nuestro [centro de solución de problemas y configuración](/solucion-de-problemas-y-configuracion/) para ajustar el comportamiento de encendido. A diferencia de un televisor, donde basta con tocar cualquier botón del control remoto, en pianos como el **Yamaha P-145**, el **Roland FP-10** o el **Casio Privia PX-S1100** este apagado automático corta la alimentación tras **15 a 30 minutos** de inactividad total (o apenas **6 minutos** cuando operas con baterías alcalinas en teclados portátiles), obligándote a esperar el ciclo de arranque y perdiendo ajustes temporales de metrónomo o capas si no habías guardado un respaldo en memoria."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como desactivar auto power off en piano digital yamaha roland casio"
+      "text": "Atajo de la Tecla La-1 en Pianos Yamaha y Comandos por Función en Roland y Casio"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como desactivar auto power off en piano digital yamaha roland casio**:"
+      "text": "En los pianos digitales de **88 teclas** sin pantalla LCD, los fabricantes asignan la desactivación del temporizador a una combinación física durante el arranque o mediante la matriz del botón **FUNCTION**. En el **Yamaha P-145** y su antecesor el **Yamaha P-45**, el método más directo consiste en apagar el piano, mantener presionada la primera tecla blanca del extremo izquierdo (**La-1 / A-1**) y pulsar el botón **Power** durante **2 segundos** hasta que el indicador LED quede fijo; a partir de ese momento, el piano permanecerá encendido indefinidamente incluso si se activa sin querer un patrón rítmico como explicamos en la guía sobre [cómo detener al instante la canción demo](/solucion-de-problemas-y-configuracion/por-que-suena-un-ritmo-o-cancion-demo-de-repente-y-como-detenerlo-al-instante/). Por su parte, en el **Roland FP-10** y el **Roland FP-30X** el ajuste se realiza con el piano ya encendido: mantén pulsado el botón **FUNCTION** y presiona la tecla **La2 (A2)** para fijar el temporizador en **Off**, o selecciona intervalos más largos como **240 minutos** pulsando **Do3 (C3)**. Si notas que tu teclado portátil se apaga antes del tiempo programado cuando lo usas sin enchufe, revisa antes los [síntomas de pilas bajas en un teclado portátil](/solucion-de-problemas-y-configuracion/como-saber-si-las-pilas-aa-de-tu-teclado-se-estan-agotando-distorsion-y-reinicios/), ya que una caída de tensión provoca un corte idéntico al ahorro de energía."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: como desactivar auto power off en piano digital yamaha roland casio",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Modelo de Piano / Teclado",
+        "Tiempo por Defecto (Corriente AC)",
+        "Comando Rápido para Desactivar (Off)",
+        "¿Se Guarda al Apagar?"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "En Yamaha mantén pulsada la tecla más grave de todas (La0) mientras presionas el botón de encendido; o desactívalo con un toque desde Smart Pianist / Roland Piano App.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Yamaha P-145 / Yamaha P-45 (88 teclas)",
+          "30 minutos",
+          "Con el piano apagado, mantener pulsada la tecla La-1 (A-1) y encender",
+          "Sí, queda memorizado en Backup"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Yamaha PSR-E383 / PSR-E373 (61 teclas)",
+          "30 minutos",
+          "Menú FUNCTION > AutoOff > OFF (o mantener tecla Do1 al encender)",
+          "Sí, se conserva en memoria flash"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Roland FP-10 / Roland FP-30X (88 teclas)",
+          "30 minutos (o 240 min según región)",
+          "Mantener pulsado FUNCTION + presionar tecla La2 (A2) o vía Roland Piano App",
+          "Sí, se guarda automáticamente"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
+          "Casio Privia PX-S1100 (88 teclas)",
+          "4 horas en AC / 6 minutos con pilas AA",
+          "Mantener botón táctil FUNCTION + pulsar tecla La6 (A6)",
+          "Temporal o permanente según Memory Backup"
         ],
         [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Casio Casiotone CT-S1 / CT-S300 (61 teclas)",
+          "4 horas en AC / 6 minutos con pilas AA",
+          "En CT-S300: FUNCTION > Other > Auto Power Off > Off; en CT-S1 vía combinación de tecla",
+          "Vuelve a 6 min en modo pilas por seguridad"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Diagnóstico técnico clave sobre como desactivar auto power off en piano digital yamaha roland casio",
-      "text": "En Yamaha mantén pulsada la tecla más grave de todas (La0) mientras presionas el botón de encendido; o desactívalo con un toque desde Smart Pianist / Roland Piano App. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Tiempo de fábrica y comando para desactivar Auto Power Off por marca y modelo"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar como desactivar auto power off en piano digital yamaha roland casio en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Pasos para Desactivar el Apagado Automático según Tu Tipo de Panel"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Pianos Yamaha de 88 teclas sin pantalla (P-145 y P-45)",
+          "text": "Asegúrate de que el piano esté apagado. Presiona y mantén abajo la tecla blanca más grave del extremo izquierdo (La-1) mientras pulsas el botón de encendido hasta que parpadee el LED de confirmación."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Teclados Yamaha de 61 teclas con pantalla LCD (PSR-E383)",
+          "text": "Con el teclado encendido, pulsa repetidamente el botón FUNCTION hasta localizar el parámetro AutoOff en la pantalla y presiona los botones +/YES o -/NO hasta que aparezca la palabra OFF."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "Pianos Roland con mecanismo PHA-4 (FP-10 y FP-30X)",
+          "text": "Enciende el piano, mantén presionado el botón FUNCTION en el panel izquierdo y pulsa la tecla blanca La2 (o abre la aplicación gratuita Roland Piano App por Bluetooth MIDI y cambia Auto Off a Disabled)."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Pianos ultradelgados Casio Privia PX-S1100",
+          "text": "Con el panel táctil iluminado, mantén presionado el sensor FUNCTION durante dos segundos hasta que suene el tono de acceso y pulsa la tecla blanca La6 en la octava aguda para conmutar el estado a Off."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cuándo Conviene Mantener Activo el Temporizador y Cuándo Deshabilitarlo"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Si utilizas tu **Casio Privia PX-S1100** o tu **Yamaha PSR-E383** alimentado por **6 pilas AA** alcalinas o recargables Ni-MH durante un ensayo fuera de casa, nunca desactives el **Auto Power Off**: dejar los amplificadores internos en reposo drenará el juego completo de baterías en menos de **4 a 6 horas** aunque no toques ninguna nota. En cambio, deshabilítalo siempre cuando conectes el piano por **USB MIDI** a un iPad o computadora con programas como Logic Pro, Cubase o aplicaciones de aprendizaje, ya que si el piano entra en suspensión en mitad de una sesión, el software perderá el puerto MIDI activo y tendrás que reiniciar la aplicación para que vuelva a reconocer las teclas.",
+      "title": "Advertencia sobre consumo de pilas y conexión USB MIDI a computadoras o iPad"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como desactivar auto power off en piano digital yamaha roland casio en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Buscas un piano digital con control total desde tu tablet o necesitas accesorios compatibles para tu estudio? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como desactivar auto power off en piano digital yamaha roland casio?",
-      "a": "En Yamaha mantén pulsada la tecla más grave de todas (La0) mientras presionas el botón de encendido; o desactívalo con un toque desde Smart Pianist / Roland Piano App. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Si desactivo el Auto Power Off y desenchufó el piano de la pared, tendré que configurarlo otra vez?",
+      "a": "Sí. Tanto en el **Yamaha P-145** como en el **Roland FP-10** y el **Yamaha PSR-E383**, el estado **Off** del apagado automático se almacena en la memoria no volátil de respaldo. Aunque desenchufes el cable de corriente de la pared, el instrumento recordará que desactivaste el temporizador hasta que lo reactives o hagas un reset de fábrica."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Cómo vuelvo a activar el apagado automático de 30 minutos en un piano Yamaha si cambio de opinión?",
+      "a": "Para volver a habilitar el ahorro de energía de **30 minutos** en un **Yamaha P-145** o **P-45**, puedes mantener presionado el botón **GRAND PIANO/FUNCTION** y pulsar la tecla asignada en el manual al temporizador estándar, cambiarlo con un toque desde la app **Yamaha Smart Pianist**, o ejecutar un restablecimiento de fábrica con la tecla **Do8**."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Por qué mi piano Casio se apaga a los 6 minutos en lugar de a las 4 horas?",
+      "a": "Cuando el **Casio Privia PX-S1100** o el **Casiotone CT-S1** detectan que están funcionando exclusivamente con **6 pilas AA** y no con el adaptador de pared de **12V** o **9.5V DC**, su microcontrolador reduce automáticamente la ventana de inactividad a **6 minutos** para proteger la carga de las baterías frente a olvidos."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/",
-    "/solucion-de-problemas-y-configuracion/como-hacer-un-factory-reset-restablecimiento-de-fabrica-en-pianos-yamaha-p-145-p-45-y-psr-e383/",
-    "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-se-apaga-solo-a-los-15-o-30-minutos-funcion-auto-power-off/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/solucion-de-problemas-y-configuracion/por-que-suena-un-ritmo-o-cancion-demo-de-repente-y-como-detenerlo-al-instante/",
+    "/solucion-de-problemas-y-configuracion/como-saber-si-las-pilas-aa-de-tu-teclado-se-estan-agotando-distorsion-y-reinicios/",
+    "/solucion-de-problemas-y-configuracion/como-activar-o-desactivar-el-pitido-beep-de-confirmacion-al-pulsar-botones-o-teclas-de-funcion/",
+    "/solucion-de-problemas-y-configuracion/que-hacer-si-el-bluetooth-audio-del-piano-tiene-cortes-o-interferencias-con-el-router-wifi/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-desactivar-el-apagado-automatico-auto-power-off-en-yamaha-roland-y-casio.webp"
 }

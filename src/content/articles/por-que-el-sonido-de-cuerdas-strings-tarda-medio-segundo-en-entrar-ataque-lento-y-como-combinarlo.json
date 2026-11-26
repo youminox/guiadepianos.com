@@ -4,161 +4,123 @@
   "path": "/solucion-de-problemas-y-configuracion/por-que-el-sonido-de-cuerdas-strings-tarda-medio-segundo-en-entrar-ataque-lento-y-como-combinarlo/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como tocar piano con cuerdas en modo dual layer",
   "title": "Ataque Percusivo (Piano) vs Ataque Suave de Arco (Cuerdas): Cómo Jugar con Ambos en el Modo Dual",
-  "seoTitle": "Ataque Percusivo (Piano) vs Ataque Suave de Arco (Cuerdas) | Guía de Pianos",
-  "metaDescription": "Ataque Percusivo (Piano) vs Ataque Suave de Arco (Cuerdas): Cómo Jugar con Ambos en el Modo Dual: En el modo Dual, si tocas notas rápidas en staccato solo oirás el piano, y cuando mantengas un acorde largo aparecerán majestuosamente los violines por detrás. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "En el modo Dual, si tocas notas rápidas en staccato solo oirás el piano, y cuando mantengas un acorde largo aparecerán majestuosamente los violines por detrás.",
-  "quickAnswer": "Sobre como tocar piano con cuerdas en modo dual layer: En el modo Dual, si tocas notas rápidas en staccato solo oirás el piano, y cuando mantengas un acorde largo aparecerán majestuosamente los violines por detrás. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
+  "seoTitle": "Ataque Percusivo (Piano) vs Ataque Suave de Arco (Cuerdas): Cómo Jugar con Ambos en el Modo Dual | guiadepianos.com",
+  "metaDescription": "Domina el modo Dual o Layer combinando el ataque percusivo del piano con la entrada lenta de las cuerdas (Strings) sin saturar la mezcla ni la polifonía.",
+  "excerpt": "Comprende por qué el timbre de cuerdas tarda entre 250 y 450 ms en desplegarse y aprende a controlar con la pulsación y el balance de capas cuándo debe sonar solo el piano o toda la orquesta.",
+  "quickAnswer": "El retraso de **250 a 450 milisegundos** en las voces de **Strings** no es un fallo de latencia, sino la envolvente de ataque lento (**Slow Attack**) que imita el roce gradual del arco sobre el violín. Al tocar piano con cuerdas en modo **Dual/Layer**, las notas cortas (*staccato*) disparan únicamente el martillo del piano (**2–5 ms**), mientras que las notas mantenidas dejan florecer el colchón orquestal de fondo.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Side-profile acoustic studio shot highlighting key travel and matte ebony/ivory texture: Home digital piano and keyboard tutorial illustrating Ataque Percusivo (Piano) vs Ataque Suave de Arco (Cuerdas): Cómo Jugar con Ambos en el Modo Dual: En el modo Dual, si tocas notas rápidas en staccato solo oirás el piano, y cuando mantengas un acorde largo aparecerán majestuosamente los violines por detrás., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, golden hour afternoon sunlight streaming into a cozy apartment. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Close-up ergonomic grip and control panel perspective in crisp daylight: realistic scene illustrating 'Ataque Percusivo (Piano) vs Ataque Suave de Arco (Cuerdas): Cómo Jugar con Ambos en el Modo Dual' (como tocar piano con cuerdas en modo dual layer) for guiadepianos.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a light terrazzo surface in a contemporary living space, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Ataque Percusivo (Piano) vs Ataque Suave de Arco (Cuerdas): Cómo Jugar con Ambos en el Modo Dual"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como tocar piano con cuerdas en modo dual layer** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. En el modo Dual, si tocas notas rápidas en staccato solo oirás el piano, y cuando mantengas un acorde largo aparecerán majestuosamente los violines por detrás."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Solucion De Problemas Y Configuracion](/solucion-de-problemas-y-configuracion/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Combinar un piano de cola con una sección de violines y violonchelos (**Grand Piano + Strings**) mediante el modo **Dual** o **Layer** es una de las funciones favoritas al estrenar un **Yamaha P-145**, un **Roland FP-30X**, un **Casio Privia PX-S1100** o un **Yamaha PSR-E383**. Sin embargo, muchos principiantes creen que su instrumento sufre un defecto de retardo cuando notan que, al pulsar una tecla, el piano suena de inmediato pero las cuerdas tardan casi **medio segundo** en aparecer. Lejos de ser un fallo electrónico, esa diferencia entre el golpe instantáneo del martillo y la entrada progresiva del arco es el secreto expresivo que separa una interpretación plana de un arreglo profesional."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como tocar piano con cuerdas en modo dual layer"
+      "text": "Física de la envolvente ADSR: ataque percusivo de 3 ms frente a ataque de arco de 350 ms"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como tocar piano con cuerdas en modo dual layer**:"
+      "text": "Cada timbre almacenado en la memoria de un piano digital está gobernado por una curva de volumen en el tiempo llamada envolvente **ADSR** (*Attack, Decay, Sustain, Release*). El sonido de piano acústico tiene un **ataque percusivo ultrarrápido de 2 a 5 milisegundos**: el fieltro del martillo golpea la cuerda al instante y, desde ese milisegundo inicial, el volumen empieza a caer (**Decay**) hasta extinguirse. Por el contrario, una sección orquestal de cuerdas (**Slow Strings** o **Ensemble Strings**) tiene un **ataque lento de entre 250 y 450 milisegundos** que reproduce el tiempo físico que tarda el arco de crin en vencer la inercia de la cuerda del violín, seguido de un **Sustain infinito** que mantiene el volumen constante mientras no sueltes la tecla. Si al sostener acordes graves con cuerdas escuchas un cosquilleo metálico externo, revisa [por qué vibra el atril o la carcasa al tocar cierta nota grave](/solucion-de-problemas-y-configuracion/por-que-se-escucha-una-vibracion-o-zumbido-en-el-atril-al-tocar-ciertas-notas-graves/)."
+    },
+    {
+      "type": "h2",
+      "text": "Cómo controlar con tus dedos cuándo suena solo el piano y cuándo entra la orquesta"
+    },
+    {
+      "type": "p",
+      "text": "Una vez que comprendes ese desfase de **300 a 400 ms**, puedes usar la duración de tus notas (*articulación*) como un interruptor natural sin tocar ningún botón del panel. Si ejecutas un pasaje melódico rápido o notas picadas (*staccato*) cuya duración sea inferior a **150 milisegundos**, levantarás el dedo antes de que la envolvente de las cuerdas alcance a abrirse; como resultado, el oyente escuchará **únicamente el piano limpio** sin emborronamiento orquestal. En cambio, cuando llegues al final de la frase y mantengas un acorde presionado durante más de **500 milisegundos**, las cuerdas emergerán suavemente por debajo del decaimiento del piano, rellenando el silencio con un colchón cálido."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: como tocar piano con cuerdas en modo dual layer",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Técnica en el teclado",
+        "Tiempo de pulsación de la tecla",
+        "Respuesta de la Capa 1 (Grand Piano)",
+        "Respuesta de la Capa 2 (Strings)"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "En el modo Dual, si tocas notas rápidas en staccato solo oirás el piano, y cuando mantengas un acorde largo aparecerán majestuosamente los violines por detrás.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Staccato o pasaje rápido de semicorcheas",
+          "50 ms a 140 ms",
+          "Suena el ataque completo del martillo (100 % audible)",
+          "Casi inaudible (se corta antes de completar su curva de ataque)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Pulsación media en melodía cantabile (negra a 90 BPM)",
+          "400 ms a 650 ms",
+          "Ataque claro al inicio y caída del 40 % del volumen",
+          "Alcanza su volumen pleno justo cuando el piano empieza a apagarse"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Acorde mantenido con pedal Damper en final de compás",
+          "Más de 1.500 ms (1,5 s)",
+          "Se desvanece progresivamente hacia el silencio",
+          "Permanece sonando de forma continua al 100 % de su nivel de Sustain"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Uso de voz Marcato Strings / Fast Strings (alternativa)",
+          "Desde 40 ms en adelante",
+          "Ataque simultáneo con las cuerdas",
+          "Entrada inmediata (40–70 ms) ideal para temas rápidos o rítmicos"
         ]
+      ],
+      "caption": "Comportamiento acústico de las dos capas en modo Dual/Layer según la técnica de ejecución"
+    },
+    {
+      "type": "h2",
+      "text": "3 ajustes esenciales para que las cuerdas no saturen tu modo Dual/Layer"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "**Baja el volumen de la segunda capa (Dual Balance) entre un 30 % y un 40 %:** Como las cuerdas no decaen con el tiempo, al valor de fábrica (**100**) terminan tapando al piano. En el **Roland FP-30X**, el **Yamaha P-145** o el **PSR-E383**, ajusta el balance de capas para que **Voice 2 (Strings)** quede en un nivel de **55 a 70** frente a **100–110** del piano principal.",
+        "**Elige entre Slow Strings y Fast/Marcato Strings según los BPM:** La mayoría de los pianos digitales incluyen dos variantes de cuerdas. Usa **Strings 1 / Slow Strings** (ataque de **350 ms**) para baladas lentas por debajo de **85 BPM**, y selecciona **Strings 2 / Chamber / Marcato** (ataque rápido de **50 a 80 ms**) cuando necesites que los violines marquen melodías rítmicas junto al piano.",
+        "**Limpia el pedal de sustain en cada cambio de acorde:** En modo Dual, cada tecla pulsada consume el doble de recursos del procesador (**2 voces por nota**). Si dejas el pedal pisado en un piano de **64 notas de polifonía**, agotarás las voces disponibles en pocos compases y además las cuerdas del acorde anterior seguirán sonando al infinito encima del acorde nuevo."
       ]
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Diagnóstico técnico clave sobre como tocar piano con cuerdas en modo dual layer",
-      "text": "En el modo Dual, si tocas notas rápidas en staccato solo oirás el piano, y cuando mantengas un acorde largo aparecerán majestuosamente los violines por detrás. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
-    },
-    {
-      "type": "h2",
-      "text": "Guía paso a paso para aplicar como tocar piano con cuerdas en modo dual layer en tu piano digital o teclado"
+      "variant": "fabricante",
+      "text": "En pianos compactos como el Yamaha P-145 o el Roland FP-10, puedes activar el modo Dual manteniendo pulsado el botón de función (Grand Piano/Function) y presionando simultáneamente las dos teclas asignadas a Piano y Strings. Al soltarlas, ambos timbres quedarán superpuestos al instante.",
+      "title": "Atajo de activación del modo Dual en pianos sin pantalla LCD"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
+      "text": "Si estás preparando una canción con piano y cuerdas para acompañar a un vocalista y necesitas cambiar la tonalidad sin aprender otra digitación, revisa [cómo usar la función Transpose (-6 a +6 semitonos)](/solucion-de-problemas-y-configuracion/para-que-sirve-la-funcion-transpose-transposicion-en-un-piano-digital-o-teclado/). Y si tras experimentar con el balance de capas deseas restaurar el equilibrio original del instrumento en segundos, sigue el método para [hacer un restablecimiento de fábrica en pianos Yamaha P-145, P-45 y PSR-E383](/solucion-de-problemas-y-configuracion/como-hacer-un-factory-reset-restablecimiento-de-fabrica-en-pianos-yamaha-p-145-p-45-y-psr-e383/) dentro de nuestra sección de [solución de problemas y configuración](/solucion-de-problemas-y-configuracion/)."
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como tocar piano con cuerdas en modo dual layer en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Quieres saber qué pianos digitales de 88 teclas ofrecen 192 o 256 notas de polifonía para tocar con Piano + Strings sin cortes de notas? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como tocar piano con cuerdas en modo dual layer?",
-      "a": "En el modo Dual, si tocas notas rápidas en staccato solo oirás el piano, y cuando mantengas un acorde largo aparecerán majestuosamente los violines por detrás. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Por qué cuando toco con Piano + Strings y piso el pedal todo suena confuso y desafinado al cambiar de acorde?",
+      "a": "Porque el pedal de sustain mantiene abierto el ciclo de Sustain infinito de la envolvente de las cuerdas. A diferencia del piano, que se apaga solo aunque mantengas el pedal abajo, las cuerdas seguirán sonando a pleno volumen hasta que levantes el pie del pedal en cada cambio armónico."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Cómo puedo bajar las cuerdas una octava en modo Dual para que no suenen tan chillonas en las notas agudas?",
+      "a": "En teclados como el Yamaha PSR-E383 o el Casio PX-S1100, abre el menú Function y busca el parámetro Dual Octave (o Layer Octave). Cámbialo de 0 a -1 para bajar las cuerdas una octava (sonido de violonchelos más cálido) sin alterar la altura del piano principal."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Tocar en modo Dual consume el doble de polifonía en un piano digital?",
+      "a": "Sí, consume exactamente el doble. Si cada nota de piano estéreo más cada nota de cuerdas estéreo utiliza 4 osciladores en total, en un piano de 64 notas de polifonía como el Yamaha P-145 tendrás un margen real de unas 16 a 32 teclas sostenidas simultáneamente con el pedal antes de que se recorten las notas más antiguas."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/",
-    "/solucion-de-problemas-y-configuracion/como-cambiar-el-compas-del-metronomo-de-4-4-a-3-4-vals-o-0-sin-campanita/",
-    "/solucion-de-problemas-y-configuracion/que-es-el-modo-pianist-style-o-full-keyboard-chord-detection-en-teclados-arranger/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/solucion-de-problemas-y-configuracion/como-hacer-un-factory-reset-restablecimiento-de-fabrica-en-pianos-yamaha-p-145-p-45-y-psr-e383/",
+    "/solucion-de-problemas-y-configuracion/para-que-sirve-la-funcion-transpose-transposicion-en-un-piano-digital-o-teclado/",
+    "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-no-enciende-4-comprobaciones-basicas-de-corriente-y-boton-power/",
+    "/solucion-de-problemas-y-configuracion/por-que-se-escucha-una-vibracion-o-zumbido-en-el-atril-al-tocar-ciertas-notas-graves/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/por-que-el-sonido-de-cuerdas-strings-tarda-medio-segundo-en-entrar-ataque-lento-y-como-combinarlo.webp"
 }

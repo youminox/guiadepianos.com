@@ -4,161 +4,126 @@
   "path": "/sensacion-al-tocar-y-tipos-de-tecla/por-que-una-tecla-suena-de-repente-al-maximo-volumen-aunque-la-toques-suave/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "por que una tecla del piano digital suena muy fuerte",
   "title": "Por Qué una Sola Tecla Se Dispara al Máximo Volumen (Velocity 127) Aunque la Pulses Despacio",
-  "seoTitle": "Por Qué una Sola Tecla Se Dispara al Máximo Volumen (Velocity 127) Aunque la Pulses Despacio | Guía de Pianos",
-  "metaDescription": "Por Qué una Sola Tecla Se Dispara al Máximo Volumen (Velocity 127) Aunque la Pulses Despacio: Ocurre cuando entra una mota de polvo en el primer contacto del sensor de goma, haciendo que el procesador crea que el tiempo entre el contacto A y B fue de 0 milisegundos (golpe máximo). Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Ocurre cuando entra una mota de polvo en el primer contacto del sensor de goma, haciendo que el procesador crea que el tiempo entre el contacto A y B fue de 0 milisegundos (golpe máximo).",
-  "quickAnswer": "Sobre por que una tecla del piano digital suena muy fuerte: Ocurre cuando entra una mota de polvo en el primer contacto del sensor de goma, haciendo que el procesador crea que el tiempo entre el contacto A y B fue de 0 milisegundos (golpe máximo). Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué una Sola Tecla Se Dispara al Máximo Volumen (Velocity 127) Aunque la Pulses Despacio | guiadepianos.com",
+  "metaDescription": "¿Una tecla de tu piano digital suena de golpe al máximo volumen (Velocity 127) al tocar suave? Te explicamos la falla del primer sensor y cómo resolverla.",
+  "excerpt": "Cuando una partícula de polvo bloquea el primer contacto de una tecla, ambos sensores cierran al mismo instante (Δt = 0) y el procesador dispara la nota al máximo volumen. Aprende a diagnosticarlo.",
+  "quickAnswer": "Una tecla se dispara al volumen máximo (**Velocity 127**) cuando una mota de polvo o pelusa impide que el **primer contacto superior** de la goma conductora cierre al iniciar el descenso. Al llegar al fondo, el primer y el segundo contacto se cierran prácticamente al mismo tiempo (**$\\Delta t \\approx 0\\text{ ms}$**), haciendo que el procesador interprete erróneamente que golpeaste la tecla a velocidad extrema.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Detailed close-up focusing on pianist hands, pedal action and studio headphones: Home digital piano and keyboard tutorial illustrating Por Qué una Sola Tecla Se Dispara al Máximo Volumen (Velocity 127) Aunque la Pulses Despacio: Ocurre cuando entra una mota de polvo en el primer contacto del sensor de goma, haciendo que el procesador crea que el tiempo entre el contacto A y B fue de 0 milisegundos (golpe máximo)., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Diagonal isometric product-in-use composition in modern home setting: realistic scene illustrating 'Por Qué una Sola Tecla Se Dispara al Máximo Volumen (Velocity 127) Aunque la Pulses Despacio' (por que una tecla del piano digital suena muy fuerte) for guiadepianos.com, featuring equipment in terracotta copper accent with matte slate body, in a clean modern garage or studio corner with slate flooring, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué una Sola Tecla Se Dispara al Máximo Volumen (Velocity 127) Aunque la Pulses Despacio"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **por que una tecla del piano digital suena muy fuerte** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Ocurre cuando entra una mota de polvo en el primer contacto del sensor de goma, haciendo que el procesador crea que el tiempo entre el contacto A y B fue de 0 milisegundos (golpe máximo)."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Sensacion Al Tocar Y Tipos De Tecla](/sensacion-al-tocar-y-tipos-de-tecla/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Estás tocando un preludio suave a medianoche, acariciando las teclas apenas con el peso de los dedos, cuando de pronto el **Fa sostenido central** estalla como un cañonazo al máximo volumen y brillo posibles, sobresaltándote incluso con el control de volumen general a la mitad. Lo vuelves a pulsar fuerte y responde normal; lo vuelves a pulsar muy despacio y, de nuevo, suena con una violencia desproporcionada. Este fenómeno —conocido técnicamente como **disparo a Velocity 127** o *runaway loud key*— es la falla más desconcertante que puede experimentar un estudiante en nuestra categoría de [sensación al tocar y tipos de tecla](/sensacion-al-tocar-y-tipos-de-tecla/), pero tiene una explicación física sumamente sencilla y rara vez significa que la electrónica de tu piano esté dañada."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: por que una tecla del piano digital suena muy fuerte"
+      "text": "La paradoja del tiempo cero ($\\Delta t \\approx 0$): por qué el polvo hace que una tecla suene más fuerte y no más débil"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **por que una tecla del piano digital suena muy fuerte**:"
+      "text": "El sentido común nos haría pensar que si entra una partícula de polvo debajo de una tecla, esta debería sonar más apagada o dejar de sonar. Sin embargo, ocurre exactamente lo opuesto cuando una microfibra textil, un pelo de mascota o un grano de polvo se aloja de forma selectiva bajo el **Contacto 1 (el interruptor superior de inicio)** de la goma conductora, dejando limpio el **Contacto 2 (el interruptor inferior de fin)**. Cuando bajas la tecla muy despacio, el Contacto 1 baja pero **no logra hacer contacto eléctrico a tiempo** por culpa de esa pelusa; solo cuando tu dedo llega al final del recorrido y aplasta con firmeza toda la cúpula de silicona, el Contacto 1 vence el obstáculo en el mismo microsegundo en que el Contacto 2 toca la placa. Al recibir ambas señales con una diferencia de tiempo casi nula (**$\\Delta t < 1\\text{ ms}$**), el procesador cree que bajaste la tecla a una velocidad sobrehumana y ordena disparar el nivel máximo de la escala MIDI (**Velocity 127**)."
+    },
+    {
+      "type": "h2",
+      "text": "Por qué el fallo aparece casi siempre al tocar suave con los dedos 4 y 5"
+    },
+    {
+      "type": "p",
+      "text": "Un detalle clínico que confunde a muchos pianistas es que la tecla defectuosa solo se dispara cuando tocan *pianissimo* o cuando la pulsan con el anular o el meñique, justo cuando trabajan en corregir [por qué los dedos 4 y 5 se sienten débiles al empezar](/sensacion-al-tocar-y-tipos-de-tecla/por-que-el-dedo-4-anular-y-5-menique-se-sienten-debiles-al-empezar-y-como-fortalecerlos/). Esto sucede porque, al pulsar con fuerza media o alta (*mezzo-forte*), la inercia del martillo aplasta el Contacto 1 con suficiente energía desde el primer instante, atravesando la mota de polvo a tiempo y marcando un intervalo normal. En cambio, en una pulsación lenta y delicada, la cúpula de goma desciende sin fuerza suficiente para cerrar el primer circuito hasta que hace tope al final del recorrido. También puede ocurrir si un exceso de grasa de los rieles se ha desplazado, algo que analizamos al ver si [influye la temperatura de la habitación en las teclas contrapesadas](/sensacion-al-tocar-y-tipos-de-tecla/influye-la-temperatura-de-la-habitacion-en-la-sensacion-de-las-teclas-contrapesadas/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: por que una tecla del piano digital suena muy fuerte",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Tipo de Pulsación del Pianista",
+        "Intervalo Real (Tecla Limpia)",
+        "Intervalo Leído (Contacto 1 Sucio)",
+        "Respuesta Sonora del Piano Digital"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Ocurre cuando entra una mota de polvo en el primer contacto del sensor de goma, haciendo que el procesador crea que el tiempo entre el contacto A y B fue de 0 milisegundos (golpe máximo).",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Pulsación muy suave (Pianissimo)",
+          "45 ms a 75 ms entre Contacto 1 y 2",
+          "0.2 ms (ambos cierran juntos al tocar fondo)",
+          "Explosión repentina a máximo volumen y brillo (Velocity 127)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Pulsación media (Mezzo-forte)",
+          "12 ms a 20 ms entre Contacto 1 y 2",
+          "14 ms (la fuerza vence el polvo del Contacto 1)",
+          "Sonido normal; el fallo parece desaparecer temporalmente"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Pulsación con Contacto 2 totalmente obstruido",
+          "4 ms a 60 ms según velocidad",
+          "Infinito (el Contacto 2 nunca cierra circuito)",
+          "Tecla completamente muda (Velocity 0) sin importar la fuerza"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre por que una tecla del piano digital suena muy fuerte",
-      "text": "Ocurre cuando entra una mota de polvo en el primer contacto del sensor de goma, haciendo que el procesador crea que el tiempo entre el contacto A y B fue de 0 milisegundos (golpe máximo). Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Comparativa de lecturas del procesador ante una tecla limpia frente a una tecla con el Contacto 1 obstruido"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar por que una tecla del piano digital suena muy fuerte en tu piano digital o teclado"
+      "text": "Qué hacer paso a paso para liberar el sensor sin abrir ni invalidar la garantía de tu piano"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Tanto si tocas en un teclado portátil de **61 teclas** como el **Yamaha PSR-E383** como si estudias en un piano de **88 teclas contrapesadas** como el **Yamaha P-145**, el **Roland FP-10**, el **Casio Privia PX-S1100** o el **Alesis Recital Pro / Donner DEP-20**, las tiras de goma conductora cuentan con un labio perimetral que las protege, pero una partícula microscópica puede desplazarse durante el transporte o por dejar el teclado destapado. Antes de acudir al servicio técnico, aplica este protocolo seguro desde el exterior:"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Paso 1: Percusión rítmica en seco con el piano apagado",
+          "text": "Apaga el piano digital y ejecuta **30 a 40 pulsaciones firmes y rápidas** en *staccato* sobre la tecla afectada. Al comprimirse y expandirse bruscamente, la propia cúpula de silicona actúa como un fuelle microscópico que expulsa el aire de su interior y suele desplazar la pelusa fuera de la pastilla de carbón del Contacto 1."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Paso 2: Soplado angular con pera de aire manual (sin químicos ni latas heladas)",
+          "text": "Baja con los dedos las dos teclas adyacentes a la tecla problema y utiliza una **pera de aire manual de fotografía** (o aire seco a distancia prudente sin inclinar el envase para no escupir líquido congelante) apuntando en diagonal por la hendidura lateral."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Paso 3: Prevención definitiva con funda guardapolvo y conexión USB-MIDI",
+          "text": "Verifica con una app conectada por **cable USB a tu iPad o tablet** que la curva de velocidad vuelva a subir gradualmente de **10 a 127**. A partir de ese día, cubre siempre las **61 u 88 teclas** con una funda impermeable al terminar cada sesión."
         }
       ]
     },
     {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Si tu piano digital —como un **Yamaha P-145**, **Roland FP-30X** o **Casio Privia PX-S1100**— se encuentra dentro del periodo de garantía oficial y la nota sigue disparándose a **Velocity 127** tras la percusión en seco, **no retires los tornillos de la carcasa inferior**. Abrir el chasis anula la cobertura del fabricante, mientras que el centro autorizado limpiará o sustituirá la tira de silicona de esa octava sin costo.",
+      "title": "Resguarda la garantía oficial de tu instrumento"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando por que una tecla del piano digital suena muy fuerte en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Encuentra en las tarjetas de Amazon de esta página las fundas guardapolvo impermeables para 61 y 88 teclas y los pianos digitales con chasis cerrado más confiables del catálogo, o consulta a nuestro Asesor IA para resolver cualquier duda sobre el tacto de tu teclado."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre por que una tecla del piano digital suena muy fuerte?",
-      "a": "Ocurre cuando entra una mota de polvo en el primer contacto del sensor de goma, haciendo que el procesador crea que el tiempo entre el contacto A y B fue de 0 milisegundos (golpe máximo). Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Bajar la sensibilidad al tacto (Touch Sensitivity) en el menú soluciona el disparo a Velocity 127?",
+      "a": "Cambiar la curva de sensibilidad a 'Fixed' (fija) hará que todas las teclas suenen exactamente al mismo volumen medio sin importar cómo las toques. Aunque evita el susto del salto a Velocity 127, anula por completo la expresividad dinámica necesaria para tocar piano, por lo que solo sirve como parche de emergencia."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Es seguro soplar con la boca o inclinar una lata de aire comprimido entre las teclas?",
+      "a": "Jamás. La humedad y las sales minerales de la saliva aceleran la oxidación de las pistas de la placa PCB, y el gas propelente líquido que sueltan las latas de aire comprimido cuando se inclinan puede congelar y agrietar la membrana de silicona bajo las teclas."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué pianos digitales están mejor protegidos de fábrica contra este problema de polvo en los sensores?",
+      "a": "Los modelos con teclas tipo caja cerrada (como el Yamaha P-145, Roland FP-10 y Casio Privia PX-S1100) y fieltros superiores antipolvo bloquean mucho mejor la entrada de pelusa que los teclados económicos con frente abierto, aunque usar una funda textil al terminar de tocar sigue siendo indispensable en todos."
     }
   ],
   "related": [
-    "/sensacion-al-tocar-y-tipos-de-tecla/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/por-que-el-dedo-4-anular-y-5-menique-se-sienten-debiles-al-empezar-y-como-fortalecerlos/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/comparativa-del-sonido-mecanico-de-las-teclas-ghc-vs-pha-4-vs-smart-scaled-vs-rhc/",
     "/sensacion-al-tocar-y-tipos-de-tecla/diferencia-entre-teclado-de-76-teclas-graded-soft-touch-yamaha-y-88-contrapesadas/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/como-saber-si-la-goma-de-contacto-bajo-una-tecla-esta-gastada-o-sucia/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/sensacion-al-tocar-y-tipos-de-tecla/influye-la-temperatura-de-la-habitacion-en-la-sensacion-de-las-teclas-contrapesadas/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/por-que-una-tecla-suena-de-repente-al-maximo-volumen-aunque-la-toques-suave.webp"
 }

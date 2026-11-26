@@ -4,161 +4,118 @@
   "path": "/pedales-compatibles-y-polaridad/que-hacer-si-el-pedal-de-sustain-aparece-invertido-dentro-de-garageband-o-logic-pro/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "pedal de sustain invertido en midi daw garageband",
   "title": "Por Qué el Pedal Funciona Bien en los Altavoces del Piano pero Sale Invertido en tu DAW (y Cómo Corregirlo)",
-  "seoTitle": "Por Qué el Pedal Funciona Bien en los Altavoces del Piano pero Sale Invertido en tu DAW (y Cómo Corregirlo) | Guía de Pianos",
-  "metaDescription": "Por Qué el Pedal Funciona Bien en los Altavoces del Piano pero Sale Invertido en tu DAW (y Cómo Corregirlo): Significa que el piano compensó la polaridad al encenderse pero envía el valor crudo por MIDI; mueve el interruptor inferior del M-Audio SP-2 y apaga/enciende el piano. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Significa que el piano compensó la polaridad al encenderse pero envía el valor crudo por MIDI; mueve el interruptor inferior del M-Audio SP-2 y apaga/enciende el piano.",
-  "quickAnswer": "Sobre pedal de sustain invertido en midi daw garageband: Significa que el piano compensó la polaridad al encenderse pero envía el valor crudo por MIDI; mueve el interruptor inferior del M-Audio SP-2 y apaga/enciende el piano. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
+  "seoTitle": "Por Qué el Pedal Funciona Bien en los Altavoces del Piano pero Sale Invertido en tu DAW (y Cómo Corregirlo) | guiadepianos.com",
+  "metaDescription": "Soluciona el fallo del pedal de sustain invertido en MIDI DAW GarageBand o Logic Pro cuando tu piano suena bien por altavoces pero envía CC 64 al revés.",
+  "excerpt": "A veces el motor interno del teclado autocompensa la polaridad del pedal al arrancar, pero transmite por USB los valores crudos 127 en reposo y 0 al pisar. Aprende a corregirlo desde el hardware o tu DAW.",
+  "quickAnswer": "Tener el **pedal de sustain invertido en MIDI DAW GarageBand** mientras suena bien en los altavoces ocurre cuando el teclado corrige la lectura en su motor interno, pero exporta por **USB-MIDI** el estado crudo del circuito (**CC 64 = 127** en reposo y **0** al pisar). Para resolverlo, apaga el piano, cambia el interruptor físico del pedal entre **N.O.** y **N.C.**, y enciéndelo sin apoyar el pie.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Macro close-up shot with shallow depth of field (85mm f/2.8 lens): Home digital piano and keyboard tutorial illustrating Por Qué el Pedal Funciona Bien en los Altavoces del Piano pero Sale Invertido en tu DAW (y Cómo Corregirlo): Significa que el piano compensó la polaridad al encenderse pero envía el valor crudo por MIDI; mueve el interruptor inferior del M-Audio SP-2 y apaga/enciende el piano., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Close-up ergonomic grip and control panel perspective in crisp daylight: realistic scene illustrating 'Por Qué el Pedal Funciona Bien en los Altavoces del Piano pero Sale Invertido en tu DAW (y Cómo Corregirlo)' (pedal de sustain invertido en midi daw garageband) for guiadepianos.com, featuring equipment in arctic white with warm stone-gray details, on a matte dark-gray technical mat with measuring tools nearby, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué el Pedal Funciona Bien en los Altavoces del Piano pero Sale Invertido en tu DAW (y Cómo Corregirlo)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **pedal de sustain invertido en midi daw garageband** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Significa que el piano compensó la polaridad al encenderse pero envía el valor crudo por MIDI; mueve el interruptor inferior del M-Audio SP-2 y apaga/enciende el piano."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Pedales Compatibles Y Polaridad](/pedales-compatibles-y-polaridad/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Estás practicando con los altavoces integrados de tu teclado de **61 o 88 teclas** y el pedal derecho responde a la perfección: sostienes los acordes al bajar el pie y el sonido se apaga limpio al levantarlo. Sin embargo, conectas el cable USB a tu Mac o iPad, cargas el Steinway de **GarageBand** o **Logic Pro**, y de pronto ocurre algo desconcertante: todas las notas quedan resonando infinitamente sin que toques el pedal, y solo se silencian cuando lo pisas a fondo. Sufrir un **pedal de sustain invertido en MIDI DAW GarageBand** mientras el sonido local del teclado funciona bien no es un fallo de tu computadora ni un virus del cable USB; es una discrepancia entre la autocalibración de arranque del teclado y la tabla de valores **MIDI CC 64** que el puerto USB exporta al exterior. Para dominar la base de este sistema, puedes consultar nuestro [centro de recursos sobre pedales y polaridad](/pedales-compatibles-y-polaridad/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: pedal de sustain invertido en midi daw garageband"
+      "text": "La Paradoja del Auto-Sensing: Por Qué el Motor Interno Corrige lo que el Puerto USB Envía Crudo"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **pedal de sustain invertido en midi daw garageband**:"
+      "text": "Varios teclados portátiles y pianos digitales económicos (incluidos modelos de iniciación como el **Alesis Recital Pro**, el **Donner DEP-20** o controladores con detección automática al encendido) leen el estado del jack de **6.35 mm** durante el primer segundo de arranque y lo toman como \"punto cero\" para su chip de sonido interno. El problema aparece cuando el pedal físico está configurado en la polaridad opuesta a la que espera la salida MIDI nativa del fabricante: el generador de audio de los altavoces invierte lógicamente la señal para que no notes nada raro, pero el bus **USB-MIDI** transmite el valor eléctrico sin invertir (`CC 64 = 127` con el pedal arriba y `CC 64 = 0` con el pedal abajo). Si revisas la [tabla oficial de polaridad de pedales por marca](/pedales-compatibles-y-polaridad/tabla-de-polaridad-de-pedales-por-marca-yamaha-roland-casio-kawai-korg-y-alesis/) y entiendes la [diferencia entre conectores TS de 2 polos y TRS de 3 polos](/pedales-compatibles-y-polaridad/diferencia-entre-conector-ts-2-polos-on-off-y-trs-3-polos-medio-pedal/), verás que basta con sincronizar el interruptor físico del pedal con la arquitectura de tu marca para que tanto los altavoces como **GarageBand** hablen el mismo idioma."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: pedal de sustain invertido en midi daw garageband",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Comportamiento en altavoces del piano",
+        "Lectura en GarageBand / Logic Pro (CC 64)",
+        "Causa técnica exacta",
+        "Solución inmediata"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Significa que el piano compensó la polaridad al encenderse pero envía el valor crudo por MIDI; mueve el interruptor inferior del M-Audio SP-2 y apaga/enciende el piano.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Normal (sostiene al pisar)",
+          "Invertido (graba 127 en reposo y 0 al pisar)",
+          "Autocalibración local activada con conmutador N.O./N.C. opuesto al bus MIDI",
+          "Apagar piano, cambiar switch bajo el pedal y reiniciar sin pisar"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Invertido (sostiene sin pisar)",
+          "Invertido (sostiene sin pisar en el VST)",
+          "Interruptor de polaridad incorrecto o encendido con el pie sobre el pedal",
+          "Cambiar switch N.O./N.C. o reiniciar con el pie fuera del pedal"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Normal y con medio pedal gradual",
+          "Saltos erráticos entre 0 y valores medios",
+          "Pedal continuo TRS enchufado en puerto o DAW configurado para switch TS",
+          "Ajustar tipo de pedal Damper en el menú System del piano"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre pedal de sustain invertido en midi daw garageband",
-      "text": "Significa que el piano compensó la polaridad al encenderse pero envía el valor crudo por MIDI; mueve el interruptor inferior del M-Audio SP-2 y apaga/enciende el piano. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Diagnóstico rápido de polaridad entre los altavoces del piano y la pista MIDI del DAW"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar pedal de sustain invertido en midi daw garageband en tu piano digital o teclado"
+      "text": "Cómo Saber en el Piano Roll de GarageBand si tus Datos CC 64 Se Grabaron al Revés"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "Si ya grabaste una toma magistral en **GarageBand** o **Logic Pro** y al reproducirla suena emborronada, abre el editor **Piano Roll** (tecla `P` o icono de tijeras), despliega el carril inferior de **Automatización MIDI** y selecciona **Sustain (CC 64)**. En una grabación sana, la línea permanece pegada al suelo en valor **0** y sube a **127** formando escalones únicamente debajo de cada acorde; si ves una meseta alta continua en **127** con breves caídas a **0**, tu pedal estuvo enviando la señal invertida durante toda la sesión.",
+      "title": "Inspección visual de la línea de automatización CC 64"
+    },
+    {
+      "type": "h2",
+      "text": "Pasos para Corregir el Pedal Invertido en tu DAW y Rescatar una Grabación Existente"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Sincroniza el hardware con el teclado apagado",
+          "text": "Cierra o pausa tu pista en el DAW y apaga el botón de encendido del piano digital. Voltea tu pedal universal (como el **M-Audio SP-2**), desliza el interruptor inferior a la otra posición (**N.O.** o **N.C.**) y enciende el piano sin apoyar el pie en la lengüeta."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Verifica el parámetro Polarity en el menú del teclado",
+          "text": "Si usas un pedal fijo sin botón inferior en un teclado con pantalla LCD, entra al menú **Function / System -> Pedal Polarity** y cámbialo de **Standard (+)** a **Reverse (-)** para que el puerto USB-MIDI invierta la salida de datos desde el origen."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Usa el Transformador MIDI en Logic Pro para invertir pistas ya grabadas",
+          "text": "Si no quieres repetir una toma que ya quedó grabada al revés en **Logic Pro**, abre la región MIDI, ve a **Funciones -> Transformador MIDI -> Creación de usuario**, filtra por `Control = 64` y aplica la operación **Invertir (Flip / Reverse)** sobre el valor de datos para convertir todos los **127** en **0** y viceversa en un clic."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando pedal de sustain invertido en midi daw garageband en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Tu pedal actual no tiene interruptor de polaridad y te da problemas al grabar por USB en tu computadora o iPad? Consulta a nuestro Asesor IA o revisa la disponibilidad de pedales universales con conmutador N.O./N.C. en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre pedal de sustain invertido en midi daw garageband?",
-      "a": "Significa que el piano compensó la polaridad al encenderse pero envía el valor crudo por MIDI; mueve el interruptor inferior del M-Audio SP-2 y apaga/enciende el piano. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Puedo invertir la polaridad del pedal de sustain directamente dentro de GarageBand para iPad?",
+      "a": "GarageBand en iOS y iPadOS no incluye un botón para invertir el canal CC 64 dentro de la app; la corrección debe hacerse físicamente moviendo el interruptor N.O./N.C. situado en la base de goma del pedal y reiniciando el teclado antes de abrir la sesión."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Por qué ayer mi pedal grababa bien en mi DAW y hoy apareció invertido sin que nadie tocara el interruptor?",
+      "a": "Sucede cuando apagas y vuelves a encender el teclado mientras tenías la punta del zapato apoyada sobre la lengüeta metálica. El sistema de autodetección lee el circuito cerrado al arrancar y asume erróneamente que esa es la posición de reposo."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Los plugins VST de piano permiten corregir un pedal invertido por software sin tocar el teclado?",
+      "a": "Sí. En motores virtuales profesionales como Pianoteq, Kontakt o Keyscape, puedes abrir la pestaña de calibración de pedales (Pedal Calibration / Curve) e invertir la curva de entrada CC 64 arrastrando el nodo izquierdo arriba (127) y el nodo derecho abajo (0)."
     }
   ],
   "related": [
-    "/pedales-compatibles-y-polaridad/",
-    "/pedales-compatibles-y-polaridad/diferencia-entre-pedal-damper-optico-y-potenciometro-en-pianos-digitales/",
-    "/pedales-compatibles-y-polaridad/funciona-el-pedal-de-sustain-cuando-conectas-el-piano-por-usb-midi-a-simply-piano-o-garageband/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/pedales-compatibles-y-polaridad/para-que-sirve-el-pedal-de-sustain-damper-en-un-piano-digital-o-teclado/",
+    "/pedales-compatibles-y-polaridad/tabla-de-polaridad-de-pedales-por-marca-yamaha-roland-casio-kawai-korg-y-alesis/",
+    "/pedales-compatibles-y-polaridad/diferencia-entre-conector-ts-2-polos-on-off-y-trs-3-polos-medio-pedal/",
+    "/pedales-compatibles-y-polaridad/para-que-sirven-los-3-pedales-del-piano-derecho-central-e-izquierdo/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-hacer-si-el-pedal-de-sustain-aparece-invertido-dentro-de-garageband-o-logic-pro.webp"
 }

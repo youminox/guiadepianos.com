@@ -4,161 +4,126 @@
   "path": "/sensacion-al-tocar-y-tipos-de-tecla/como-saber-si-la-goma-de-contacto-bajo-una-tecla-esta-gastada-o-sucia/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como funcionan los sensores de goma bajo las teclas del piano",
   "title": "Cómo Funcionan las Cúpulas de Goma Conductora Bajo las Teclas que Miden la Velocidad de tu Pulsación",
-  "seoTitle": "Cómo Funcionan las Cúpulas de Goma Conductora Bajo las Teclas que Miden la Velocidad de tu Pulsación | Guía de Pianos",
-  "metaDescription": "Cómo Funcionan las Cúpulas de Goma Conductora Bajo las Teclas que Miden la Velocidad de tu Pulsación: Bajo cada tecla hay dos pequeños domos de silicona de distinta altura: al bajar la tecla, cierra primero el contacto A y milisegundos después el B; esa diferencia de tiempo calcula el volumen. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Bajo cada tecla hay dos pequeños domos de silicona de distinta altura: al bajar la tecla, cierra primero el contacto A y milisegundos después el B; esa diferencia de tiempo calcula el volumen.",
-  "quickAnswer": "Sobre como funcionan los sensores de goma bajo las teclas del piano: Bajo cada tecla hay dos pequeños domos de silicona de distinta altura: al bajar la tecla, cierra primero el contacto A y milisegundos después el B; esa diferencia de tiempo calcula el volumen. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
+  "seoTitle": "Cómo Funcionan las Cúpulas de Goma Conductora Bajo las Teclas que Miden la Velocidad de tu Pulsación | guiadepianos.com",
+  "metaDescription": "Descubre cómo las cúpulas de goma conductora con pastillas de carbón miden la velocidad de pulsación en tu piano digital y cómo detectar desgaste o polvo.",
+  "excerpt": "Los pianos digitales no miden la fuerza del dedo, sino los microsegundos que tardan en cerrarse dos o tres contactos escalonados de silicona. Aprende cómo operan y cuándo requieren mantenimiento.",
+  "quickAnswer": "Los sensores bajo las teclas no miden presión, sino **tiempo ($\\Delta t$)**: cada tecla comprime una cúpula de silicona con **dos o tres pastillas de carbón conductor** de distinta altura que cierran circuitos secuenciales en la placa PCB. Cuanto menor es el intervalo en milisegundos entre el primer y el último contacto, mayor es la velocidad MIDI enviada al motor de sonido; si una cúpula acumula polvo o se agrieta, esa lectura falla.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Overhead angled composition showcasing keyboard layout, music rest and accessories (35mm lens): Home digital piano and keyboard tutorial illustrating Cómo Funcionan las Cúpulas de Goma Conductora Bajo las Teclas que Miden la Velocidad de tu Pulsación: Bajo cada tecla hay dos pequeños domos de silicona de distinta altura: al bajar la tecla, cierra primero el contacto A y milisegundos después el B; esa diferencia de tiempo calcula el volumen., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, golden hour afternoon sunlight streaming into a cozy apartment. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Cómo Funcionan las Cúpulas de Goma Conductora Bajo las Teclas que Miden la Velocidad de tu Pulsación' (como funcionan los sensores de goma bajo las teclas del piano) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, on a clean stone countertop with neatly arranged accessories, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Funcionan las Cúpulas de Goma Conductora Bajo las Teclas que Miden la Velocidad de tu Pulsación"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como funcionan los sensores de goma bajo las teclas del piano** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Bajo cada tecla hay dos pequeños domos de silicona de distinta altura: al bajar la tecla, cierra primero el contacto A y milisegundos después el B; esa diferencia de tiempo calcula el volumen."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Sensacion Al Tocar Y Tipos De Tecla](/sensacion-al-tocar-y-tipos-de-tecla/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Existe un mito muy extendido entre quienes compran su primer instrumento en nuestra guía de [sensación al tocar y tipos de tecla](/sensacion-al-tocar-y-tipos-de-tecla/): creer que debajo de cada tecla hay una diminuta báscula que mide cuántos gramos de fuerza ejerce tu dedo al llegar al fondo. En realidad, ningún piano digital moderno —desde un teclado portátil de **61 teclas** como el **Yamaha PSR-E383** hasta un piano de **88 teclas contrapesadas** como el **Yamaha P-145** o el **Roland FP-30X**— mide presión estática. Lo que el instrumento mide con precisión de microsegundos es **la velocidad de descenso de la tecla** a través de tiras de cúpulas de goma de silicona (*rubber contact strips*) alojadas sobre la placa electrónica inferior."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como funcionan los sensores de goma bajo las teclas del piano"
+      "text": "El cronómetro invisible: cómo dos o tres pastillas de carbón calculan tu velocidad MIDI"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como funcionan los sensores de goma bajo las teclas del piano**:"
+      "text": "Debajo de cada tecla (o de su respectivo martillo basculante) descansa una burbuja flexible de silicona que contiene en su techo interior **dos o tres pequeños cilindros negros de carbón conductor** moldeados a alturas ligeramente distintas, con un escalonamiento típico de **0.4 mm a 0.8 mm**. Cuando empiezas a bajar una tecla, la cúpula se deforma y la pastilla de carbón más larga toca primero las pistas entrelazadas de la placa PCB, cerrando el **Circuito 1** e iniciando un cronómetro digital en el microcontrolador. Fracciones de segundo después, cuando la tecla llega al [fieltro amortiguador del fondo del teclado](/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-fondo-de-tecla-keybed-fieltro-amortiguador-y-como-cuidarlo/), la pastilla más corta toca la placa, cierra el **Circuito 2** y detiene el reloj: si el intervalo ($\\Delta t$) fue de apenas **2 a 4 milisegundos**, el procesador dispara una nota en *fortissimo* (**velocidad MIDI 120–127**); si tardaste **60 milisegundos**, reproduce una muestra suave en *pianissimo*."
+    },
+    {
+      "type": "h2",
+      "text": "Sistemas de 2 sensores frente a 3 sensores (GHC vs PHA-4 Standard)"
+    },
+    {
+      "type": "p",
+      "text": "La diferencia técnica entre un mecanismo de **2 sensores** (como el **GHC del Yamaha P-145** o el sistema del **Alesis Recital Pro / Donner DEP-20**) y uno de **3 sensores** (como el **PHA-4 Standard** de los **Roland FP-10** y **Roland FP-30X**) radica en una tercera pastilla de carbón situada a media altura dentro de la misma cúpula de goma. Con solo dos contactos, necesitas levantar la tecla casi hasta su posición inicial de reposo para que el primer contacto se abra y permita repetir la misma nota; en cambio, la tercera pastilla intermedia detecta el reataque a mitad de recorrido, facilitando trinos veloces al igual que el doble escape de un piano de cola acústico."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: como funcionan los sensores de goma bajo las teclas del piano",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Síntoma al Tocar la Tecla",
+        "Lo que Ocurre en la Cúpula de Silicona / PCB",
+        "Estado Físico del Componente",
+        "Solución Técnica Recomendada"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Bajo cada tecla hay dos pequeños domos de silicona de distinta altura: al bajar la tecla, cierra primero el contacto A y milisegundos después el B; esa diferencia de tiempo calcula el volumen.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "La tecla suena de golpe al máximo volumen (Velocity 127) al tocar suave",
+          "Polvo o pelusa aísla el Contacto 1; ambos contactos cierran al mismo instante (Δt ≈ 0)",
+          "Suciedad superficial; silicona intacta",
+          "Proteger con funda; limpieza en seco o con alcohol isopropílico al 99 % sobre la PCB"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "La tecla requiere golpear muy fuerte para que suene o falla a veces",
+          "Desgaste de la película de carbón conductor en el Contacto 2 o grasa migrada a la pista",
+          "Pérdida de conductividad en la pastilla inferior",
+          "Limpieza suave de la pista de grafito en la PCB o reemplazo de la tira de goma de 12 notas"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "La tecla se siente esponjosa en el fondo y tarda en rearmar la nota repetida",
+          "Fatiga elástica o grieta en la pared lateral de la falda de silicona tras años de uso",
+          "Rotura mecánica de la membrana de goma",
+          "Sustitución del bloque de goma de esa octava (vienen en tiras modulares de 12 o 13 teclas)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre como funcionan los sensores de goma bajo las teclas del piano",
-      "text": "Bajo cada tecla hay dos pequeños domos de silicona de distinta altura: al bajar la tecla, cierra primero el contacto A y milisegundos después el B; esa diferencia de tiempo calcula el volumen. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Diagnóstico técnico de síntomas en las cúpulas de goma conductora bajo las teclas"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar como funcionan los sensores de goma bajo las teclas del piano en tu piano digital o teclado"
+      "text": "Cómo distinguir si la goma de contacto de una tecla está sucia o rota por fatiga"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Dado que las tiras de silicona están diseñadas para soportar millones de ciclos de flexión, la gran mayoría de fallos en los primeros años no se deben a roturas del material, sino a partículas que se cuelan entre las teclas y provocan [que una sola tecla se dispare al máximo volumen aunque la pulses despacio](/sensacion-al-tocar-y-tipos-de-tecla/por-que-una-tecla-suena-de-repente-al-maximo-volumen-aunque-la-toques-suave/). Para diagnosticar tu teclado sin desmontarlo, sigue estos tres pasos de verificación:"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Paso 1: Prueba de comparación cromática lenta (pianissimo)",
+          "text": "Pulsa la tecla sospechosa y sus dos teclas vecinas con la misma lentitud extrema. Si la tecla vecina suena suave pero la sospechosa permanece muda hasta que presionas fuerte, el **segundo contacto inferior** tiene polvo o pérdida de carbón; si estalla a máximo volumen de repente, el bloqueado es el **primer contacto superior**."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Paso 2: Verificación del rebote mecánico en silencio (piano apagado)",
+          "text": "Con el piano apagado, presiona la tecla hasta el fondo y suéltala. Si sube exactamente a la misma velocidad y altura que las demás, el martillo y la pared de la cúpula de silicona están íntegros: el problema es **100 % suciedad en el contacto eléctrico**."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Paso 3: Monitoreo de lectura MIDI en iPad o computadora",
+          "text": "Conecta tu piano por cable **USB-MIDI** a una tablet o PC y abre cualquier monitor MIDI gratuito. Si al tocar diez veces con fuerza media obtienes valores coherentes (**velocidad 60–75**) en todas las teclas salvo saltos erráticos a **127** o **0** en una sola nota, esa cúpula específica necesita limpieza."
         }
       ]
     },
     {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Nunca rocíes limpiadores de contactos aceitosos ni lubricantes multiusos por las rendijas entre las teclas blancas y negras. Los solventes derivados del petróleo hinchan y deforman la goma de silicona en cuestión de minutos y disuelven la pintura conductora de carbón de la placa PCB, inutilizando toda la octava. El mejor mantenimiento preventivo es colocar una **funda guardapolvo impermeable** cada vez que termines de tocar.",
+      "title": "Prohibido aplicar aerosoles lubricantes entre las teclas"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como funcionan los sensores de goma bajo las teclas del piano en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Consulta en las tarjetas de Amazon de esta página los pianos digitales con mecanismos sellados de alta durabilidad como el Yamaha P-145 y el Roland FP-10, además de fundas guardapolvo de ajuste exacto, o escribe a nuestro Asesor IA si necesitas ayuda para diagnosticar tu teclado."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como funcionan los sensores de goma bajo las teclas del piano?",
-      "a": "Bajo cada tecla hay dos pequeños domos de silicona de distinta altura: al bajar la tecla, cierra primero el contacto A y milisegundos después el B; esa diferencia de tiempo calcula el volumen. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Las gomas de contacto se venden sueltas por tecla o por tiras completas?",
+      "a": "Los fabricantes agrupan las cúpulas de goma en tiras flexibles modulares de 12 notas (una octava completa) o 13 notas para el extremo final del teclado. Si una cúpula de la octava central se rompe tras muchos años de estudio intenso, se reemplaza únicamente la tira de esa octava de forma económica."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Un teclado económico de 61 teclas usa el mismo sistema de cúpulas de goma que un piano de 88 teclas?",
+      "a": "No. Todos los teclados que anuncian sensibilidad al tacto o a la velocidad (Touch Sensitive), como el Yamaha PSR-E383 de 61 teclas, emplean el mismo principio de doble contacto escalonado dentro de la cúpula de silicona. Solo los teclados infantiles o de juguete sin sensibilidad usan un único contacto simple de encendido/apagado."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Cuántos años duran las cúpulas de goma conductora antes de desgastarse?",
+      "a": "En condiciones domésticas normales y cubriendo el teclado con una funda textil cuando no se utiliza, las tiras de silicona y sus pastillas de carbón de un Yamaha, Roland o Casio conservan su elasticidad y conductividad original entre 10 y 15 años sin requerir intervención interna."
     }
   ],
   "related": [
-    "/sensacion-al-tocar-y-tipos-de-tecla/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/ejercicios-de-5-minutos-para-acostumbrar-tus-dedos-al-peso-de-88-teclas-contrapesadas/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-key-scaling-y-por-que-las-88-teclas-no-pesan-exactamente-lo-mismo/",
     "/sensacion-al-tocar-y-tipos-de-tecla/por-que-una-tecla-suena-de-repente-al-maximo-volumen-aunque-la-toques-suave/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-tipo-waterfall-en-teclados-y-en-que-se-diferencian-de-las-de-piano/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-fondo-de-tecla-keybed-fieltro-amortiguador-y-como-cuidarlo/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/como-saber-si-la-goma-de-contacto-bajo-una-tecla-esta-gastada-o-sucia.webp"
 }

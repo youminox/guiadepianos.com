@@ -4,161 +4,115 @@
   "path": "/conexiones-midi-apps-y-aprendizaje/por-que-suenan-dos-sonidos-a-la-vez-cuando-conecto-el-piano-a-la-computadora-funcion-local-control-off/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es local control off en un piano digital midi",
   "title": "Qué Es 'Local Control Off' en tu Piano Digital: Cómo Evitar que Suenen a la Vez el Piano Interno y el VST de la Computadora",
-  "seoTitle": "Qué Es 'Local Control Off' en tu Piano Digital | Guía de Pianos",
-  "metaDescription": "Qué Es 'Local Control Off' en tu Piano Digital: Cómo Evitar que Suenen a la Vez el Piano Interno y el VST de la Computadora: Si tocas un piano virtual en tu PC (como Pianoteq o Keyscape) y no quieres que suene el piano interno al mismo tiempo, desactiva 'Local Control' para que las teclas solo disparen el software. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Si tocas un piano virtual en tu PC (como Pianoteq o Keyscape) y no quieres que suene el piano interno al mismo tiempo, desactiva 'Local Control' para que las teclas solo disparen el software.",
-  "quickAnswer": "Sobre que es local control off en un piano digital midi: Si tocas un piano virtual en tu PC (como Pianoteq o Keyscape) y no quieres que suene el piano interno al mismo tiempo, desactiva 'Local Control' para que las teclas solo disparen el software. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Es 'Local Control Off' en tu Piano Digital: Cómo Evitar que Suenen a la Vez el Piano Interno y el VST de la Computadora | guiadepianos.com",
+  "metaDescription": "Descubre qué es Local Control Off en un piano digital MIDI y cómo activarlo en Yamaha, Roland o Casio para que no suenen dos pianos superpuestos a la vez.",
+  "excerpt": "Soluciona el efecto de sonido duplicado o desfasado al tocar VSTs en tu computadora o iPad: aprende a desactivar el generador de tonos interno mediante la función Local Control Off.",
+  "quickAnswer": "La función **Local Control Off** desconecta temporalmente el teclado físico del generador de sonido interno de tu piano digital para que las teclas solo envíen órdenes **MIDI** por el puerto **USB-to-Host**. Al activarla cuando usas instrumentos virtuales (**VST**) en la computadora o el iPad, evitas que suenen simultáneamente el piano interno del instrumento y el software externo, eliminando el molesto eco metálico o desfase (**comb filtering**).",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial photography, Macro close-up shot with shallow depth of field (85mm f/2.8 lens): Home digital piano and keyboard tutorial illustrating Qué Es 'Local Control Off' en tu Piano Digital: Cómo Evitar que Suenen a la Vez el Piano Interno y el VST de la Computadora: Si tocas un piano virtual en tu PC (como Pianoteq o Keyscape) y no quieres que suene el piano interno al mismo tiempo, desactiva 'Local Control' para que las teclas solo disparen el software., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, crisp bright editorial studio lighting with neutral warm oak tones. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'Qué Es 'Local Control Off' en tu Piano Digital: Cómo Evitar que Suenen a la Vez el Piano Interno y el VST de la Computadora' (que es local control off en un piano digital midi) for guiadepianos.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a light terrazzo surface in a contemporary living space, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Es 'Local Control Off' en tu Piano Digital: Cómo Evitar que Suenen a la Vez el Piano Interno y el VST de la Computadora"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **que es local control off en un piano digital midi** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Si tocas un piano virtual en tu PC (como Pianoteq o Keyscape) y no quieres que suene el piano interno al mismo tiempo, desactiva 'Local Control' para que las teclas solo disparen el software."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Conexiones Midi Apps Y Aprendizaje](/conexiones-midi-apps-y-aprendizaje/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Conectas tu piano digital por cable USB a la computadora o al iPad para tocar un sintetizador o un piano de cola virtual y, al pulsar el primer acorde, escuchas una mezcla confusa: por debajo del sonido que elegiste en la pantalla sigue colándose el timbre de piano clásico del propio teclado, o bien se oye un eco metálico hueco y hueco (**comb filtering**) como si dos pianistas tocaran la misma nota con milisegundos de diferencia. Este fenómeno ocurre porque, de fábrica, cada vez que bajas una tecla ocurren dos acciones simultáneas: el sensor envía la orden **MIDI** por el puerto trasero hacia tu computadora y, al mismo tiempo, dispara el chip de sonido interno del instrumento. Desactivar esa conexión interna mediante la función **Local Control Off** es el ajuste esencial cuando decides [conectar tu piano digital a un MacBook o iPad con CoreAudio](/conexiones-midi-apps-y-aprendizaje/en-mac-no-hace-falta-asio-ventaja-de-coreaudio-al-conectar-tu-piano-digital-a-un-macbook/) o a un entorno VST en Windows."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: que es local control off en un piano digital midi"
+      "text": "Cómo funciona la ruta MIDI cuando pones el piano en modo Local Control Off"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **que es local control off en un piano digital midi**:"
+      "text": "En el estándar técnico MIDI, el parámetro **Local Control** actúa como un interruptor físico entre el mecanismo de teclas/pedales y el generador de tonos interno del piano digital. Cuando está en **Local On** (su estado predeterminado al encender el instrumento), el teclado funciona de manera autónoma. Cuando lo cambias a **Local Off**, las **88 teclas contrapesadas** o las **61 teclas sensibles** dejan de hacer sonar el motor interno cuando las pulsas directamente, convirtiendo tu piano en un controlador MIDI maestro puro. Sin embargo, el generador de sonido interno y los altavoces del piano NO quedan muertos: siguen listos para reproducir cualquier señal de audio o retorno MIDI que les envíes desde la computadora o la tablet. Esto resulta indispensable si tu piano tiene interfaz **USB Audio** (como el **Yamaha P-145** o el **PSR-E383**) y quieres monitorear el sonido de **Pianoteq**, **GarageBand** o ver cómo [funciona la app Yamaha Rec'n'Share](/conexiones-midi-apps-y-aprendizaje/que-es-la-app-yamaha-rec-n-share-para-grabar-videos-tocando-el-piano-y-compartirlos/) a través de los propios altavoces o salida de audífonos del piano sin escuchar el sonido interno duplicado. Si al activar este modo deja de sonar todo, revisa nuestra guía sobre [qué hacer si tu iPad o PC no detecta el piano por USB](/conexiones-midi-apps-y-aprendizaje/por-que-mi-ipad-o-pc-no-detecta-el-piano-digital-por-usb-cables-de-solo-carga-vs-cables-de-datos/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: que es local control off en un piano digital midi",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Modelo de piano digital",
+        "Cómo activar / desactivar Local Control Off",
+        "¿Se restaura a Local On al apagar el piano?",
+        "Alternativa rápida desde App oficial"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Si tocas un piano virtual en tu PC (como Pianoteq o Keyscape) y no quieres que suene el piano interno al mismo tiempo, desactiva 'Local Control' para que las teclas solo disparen el software.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Yamaha PSR-E383 (61 teclas)",
+          "Pulsa botón Function repetidamente hasta ver 'Local' en pantalla LCD y gira o pulsa Yes/No a OFF",
+          "Sí, vuelve a ON al apagar el teclado",
+          "Se ajusta desde el menú Function en panel frontal"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Yamaha P-145 / P-225 (88 teclas GHC)",
+          "Mantén pulsados Metronome + Rhythm y presiona la tecla Do6 (C6)",
+          "Sí, por seguridad se reinicia en Local On",
+          "En la app Smart Pianist: Ajustes > MIDI > Local Control Off"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Roland FP-10 / FP-30X (88 teclas PHA-4)",
+          "Mantén presionado el botón Function y pulsa la tecla Fa#5 (F#5) para alternar Local On/Off",
+          "Sí, vuelve a Local On al reiniciar el piano",
+          "En la app Roland Piano App: Menú MIDI > Local Control"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Casio Privia PX-S1100 / CDP-S160",
+          "Mantén pulsado Function y presiona la tecla asignada a Local Control según el mapa del manual",
+          "Sí, restablece el sonido interno al apagarlo",
+          "En Casio Music Space: Piano Remote Controller > MIDI > Local Control"
         ]
-      ]
+      ],
+      "caption": "Combinación de teclas o menú para activar Local Control Off según la marca"
+    },
+    {
+      "type": "h2",
+      "text": "Cuándo basta con bajar la perilla de volumen y cuándo es obligatorio usar Local Off"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de profesor de piano sobre que es local control off en un piano digital midi",
-      "text": "Si tocas un piano virtual en tu PC (como Pianoteq o Keyscape) y no quieres que suene el piano interno al mismo tiempo, desactiva 'Local Control' para que las teclas solo disparen el software. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      "text": "Si tus audífonos están conectados directamente a la computadora o al iPad (y NO al piano digital), el truco más rápido para no escuchar el sonido interno del piano es simplemente **bajar el deslizador o perilla de volumen maestro del piano a cero**: el puerto **USB-to-Host** seguirá enviando las notas MIDI con el **100 % de su velocidad y rango dinámico**. En cambio, activar **Local Control Off** es estrictamente obligatorio en dos escenarios: primero, cuando conectas tus audífonos al propio piano para escuchar el retorno de audio USB o Bluetooth de tu tablet (porque si bajas la perilla de volumen del piano también silenciarías la tablet); y segundo, cuando un DAW tiene activado el **MIDI Thru** y reenvía las notas de vuelta al piano, lo que en modo Local On dispara cada nota dos veces y recorta a la mitad la polifonía de **64, 128 o 256 voces**.",
+      "title": "La regla de oro según dónde tengas conectados tus audífonos"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar que es local control off en un piano digital midi en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando que es local control off en un piano digital midi en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Diagnóstico rápido si tu piano \"dejó de sonar\" al desconectar la computadora"
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**Síntoma clásico tras cerrar el software VST:** terminas de practicar con **GarageBand** o **Addictive Keys**, desconectas el cable USB para tocar solo y descubres que las teclas no emiten ningún sonido aunque el volumen está al máximo. No es una avería: el piano sigue en **Local Control Off**.",
+        "**Reinicio rápido de alimentación:** en el **95 % de los pianos digitales domésticos** (**Yamaha Serie P**, **Roland Serie FP**, **Casio Privia y CDP-S**, **Alesis Recital Pro**), basta con apagar el interruptor de corriente, esperar **3 segundos** y volver a encenderlo para que el microprocesador restablezca automáticamente **Local Control On**.",
+        "**Verificación de polifonía intacta en tu DAW:** si usas pistas MIDI externas en **Logic Pro**, **Cubase** o **Reaper** para que suenen con el motor interno de tu piano mientras grabas, mantén **Local Control Off** activado en el teclado y deja encendido el monitoreo de pista en el software; así cada pulsación consumirá solo **1 voz de polifonía** en lugar de duplicarse."
       ]
     },
     {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "cta",
+      "text": "Consulta en las tarjetas de Amazon integradas en esta guía los pianos digitales con conectividad USB-MIDI completa y los cables de datos certificados, o escribe a nuestro Asesor IA si necesitas la combinación exacta de teclas para tu modelo."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre que es local control off en un piano digital midi?",
-      "a": "Si tocas un piano virtual en tu PC (como Pianoteq o Keyscape) y no quieres que suene el piano interno al mismo tiempo, desactiva 'Local Control' para que las teclas solo disparen el software. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Si bajo el volumen físico de mi piano a cero deja de enviar señal MIDI a la computadora?",
+      "a": "No. Bajar la perilla o deslizador de **Master Volume** en un piano digital solo atenúa el amplificador interno de los altavoces y la salida de audífonos del instrumento. Los sensores de las teclas siguen enviando los valores exactos de velocidad MIDI (**0 a 127**) a través del puerto **USB-to-Host**."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Por qué el sonido del piano se oye hueco o metálico cuando abro mi programa de grabación?",
+      "a": "Se debe a que tu programa de grabación (**DAW**) tiene activada la opción **MIDI Echo / MIDI Thru** y estás en modo **Local Control On**. Cuando pulsas una tecla, el piano suena al instante y, unos milisegundos después, la computadora le devuelve la misma nota por el cable USB haciéndolo sonar por segunda vez con desfase de fase. Activa **Local Control Off** para solucionarlo."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Es normal que tenga que volver a configurar Local Control Off cada vez que enciendo el piano?",
+      "a": "No es un fallo de tu unidad. Los fabricantes diseñan el firmware para que **Local Control** regrese siempre a **ON** tras apagar el instrumento; de lo contrario, muchos usuarios olvidarían que lo desactivaron en la sesión anterior y pensarían que los altavoces de su piano se estropearon al encenderlo sin computadora."
     }
   ],
   "related": [
-    "/conexiones-midi-apps-y-aprendizaje/",
-    "/conexiones-midi-apps-y-aprendizaje/como-escuchar-el-sonido-de-la-app-del-ipad-y-el-sonido-de-tu-piano-por-los-mismos-audifonos/",
-    "/conexiones-midi-apps-y-aprendizaje/como-usar-tu-piano-digital-con-garageband-en-ipad-o-mac-totalmente-gratis/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/conexiones-midi-apps-y-aprendizaje/que-es-la-app-yamaha-rec-n-share-para-grabar-videos-tocando-el-piano-y-compartirlos/",
+    "/conexiones-midi-apps-y-aprendizaje/en-mac-no-hace-falta-asio-ventaja-de-coreaudio-al-conectar-tu-piano-digital-a-un-macbook/",
+    "/conexiones-midi-apps-y-aprendizaje/por-que-mi-ipad-o-pc-no-detecta-el-piano-digital-por-usb-cables-de-solo-carga-vs-cables-de-datos/",
+    "/conexiones-midi-apps-y-aprendizaje/para-que-sirve-el-atril-ancho-de-los-pianos-digitales-y-como-sujetar-libros-nuevos-que-se-cierran-solos/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/por-que-suenan-dos-sonidos-a-la-vez-cuando-conecto-el-piano-a-la-computadora-funcion-local-control-off.webp"
 }

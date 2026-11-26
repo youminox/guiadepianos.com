@@ -4,161 +4,122 @@
   "path": "/audifonos-sonido-y-practica-silenciosa/para-que-sirve-entonces-el-bluetooth-audio-de-mi-piano-digital-roland-o-casio/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "para que sirve el bluetooth audio en un piano digital",
   "title": "Si No Sirve para Audífonos Bluetooth, ¿Para Qué Sirve el 'Bluetooth Audio' en Pianos como el Roland FP-30X o Casio PX-S1100?",
-  "seoTitle": "Si No Sirve para Audífonos Bluetooth, ¿Para Qué Sirve el 'Bluetooth Audio' en Pianos como el Roland FP-30X o Casio PX-S1100? | Guía de Pianos",
-  "metaDescription": "Si No Sirve para Audífonos Bluetooth, ¿Para Qué Sirve el 'Bluetooth Audio' en Pianos como el Roland FP-30X o Casio PX-S1100?: Funciona en dirección inversa (de tu teléfono hacia los altavoces del piano): sirve para reproducir canciones de Spotify o YouTube desde el móvil por las bocinas del piano y tocar encima. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Funciona en dirección inversa (de tu teléfono hacia los altavoces del piano): sirve para reproducir canciones de Spotify o YouTube desde el móvil por las bocinas del piano y tocar encima.",
-  "quickAnswer": "Sobre para que sirve el bluetooth audio en un piano digital: Funciona en dirección inversa (de tu teléfono hacia los altavoces del piano): sirve para reproducir canciones de Spotify o YouTube desde el móvil por las bocinas del piano y tocar encima. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Si No Sirve para Audífonos Bluetooth, ¿Para Qué Sirve el 'Bluetooth Audio' en Pianos como el Roland FP-30X o Casio PX-S1100? | guiadepianos.com",
+  "metaDescription": "Descubre para qué sirve el Bluetooth Audio en pianos como el Roland FP-30X o Casio PX-S1100, por qué es receptor y cómo tocar sobre pistas con audífonos.",
+  "excerpt": "Aprende cómo funciona el receptor Bluetooth Audio A2DP en los pianos digitales modernos, su diferencia frente al Bluetooth MIDI y cómo mezclar canciones del celular con tu interpretación en tiempo real.",
+  "quickAnswer": "El **Bluetooth Audio** de un piano digital como el **Roland FP-30X** o el **Casio Privia PX-S1100** funciona exclusivamente como un **receptor inalámbrico (A2DP Sink)** y no como transmisor para auriculares sin cable. Su propósito es enviar pistas de acompañamiento, tutoriales de YouTube o metrónomos desde tu celular hacia el piano. Así, el audio de tu móvil se mezcla internamente con tu interpretación y ambos suenan juntos por los altavoces o tus audífonos cableados.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Overhead angled composition showcasing keyboard layout, music rest and accessories (35mm lens): Home digital piano and keyboard tutorial illustrating Si No Sirve para Audífonos Bluetooth, ¿Para Qué Sirve el 'Bluetooth Audio' en Pianos como el Roland FP-30X o Casio PX-S1100?: Funciona en dirección inversa (de tu teléfono hacia los altavoces del piano): sirve para reproducir canciones de Spotify o YouTube desde el móvil por las bocinas del piano y tocar encima., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Si No Sirve para Audífonos Bluetooth, ¿Para Qué Sirve el 'Bluetooth Audio' en Pianos como el Roland FP-30X o Casio PX-S1100?' (para que sirve el bluetooth audio en un piano digital) for guiadepianos.com, featuring equipment in terracotta copper accent with matte slate body, in a clean modern garage or studio corner with slate flooring, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Si No Sirve para Audífonos Bluetooth, ¿Para Qué Sirve el 'Bluetooth Audio' en Pianos como el Roland FP-30X o Casio PX-S1100?"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **para que sirve el bluetooth audio en un piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Funciona en dirección inversa (de tu teléfono hacia los altavoces del piano): sirve para reproducir canciones de Spotify o YouTube desde el móvil por las bocinas del piano y tocar encima."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Audifonos Sonido Y Practica Silenciosa](/audifonos-sonido-y-practica-silenciosa/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Sacas de la caja tu nuevo **Roland FP-30X** o le insertas el adaptador inalámbrico **WU-BT10** a tu **Casio Privia PX-S1100**, abres el estuche de tus AirPods o audífonos inalámbricos Sony y pasas veinte minutos intentando emparejarlos sin éxito. Este tropiezo ocurre a diario porque la etiqueta comercial induce a confusión: el módulo **Bluetooth Audio** integrado en los pianos digitales actuales opera exclusivamente como un **receptor de flujo estéreo (perfil A2DP Sink)** y jamás como un transmisor hacia auriculares. Los fabricantes bloquean el envío inalámbrico de audio hacia tus oídos porque los códecs Bluetooth estándar (**SBC y AAC**) introducen un retardo de **120 ms a 250 ms**, una latencia que destruye la coordinación cerebro-mano cuando el oído humano detecta cualquier desfase superior a **15 ms** al hundir una tecla. Si buscas practicar de noche sin retraso, visita nuestra guía principal de [audífonos, sonido y práctica silenciosa](/audifonos-sonido-y-practica-silenciosa/) para elegir un modelo por cable de respuesta instantánea."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: para que sirve el bluetooth audio en un piano digital"
+      "text": "Qué Hace Exactamente el Receptor Bluetooth Audio A2DP Dentro de tu Piano"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **para que sirve el bluetooth audio en un piano digital**:"
+      "text": "En lugar de sacar el sonido del piano hacia unos auriculares inalámbricos, el **Bluetooth Audio** convierte el sistema acústico del instrumento en una barra de sonido estéreo de alta fidelidad para tu teléfono, tablet o computadora. Cuando vinculas tu smartphone al **Roland FP-30X** (equipado con dos altavoces de **11 W + 11 W**, totalizando **22 W**) o al **Casio Privia PX-S1100** (**8 W + 8 W** con tecnología de radiación trasera), cualquier pista de acompañamiento, metrónomo avanzado, clase en video de YouTube o lista de Spotify viaja por el aire hacia la placa mezcladora del piano. Lo más brillante del circuito interno es que ese audio entrante no solo suena por las bocinas del mueble: si conectas unos [audífonos de monitoreo con respuesta de frecuencia plana](/audifonos-sonido-y-practica-silenciosa/por-que-los-audifonos-para-piano-deben-tener-respuesta-de-frecuencia-plana-studio-monitor/) en la salida física **Phones**, escucharás la canción de tu celular y el sonido de tus teclas fundidos en tus oídos en tiempo real. Además, puedes [ajustar el efecto de reverberación al tocar con audífonos](/audifonos-sonido-y-practica-silenciosa/como-ajustar-el-efecto-de-reverberacion-reverb-hall-room-stage-al-tocar-con-audifonos/) sin alterar la ecualización original de la pista enviada desde el móvil."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: para que sirve el bluetooth audio en un piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Protocolo Inalámbrico",
+        "Dirección de la Señal",
+        "Qué Datos Transmite",
+        "Modelos Compatibles de Referencia"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Funciona en dirección inversa (de tu teléfono hacia los altavoces del piano): sirve para reproducir canciones de Spotify o YouTube desde el móvil por las bocinas del piano y tocar encima.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Bluetooth Audio (A2DP)",
+          "Unidireccional (Celular → Piano)",
+          "Ondas de sonido estéreo (YouTube, Spotify, backing tracks MP3/WAV)",
+          "Roland FP-30X (integrado), Casio PX-S1100 (con adaptador WU-BT10)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Bluetooth MIDI (BLE-MIDI / GATT)",
+          "Bidireccional (Piano ↔ App en Tablet/Móvil)",
+          "Coordenadas digitales de nota, velocidad de pulsación (0–127) y pedal; cero audio",
+          "Roland FP-10, Roland FP-30X, Casio PX-S1100"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Transmisor BT para Audífonos (TX)",
+          "No incluido en pianos digitales",
+          "Audio comprimido con 120–250 ms de retraso (inviable para tocar en vivo)",
+          "Ninguno (se requiere conexión por cable TRS de 3.5 mm o 6.35 mm)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre para que sirve el bluetooth audio en un piano digital",
-      "text": "Funciona en dirección inversa (de tu teléfono hacia los altavoces del piano): sirve para reproducir canciones de Spotify o YouTube desde el móvil por las bocinas del piano y tocar encima. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Diferencias técnicas entre Bluetooth Audio y Bluetooth MIDI en pianos digitales modernos"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar para que sirve el bluetooth audio en un piano digital en tu piano digital o teclado"
+      "text": "Por Qué el Roland FP-10 Tiene Bluetooth pero No Reproduce Canciones del Celular"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Al comparar fichas técnicas es vital no confundir **Bluetooth Audio** con **Bluetooth MIDI (BLE)**. Modelos de entrada con teclado profesional como el **Roland FP-10** incluyen únicamente **Bluetooth MIDI**, el cual envía paquetes de datos numéricos ultraligeros hacia aplicaciones educativas como Roland Piano App, Simply Piano o GarageBand para evaluar qué tecla pulsaste, pero no transporta ondas sonoras. Si intentas reproducir un video de YouTube desde tu iPad hacia un **Roland FP-10**, el audio seguirá saliendo por las bocinas del iPad; en cambio, en el **Roland FP-30X** o en el **Casio PX-S1100**, aparecen dos conexiones independientes en tu dispositivo: una en los ajustes generales de Bluetooth para el audio (**A2DP**) y otra dentro de la app musical para el control **MIDI**.",
+      "title": "No confundas Bluetooth MIDI con Bluetooth Audio en la ficha técnica"
+    },
+    {
+      "type": "h2",
+      "text": "Pasos para Vincular tu Celular y Equilibrar el Volumen de la Pista con tus Teclas"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Activa el modo de emparejamiento de audio en el piano",
+          "text": "En el Roland FP-30X mantén presionado el botón con el ícono Bluetooth durante 3 segundos hasta que el LED azul parpadee; en el Casio PX-S1100 asegúrate de tener insertado el adaptador WU-BT10 en el puerto USB tipo A trasero."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Enlaza el perfil de audio desde el menú Bluetooth del móvil",
+          "text": "Abre la configuración Bluetooth de tu smartphone o iPad y selecciona el nombre del piano (por ejemplo, FP-30X Audio o WU-BT10 Audio). No uses todavía la aplicación del fabricante, ya que esta gestiona solo el canal MIDI."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "Nivela la ganancia independiente entre el celular y el teclado",
+          "text": "Coloca el volumen maestro del piano al 60 % para conservar todo el rango dinámico de las 88 teclas, y sube o baja el volumen de la pista de acompañamiento directamente con los botones laterales de tu teléfono para que la base no tape tus notas suaves."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Conecta tus audífonos con cable para sesiones nocturnas mixtas",
+          "text": "Enchufa tus audífonos de estudio de 32 Ω a 64 Ω en la toma frontal Phones: los altavoces externos se silenciarán y recibirás en tus oídos tanto la pista Bluetooth del celular como tu interpretación con cero milisegundos de retraso."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando para que sirve el bluetooth audio en un piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Dudas entre las funciones inalámbricas del Roland FP-30X, el Casio Privia PX-S1100 o el Roland FP-10? Consulta a nuestro Asesor IA o revisa la disponibilidad y especificaciones actualizadas en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre para que sirve el bluetooth audio en un piano digital?",
-      "a": "Funciona en dirección inversa (de tu teléfono hacia los altavoces del piano): sirve para reproducir canciones de Spotify o YouTube desde el móvil por las bocinas del piano y tocar encima. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Puedo comprar un transmisor Bluetooth externo para usar mis AirPods en el piano?",
+      "a": "No. Incluso si conectas un transmisor Bluetooth externo en la salida Phones de tu piano, el tiempo que tarda el chip en codificar y enviar la onda a los AirPods ronda los 150 a 220 milisegundos. Escucharás la nota una fracción de segundo después de golpear la tecla, haciendo imposible mantener el tempo."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Cómo bajo el volumen de la canción de YouTube sin bajar el volumen de las teclas del piano?",
+      "a": "El control de volumen físico del piano regula simultáneamente tanto tus teclas como la música que entra por Bluetooth. Para bajar solo la pista de acompañamiento sin perder fuerza en el piano, debes reducir el volumen multimedia directamente desde los botones laterales de tu celular o tablet."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Sirve el Bluetooth Audio del Roland FP-30X para grabar el sonido del piano en mi celular?",
+      "a": "No transmite el audio por Bluetooth para grabación, ya que el canal A2DP del piano es solo de entrada. Si deseas capturar tus interpretaciones limpias en el teléfono o computadora, debes usar el puerto USB-B Host o las salidas físicas de línea del instrumento."
     }
   ],
   "related": [
-    "/audifonos-sonido-y-practica-silenciosa/",
-    "/audifonos-sonido-y-practica-silenciosa/que-impedancia-en-ohmios-32-a-80-ohms-deben-tener-los-audifonos-para-piano-digital/",
-    "/audifonos-sonido-y-practica-silenciosa/por-que-nunca-debes-usar-audifonos-bluetooth-para-tocar-el-piano-digital-latencia/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/audifonos-sonido-y-practica-silenciosa/por-que-los-audifonos-para-piano-deben-tener-respuesta-de-frecuencia-plana-studio-monitor/",
+    "/audifonos-sonido-y-practica-silenciosa/como-grabar-el-audio-de-tu-piano-digital-sin-ruido-ambiente-de-la-habitacion/",
+    "/audifonos-sonido-y-practica-silenciosa/por-que-suena-un-zumbido-o-ruido-electrico-hum-al-conectar-altavoces-externos-al-piano/",
+    "/audifonos-sonido-y-practica-silenciosa/como-ajustar-el-efecto-de-reverberacion-reverb-hall-room-stage-al-tocar-con-audifonos/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/para-que-sirve-entonces-el-bluetooth-audio-de-mi-piano-digital-roland-o-casio.webp"
 }

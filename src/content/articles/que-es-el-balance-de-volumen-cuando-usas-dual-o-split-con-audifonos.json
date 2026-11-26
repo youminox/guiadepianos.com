@@ -4,161 +4,115 @@
   "path": "/audifonos-sonido-y-practica-silenciosa/que-es-el-balance-de-volumen-cuando-usas-dual-o-split-con-audifonos/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "ajustar volumen de segunda voz en modo dual piano digital",
   "title": "Cómo Ajustar el Balance de Volumen entre el Piano y las Cuerdas (Modo Dual) para que No Sature en los Audífonos",
-  "seoTitle": "Cómo Ajustar el Balance de Volumen entre el Piano y las Cuerdas (Modo Dual) para que No Sature en los Audífonos | Guía de Pianos",
-  "metaDescription": "Cómo Ajustar el Balance de Volumen entre el Piano y las Cuerdas (Modo Dual) para que No Sature en los Audífonos: Bajar un 25 % el volumen de la capa secundaria de cuerdas (Layer Volume) deja que el ataque del piano respire con claridad cristalina en tus auriculares. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Bajar un 25 % el volumen de la capa secundaria de cuerdas (Layer Volume) deja que el ataque del piano respire con claridad cristalina en tus auriculares.",
-  "quickAnswer": "Sobre ajustar volumen de segunda voz en modo dual piano digital: Bajar un 25 % el volumen de la capa secundaria de cuerdas (Layer Volume) deja que el ataque del piano respire con claridad cristalina en tus auriculares. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Ajustar el Balance de Volumen entre el Piano y las Cuerdas (Modo Dual) para que No Sature en los Audífonos | guiadepianos.com",
+  "metaDescription": "Aprende a ajustar el balance de volumen en Modo Dual (Piano + Cuerdas) y Modo Split en pianos Yamaha, Roland y Casio para que el sonido no sature tus audífonos.",
+  "excerpt": "Aprende a configurar el parámetro Dual Balance en pianos Yamaha, Roland y Casio para que las cuerdas en modo Dual o el bajo en modo Split no tapen al piano ni saturen tus audífonos.",
+  "quickAnswer": "Para evitar que las cuerdas (*Strings*) tapen al piano o saturen tus audífonos al usar el **Modo Dual (Layer)**, debes ajustar el parámetro interno **Dual Balance / Layer Volume** reduciendo la segunda voz al **45 % – 60 %** del volumen del piano principal. Así evitas la acumulación de energía en las frecuencias medias (**250 Hz a 800 Hz**) cuando mantienes pisado el pedal de sustain.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Three-quarter editorial angle from slightly above in a bright music corner (50mm lens): Home digital piano and keyboard tutorial illustrating Cómo Ajustar el Balance de Volumen entre el Piano y las Cuerdas (Modo Dual) para que No Sature en los Audífonos: Bajar un 25 % el volumen de la capa secundaria de cuerdas (Layer Volume) deja que el ataque del piano respire con claridad cristalina en tus auriculares., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Cómo Ajustar el Balance de Volumen entre el Piano y las Cuerdas (Modo Dual) para que No Sature en los Audífonos' (ajustar volumen de segunda voz en modo dual piano digital) for guiadepianos.com, featuring equipment in warm sand beige with matte black hardware, in a bright family home interior with clean architectural lines, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Ajustar el Balance de Volumen entre el Piano y las Cuerdas (Modo Dual) para que No Sature en los Audífonos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **ajustar volumen de segunda voz en modo dual piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Bajar un 25 % el volumen de la capa secundaria de cuerdas (Layer Volume) deja que el ataque del piano respire con claridad cristalina en tus auriculares."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Audifonos Sonido Y Practica Silenciosa](/audifonos-sonido-y-practica-silenciosa/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Pocas experiencias resultan tan inspiradoras en un piano digital como activar el **Modo Dual (Layer)** para combinar un gran piano de concierto con un colchón orquestal de cuerdas (*Strings*) o un pad cálido de sintetizador. Sin embargo, lo que por los pequeños altavoces de tu **Roland FP-30X**, **Yamaha P-145** o **Casio Privia PX-S1100** suena agradable, al ponerse los audífonos suele transformarse en una bola sonora densa donde las cuerdas tapan por completo el ataque del martillo del piano y generan un zumbido fatigante al dejar pisado el pedal de sustain. Para lograr una mezcla cristalina, es fundamental dominar el parámetro de balance interno del teclado, además de comprender [cómo influyen el Stereophonic Optimizer de Yamaha y el Headphone 3D Ambience de Roland](/audifonos-sonido-y-practica-silenciosa/que-es-el-stereophonic-optimizer-de-yamaha-y-headphone-3d-ambience-de-roland/) sobre las voces en capas y descartar errores de conexión sabiendo [por qué unos audífonos de celular con micrófono TRRS alteran la mezcla estéreo en el piano](/audifonos-sonido-y-practica-silenciosa/por-que-mis-audifonos-con-microfono-de-celular-trrs-suenan-raro-o-lejos-en-el-piano/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: ajustar volumen de segunda voz en modo dual piano digital"
+      "text": "Por qué la suma de Piano + Strings satura la banda de 250 Hz a 800 Hz dentro de los audífonos"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **ajustar volumen de segunda voz en modo dual piano digital**:"
+      "text": "Cuando pulsas un acorde de cuatro notas en modo simple, el procesador reproduce una sola muestra estéreo por tecla; pero en **Modo Dual**, el motor dispara simultáneamente la onda percusiva del piano y la onda continua de los violines y violonchelos con ganancia elevada. A diferencia de la escucha al aire —donde las frecuencias medias se dispersan en la habitación—, dentro de la cámara acústica de tus auriculares (donde conviene conocer la [diferencia de escena sonora entre audífonos circumaurales Over-Ear y supraaurales On-Ear](/audifonos-sonido-y-practica-silenciosa/diferencia-entre-audifonos-circumaurales-over-ear-y-supraaurales-on-ear-para-estudiar-piano/)) ambas ondas se suman aritméticamente en el rango de **250 Hz a 800 Hz**. Si mantienes el pedal derecho pisado durante dos compases, las cuerdas antiguas no se apagan como el piano, sino que siguen sonando a pleno volumen encima de los nuevos acordes, saturando la salida de auriculares y consumiendo el doble de notas de **polifonía (64, 192 o 256 voces)**."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: ajustar volumen de segunda voz en modo dual piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Marca y modelos de referencia",
+        "Nombre de la función en el manual",
+        "Cómo se regula desde el teclado o app",
+        "Proporción ideal Piano (Voz 1) / Cuerdas (Voz 2) con audífonos"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Bajar un 25 % el volumen de la capa secundaria de cuerdas (Layer Volume) deja que el ataque del piano respire con claridad cristalina en tus auriculares.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Yamaha (P-145, P-225, serie Arius YDP)",
+          "Dual Balance / Balance de voces",
+          "Mantener pulsado el botón de función + teclas de ajuste asignadas o desde la app Smart Pianist",
+          "Voz 1 en +0 (100 %) / Voz 2 atenuada entre -4 y -6 puntos (50 % – 60 %)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Yamaha Teclados (PSR-E383 / PSR-EW320)",
+          "D.Volume (Dual Voice Volume) dentro del menú Function",
+          "Botón Function hasta D.Volume y bajar el valor numérico de fábrica con los botones +/-",
+          "Voz principal en 100 – 110 / Voz Dual de cuerdas entre 55 y 70"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Roland (FP-10, FP-30X, FP-60X)",
+          "Split / Dual Volume Balance",
+          "Mantener pulsados ambos botones de voz o ajustar el deslizador gráfico en la app Roland Piano App",
+          "Balance desplazado hacia Voz 1 (relación aproximada 7:3 o 6:4 a favor del piano)"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Casio (Privia PX-S1100, CDP-S360)",
+          "Layer Volume / Upper 2 Volume",
+          "Mediante combinación con el botón Function o control táctil directo en la app Casio Music Space",
+          "Voz Upper 1 al máximo relativo / Voz Upper 2 reducida un 35 % a 45 %"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre ajustar volumen de segunda voz en modo dual piano digital",
-      "text": "Bajar un 25 % el volumen de la capa secundaria de cuerdas (Layer Volume) deja que el ataque del piano respire con claridad cristalina en tus auriculares. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Cómo ajustar el balance de volumen de la segunda voz (Dual / Split Balance) según la marca de tu piano digital"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar ajustar volumen de segunda voz en modo dual piano digital en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando ajustar volumen de segunda voz en modo dual piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Proporciones exactas de ganancia para Modo Dual (capas) y Modo Split (bajo en mano izquierda)"
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**Piano de cola + Strings lentas (Slow Strings):** Reduce el volumen de las cuerdas al **45 % – 55 %** respecto al piano; de este modo el ataque percusivo del macillo domina cada nota y las cuerdas aparecen solo como un halo cálido al sostener los acordes largos.",
+        "**Piano eléctrico (Rhodes / EP) + Pad cálido:** Como el piano eléctrico tiene menos armónicos agudos que un piano de cola, puedes situar el Pad ligeramente más presente, en torno al **60 % – 65 %** del volumen de la voz principal.",
+        "**Modo Split (Contrabajo acústico en mano izquierda + Piano en mano derecha):** En audífonos cerrados de **40 mm**, el contrabajo con platillo (*Acoustic Bass + Cymbal*) suele sonar excesivamente potente; baja la voz izquierda (*Lower / Split Voice*) un **20 % a 30 %** para que no tape los acordes centrales de tu mano derecha."
       ]
     },
     {
       "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "text": "El ajuste de octava y liberación de pedal que evita el emborronamiento en los graves"
     },
     {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "callout",
+      "variant": "tip",
+      "text": "Además de bajar el volumen de la segunda voz, la mayoría de los pianos **Yamaha, Roland y Casio** permiten cambiar el parámetro **Dual Octave (Octava de la capa secundaria)**. Si subes las cuerdas **+1 octava** respecto al piano o levantas el pedal de sustain en cada cambio de acorde con mucha más frecuencia que cuando tocas piano solo, eliminarás al instante la turbidez en los bordones graves al escuchar con audífonos.",
+      "title": "Truco de arreglo profesional: subir +1 octava las cuerdas en Modo Dual"
+    },
+    {
+      "type": "cta",
+      "text": "¿Quieres sacarle todo el partido a las capas de sonido de tu piano digital con unos audífonos de respuesta plana que no saturen en los medios? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre ajustar volumen de segunda voz en modo dual piano digital?",
-      "a": "Bajar un 25 % el volumen de la capa secundaria de cuerdas (Layer Volume) deja que el ataque del piano respire con claridad cristalina en tus auriculares. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿El ajuste de volumen de la segunda voz en Modo Dual se queda guardado al apagar el piano?",
+      "a": "En los pianos compactos sin pantalla (como el Yamaha P-145 o el Roland FP-10), los ajustes de Dual Balance vuelven a su valor predeterminado al apagar el equipo para evitar confusiones, a menos que actives la función Auto-Save / Memory Backup o guardes tu combinación favorita como un Registration preset en la app oficial."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Usar el Modo Dual con piano y cuerdas consume más polifonía al dejar pisado el pedal?",
+      "a": "Sí, exactamente a la mitad. En modo normal cada tecla pulsada ocupa 1 voz de polifonía (o 2 si es estéreo), pero en Modo Dual cada tecla dispara dos instrumentos completos a la vez. Por eso un piano de 64 notas de polifonía pasa a tener 32 notas reales disponibles cuando combinas piano y cuerdas."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué audífonos separan mejor el sonido del piano y las cuerdas cuando toco en Modo Dual?",
+      "a": "Para mezclas densas de piano con cuerdas o sintetizadores, unos audífonos abiertos como los Sennheiser HD 599 o unos cerrados de monitoreo de estudio con respuesta plana como los Audio-Technica ATH-M20x o Sony MDR-7506 separan mucho mejor ambos instrumentos que los audífonos comerciales con refuerzo de graves."
     }
   ],
   "related": [
-    "/audifonos-sonido-y-practica-silenciosa/",
-    "/audifonos-sonido-y-practica-silenciosa/por-que-cruje-o-distorsiona-el-sonido-en-los-audifonos-cuando-toco-un-acorde-grave-muy-fuerte/",
-    "/audifonos-sonido-y-practica-silenciosa/como-probar-si-unos-altavoces-externos-tienen-latencia-al-conectarlos-al-piano/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/audifonos-sonido-y-practica-silenciosa/por-que-mis-audifonos-con-microfono-de-celular-trrs-suenan-raro-o-lejos-en-el-piano/",
+    "/audifonos-sonido-y-practica-silenciosa/como-hacer-que-suenen-los-altavoces-y-los-audifonos-a-la-vez-si-lo-necesitas/",
+    "/audifonos-sonido-y-practica-silenciosa/que-es-el-stereophonic-optimizer-de-yamaha-y-headphone-3d-ambience-de-roland/",
+    "/audifonos-sonido-y-practica-silenciosa/diferencia-entre-audifonos-circumaurales-over-ear-y-supraaurales-on-ear-para-estudiar-piano/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-es-el-balance-de-volumen-cuando-usas-dual-o-split-con-audifonos.webp"
 }

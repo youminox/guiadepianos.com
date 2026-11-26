@@ -4,161 +4,122 @@
   "path": "/pedales-compatibles-y-polaridad/por-que-mi-pedal-de-sustain-suena-al-reves-sostiene-cuando-no-lo-piso/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "por que mi pedal de sustain funciona al reves",
   "title": "Por Qué Tu Pedal de Sustain Suena al Revés (Mantiene el Sonido Cuando NO Lo Pisas y Lo Corta al Pisarlo)",
-  "seoTitle": "Por Qué Tu Pedal de Sustain Suena al Revés (Mantiene el Sonido Cuando NO Lo Pisas y Lo Corta al Pisarlo) | Guía de Pianos",
-  "metaDescription": "Por Qué Tu Pedal de Sustain Suena al Revés (Mantiene el Sonido Cuando NO Lo Pisas y Lo Corta al Pisarlo): Se debe a que la polaridad del pedal (N.O. o N.C.) está invertida respecto a la marca de tu teclado, o a que encendiste el piano mientras tenías el pie apoyado sobre el pedal. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Se debe a que la polaridad del pedal (N.O. o N.C.) está invertida respecto a la marca de tu teclado, o a que encendiste el piano mientras tenías el pie apoyado sobre el pedal.",
-  "quickAnswer": "Sobre por que mi pedal de sustain funciona al reves: Se debe a que la polaridad del pedal (N.O. o N.C.) está invertida respecto a la marca de tu teclado, o a que encendiste el piano mientras tenías el pie apoyado sobre el pedal. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Tu Pedal de Sustain Suena al Revés (Mantiene el Sonido Cuando NO Lo Pisas y Lo Corta al Pisarlo) | guiadepianos.com",
+  "metaDescription": "Descubre por qué tu pedal de sustain funciona al revés en pianos Yamaha, Casio o Roland y cómo corregir la inversión del mensaje MIDI CC 64 en segundos.",
+  "excerpt": "Cuando el piano prolonga todas las notas sin tocar el pedal y las apaga al bajar el pie, el circuito lee la señal invertida. Aprende a diagnosticar las 3 causas eléctricas y resolverlo al instante.",
+  "quickAnswer": "Un pedal de sustain funciona al revés cuando el microcontrolador del piano recibe un estado eléctrico opuesto al esperado en el canal **MIDI CC#64**, interpretando el reposo como **valor 127 (activo)** y la pisada como **valor 0 (apagado)**. Esto ocurre por tres motivos: el interruptor de polaridad bajo el pedal está en la posición incorrecta, encendiste el teclado pisando el pedal o enchufaste el conector jack con el instrumento ya encendido.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Side-profile acoustic studio shot highlighting key travel and matte ebony/ivory texture: Home digital piano and keyboard tutorial illustrating Por Qué Tu Pedal de Sustain Suena al Revés (Mantiene el Sonido Cuando NO Lo Pisas y Lo Corta al Pisarlo): Se debe a que la polaridad del pedal (N.O. o N.C.) está invertida respecto a la marca de tu teclado, o a que encendiste el piano mientras tenías el pie apoyado sobre el pedal., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Por Qué Tu Pedal de Sustain Suena al Revés (Mantiene el Sonido Cuando NO Lo Pisas y Lo Corta al Pisarlo)' (por que mi pedal de sustain funciona al reves) for guiadepianos.com, featuring equipment in olive sage green with anodized silver accents, in a bright family home interior with clean architectural lines, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Tu Pedal de Sustain Suena al Revés (Mantiene el Sonido Cuando NO Lo Pisas y Lo Corta al Pisarlo)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **por que mi pedal de sustain funciona al reves** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Se debe a que la polaridad del pedal (N.O. o N.C.) está invertida respecto a la marca de tu teclado, o a que encendiste el piano mientras tenías el pie apoyado sobre el pedal."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Pedales Compatibles Y Polaridad](/pedales-compatibles-y-polaridad/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Tocas un acorde de Do mayor en tu **Yamaha P-145** o **Casio Privia PX-S1100** recién instalado con ambos pies apoyados en la alfombra, pero las notas quedan flotando de forma indefinida como si estuvieras dentro de una catedral. Al pisar la lengüeta metálica para ligar el siguiente compás, el sonido se corta en seco. No estás ante un defecto en la placa madre del piano ni ante un cable cortado, sino frente a una lectura invertida de estado lógico en el puerto de resonancia."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: por que mi pedal de sustain funciona al reves"
+      "text": "Qué ocurre dentro del circuito cuando el sustain queda pegado en reposo"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **por que mi pedal de sustain funciona al reves**:"
+      "text": "A nivel electrónico, un pedal de sustain estándar opera como un interruptor simple que abre o cierra un circuito de baja tensión (**3.3 V** o **5 V**) a través de un conector jack de **6.35 mm (1/4 de pulgada)**. Cuando la lógica del teclado y la del pedal están desfasadas, el procesador interno envía el comando **MIDI CC#64 con valor 127** mientras el muelle mantiene el pedal arriba. Esto provoca exactamente la misma saturación acústica que el [error de dejar el pedal de sustain pisado durante toda la canción](/pedales-compatibles-y-polaridad/error-del-principiante-dejar-el-pedal-de-sustain-pisado-durante-toda-la-cancion/), agotando las **64, 128 o 256 notas de polifonía** hasta que bajas el pie y fuerzas el estado **valor 0**."
+    },
+    {
+      "type": "h2",
+      "text": "Las 3 causas reales de la inversión de señal y cómo identificar la tuya"
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: por que mi pedal de sustain funciona al reves",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Causa eléctrica",
+        "Modelos donde ocurre con frecuencia",
+        "Comportamiento al tocar",
+        "Corrección inmediata"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Se debe a que la polaridad del pedal (N.O. o N.C.) está invertida respecto a la marca de tu teclado, o a que encendiste el piano mientras tenías el pie apoyado sobre el pedal.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Selector N.O./N.C. en posición opuesta",
+          "Pedales universales M-Audio SP-2, Neewer, Donner",
+          "Inversión permanente aunque reinicies el piano",
+          "Cambiar la palanca inferior de posición"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Autodetección engañada en el arranque",
+          "Casio PX-S1100, Yamaha PSR-E383, Alesis Recital Pro",
+          "Funciona bien un día y al siguiente al revés",
+          "Apagar y encender sin tocar el pedal"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Conexión en caliente o puerto equivocado",
+          "Teclados con jacks Damper y Assignable contiguos",
+          "Sustain fijo o activación involuntaria de funciones",
+          "Enchufar en toma Damper con piano apagado"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre por que mi pedal de sustain funciona al reves",
-      "text": "Se debe a que la polaridad del pedal (N.O. o N.C.) está invertida respecto a la marca de tu teclado, o a que encendiste el piano mientras tenías el pie apoyado sobre el pedal. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
-    },
-    {
-      "type": "h2",
-      "text": "Guía paso a paso para aplicar por que mi pedal de sustain funciona al reves en tu piano digital o teclado"
+      ],
+      "caption": "Diagnóstico técnico según el síntoma de inversión y el tipo de pedal"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Muchos usuarios confunden los puertos traseros cuando conectan el cable a ciegas por detrás del soporte en X o en Z. Si introduces la clavija en una entrada de control auxiliar o si el muelle interno se queda trabado a mitad de recorrido —problema que puedes resolver revisando [cómo quitar el chirrido o ruido de muelle de tu pedal de sustain](/pedales-compatibles-y-polaridad/por-que-mi-pedal-de-sustain-hace-un-chirrido-o-ruido-de-muelle-y-como-lubricarlo/)—, el sistema registrará el contacto al revés. Verifica también la [diferencia entre entrada Damper/Sustain y entrada Assignable Pedal](/pedales-compatibles-y-polaridad/diferencia-entre-entrada-damper-sustain-y-entrada-assignable-pedal-en-teclados/) grabada en el panel trasero antes de asumir que el accesorio está averiado."
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo paso a paso para devolver el pedal a su comportamiento normal"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "1. Apaga el piano digital desde el botón físico",
+          "text": "Presiona el interruptor Power en tu Roland FP-10, Yamaha P-145 o Yamaha PSR-E383 y espera al menos 5 segundos hasta que los condensadores descarguen la memoria temporal de arranque."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "2. Cambia el conmutador en la base del pedal",
+          "text": "Voltea el pedal y localiza el pequeño selector deslizable empotrado en la suela de goma; muévelo hacia el extremo opuesto (N.O. o N.C.) y comprueba que el conector jack de 6.35 mm esté insertado hasta el tope."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "3. Enciende el teclado sin apoyar el pie en la lengüeta",
+          "text": "Pulsa el botón de encendido manteniendo ambos pies en el suelo durante los primeros 4 segundos de inicio del sistema para que el firmware calibre correctamente el punto cero de reposo."
         }
       ]
     },
     {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Los pedales originales de marca como el Yamaha FC4A, el Yamaha FC5 o el Roland DP-2 no incluyen interruptor inferior porque vienen soldados de fábrica en configuración Normalmente Cerrado (N.C.). Si conectas uno de estos pedales fijos en un teclado antiguo de polaridad opuesta sin autodetección, necesitarás usar un pedal universal con selector N.O./N.C. o desoldar e invertir el cable del terminal interno del microswitch.",
+      "title": "Qué hacer si tu pedal original no tiene interruptor en la base"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando por que mi pedal de sustain funciona al reves en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Consulta a nuestro Asesor IA para confirmar qué pedal metálico es 100 % compatible con tu teclado o revisa la disponibilidad actual de pedales universales con selector de polaridad en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre por que mi pedal de sustain funciona al reves?",
-      "a": "Se debe a que la polaridad del pedal (N.O. o N.C.) está invertida respecto a la marca de tu teclado, o a que encendiste el piano mientras tenías el pie apoyado sobre el pedal. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Tocar con el pedal funcionando al revés puede dañar la placa electrónica del piano?",
+      "a": "No. Que el pedal sostenga las notas al soltarlo y las corte al pisarlo es un simple desfase de lógica lógica entre estado abierto (N.O.) y cerrado (N.C.) a 3.3 V o 5 V. No produce sobretensión ni daña los circuitos integrados del piano digital."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Por qué cambié el interruptor debajo del pedal pero sigue sonando al revés?",
+      "a": "En instrumentos con autocalibración de arranque como el Yamaha PSR-E383 o el Alesis Recital Pro, el teclado memoriza la polaridad solo durante el primer segundo de encendido. Si mueves la palanca inferior con el piano ya prendido, deberás apagarlo, esperar 5 segundos y volver a encenderlo."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Un muelle vencido dentro del pedal puede hacer que funcione al revés?",
+      "a": "Si la lengüeta metálica queda hundida porque el resorte interno perdió fuerza o se salió de su guía, el microswitch permanece presionado de forma continua. Al encender el teclado en ese estado, el procesador cree que el circuito cerrado es el reposo e invierte la función."
     }
   ],
   "related": [
-    "/pedales-compatibles-y-polaridad/",
-    "/pedales-compatibles-y-polaridad/que-es-el-interruptor-de-polaridad-no-vs-nc-en-un-pedal-de-sustain-universal/",
-    "/pedales-compatibles-y-polaridad/para-que-sirve-el-pedal-de-sustain-damper-en-un-piano-digital-o-teclado/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/pedales-compatibles-y-polaridad/error-del-principiante-dejar-el-pedal-de-sustain-pisado-durante-toda-la-cancion/",
+    "/pedales-compatibles-y-polaridad/por-que-mi-pedal-de-sustain-hace-un-chirrido-o-ruido-de-muelle-y-como-lubricarlo/",
+    "/pedales-compatibles-y-polaridad/compatibilidad-de-la-pedalera-triple-roland-kpd-70-en-fp-30x-vs-fp-10/",
+    "/pedales-compatibles-y-polaridad/diferencia-entre-entrada-damper-sustain-y-entrada-assignable-pedal-en-teclados/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/por-que-mi-pedal-de-sustain-suena-al-reves-sostiene-cuando-no-lo-piso.webp"
 }

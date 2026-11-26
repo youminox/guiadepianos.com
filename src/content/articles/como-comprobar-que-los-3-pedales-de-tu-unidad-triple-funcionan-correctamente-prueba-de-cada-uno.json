@@ -4,161 +4,122 @@
   "path": "/solucion-de-problemas-y-configuracion/como-comprobar-que-los-3-pedales-de-tu-unidad-triple-funcionan-correctamente-prueba-de-cada-uno/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como probar que los 3 pedales del piano digital funcionan bien",
   "title": "Cómo Probar en 1 Minuto que el Pedal Derecho, el Central (Sostenuto) y el Izquierdo (Una Corda) Están Bien Reconocidos",
-  "seoTitle": "Cómo Probar en 1 Minuto que el Pedal Derecho, el Central (Sostenuto) y el Izquierdo (Una Corda) Están Bien Reconocidos | Guía de Pianos",
-  "metaDescription": "Cómo Probar en 1 Minuto que el Pedal Derecho, el Central (Sostenuto) y el Izquierdo (Una Corda) Están Bien Reconocidos: Asegúrate de haber enchufado hasta el fondo el conector multipin circular debajo del piano: prueba mantener una nota con el derecho, una nota selectiva con el central y suavizar el tono con el izquierdo. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Asegúrate de haber enchufado hasta el fondo el conector multipin circular debajo del piano: prueba mantener una nota con el derecho, una nota selectiva con el central y suavizar el tono con el izquierdo.",
-  "quickAnswer": "Sobre como probar que los 3 pedales del piano digital funcionan bien: Asegúrate de haber enchufado hasta el fondo el conector multipin circular debajo del piano: prueba mantener una nota con el derecho, una nota selectiva con el central y suavizar el tono con el izquierdo. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
+  "seoTitle": "Cómo Probar en 1 Minuto que el Pedal Derecho, el Central (Sostenuto) y el Izquierdo (Una Corda) Están Bien Reconocidos | guiadepianos.com",
+  "metaDescription": "Comprueba en 1 minuto si los 3 pedales de tu piano digital (Damper, Sostenuto central y Una Corda izquierdo) funcionan bien con esta prueba práctica.",
+  "excerpt": "La mayoría de los usuarios cree que el pedal central Sostenuto está averiado porque lo pisa antes de tocar la tecla. Aprende el orden exacto de pulsación para verificar cada pedal de tu pedalera triple.",
+  "quickAnswer": "Para probar que los **3 pedales** funcionan bien, verifica cada uno con su técnica real: el **derecho (Damper)** sostiene cualquier nota pulsada antes o después de pisarlo; el **central (Sostenuto)** exige mantener pulsada la tecla primero, pisar el pedal después y soltar los dedos (las notas tocadas posteriormente sonarán secas); y el **izquierdo (Una Corda)** suaviza el brillo armónico y reduce unos **3 dB** al tocar con él pisado.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Macro close-up shot with shallow depth of field (85mm f/2.8 lens): Home digital piano and keyboard tutorial illustrating Cómo Probar en 1 Minuto que el Pedal Derecho, el Central (Sostenuto) y el Izquierdo (Una Corda) Están Bien Reconocidos: Asegúrate de haber enchufado hasta el fondo el conector multipin circular debajo del piano: prueba mantener una nota con el derecho, una nota selectiva con el central y suavizar el tono con el izquierdo., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, crisp bright editorial studio lighting with neutral warm oak tones. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Candid real-world household usage perspective in bright natural morning light: realistic scene illustrating 'Cómo Probar en 1 Minuto que el Pedal Derecho, el Central (Sostenuto) y el Izquierdo (Una Corda) Están Bien Reconocidos' (como probar que los 3 pedales del piano digital funcionan bien) for guiadepianos.com, featuring equipment in warm sand beige with matte black hardware, in a clean modern garage or studio corner with slate flooring, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Probar en 1 Minuto que el Pedal Derecho, el Central (Sostenuto) y el Izquierdo (Una Corda) Están Bien Reconocidos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como probar que los 3 pedales del piano digital funcionan bien** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Asegúrate de haber enchufado hasta el fondo el conector multipin circular debajo del piano: prueba mantener una nota con el derecho, una nota selectiva con el central y suavizar el tono con el izquierdo."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Solucion De Problemas Y Configuracion](/solucion-de-problemas-y-configuracion/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Terminas de armar tu mueble con pedalera triple integrada —como la barra **Yamaha LP-1** para el **P-145**, la **Roland KPD-70** para el **FP-30X**, la unidad portátil **Casio SP-34** para el **Privia PX-S1100** o el mueble completo de un **Donner DEP-20**—, enchufas el conector inferior y te sientas a probar los tres pedales. Pisas el pedal derecho y el *sustain* responde perfecto; pero cuando pisas el pedal central (**Sostenuto**) y tocas una tecla, la nota se corta en seco como si no hubieras pisado nada. Antes de pensar que tu pedalera llegó defectuosa de fábrica, debes saber que el **90 % de las falsas alarmas** con el pedal central e izquierdo se deben a probarlos en el orden incorrecto."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como probar que los 3 pedales del piano digital funcionan bien"
+      "text": "Por qué el pedal central (Sostenuto) no hace nada si lo pisas antes de tocar la tecla"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como probar que los 3 pedales del piano digital funcionan bien**:"
-    },
-    {
-      "type": "table",
-      "caption": "Referencias técnicas verificadas para: como probar que los 3 pedales del piano digital funcionan bien",
-      "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
-      ],
-      "rows": [
-        [
-          "Clave técnica principal",
-          "Asegúrate de haber enchufado hasta el fondo el conector multipin circular debajo del piano: prueba mantener una nota con el derecho, una nota selectiva con el central y suavizar el tono con el izquierdo.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
-        ],
-        [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
-        ],
-        [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
-        ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Diagnóstico técnico clave sobre como probar que los 3 pedales del piano digital funcionan bien",
-      "text": "Asegúrate de haber enchufado hasta el fondo el conector multipin circular debajo del piano: prueba mantener una nota con el derecho, una nota selectiva con el central y suavizar el tono con el izquierdo. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      "text": "A diferencia del pedal derecho (**Damper / Sustain**), que levanta todos los apagadores al mismo tiempo sin importar si lo pisas antes o después de pulsar una tecla, el pedal central **Sostenuto** de un piano de cola funciona como un «cerrojo selectivo»: su mecanismo atrapa **únicamente los apagadores que ya estaban levantados en el milisegundo exacto en que tu pie baja el pedal**. Si pisas el pedal central en vacío y luego tocas el teclado, ninguna nota quedará retenida. Asimismo, el pedal izquierdo (**Una Corda / Soft**) no apaga el sonido ni detiene las notas: en un piano de cola desplaza los martillos unos milímetros para golpear dos cuerdas en vez de tres, lo que en un piano digital se traduce en un filtrado de armónicos agudos y una atenuación sutil de apenas **2 a 4 dB** que solo se percibe si comparas dos golpes fuertes con y sin pedal. Si usas un **Casio PX-S1100** durante esta prueba, te recomendamos activar antes la función sobre [cómo bloquear el panel táctil para no tocar botones por error](/solucion-de-problemas-y-configuracion/como-bloquear-el-panel-panel-lock-en-el-casio-privia-px-s1100-para-no-tocar-botones-tactiles-por-error/)."
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar como probar que los 3 pedales del piano digital funcionan bien en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Protocolo de 1 minuto para verificar cada uno de los 3 pedales paso a paso"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Prueba 1 — Pedal Derecho (Damper y Medio Pedal / Half-Pedal)",
+          "text": "Toca un acorde de Do mayor en el centro del teclado, pisa a fondo el pedal derecho y levanta las manos: el sonido debe prolongarse varios segundos. Para comprobar si tu pedalera reconoce el Medio Pedal continuo (presente en Yamaha LP-1, Roland KPD-70 y Casio SP-34), vuelve a tocar el acorde con el pedal al fondo y levanta el pie lentamente hasta la mitad del recorrido (unos 10 mm): deberías escuchar cómo la cola de resonancia se acorta gradualmente en lugar de cortarse de golpe."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Prueba 2 — Pedal Central (Sostenuto: tecla primero, pedal después)",
+          "text": "Con los pies fuera de los pedales, pulsa con tu mano izquierda una octava grave (por ejemplo, Do2) y MANTÉN LA TECLA PRESIONADA con el dedo. Sin levantar el dedo de la tecla, pisa a fondo el pedal central y mantenlo abajo. Ahora retira tu mano izquierda del teclado (la nota grave Do2 seguirá sonando sola) y toca una escala rápida en staccato en las teclas agudas con tu mano derecha: si el Sostenuto funciona bien, las notas agudas sonarán totalmente secas y cortas mientras el bajo Do2 sigue resonando de fondo."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Prueba 3 — Pedal Izquierdo (Una Corda / Soft: prueba con audífonos y golpe forte)",
+          "text": "Colócate unos audífonos de estudio (o sube el volumen a tres cuartos, asegurándote antes de que el piano suena con claridad). Sin pisar ningún pedal, golpea la tecla La4 (A4) tres veces con fuerza (forte) y presta atención al brillo metálico inicial del martillo. Ahora pisa a fondo el pedal izquierdo, mantenlo pisado y vuelve a golpear la misma tecla La4 con idéntica fuerza: notarás que el sonido pierde su filo agudo y suena más redondo, aterciopelado y ligeramente más suave."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como probar que los 3 pedales del piano digital funcionan bien en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
       "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Tabla de diagnóstico rápido si alguno de los 3 pedales falla durante la prueba"
     },
     {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
+      "type": "table",
+      "headers": [
+        "Posición del pedal",
+        "Mensaje MIDI estándar que envía",
+        "Efecto acústico esperado",
+        "Causa probable si no responde en la prueba"
+      ],
+      "rows": [
+        [
+          "Pedal Derecho (Damper / Sustain)",
+          "CC #64 (valores 0 a 127 con Half-Pedal)",
+          "Sostiene todas las notas pulsadas antes o después de pisarlo; añade resonancia de cuerdas",
+          "Conector multipin flojo a medio entrar o polaridad invertida al encender con el pie apoyado en el pedal"
+        ],
+        [
+          "Pedal Central (Sostenuto)",
+          "CC #66 (0 = apagado, 127 = activado)",
+          "Sostiene solo las notas cuyos dedos ya estaban abajo en el instante de pisar el pedal central",
+          "El usuario pisó el pedal antes de pulsar la tecla, o hay un pin específico doblado en el enchufe redondo Mini-DIN"
+        ],
+        [
+          "Pedal Izquierdo (Una Corda / Soft)",
+          "CC #67 (0 = apagado, 127 = activado)",
+          "Suaviza el timbre del golpe de martillo y reduce el volumen entre 2 y 4 dB mientras se mantiene pisado",
+          "Se probó tocando demasiado suave (pianissimo) o con una voz de órgano/cuerdas donde Una Corda no altera el timbre"
+        ]
+      ],
+      "caption": "Qué transmite cada pedal de una unidad triple y qué revisar si no supera el test de 1 minuto"
     },
     {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "type": "callout",
+      "variant": "tip",
+      "text": "La prueba del pedal izquierdo (Una Corda) y del pedal central (Sostenuto) debe realizarse siempre con la voz principal **Grand Piano 1** seleccionada. Si tienes activado un sonido de órgano de iglesia (Pipe Organ), clavicordio o sintetizador, el pedal izquierdo suele estar desactivado por diseño acústico o reasignado a otro efecto (como cambiar la velocidad del altavoz rotatorio Rotary Speaker).",
+      "title": "Realiza la prueba siempre con la voz Grand Piano principal y sin modo Dual"
     },
     {
       "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Si al ponerte los auriculares para escuchar el matiz del pedal *Una Corda* y luego desconectarlos descubres que las bocinas del piano quedaron mudas, revisa [si quedó un adaptador de 1/4\" metido en la toma de audífonos](/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-enciende-las-luces-pero-no-sale-sonido-por-los-altavoces/). Para más comprobaciones de hardware, visita nuestro [hub de solución de problemas y configuración](/solucion-de-problemas-y-configuracion/)."
+    },
+    {
+      "type": "cta",
+      "text": "¿Quieres añadir la pedalera triple oficial (Yamaha LP-1, Roland KPD-70 o Casio SP-34) a tu piano digital de 88 teclas? Consulta compatibilidades con nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como probar que los 3 pedales del piano digital funcionan bien?",
-      "a": "Asegúrate de haber enchufado hasta el fondo el conector multipin circular debajo del piano: prueba mantener una nota con el derecho, una nota selectiva con el central y suavizar el tono con el izquierdo. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Por qué el pedal izquierdo o central cambia de ritmo o pasa de página en lugar de hacer Una Corda o Sostenuto?",
+      "a": "En modelos como el Casio Privia PX-S1100 con la pedalera SP-34 o el Roland FP-30X con la KPD-70, el pedal izquierdo o central puede configurarse en el menú o mediante la app oficial para pasar las páginas de las partituras digitales en tu iPad por Bluetooth o para iniciar/detener ritmos. Verifica que la función Pedal Assign esté en su valor predeterminado (Soft / Sostenuto)."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Qué diferencia real hay entre un pedal con Half-Pedal (Medio Pedal) y un pedal cuadrado básico de plástico?",
+      "a": "Un pedal básico de interruptor (On/Off) solo envía dos valores (0 o 127): está totalmente apagado o totalmente pisado. Las pedaleras triples oficiales y los pedales continuos envían valores intermedios (de 1 a 126), permitiendo levantar el pie a la mitad para limpiar el exceso de resonancia en pasajes rápidos sin cortar el acorde de golpe."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Por qué mi pedal derecho sostiene las notas cuando NO lo piso y las corta cuando lo piso?",
+      "a": "Eso sucede si encendiste el piano mientras tenías el pie apoyado sobre el pedal o si el conector multipin no entró hasta el tope. Apaga el piano digital, asegúrate de que el cable esté firmemente insertado sin tocar ningún pedal y vuelve a encender el instrumento."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/",
-    "/solucion-de-problemas-y-configuracion/que-hacer-si-el-conector-multipin-de-la-pedalera-triple-tiene-un-pin-doblado-precaucion-al-enchufar/",
-    "/solucion-de-problemas-y-configuracion/por-que-las-luces-del-panel-parpadean-en-secuencia-y-como-salir-del-modo-tienda-demo/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/solucion-de-problemas-y-configuracion/polaridad-del-adaptador-de-corriente-centro-positivo-vs-centro-negativo-en-teclados-y-pianos/",
+    "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-enciende-las-luces-pero-no-sale-sonido-por-los-altavoces/",
+    "/solucion-de-problemas-y-configuracion/como-usar-la-funcion-octave-shift-1-o-2-octavas-en-un-teclado-de-61-teclas/",
+    "/solucion-de-problemas-y-configuracion/como-bloquear-el-panel-panel-lock-en-el-casio-privia-px-s1100-para-no-tocar-botones-tactiles-por-error/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-comprobar-que-los-3-pedales-de-tu-unidad-triple-funcionan-correctamente-prueba-de-cada-uno.webp"
 }

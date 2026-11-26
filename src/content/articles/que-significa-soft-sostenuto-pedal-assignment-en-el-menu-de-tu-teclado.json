@@ -4,161 +4,124 @@
   "path": "/pedales-compatibles-y-polaridad/que-significa-soft-sostenuto-pedal-assignment-en-el-menu-de-tu-teclado/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cambiar funcion del pedal en teclado casio yamaha",
   "title": "Cómo Reasignar la Función de tu Pedal en Teclados Casio y Yamaha (Sustain, Sostenuto, Soft o Start/Stop de Ritmo)",
-  "seoTitle": "Cómo Reasignar la Función de tu Pedal en Teclados Casio y Yamaha (Sustain, Sostenuto, Soft o Start/Stop de Ritmo) | Guía de Pianos",
-  "metaDescription": "Cómo Reasignar la Función de tu Pedal en Teclados Casio y Yamaha (Sustain, Sostenuto, Soft o Start/Stop de Ritmo): Desde el menú Function de teclados como el PSR-E383 o CT-S300 puedes elegir si el pedal actúa como Sustain tradicional o si sirve para arrancar y detener el acompañamiento de batería. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Desde el menú Function de teclados como el PSR-E383 o CT-S300 puedes elegir si el pedal actúa como Sustain tradicional o si sirve para arrancar y detener el acompañamiento de batería.",
-  "quickAnswer": "Sobre cambiar funcion del pedal en teclado casio yamaha: Desde el menú Function de teclados como el PSR-E383 o CT-S300 puedes elegir si el pedal actúa como Sustain tradicional o si sirve para arrancar y detener el acompañamiento de batería. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Reasignar la Función de tu Pedal en Teclados Casio y Yamaha (Sustain, Sostenuto, Soft o Start/Stop de Ritmo) | guiadepianos.com",
+  "metaDescription": "Aprende cómo cambiar funcion del pedal en teclado Casio Yamaha desde el menú Function para alternar entre Sustain, Sostenuto, Soft o disparo de ritmos.",
+  "excerpt": "Aunque tu teclado portátil tenga una sola entrada jack de 6.35 mm, su sistema operativo permite reasignar ese pedal físico para controlar el apagador, el pedal celeste o el inicio de baterías con el pie.",
+  "quickAnswer": "Puedes **cambiar funcion del pedal en teclado Casio Yamaha** entrando al menú **Function** del panel y localizando el parámetro **Pedal Assign** (o **Sustain/Assignable Jack**). Desde allí es posible conmutar la entrada única de **6.35 mm (1/4\")** entre **Sustain (CC 64)**, **Sostenuto (CC 66)**, **Soft / Una Corda (CC 67)** o **Rhythm Start/Stop**, permitiendo que un modelo compacto como el **Yamaha PSR-E383** adapte el pedal a repertorio clásico o acompañamiento en vivo.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Side-profile acoustic studio shot highlighting key travel and matte ebony/ivory texture: Home digital piano and keyboard tutorial illustrating Cómo Reasignar la Función de tu Pedal en Teclados Casio y Yamaha (Sustain, Sostenuto, Soft o Start/Stop de Ritmo): Desde el menú Function de teclados como el PSR-E383 o CT-S300 puedes elegir si el pedal actúa como Sustain tradicional o si sirve para arrancar y detener el acompañamiento de batería., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, soft natural morning window daylight with gentle warm shadows. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Cómo Reasignar la Función de tu Pedal en Teclados Casio y Yamaha (Sustain, Sostenuto, Soft o Start/Stop de Ritmo)' (cambiar funcion del pedal en teclado casio yamaha) for guiadepianos.com, featuring equipment in matte charcoal black with brushed aluminum accents, inside a bright contemporary apartment with minimalist decor, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Reasignar la Función de tu Pedal en Teclados Casio y Yamaha (Sustain, Sostenuto, Soft o Start/Stop de Ritmo)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **cambiar funcion del pedal en teclado casio yamaha** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Desde el menú Function de teclados como el PSR-E383 o CT-S300 puedes elegir si el pedal actúa como Sustain tradicional o si sirve para arrancar y detener el acompañamiento de batería."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Pedales Compatibles Y Polaridad](/pedales-compatibles-y-polaridad/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Abres el menú de configuración de tu **Yamaha PSR-E383** o de tu teclado portátil **Casio** buscando ajustar el brillo de la pantalla o el metrónomo y, de pronto, te topas con un parámetro abreviado como **Pedal Assign**, **PdlFunc** o **Soft / Sostenuto Assignment**. Muchos estudiantes creen que la única entrada jack de **6.35 mm (1/4\")** situada en la parte trasera del teclado está soldada físicamente a la función de sustain, pero en realidad es un puerto digital programable. Aprender cómo **cambiar funcion del pedal en teclado Casio Yamaha** te permite transformar cualquier pedal de interruptor universal en un pedal izquierdo de sordina (*Una Corda*), un pedal central tonal (*Sostenuto*) o incluso un disparador manos libres para arrancar y detener baterías automáticas en mitad de una canción. Si quieres conocer todas las posibilidades de tu accesorio, visita primero nuestro [hub de pedales compatibles y polaridad](/pedales-compatibles-y-polaridad/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: cambiar funcion del pedal en teclado casio yamaha"
+      "text": "Las 4 Funciones que Puedes Asignar a la Entrada Jack de 1/4\" en Teclados Portátiles"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **cambiar funcion del pedal en teclado casio yamaha**:"
+      "text": "En los pianos acústicos de cola existen tres palancas independientes de latón bajo la lira, pero en un teclado portátil de **61 teclas** como el **Yamaha PSR-E383** o en pianos ultracompactos como el **Casio Privia PX-S1100** (cuando usas la entrada jack individual en lugar de la pedalera triple), el procesador te deja elegir qué mensaje interno y qué código **MIDI CC** disparará tu único pedal físico. Antes de navegar por el menú, asegúrate de seguir la [regla de conectar el pedal con el piano apagado](/pedales-compatibles-y-polaridad/como-conectar-el-pedal-de-sustain-con-el-piano-apagado-para-evitar-fallos/) para que el sistema reconozca bien el circuito en reposo. Una vez encendido, puedes elegir que ese pedal gobierne el apagador general (**Sustain, CC 64**), retenga solo el acorde del bajo que tenías pulsado en el instante de pisar (**Sostenuto, CC 66**), aplique un filtro dulce de timbre y volumen tal como explicamos al ver [cómo simula un piano digital el pedal izquierdo Una Corda o Soft](/pedales-compatibles-y-polaridad/como-funciona-el-pedal-izquierdo-una-corda-soft-pedal-en-un-piano-digital/) (**CC 67**), o dispare funciones de arreglista como **Style Start/Stop** y **Tap Tempo**."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: cambiar funcion del pedal en teclado casio yamaha",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Nombre en pantalla LCD (Yamaha / Casio)",
+        "Código MIDI asociado",
+        "Efecto sonoro o mecánico al pisar el pedal",
+        "Cuándo conviene activarlo"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Desde el menú Function de teclados como el PSR-E383 o CT-S300 puedes elegir si el pedal actúa como Sustain tradicional o si sirve para arrancar y detener el acompañamiento de batería.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Sustain / Damper (Ajuste de fábrica)",
+          "CC 64",
+          "Mantiene vibrando todas las notas que toques mientras el pie esté abajo",
+          "El 95 % del tiempo: estudio de piano clásico, pop, baladas y acompañamiento general"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Sostenuto (Sost.)",
+          "CC 66",
+          "Sostiene únicamente las teclas que ya estaban hundidas antes de bajar el pedal; las siguientes suenan secas",
+          "Mantener un bajo pedal profundo mientras tocas escalas rápidas limpias en la mano derecha"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Soft / Una Corda",
+          "CC 67",
+          "Suaviza el ataque del martillo virtual y reduce ligeramente los armónicos agudos y el volumen",
+          "Pasajes intimistas (*pianissimo*) o capas de cuerdas y pads donde no quieres prolongar la cola"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Rhythm / Style Start-Stop o Fill-in",
+          "Comando de sistema local",
+          "Arranca la base de batería, lanza un redoble (*fill*) o detiene el acompañamiento sin soltar las teclas",
+          "Tocar en vivo con ritmos automáticos teniendo ambas manos ocupadas en el teclado"
         ]
-      ]
+      ],
+      "caption": "Opciones del parámetro Pedal Assignment en menús Function de Yamaha y Casio"
+    },
+    {
+      "type": "h2",
+      "text": "Por Qué Se Borra la Asignación del Pedal al Apagar el Teclado (y Cómo Guardarla en Memoria)"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de profesor de piano sobre cambiar funcion del pedal en teclado casio yamaha",
-      "text": "Desde el menú Function de teclados como el PSR-E383 o CT-S300 puedes elegir si el pedal actúa como Sustain tradicional o si sirve para arrancar y detener el acompañamiento de batería. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      "text": "Por seguridad para principiantes, la mayoría de los teclados **Yamaha PSR** y **Casio Casiotone / Privia** restauran automáticamente la entrada de pedal al modo **Sustain (Damper)** cada vez que apagas el botón de corriente, evitando que al día siguiente creas que el pedal se rompió porque quedó en modo *Soft*. Si deseas conservar una función especial como **Start/Stop de ritmo** o **Sostenuto**, guárdala en un botón de **Registration Memory (Memoria de Registro)** o activa la función **Auto Resume / Backup** en el menú del sistema.",
+      "title": "El reinicio automático a Sustain por defecto"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar cambiar funcion del pedal en teclado casio yamaha en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Ruta Paso a Paso para Cambiar la Función del Pedal en Yamaha y Casio"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "En teclados Yamaha (serie PSR-E373 / PSR-E383 y similares)",
+          "text": "Pulsa el botón **Function** en el panel frontal y usa las teclas **Category [<] / [>]** hasta que la pantalla LCD muestre **PdlFunc (Pedal Function)**. Gira el dial o pulsa **[+] / [-]** para alternar entre **01 Sustain**, **02 Art. (Articulation de voces Super Articulation Lite)**, **03 Sostenuto**, **04 Soft** o **05 Style Start/Stop**."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "En pianos y teclados Casio con pantalla LCD",
+          "text": "Mantén presionado o pulsa el botón **Function**, desplázate con las flechas de cursor hasta el apartado **Pedal** o **Jack Assign** y cambia el valor por defecto **Damper (Dmp)** hacia **Sostenuto (Sost)**, **Soft** o **Rhythm (Rhy)** usando los botones **Yes/No (+ / -)**."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "En pianos Casio sin pantalla (como el Privia PX-S1100 con la app Casio Music Space)",
+          "text": "Abre la aplicación gratuita **Casio Music Space** en tu teléfono o iPad conectado por **USB** o mediante el adaptador **Bluetooth WU-BT10**, entra a **Piano Remote Controller -> Pedal Setting** y selecciona en pantalla táctil la función deseada para el conector asignable en menos de tres segundos."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando cambiar funcion del pedal en teclado casio yamaha en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Quieres aprovechar todas las funciones de tu teclado Yamaha o Casio con un pedal metálico cómodo y preciso? Consulta a nuestro Asesor IA o revisa la disponibilidad en tiempo real en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre cambiar funcion del pedal en teclado casio yamaha?",
-      "a": "Desde el menú Function de teclados como el PSR-E383 o CT-S300 puedes elegir si el pedal actúa como Sustain tradicional o si sirve para arrancar y detener el acompañamiento de batería. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Por qué mi pedal dejó de sostener las notas y ahora solo baja un poco el volumen cuando lo piso?",
+      "a": "Probablemente cambiaste por error el parámetro Pedal Function a Soft (Una Corda) o Sostenuto dentro del menú Function. Apaga el teclado durante 5 segundos y vuélvelo a encender sin pisar el pedal, o entra a Function -> PdlFunc y selecciona la opción 01 Sustain."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Necesito un pedal especial para usar las funciones Sostenuto, Soft o Start/Stop de ritmo en mi teclado?",
+      "a": "Sí. Cualquier pedal universal con conector TS de 6.35 mm (como el M-Audio SP-2 o el Yamaha FC4A) funciona perfectamente para Sustain, Sostenuto, Soft o disparo de ritmos, porque quien cambia el efecto sonoro es el procesador interno del teclado al detectar el pulso del interruptor."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Para qué sirve la opción Articulation (Art.) dentro del menú de pedal en el Yamaha PSR-E383?",
+      "a": "Cuando eliges la opción Articulation en el menú de pedal de un Yamaha PSR-E383, pisar el pedal activa efectos realistas propios del instrumento seleccionado, como el glissando de trastes en una guitarra acústica, el soplido de llaves en un saxofón o el trémolo en cuerdas."
     }
   ],
   "related": [
-    "/pedales-compatibles-y-polaridad/",
-    "/pedales-compatibles-y-polaridad/por-que-el-pedal-de-sustain-tiene-una-capucha-de-goma-negra-cuando-lo-sacas-de-la-caja/",
-    "/pedales-compatibles-y-polaridad/diferencia-entre-pedal-damper-optico-y-potenciometro-en-pianos-digitales/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/pedales-compatibles-y-polaridad/que-es-el-interruptor-de-polaridad-no-vs-nc-en-un-pedal-de-sustain-universal/",
+    "/pedales-compatibles-y-polaridad/como-conectar-el-pedal-de-sustain-con-el-piano-apagado-para-evitar-fallos/",
+    "/pedales-compatibles-y-polaridad/puedo-usar-un-pedal-con-medio-pedal-trs-en-un-teclado-de-61-teclas-que-solo-acepta-ts/",
+    "/pedales-compatibles-y-polaridad/como-funciona-el-pedal-izquierdo-una-corda-soft-pedal-en-un-piano-digital/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-significa-soft-sostenuto-pedal-assignment-en-el-menu-de-tu-teclado.webp"
 }

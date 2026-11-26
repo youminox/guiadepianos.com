@@ -4,161 +4,115 @@
   "path": "/conexiones-midi-apps-y-aprendizaje/que-longitud-maxima-puede-tener-un-cable-usb-midi-sin-perder-senal-2-a-3-metros/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "largo recomendado cable usb midi para piano digital",
   "title": "De Qué Largo Comprar tu Cable USB-MIDI (1.8 m a 3.0 m): Por Qué Evitar Cables USB de Más de 5 Metros",
-  "seoTitle": "De Qué Largo Comprar tu Cable USB-MIDI (1.8 m a 3.0 m) | Guía de Pianos",
-  "metaDescription": "De Qué Largo Comprar tu Cable USB-MIDI (1.8 m a 3.0 m): Por Qué Evitar Cables USB de Más de 5 Metros: Un cable de 2 metros (6.6 pies) llega cómodamente desde el panel trasero hasta el atril de partituras o tu escritorio lateral manteniendo una señal digital 100 % estable. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Un cable de 2 metros (6.6 pies) llega cómodamente desde el panel trasero hasta el atril de partituras o tu escritorio lateral manteniendo una señal digital 100 % estable.",
-  "quickAnswer": "Sobre largo recomendado cable usb midi para piano digital: Un cable de 2 metros (6.6 pies) llega cómodamente desde el panel trasero hasta el atril de partituras o tu escritorio lateral manteniendo una señal digital 100 % estable. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "De Qué Largo Comprar tu Cable USB-MIDI (1.8 m a 3.0 m): Por Qué Evitar Cables USB de Más de 5 Metros | guiadepianos.com",
+  "metaDescription": "Descubre el largo recomendado de cable USB-MIDI para piano digital (1.8 m a 3.0 m) y por qué superar los 5 metros causa notas colgadas y desconexiones.",
+  "excerpt": "Análisis técnico sobre la atenuación de señal en cables USB Tipo B para pianos digitales: por qué el rango de 1.8 a 3 metros garantiza estabilidad y cómo evitar notas pegadas en distancias largas.",
+  "quickAnswer": "El largo recomendado para un cable **USB-MIDI Tipo B** entre tu piano digital y la computadora o iPad es de **1.8 metros a 3.0 metros** (**6 a 10 pies**). Superar el límite físico de **5.0 metros** del estándar **USB 2.0** provoca caída de tensión por debajo de **4.4 V** y degradación de paquetes de datos, causando desconexiones intermitentes o notas que se quedan sonando solas porque se pierde el mensaje **Note Off**.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Realistic editorial photography, Side-profile acoustic studio shot highlighting key travel and matte ebony/ivory texture: Home digital piano and keyboard tutorial illustrating De Qué Largo Comprar tu Cable USB-MIDI (1.8 m a 3.0 m): Por Qué Evitar Cables USB de Más de 5 Metros: Un cable de 2 metros (6.6 pies) llega cómodamente desde el panel trasero hasta el atril de partituras o tu escritorio lateral manteniendo una señal digital 100 % estable., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Diagonal isometric product-in-use composition in modern home setting: realistic scene illustrating 'De Qué Largo Comprar tu Cable USB-MIDI (1.8 m a 3.0 m): Por Qué Evitar Cables USB de Más de 5 Metros' (largo recomendado cable usb midi para piano digital) for guiadepianos.com, featuring equipment in terracotta copper accent with matte slate body, on a matte dark-gray technical mat with measuring tools nearby, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "De Qué Largo Comprar tu Cable USB-MIDI (1.8 m a 3.0 m): Por Qué Evitar Cables USB de Más de 5 Metros"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **largo recomendado cable usb midi para piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Un cable de 2 metros (6.6 pies) llega cómodamente desde el panel trasero hasta el atril de partituras o tu escritorio lateral manteniendo una señal digital 100 % estable."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Conexiones Midi Apps Y Aprendizaje](/conexiones-midi-apps-y-aprendizaje/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Si el escritorio de tu computadora de escritorio está en una esquina de la habitación y tu piano digital de 88 teclas descansa en la pared opuesta, la tentación natural es buscar en internet un cable **USB Tipo B** de seis, ocho o diez metros para rodear la alfombra. Sin embargo, a los pocos minutos de conectar un cable USB pasivo tan largo a tu **Yamaha P-145**, **Roland FP-30X** o **Alesis Recital Pro**, empiezan los fallos fantasma: acordes que suenan con un retardo errático, una nota aguda o el pedal de sustain que se quedan pegados sonando indefinidamente hasta que reinicias el programa, o el clásico aviso de Windows indicando que no se reconoce el dispositivo USB. A diferencia de la latencia de audio por software —que se resuelve al [activar el driver ASIO4ALL en Windows para eliminar el retraso](/conexiones-midi-apps-y-aprendizaje/que-es-el-driver-asio4all-en-windows-para-eliminar-el-retraso-al-tocar-instrumentos-virtuales-en-pc/)—, estos cortes se deben al límite físico de propagación y voltaje del estándar **USB 2.0**."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: largo recomendado cable usb midi para piano digital"
+      "text": "Por qué la señal USB-MIDI se degrada al superar los 3 a 5 metros de cable pasivo"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **largo recomendado cable usb midi para piano digital**:"
+      "text": "Aquí radica una importante [diferencia entre puertos MIDI de 5 pines y puerto USB-to-Host](/conexiones-midi-apps-y-aprendizaje/diferencia-entre-los-puertos-midi-din-redondos-de-5-pines-antiguos-y-el-puerto-usb-to-host-moderno/): mientras los antiguos cables MIDI redondos DIN de 5 pines trabajan con un bucle de corriente optoaislado de **5 mA** a baja frecuencia (**31.25 kbps**) capaz de recorrer **15 metros** sin errores, un cable **USB 2.0 High-Speed / Full-Speed** transmite paquetes diferenciales por los hilos **D+ y D-** con una ventana de sincronización estricta de **26 nanosegundos** de ida y una tensión de referencia (**VBUS**) de **5.0 V**. Para la mayoría de los estudios caseros, el punto dulce de fiabilidad está entre **1.8 metros y 3.0 metros** (**6 a 10 pies**): te da holgura suficiente para pasar el cable por detrás del soporte en Z hasta el atril del iPad o la torre del PC sin tensión mecánica en el conector y con **0 % de pérdida de paquetes**. Cuando estiras un cable pasivo económico más allá de los **5.0 metros** (**16.4 pies**), la resistencia del cobre fino (**28 AWG**) derrumba el voltaje y corrompe los mensajes **Note Off** (el byte que le avisa al piano virtual que levantaste el dedo), arruinando cualquier sesión incluso cuando solo intentas [improvisar con escalas pentatónicas en las 5 teclas negras](/conexiones-midi-apps-y-aprendizaje/que-son-las-escalas-pentatonicas-en-las-5-teclas-negras-para-improvisar-desde-el-primer-dia/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: largo recomendado cable usb midi para piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Longitud del cable USB Tipo B",
+        "Estabilidad de señal MIDI y Audio",
+        "Calibre y blindaje requeridos",
+        "Escenario de uso recomendado"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Un cable de 2 metros (6.6 pies) llega cómodamente desde el panel trasero hasta el atril de partituras o tu escritorio lateral manteniendo una señal digital 100 % estable.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "1.5 m a 2.0 m (5 a 6.6 pies)",
+          "Óptima (0 pérdidas de paquetes ni caída de VBUS)",
+          "Estándar 28/24 AWG con blindaje simple",
+          "Conectar el piano a un iPad, iPhone o laptop colocada sobre el atril o mesa contigua"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "3.0 m (10 pies)",
+          "Excelente (rango seguro dentro de la norma USB 2.0)",
+          "Doble blindaje (aluminio + malla) y núcleo 24 AWG",
+          "Conectar el piano a una PC de escritorio situada al lado del mueble o soporte en Z"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "4.5 m a 5.0 m (15 a 16.4 pies)",
+          "En el límite físico del estándar USB 2.0 pasivo",
+          "Obligatorio núcleo de ferrite contra EMI y cobre 24/20 AWG",
+          "Solo para envío de notas MIDI puras; riesgo de chasquidos si envías USB Audio 44.1 kHz"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Más de 5.0 m (6 m a 10 m)",
+          "Inestable en cable pasivo (notas pegadas y desconexión)",
+          "Prohibido cable pasivo; exige extensor USB activo o Bluetooth MIDI",
+          "Estudios donde la computadora está en la pared opuesta de la habitación"
         ]
-      ]
+      ],
+      "caption": "Rendimiento de transmisión USB-MIDI y USB Audio según la longitud del cable"
+    },
+    {
+      "type": "h2",
+      "text": "Por qué los pianos con interfaz USB Audio (como Yamaha) sufren antes con cables largos"
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre largo recomendado cable usb midi para piano digital",
-      "text": "Un cable de 2 metros (6.6 pies) llega cómodamente desde el panel trasero hasta el atril de partituras o tu escritorio lateral manteniendo una señal digital 100 % estable. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      "variant": "aviso",
+      "text": "Si tu instrumento solo envía órdenes MIDI (como un **Roland FP-10** o un **Casio CDP-S160**), un cable de **3.0 a 4.5 metros** de buena factura rara vez fallará porque un acorde de diez notas ocupa apenas unos pocos bytes. Sin embargo, si utilizas un **Yamaha P-145**, **P-225** o **PSR-E383** para transmitir **USB Audio digital estéreo (44.1 kHz / 16 bits)** hacia tu computadora o iPad, el flujo de datos es **continuo e isócrono** (sin reintento de paquetes perdidos). En cables mayores de **3.0 metros** sin núcleo de ferrita o con blindaje deficiente, cualquier interferencia eléctrica cercana se traduce de inmediato en crujidos digitales (`pops and clicks`) o cortes momentáneos del sonido. Para **USB Audio + MIDI**, mantente siempre en el rango de **1.8 m a 3.0 m**.",
+      "title": "La diferencia entre transmitir solo notas MIDI y transmitir USB Audio isócrono"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar largo recomendado cable usb midi para piano digital en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando largo recomendado cable usb midi para piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Qué especificaciones buscar al elegir tu cable USB-MIDI (y cómo superar los 5 metros)"
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**Elige entre 1.8 m (6 ft) y 3.0 m (10 ft) para uso diario:** un cable de **1.8 metros** es la medida ideal para subir desde el panel trasero del piano hasta el atril donde descansa tu iPad o MacBook sin que sobren rollos de cable colgando sobre los pedales; elige **3.0 metros** si tu torre PC está bajo un escritorio lateral.",
+        "**Exige calibre 24/28 AWG con blindaje trenzado y filtro de ferrita:** los cables genéricos de impresora ultradelgados carecen de malla metálica y actúan como antena frente a fuentes de poder o lámparas LED. Un cilindro de **ferrita** cerca del extremo **USB Tipo B** filtra el ruido de radiofrecuencia antes de entrar a la placa del piano.",
+        "**Usa un cable extensor USB Activo (Active Repeater) si necesitas de 5 a 10 metros:** si la distribución de tu sala te obliga a recorrer más de **5 metros**, no compres un cable pasivo largo: une un cable USB Tipo B de **2 metros** a un **cable extensor USB 2.0 Activo con chip repetidor integrado** (o añade un adaptador inalámbrico **Bluetooth MIDI CME WIDI uHost** para eliminar el cable por completo)."
       ]
     },
     {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "cta",
+      "text": "Consulta en las tarjetas de Amazon integradas en esta página la disponibilidad actual de cables USB Tipo B blindados de 1.8 m y 3.0 m compatibles con Yamaha, Roland, Casio y Alesis, o pregúntale a nuestro Asesor IA cuál se adapta a la distancia de tu estudio."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre largo recomendado cable usb midi para piano digital?",
-      "a": "Un cable de 2 metros (6.6 pies) llega cómodamente desde el panel trasero hasta el atril de partituras o tu escritorio lateral manteniendo una señal digital 100 % estable. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿El cable USB-MIDI para un piano digital es el mismo que un cable USB de impresora?",
+      "a": "Sí, físicamente utilizan el mismo conector cuadrado **USB 2.0 Tipo B** en el extremo del dispositivo. Sin embargo, para un piano digital conviene usar un cable con **doble blindaje y conductores de cobre puro (24/28 AWG)** de entre **1.8 m y 3.0 m**, ya que las impresoras toleran reenvíos de paquetes con retraso, mientras que la música en tiempo real exige latencia cero."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Por qué un cable USB muy largo o defectuoso hace que las notas se queden sonando solas?",
+      "a": "Cuando tocas una tecla, el piano envía un paquete **Note On**; al soltarla, envía un paquete **Note Off**. En un cable USB demasiado largo (más de **5 metros**) o con el conector flojo, la caída de tensión hace que se pierda por el camino ese brevísimo mensaje **Note Off**, por lo que el software de la computadora cree que sigues manteniendo el dedo presionado."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Afecta el largo del cable USB si conecto el piano a un iPad en lugar de a una PC?",
+      "a": "Sí. Aunque el cable va del piano al iPad, un cable pasivo de más de **5 metros** aumenta la resistencia eléctrica en las líneas de comunicación **D+ / D-** y en la línea de detección **VBUS**, provocando que el adaptador del iPad desconecte el puerto repentinamente en mitad de una lección en **Simply Piano** o **GarageBand**."
     }
   ],
   "related": [
-    "/conexiones-midi-apps-y-aprendizaje/",
-    "/conexiones-midi-apps-y-aprendizaje/adaptador-bluetooth-midi-yamaha-ud-bt01-o-cme-widi-uhost-para-pianos-sin-bluetooth/",
-    "/conexiones-midi-apps-y-aprendizaje/como-escuchar-el-sonido-de-la-app-del-ipad-y-el-sonido-de-tu-piano-por-los-mismos-audifonos/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/conexiones-midi-apps-y-aprendizaje/que-es-el-driver-asio4all-en-windows-para-eliminar-el-retraso-al-tocar-instrumentos-virtuales-en-pc/",
+    "/conexiones-midi-apps-y-aprendizaje/diferencia-entre-los-puertos-midi-din-redondos-de-5-pines-antiguos-y-el-puerto-usb-to-host-moderno/",
+    "/conexiones-midi-apps-y-aprendizaje/que-es-la-lectura-a-primera-vista-sight-reading-y-como-entrenarla-5-minutos-al-dia/",
+    "/conexiones-midi-apps-y-aprendizaje/que-son-las-escalas-pentatonicas-en-las-5-teclas-negras-para-improvisar-desde-el-primer-dia/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-longitud-maxima-puede-tener-un-cable-usb-midi-sin-perder-senal-2-a-3-metros.webp"
 }

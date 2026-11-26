@@ -3,162 +3,136 @@
   "pillar": "primer-piano-o-teclado",
   "path": "/primer-piano-o-teclado/checklist-de-5-minutos-al-recibir-tu-piano-digital-de-amazon-en-casa/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "que revisar al recibir un piano digital nuevo de amazon",
   "title": "Checklist de Recepción: Las 6 Pruebas que Debes Hacer en los Primeros 5 Minutos al Abrir tu Piano de Amazon",
-  "seoTitle": "Checklist de Recepción | Guía de Pianos",
-  "metaDescription": "Checklist de Recepción: Las 6 Pruebas que Debes Hacer en los Primeros 5 Minutos al Abrir tu Piano de Amazon: Recorre las 88/61 teclas de extremo a extremo en pianísimo y fortísimo, prueba ambos canales de la salida de audífonos, conecta el pedal de sustain y verifica el cargador. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Recorre las 88/61 teclas de extremo a extremo en pianísimo y fortísimo, prueba ambos canales de la salida de audífonos, conecta el pedal de sustain y verifica el cargador.",
-  "quickAnswer": "Sobre que revisar al recibir un piano digital nuevo de amazon: Recorre las 88/61 teclas de extremo a extremo en pianísimo y fortísimo, prueba ambos canales de la salida de audífonos, conecta el pedal de sustain y verifica el cargador. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Checklist de Recepción: Las 6 Pruebas que Debes Hacer en los Primeros 5 Minutos al Abrir tu Piano de Amazon | guiadepianos.com",
+  "metaDescription": "Guía paso a paso con las 6 pruebas técnicas que debes hacer en 5 minutos al recibir tu piano digital de Amazon: teclas, sensores, altavoces y fuente DC.",
+  "excerpt": "Acabas de recibir la caja de tu piano de 88 o 61 teclas: sigue este protocolo de inspección rápida en 5 minutos para verificar martillos, niveles de velocidad, conos de altavoces y accesorios ocultos.",
+  "quickAnswer": "Al recibir un piano digital nuevo, dedica los primeros **5 minutos** a rescatar el adaptador de corriente oculto en los bloques de poliestireno, retirar la cinta y la tira de fieltro de transporte, y recorrer cromáticamente las **88 o 61 teclas** en tres niveles de fuerza (*pianissimo*, medio y *fortissimo*). Verifica también que ninguna tecla roce con su vecina y que la salida de audífonos suene en **estéreo real (L/R)**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Three-quarter editorial angle from slightly above in a bright music corner (50mm lens): Home digital piano and keyboard tutorial illustrating Checklist de Recepción: Las 6 Pruebas que Debes Hacer en los Primeros 5 Minutos al Abrir tu Piano de Amazon: Recorre las 88/61 teclas de extremo a extremo en pianísimo y fortísimo, prueba ambos canales de la salida de audífonos, conecta el pedal de sustain y verifica el cargador., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, warm evening LED music stand lamp light for silent headphone practice. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Checklist de Recepción: Las 6 Pruebas que Debes Hacer en los Primeros 5 Minutos al Abrir tu Piano de Amazon' (que revisar al recibir un piano digital nuevo de amazon) for guiadepianos.com, featuring equipment in arctic white with warm stone-gray details, on a light terrazzo surface in a contemporary living space, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Checklist de Recepción: Las 6 Pruebas que Debes Hacer en los Primeros 5 Minutos al Abrir tu Piano de Amazon"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **que revisar al recibir un piano digital nuevo de amazon** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Recorre las 88/61 teclas de extremo a extremo en pianísimo y fortísimo, prueba ambos canales de la salida de audífonos, conecta el pedal de sustain y verifica el cargador."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Primer Piano O Teclado](/primer-piano-o-teclado/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "El mensajero acaba de entregar en tu puerta una caja rectangular de casi **145 cm** de largo y entre **15 y 22 kg** de peso. Con la ilusión del momento, el impulso natural es cortar los precintos, sacar el instrumento a toda prisa y ponerse a tocar en las dos octavas centrales asumiendo que el resto del equipo está intacto. Sin embargo, para resguardar tu compra desde el primer día y empezar con total tranquilidad tu recorrido en nuestro [hub de primer piano o teclado](/primer-piano-o-teclado/), dedicar **5 minutos cronometrados** a estas seis comprobaciones técnicas te asegurará que ningún martillo se desalineó durante el viaje y que no tirarás accesorios ocultos a la basura."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: que revisar al recibir un piano digital nuevo de amazon"
-    },
-    {
-      "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **que revisar al recibir un piano digital nuevo de amazon**:"
-    },
-    {
-      "type": "table",
-      "caption": "Referencias técnicas verificadas para: que revisar al recibir un piano digital nuevo de amazon",
-      "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
-      ],
-      "rows": [
-        [
-          "Clave técnica principal",
-          "Recorre las 88/61 teclas de extremo a extremo en pianísimo y fortísimo, prueba ambos canales de la salida de audífonos, conecta el pedal de sustain y verifica el cargador.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
-        ],
-        [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
-        ],
-        [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
-        ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre que revisar al recibir un piano digital nuevo de amazon",
-      "text": "Recorre las 88/61 teclas de extremo a extremo en pianísimo y fortísimo, prueba ambos canales de la salida de audífonos, conecta el pedal de sustain y verifica el cargador. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
-    },
-    {
-      "type": "h2",
-      "text": "Guía paso a paso para aplicar que revisar al recibir un piano digital nuevo de amazon en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Las 6 pruebas técnicas de recepción paso a paso (de 0 a 5 minutos)"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Minuto 1 — Extrae la fuente de 12V y el pedal ocultos en los moldes de espuma",
+          "text": "Antes de apartar los bloques blancos de poliestireno expandido (styrofoam), inspecciona sus caras exteriores. En modelos como el Yamaha P-145, Roland FP-10, Roland FP-30X y Casio PX-S1100, el transformador de corriente y el pedal vienen embutidos y pegados con cinta en huecos tallados dentro de la espuma lateral."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Minuto 2 — Retira las tiras de bloqueo y comprueba la línea horizontal de las 88 teclas",
+          "text": "Despega con cuidado la cinta adhesiva azul o transparente y la tira de fieltro protectora que frena las teclas en el transporte. Coloca los ojos a la altura del borde frontal y mira de extremo a extremo (de la nota A0 a la C8): todas las teclas blancas deben formar una línea recta uniforme sin ninguna pieza hundida ni levantada."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "Minuto 3 — Recorrido cromático nota por nota en tres niveles de fuerza",
+          "text": "Enciende el piano y toca las 88 o 61 teclas una por una de izquierda a derecha en tres pasadas: primero rozándolas muy suave (pianissimo) para validar el sensor de velocidad mínima, luego con peso medio y finalmente con ataque fuerte (fortissimo), confirmando que cada tecla regresa arriba al instante sin rozar con la vecina."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Minuto 4 — Prueba de resonancia de altavoces en la primera octava grave",
+          "text": "Ajusta el volumen al 75 % u 80 % de su recorrido y toca acordes profundos en las primeras 12 teclas de la izquierda. Acerca el oído a las rejillas de ambos altavoces (de 7W a 22W según tu modelo) para verificar que el sonido es limpio y que no hay vibraciones plásticas ni conos sueltos por impactos en ruta."
+        },
+        {
+          "name": "Minuto 5 — Test de polaridad del pedal de sustain y balance estéreo L/R de audífonos",
+          "text": "Conecta el pedal en el jack Damper/Sustain: las notas deben sostenerse solo al pisar y apagarse al levantar el pie. Acto seguido, inserta tus audífonos con cable y comprueba que los altavoces se silencian y que oyes las notas graves orientadas hacia el oído izquierdo y las agudas hacia el derecho."
+        },
+        {
+          "name": "Cierre — Fotografía la etiqueta del número de serie (S/N) bajo el chasis",
+          "text": "Toma una foto clara de la pegatina trasera o inferior con el Serial Number oficial del fabricante para registrar la garantía en línea y vuelve a meter todas las bolsas y bloques de espuma dentro del cartón."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando que revisar al recibir un piano digital nuevo de amazon en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
       "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "text": "Cómo diferenciar el sonido normal de los martillos de un fallo de transporte"
     },
     {
       "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Si es la primera vez que tienes en casa un piano digital con acción de martillo real, es muy común extrañarse al bajar el volumen a cero y escuchar un golpe seco y amortiguado cuando las teclas llegan al fondo. En mecanismos contrapesados auténticos como el **PHA-4 Standard del Roland FP-10 / FP-30X** o el **GHC del Yamaha P-145**, cada una de las **88 teclas** mueve un contrapeso físico que descansa sobre un riel de fieltro de alta densidad. Ese sonido mecánico parejo —sumado al agarre firme de las [teclas con acabado mate y textura porosa](/primer-piano-o-teclado/por-que-las-teclas-con-acabado-mate-son-mejores-que-las-de-plastico-brillante/) y a la ligerísima resistencia del escape (*let-off*) al final del recorrido en los modelos **Roland**— confirma que la mecánica trabaja exactamente como un piano acústico. Solo debes tramitar un cambio si una tecla individual suena a plástico suelto, se queda atascada abajo o raspa lateralmente contra su contigua."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Comportamiento Detectado",
+        "Diagnóstico Técnico",
+        "Solución o Acción Inmediata"
+      ],
+      "rows": [
+        [
+          "Las teclas de la izquierda pesan más al bajar que las de la derecha",
+          "100 % Normal (Diseño real)",
+          "El sistema Graded Hammer replica los martillos más gruesos de las cuerdas graves"
+        ],
+        [
+          "El piano suena con eco continuo sin tocar el pedal de sustain",
+          "Polaridad invertida del pedal",
+          "Apaga el piano, no apoyes el pie en el pedal al encender o cambia el switch del pedal"
+        ],
+        [
+          "Una tecla queda 4 mm más baja o roza con la tecla de al lado",
+          "Desplazamiento en transporte",
+          "Guarda todo en su embalaje original y solicita reemplazo directo en tu pedido"
+        ],
+        [
+          "Los audífonos suenan muy bajo o solo por el auricular izquierdo",
+          "Jack mal insertado o adaptador mono",
+          "Empuja el conector hasta oír el clic o usa un adaptador estéreo TRS (con 2 anillos negros)"
+        ]
+      ],
+      "caption": "Tabla de diagnóstico rápido durante los primeros 5 minutos de prueba"
+    },
+    {
+      "type": "h2",
+      "text": "Aclimatación térmica antes de enchufar y resguardo del embalaje original"
+    },
+    {
+      "type": "p",
+      "text": "Si el paquete llega a tu domicilio en una mañana muy fría o tras viajar horas en la bodega húmeda de un reparto, espera **30 a 40 minutos** tras sacarlo de la bolsa plástica antes de conectarlo a la corriente. Ese breve reposo permite que las placas electrónicas alcancen la temperatura ambiente sin formar microcondensación conductora sobre los sensores de goma del teclado. Cuando lo conectes por primera vez, inserta siempre primero la clavija cilíndrica de **12V DC** detrás del piano y luego el transformador al enchufe de pared (cuyo gasto energético es mínimo, como detallamos al analizar [cuánto consume de electricidad un piano digital al mes](/primer-piano-o-teclado/cuanto-consume-de-electricidad-un-piano-digital-al-mes/)). Finalmente, una vez superadas las seis pruebas con éxito, aplica las recomendaciones de nuestra guía sobre por qué [guardar la caja de cartón original de tu piano digital](/primer-piano-o-teclado/debo-guardar-la-caja-de-carton-original-de-mi-piano-digital/) debajo de la cama o sobre un armario."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Al abrir la caja exterior de cartón, corta únicamente las cintas adhesivas de los extremos laterales sin hundir la cuchilla. Si pasas un cúter profundo a lo largo de la unión central superior, puedes atravesar la solapa y rayar el chasis del piano o rasgar la bolsa acolchada interior.",
+      "title": "Jamás pases la hoja de un cúter por el centro de la tapa superior"
+    },
+    {
+      "type": "cta",
+      "text": "Revisa los modelos de 88 y 61 teclas con envío protegido y garantía oficial en las tarjetas de Amazon integradas en esta página, o consulta a nuestro Asesor IA si tienes cualquier duda al probar tu nuevo piano en casa."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre que revisar al recibir un piano digital nuevo de amazon?",
-      "a": "Recorre las 88/61 teclas de extremo a extremo en pianísimo y fortísimo, prueba ambos canales de la salida de audífonos, conecta el pedal de sustain y verifica el cargador. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Qué hago si abrí la caja y no encuentro el cable de corriente ni el pedal?",
+      "a": "Antes de iniciar un reclamo, inspecciona todos los bloques blancos de poliestireno (*styrofoam*) que venían en los extremos de la caja, mirando especialmente sus huecos laterales exteriores. En más del **95 %** de los casos, el adaptador de **12V** y el pedal vienen encajados ahí dentro con cinta adhesiva para que no golpeen el piano."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Es normal sentir un pequeño escalón o clic al bajar muy despacio las teclas de un Roland FP-10 o FP-30X?",
+      "a": "Sí, es una característica mecánica deliberada de gama alta. El teclado **PHA-4 Standard** de **Roland** incorpora **simulación de escape (*Escapement / Let-off*)**, que recrea el ligero tope táctil que se percibe al fondo de la tecla en un piano de cola acústico justo cuando el martillo se suelta de la cuerda."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Conviene registrar el número de serie en la web del fabricante tras comprarlo en Amazon?",
+      "a": "Sí. Registrar el número de serie de tu **Yamaha**, **Roland**, **Casio**, **Alesis** o **Donner** en la web oficial de la marca respalda tu garantía directa con el servicio técnico autorizado, permite descargar actualizaciones de firmware y suele desbloquear meses gratuitos en aplicaciones interactivas de aprendizaje."
     }
   ],
   "related": [
-    "/primer-piano-o-teclado/",
+    "/primer-piano-o-teclado/cuanto-consume-de-electricidad-un-piano-digital-al-mes/",
+    "/primer-piano-o-teclado/por-que-las-teclas-con-acabado-mate-son-mejores-que-las-de-plastico-brillante/",
     "/primer-piano-o-teclado/debo-guardar-la-caja-de-carton-original-de-mi-piano-digital/",
-    "/primer-piano-o-teclado/errores-mas-comunes-al-comprar-el-primer-piano-digital-en-amazon/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/primer-piano-o-teclado/se-puede-aprender-piano-de-forma-autodidacta-en-casa-con-apps-y-guias/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/checklist-de-5-minutos-al-recibir-tu-piano-digital-de-amazon-en-casa.webp"
 }

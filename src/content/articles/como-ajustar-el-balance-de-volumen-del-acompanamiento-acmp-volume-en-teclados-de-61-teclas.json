@@ -4,161 +4,132 @@
   "path": "/solucion-de-problemas-y-configuracion/como-ajustar-el-balance-de-volumen-del-acompanamiento-acmp-volume-en-teclados-de-61-teclas/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "bajar volumen del acompanamiento automatico en teclado",
   "title": "Cómo Bajar el Volumen de los Acordes Automáticos y la Batería (Accompaniment Volume) para que Tu Mano Derecha Se Escuche Clara",
-  "seoTitle": "Cómo Bajar el Volumen de los Acordes Automáticos y la Batería (Accompaniment Volume) para que Tu Mano Derecha Se Escuche Clara | Guía de Pianos",
-  "metaDescription": "Cómo Bajar el Volumen de los Acordes Automáticos y la Batería (Accompaniment Volume) para que Tu Mano Derecha Se Escuche Clara: Bajar el parámetro 'Acmp Volume' o 'Rhythm Volume' de 100 a 70 hace que la banda acompañe suavemente por detrás mientras tu melodía de piano brilla en primer plano. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Bajar el parámetro 'Acmp Volume' o 'Rhythm Volume' de 100 a 70 hace que la banda acompañe suavemente por detrás mientras tu melodía de piano brilla en primer plano.",
-  "quickAnswer": "Sobre bajar volumen del acompanamiento automatico en teclado: Bajar el parámetro 'Acmp Volume' o 'Rhythm Volume' de 100 a 70 hace que la banda acompañe suavemente por detrás mientras tu melodía de piano brilla en primer plano. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Bajar el Volumen de los Acordes Automáticos y la Batería (Accompaniment Volume) para que Tu Mano Derecha Se Escuche Clara | guiadepianos.com",
+  "metaDescription": "Aprende a bajar el volumen del acompañamiento automático y la batería (StyleVol / AcmpVol) en teclados Yamaha y Casio sin apagar la melodía principal.",
+  "excerpt": "Ajusta el parámetro interno Style Volume o Acmp Volume entre los niveles 65 y 75 de la escala MIDI para evitar que la percusión y el bajo automático tapen el sonido de tu mano derecha al practicar.",
+  "quickAnswer": "Para bajar el volumen del acompañamiento automático en un teclado sin afectar tu mano derecha, no uses la perilla Master Volume. Entra al menú **Function**, localiza el parámetro **StyleVol** (en modelos como el **Yamaha PSR-E383**) o **Accomp Volume** (en teclados **Casio Casiotone**) y reduce su valor de fábrica de **100** a un rango entre **65 y 75** en la escala de **0 a 127** usando los botones **[-]** y **[+]**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Macro close-up shot with shallow depth of field (85mm f/2.8 lens): Home digital piano and keyboard tutorial illustrating Cómo Bajar el Volumen de los Acordes Automáticos y la Batería (Accompaniment Volume) para que Tu Mano Derecha Se Escuche Clara: Bajar el parámetro 'Acmp Volume' o 'Rhythm Volume' de 100 a 70 hace que la banda acompañe suavemente por detrás mientras tu melodía de piano brilla en primer plano., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, soft natural morning window daylight with gentle warm shadows. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Cómo Bajar el Volumen de los Acordes Automáticos y la Batería (Accompaniment Volume) para que Tu Mano Derecha Se Escuche Clara' (bajar volumen del acompanamiento automatico en teclado) for guiadepianos.com, featuring equipment in arctic white with warm stone-gray details, on a warm walnut table beside a sunlit window, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Bajar el Volumen de los Acordes Automáticos y la Batería (Accompaniment Volume) para que Tu Mano Derecha Se Escuche Clara"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **bajar volumen del acompanamiento automatico en teclado** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Bajar el parámetro 'Acmp Volume' o 'Rhythm Volume' de 100 a 70 hace que la banda acompañe suavemente por detrás mientras tu melodía de piano brilla en primer plano."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Solucion De Problemas Y Configuracion](/solucion-de-problemas-y-configuracion/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Activas el botón **ACMP ON**, pulsas un acorde de Do mayor con tu mano izquierda y, en cuanto entra el ritmo de batería junto con el bajo automático, la melodía de piano que intentas tocar con tu mano derecha desaparece sepultada bajo el acompañamiento. Si giras la perilla general **Master Volume** hacia la izquierda para aliviar el estruendo, todo el instrumento pierde potencia por igual y sigues sin distinguir tus propias notas. Este desequilibrio ocurre porque en teclados portátiles de **61 teclas** como el **Yamaha PSR-E383** o la serie **Casio Casiotone**, las pistas de acompañamiento vienen premezcladas de fábrica al nivel **100** de la escala MIDI, mientras que tu mano derecha, al tocar con sensibilidad al tacto moderada, apenas genera velocidades de entre **65 y 80**."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: bajar volumen del acompanamiento automatico en teclado"
+      "text": "Por qué el acompañamiento tapa a tu mano derecha en los teclados con sensibilidad al tacto"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **bajar volumen del acompanamiento automatico en teclado**:"
-    },
-    {
-      "type": "table",
-      "caption": "Referencias técnicas verificadas para: bajar volumen del acompanamiento automatico en teclado",
-      "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
-      ],
-      "rows": [
-        [
-          "Clave técnica principal",
-          "Bajar el parámetro 'Acmp Volume' o 'Rhythm Volume' de 100 a 70 hace que la banda acompañe suavemente por detrás mientras tu melodía de piano brilla en primer plano.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
-        ],
-        [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
-        ],
-        [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
-        ],
-        [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
-        ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Diagnóstico técnico clave sobre bajar volumen del acompanamiento automatico en teclado",
-      "text": "Bajar el parámetro 'Acmp Volume' o 'Rhythm Volume' de 100 a 70 hace que la banda acompañe suavemente por detrás mientras tu melodía de piano brilla en primer plano. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      "text": "En un teclado con acompañamiento automático (*arranger*), el procesador de audio maneja dos canales independientes: el generador de estilos rítmicos (**Style / Rhythm**) y la voz principal del teclado (**Main Voice**). Los patrones de batería, percusión y guitarras rítmicas están comprimidos dinámicamente para sonar siempre llenos, sin importar con qué suavidad marques el acorde en la sección izquierda. En cambio, cuando estudias con la voz **001 Grand Piano** y la sensibilidad de pulsación (**Touch Response**) configurada en nivel **Medium / Normal**, tus dedos necesitan golpear las teclas con mucha fuerza para alcanzar el mismo volumen que la pista de fondo. Si notas que el teclado no emite ningún sonido por las bocinas antes de empezar a mezclar, conviene revisar primero por qué [el piano enciende pero no suena por los altavoces](/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-enciende-las-luces-pero-no-sale-sonido-por-los-altavoces/)."
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar bajar volumen del acompanamiento automatico en teclado en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Pasos exactos para bajar el parámetro StyleVol o AcmpVol en Yamaha y Casio"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Accede al menú interno de funciones (Function)",
+          "text": "En el Yamaha PSR-E383 o PSR-E373, presiona el botón [FUNCTION] en el panel frontal. En esta serie, la función número 001 que aparece directamente en la pantalla LCD es StyleVol (Style Volume). En teclados Casio Casiotone como el CT-S300 o CT-X700, pulsa [FUNCTION] y navega con las flechas hasta el submenú Volume > Accomp."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Reduce el valor de 100 a un rango de 65 a 75",
+          "text": "Observa la cifra actual en pantalla (por defecto marca 100 dentro de un rango de 000 a 127). Utiliza el botón [-/NO], la rueda de datos o el teclado numérico escribiendo 070 para atenuar el conjunto de batería, bajo y acordes en aproximadamente un 30 % sin restar claridad a tu mano derecha."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "Compensa subiendo Main Volume si tocas una voz suave",
+          "text": "Si usas un timbre delicado como cuerdas suaves o guitarra acústica en tu mano derecha, avanza en el menú Function hasta el parámetro M.Volume (Main Voice Volume, función 011 en Yamaha) y súbelo de su valor estándar (100–110) hasta 120 o 125 para darle presencia solista frente a la banda virtual."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Guarda el equilibrio en una memoria de registro (Registration)",
+          "text": "Como la mayoría de los teclados de iniciación restablecen StyleVol a 100 al apagarlos por completo, mantén pulsado el botón [MEMORY / BANK] y selecciona el número [1] para almacenar tu mezcla personalizada y recuperarla con un solo toque en tu próxima sesión."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando bajar volumen del acompanamiento automatico en teclado en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
       "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Tabla de niveles recomendados de mezcla según el estilo musical"
     },
     {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "type": "table",
+      "headers": [
+        "Género o situación de práctica",
+        "StyleVol / AcmpVol (Acompañamiento)",
+        "M.Volume (Mano derecha principal)",
+        "Touch Response sugerido"
+      ],
+      "rows": [
+        [
+          "Balada a piano solo con batería suave (8Beat / Pop Ballad)",
+          "060 – 070",
+          "115 – 122",
+          "Medium (2)"
+        ],
+        [
+          "Pop, Rock o Funk con sección de metales y bajo activo",
+          "070 – 078",
+          "118 – 125",
+          "Medium (2) o Soft (1)"
+        ],
+        [
+          "Vals, Bossa Nova o Jazz con contrabajo y escobillas",
+          "065 – 075",
+          "110 – 118",
+          "Medium (2) o Hard (3)"
+        ],
+        [
+          "Práctica nocturna a bajo volumen en altavoces integrados",
+          "055 – 065",
+          "120 – 127",
+          "Soft (1) para no golpear fuerte las teclas"
+        ]
+      ],
+      "caption": "Valores óptimos de volumen interno (escala MIDI 000–127) para equilibrar acompañamiento y melodía"
     },
     {
       "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Recuerda que si dejas el teclado en pausa durante media hora mientras lees una partitura y el equipo se apaga por ahorro de energía, perderás el ajuste temporal de **StyleVol** a menos que lo hayas registrado en memoria o revises cómo funciona el sistema por el cual [tu piano digital se apaga solo tras 15–30 minutos sin tocar](/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-se-apaga-solo-a-los-15-o-30-minutos-funcion-auto-power-off/). Si en algún momento alteras demasiados parámetros del mezclador interno y quieres devolver todos los volúmenes a su estado original, puedes consultar nuestra guía sobre [cómo restablecer a valores de fábrica tu teclado](/solucion-de-problemas-y-configuracion/como-hacer-un-factory-reset-en-pianos-roland-fp-10-fp-30x-y-casio-privia-casiotone/) o explorar más ajustes en el [centro de solución de problemas y configuración](/solucion-de-problemas-y-configuracion/)."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "En el Yamaha PSR-E383 y modelos superiores, puedes silenciar pistas individuales del acompañamiento (por ejemplo, dejar solo la batería y el bajo apagando las guitarras de fondo) manteniendo pulsado el botón de canal de estilo o usando la función Track On/Off sin necesidad de bajar aún más el volumen global del ritmo.",
+      "title": "Truco para limpiar aún más la mezcla sin perder el pulso rítmico"
+    },
+    {
+      "type": "cta",
+      "text": "¿Buscas un teclado portátil de 61 teclas con mezclador de acompañamiento independiente o necesitas ayuda para configurar el tuyo? Consulta a nuestro Asesor IA o revisa la disponibilidad actual de modelos Yamaha y Casio en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre bajar volumen del acompanamiento automatico en teclado?",
-      "a": "Bajar el parámetro 'Acmp Volume' o 'Rhythm Volume' de 100 a 70 hace que la banda acompañe suavemente por detrás mientras tu melodía de piano brilla en primer plano. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Por qué el volumen del acompañamiento vuelve a 100 cada vez que apago y enciendo el teclado?",
+      "a": "Porque el ajuste StyleVol se almacena en la memoria RAM temporal de la sesión activa. Para no tener que bajarlo de 100 a 70 en cada encendido, guarda tu configuración en un botón de Registration Memory o activa la función de respaldo de parámetros (Backup) si tu modelo la incluye."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Bajar StyleVol también reduce el volumen de las canciones internas de aprendizaje (Song)?",
+      "a": "No. En los teclados Yamaha y Casio, StyleVol (o AcmpVol) controla exclusivamente los ritmos de acompañamiento en tiempo real, mientras que SongVol regula el volumen de las pistas MIDI pregrabadas y canciones de lección. Si practicas encima de una canción interna, debes bajar SongVol (función 002 en Yamaha) a 65–75."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué hago si incluso con StyleVol en 65 mi mano derecha sigue sonando muy débil al tocar suave?",
+      "a": "Abre el menú Function, localiza el parámetro Touch Response (Sensibilidad al tacto) y cámbialo de Medium/Normal a Soft (Suave). Con este ajuste, el teclado entregará un volumen de piano alto (velocidad MIDI de 100 a 120) con una pulsación ligera sin obligarte a martillar las teclas."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/",
-    "/solucion-de-problemas-y-configuracion/que-es-el-modo-pianist-style-o-full-keyboard-chord-detection-en-teclados-arranger/",
-    "/solucion-de-problemas-y-configuracion/por-que-no-debes-poner-vasos-tazas-de-cafe-ni-macetas-con-agua-encima-del-piano-digital/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-se-apaga-solo-a-los-15-o-30-minutos-funcion-auto-power-off/",
+    "/solucion-de-problemas-y-configuracion/como-hacer-un-factory-reset-en-pianos-roland-fp-10-fp-30x-y-casio-privia-casiotone/",
+    "/solucion-de-problemas-y-configuracion/polaridad-del-adaptador-de-corriente-centro-positivo-vs-centro-negativo-en-teclados-y-pianos/",
+    "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-enciende-las-luces-pero-no-sale-sonido-por-los-altavoces/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-ajustar-el-balance-de-volumen-del-acompanamiento-acmp-volume-en-teclados-de-61-teclas.webp"
 }

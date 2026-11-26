@@ -4,161 +4,124 @@
   "path": "/conexiones-midi-apps-y-aprendizaje/como-usar-youtube-a-velocidad-0-75x-o-0-5x-conectado-a-los-altavoces-de-tu-piano-para-sacar-canciones/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "practicar con tutoriales de youtube conectados al piano digital",
   "title": "Cómo Reproducir Tutoriales de YouTube a Velocidad 0.75x por los Altavoces o Audífonos de tu Piano Digital",
-  "seoTitle": "Cómo Reproducir Tutoriales de YouTube a Velocidad 0.75x por los Altavoces o Audífonos de tu Piano Digital | Guía de Pianos",
-  "metaDescription": "Cómo Reproducir Tutoriales de YouTube a Velocidad 0.75x por los Altavoces o Audífonos de tu Piano Digital: Al reducir la velocidad en el icono de engranaje de YouTube, el tono musical (Do, Re, Mi) no se altera, permitiéndote tocar encima nota por nota hasta dominarla a velocidad 1.0x. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Al reducir la velocidad en el icono de engranaje de YouTube, el tono musical (Do, Re, Mi) no se altera, permitiéndote tocar encima nota por nota hasta dominarla a velocidad 1.0x.",
-  "quickAnswer": "Sobre practicar con tutoriales de youtube conectados al piano digital: Al reducir la velocidad en el icono de engranaje de YouTube, el tono musical (Do, Re, Mi) no se altera, permitiéndote tocar encima nota por nota hasta dominarla a velocidad 1.0x. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Reproducir Tutoriales de YouTube a Velocidad 0.75x por los Altavoces o Audífonos de tu Piano Digital | guiadepianos.com",
+  "metaDescription": "Aprende a practicar con tutoriales de YouTube conectados al piano digital a velocidad 0.75x escuchando el video y tus teclas por los mismos audífonos.",
+  "excerpt": "Configura la entrada de audio USB, Bluetooth A2DP o cable auxiliar de tu piano digital para mezclar tutoriales de YouTube ralentizados a 0.75x o 0.5x directamente en los altavoces o audífonos de estudio.",
+  "quickAnswer": "Para practicar con tutoriales de YouTube a velocidad **0.75x o 0.5x** escuchando el video y tu piano por los mismos altavoces o audífonos, debes enlazar tu tablet mediante el **cable USB-to-Host con Audio USB** (en modelos como el **Yamaha P-145** y **Yamaha PSR-E383**) o por **Bluetooth Audio A2DP** (en el **Roland FP-30X** y **Casio Privia PX-S1100**), y ajustar el tempo desde el icono de engranaje del reproductor sin perder la afinación original.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Three-quarter editorial angle from slightly above in a bright music corner (50mm lens): Home digital piano and keyboard tutorial illustrating Cómo Reproducir Tutoriales de YouTube a Velocidad 0.75x por los Altavoces o Audífonos de tu Piano Digital: Al reducir la velocidad en el icono de engranaje de YouTube, el tono musical (Do, Re, Mi) no se altera, permitiéndote tocar encima nota por nota hasta dominarla a velocidad 1.0x., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, crisp bright editorial studio lighting with neutral warm oak tones. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Cómo Reproducir Tutoriales de YouTube a Velocidad 0.75x por los Altavoces o Audífonos de tu Piano Digital' (practicar con tutoriales de youtube conectados al piano digital) for guiadepianos.com, featuring equipment in matte charcoal black with brushed aluminum accents, in a clean modern garage or studio corner with slate flooring, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Reproducir Tutoriales de YouTube a Velocidad 0.75x por los Altavoces o Audífonos de tu Piano Digital"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **practicar con tutoriales de youtube conectados al piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Al reducir la velocidad en el icono de engranaje de YouTube, el tono musical (Do, Re, Mi) no se altera, permitiéndote tocar encima nota por nota hasta dominarla a velocidad 1.0x."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Conexiones Midi Apps Y Aprendizaje](/conexiones-midi-apps-y-aprendizaje/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Intentar aprender un pasaje rápido de un tutorial de YouTube colocando el celular sobre el atril mientras tocas tu piano digital con audífonos puestos es una receta segura para la incomodidad: o te dejas un cascos fuera de la oreja para oír el altavoz diminuto del teléfono, o subes tanto el volumen de la tablet que molestas en casa. Lo que muchos propietarios de un **Yamaha P-145**, un **Roland FP-30X**, un **Casio Privia PX-S1100** o un **Yamaha PSR-E383** desconocen es que sus instrumentos pueden recibir la señal estéreo de YouTube para mezclar la voz del profesor con el sonido de tus teclas dentro de los mismos **audífonos de estudio con cable de 47 Ω**, complementando a la perfección lo que ofrecen las [5 mejores apps para aprender piano en español](/conexiones-midi-apps-y-aprendizaje/comparativa-de-las-5-mejores-apps-para-aprender-piano-en-espanol-simply-piano-flowkey-yousician-skoove-y-piano-marvel/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: practicar con tutoriales de youtube conectados al piano digital"
+      "text": "Las 3 vías reales para inyectar el sonido de YouTube dentro de tu piano digital"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **practicar con tutoriales de youtube conectados al piano digital**:"
+      "text": "No todos los pianos digitales reciben el audio externo por el mismo conector, y elegir el método adecuado depende de la electrónica de tu modelo. En instrumentos como el **Yamaha P-145** y el teclado de **61 teclas Yamaha PSR-E383**, el puerto cuadrado **USB TO HOST** incorpora una **interfaz de audio USB digital bidireccional**: al enchufar el mismo cable con el que sueles [elegir tu conexión USB-MIDI según el puerto USB-C o Lightning de tu iPad](/conexiones-midi-apps-y-aprendizaje/que-cable-exacto-comprar-en-amazon-para-un-ipad-con-puerto-usb-c-vs-un-ipad-con-puerto-lightning/), el sonido de YouTube viaja digitalmente sin ruido de fondo hacia los altavoces y la toma de audífonos del piano, con la misma estabilidad por la que [es 100 veces mejor usar cable USB que el micrófono en apps educativas](/conexiones-midi-apps-y-aprendizaje/por-que-es-100-veces-mejor-usar-cable-usb-midi-que-el-microfono-del-ipad-en-simply-piano/). Por su parte, el **Roland FP-30X** y el **Casio Privia PX-S1100** (mediante su adaptador **WU-BT10** incluido) cuentan con receptor **Bluetooth Audio (A2DP)** para transmitir el video inalámbricamente desde el sofá o el atril."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: practicar con tutoriales de youtube conectados al piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Modelo de piano o teclado",
+        "Vía principal de entrada de audio (YouTube)",
+        "Cable o accesorio requerido",
+        "¿Se escucha por los audífonos del piano?"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Al reducir la velocidad en el icono de engranaje de YouTube, el tono musical (Do, Re, Mi) no se altera, permitiéndote tocar encima nota por nota hasta dominarla a velocidad 1.0x.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Yamaha P-145 y Yamaha PSR-E383",
+          "Interfaz de Audio USB integrada en puerto USB-to-Host",
+          "Cable de datos USB Tipo B a USB-C (o adaptador Lightning)",
+          "Sí, mezcla digital limpia junto a tus teclas"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Roland FP-30X (altavoces de 22W)",
+          "Bluetooth Audio (A2DP) integrado de fábrica",
+          "Inalámbrico directo desde ajustes Bluetooth del iPad o celular",
+          "Sí, por ambas salidas de audífonos (3.5 mm y 6.35 mm)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Casio Privia PX-S1100 (23.2 cm fondo)",
+          "Bluetooth Audio mediante adaptador WU-BT10 incluido + Audio In 3.5 mm",
+          "Inalámbrico con WU-BT10 o cable auxiliar TRS de 3.5 mm",
+          "Sí, mezcla estéreo en tiempo real"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Alesis Recital Pro / Donner DEP-20 / Roland FP-10",
+          "Sin entrada Audio USB ni Bluetooth Audio (solo MIDI)",
+          "Requiere usar altavoz del iPad o mezclador compacto de 2 canales",
+          "Solo mediante mini mezclador externo de audífonos"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre practicar con tutoriales de youtube conectados al piano digital",
-      "text": "Al reducir la velocidad en el icono de engranaje de YouTube, el tono musical (Do, Re, Mi) no se altera, permitiéndote tocar encima nota por nota hasta dominarla a velocidad 1.0x. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Métodos de entrada de audio para escuchar YouTube por los altavoces o audífonos según el modelo de piano"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar practicar con tutoriales de youtube conectados al piano digital en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Cómo configurar YouTube a velocidad 0.75x o 0.5x manteniendo la afinación real"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Enlaza el audio del iPad o celular y nivela los dos volúmenes",
+          "text": "Conecta tu tablet por **USB Audio** (Yamaha) o **Bluetooth Audio** (Roland FP-30X / Casio PX-S1100), enchufa tus audífonos con cable al piano y baja el volumen del dispositivo móvil al **60 %** para que las notas del tutorial no tapen la dinámica de tu propio teclado."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Ajusta la velocidad personalizada de YouTube sin alterar el tono (Pitch)",
+          "text": "Toca el icono de **engranaje (Configuración)** en el reproductor de YouTube, entra en **Velocidad de reproducción** y selecciona **0.75x** para pasajes rítmicos o **0.5x** para digitaciones rápidas; el algoritmo de YouTube conserva exactamente la afinación en **440 Hz** sin hacer que el piano del video suene más grave."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Usa el deslizador de incrementos de 0.05x para subir el tempo gradualmente",
+          "text": "Cuando domines los compases a **0.5x**, entra en la opción **Personalizada** del menú de velocidad de YouTube y sube a **0.60x**, luego a **0.75x**, **0.85x** y finalmente a **1.0x** hasta igualar la interpretación original nota por nota."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Por qué el Bluetooth Audio sí sirve para escuchar YouTube pero no para usar audífonos inalámbricos"
+    },
+    {
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "Conviene no confundir la dirección del enlace inalámbrico: usar **audífonos Bluetooth** para escuchar lo que tocas es inviable porque los **150 a 250 ms de latencia** hacen que la nota suene tarde respecto a tu dedo. En cambio, enviar un video de **YouTube por Bluetooth Audio desde el iPad hacia el Roland FP-30X o Casio Privia PX-S1100** y escuchar todo con **audífonos de cable conectados al piano** funciona a la perfección, ya que la imagen del video se sincroniza automáticamente con la pista de audio y tus teclas responden con **latencia cero**.",
+      "title": "Bluetooth Audio entrante (del iPad al piano) vs audífonos Bluetooth salientes"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando practicar con tutoriales de youtube conectados al piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Revisa en las tarjetas de Amazon integradas en esta página la disponibilidad de pianos con Bluetooth Audio o interfaz USB integrada y audífonos de estudio de 47 Ω, o consulta cualquier duda con nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre practicar con tutoriales de youtube conectados al piano digital?",
-      "a": "Al reducir la velocidad en el icono de engranaje de YouTube, el tono musical (Do, Re, Mi) no se altera, permitiéndote tocar encima nota por nota hasta dominarla a velocidad 1.0x. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Puedo reproducir el sonido de YouTube por los altavoces del Roland FP-10?",
+      "a": "El Roland FP-10 incluye Bluetooth MIDI (para conectar con apps educativas como Simply Piano o la app Roland Piano App), pero no incorpora receptor de Bluetooth Audio ni interfaz de audio por USB. Si quieres escuchar YouTube y el FP-10 por los mismos audífonos, puedes usar un pequeño mezclador estéreo pasivo de escritorio."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Cambia la nota o se desafina el piano del video cuando pongo YouTube a velocidad 0.5x?",
+      "a": "No en absoluto. El procesador de tiempo del reproductor de YouTube aplica un algoritmo de estiramiento temporal con corrección de tono (Time-Stretching Pitch-Preserving): un acorde de Do Mayor a 0.5x o 0.75x sigue sonando exactamente afinado en Do Mayor para que puedas tocar encima con tu piano."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Por qué el video de YouTube suena demasiado fuerte comparado con las teclas de mi Yamaha P-145?",
+      "a": "Porque en la interfaz de audio USB del Yamaha P-145 o PSR-E383 la perilla o deslizador físico Master Volume del piano controla la salida general, pero el volumen individual de YouTube debe bajarse directamente desde los botones laterales de volumen del iPad o celular hasta equilibrar ambas fuentes."
     }
   ],
   "related": [
-    "/conexiones-midi-apps-y-aprendizaje/",
-    "/conexiones-midi-apps-y-aprendizaje/que-son-las-escalas-pentatonicas-en-las-5-teclas-negras-para-improvisar-desde-el-primer-dia/",
-    "/conexiones-midi-apps-y-aprendizaje/para-que-sirve-el-atril-ancho-de-los-pianos-digitales-y-como-sujetar-libros-nuevos-que-se-cierran-solos/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/conexiones-midi-apps-y-aprendizaje/resumen-de-conectividad-el-unico-cable-de-12-dolares-que-conecta-tu-piano-al-mundo-digital/",
+    "/conexiones-midi-apps-y-aprendizaje/por-que-es-100-veces-mejor-usar-cable-usb-midi-que-el-microfono-del-ipad-en-simply-piano/",
+    "/conexiones-midi-apps-y-aprendizaje/que-cable-exacto-comprar-en-amazon-para-un-ipad-con-puerto-usb-c-vs-un-ipad-con-puerto-lightning/",
+    "/conexiones-midi-apps-y-aprendizaje/comparativa-de-las-5-mejores-apps-para-aprender-piano-en-espanol-simply-piano-flowkey-yousician-skoove-y-piano-marvel/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-usar-youtube-a-velocidad-0-75x-o-0-5x-conectado-a-los-altavoces-de-tu-piano-para-sacar-canciones.webp"
 }

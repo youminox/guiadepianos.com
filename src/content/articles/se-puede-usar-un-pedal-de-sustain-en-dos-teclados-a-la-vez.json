@@ -4,161 +4,124 @@
   "path": "/pedales-compatibles-y-polaridad/se-puede-usar-un-pedal-de-sustain-en-dos-teclados-a-la-vez/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "usar pedal de sustain en teclado de 61 y piano de 88 teclas",
   "title": "¿Es Posible Conectar Dos Pianos o Teclados a un Mismo Pedal de Sustain o Conviene Tener Uno para Cada Uno?",
-  "seoTitle": "¿Es Posible Conectar Dos Pianos o Teclados a un Mismo Pedal de Sustain o Conviene Tener Uno para Cada Uno? | Guía de Pianos",
-  "metaDescription": "¿Es Posible Conectar Dos Pianos o Teclados a un Mismo Pedal de Sustain o Conviene Tener Uno para Cada Uno?: Por menos de $25 en Amazon conviene tener un M-Audio SP-2 dedicado en cada instrumento, o bien usar un pedal de doble salida (Dual Polarity Pedal) si tocas dos teclados apilados. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Por menos de $25 en Amazon conviene tener un M-Audio SP-2 dedicado en cada instrumento, o bien usar un pedal de doble salida (Dual Polarity Pedal) si tocas dos teclados apilados.",
-  "quickAnswer": "Sobre usar pedal de sustain en teclado de 61 y piano de 88 teclas: Por menos de $25 en Amazon conviene tener un M-Audio SP-2 dedicado en cada instrumento, o bien usar un pedal de doble salida (Dual Polarity Pedal) si tocas dos teclados apilados. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "¿Es Posible Conectar Dos Pianos o Teclados a un Mismo Pedal de Sustain o Conviene Tener Uno para Cada Uno? | guiadepianos.com",
+  "metaDescription": "¿Quieres usar un pedal de sustain en tu teclado de 61 y tu piano de 88 teclas a la vez? Aprende por qué un cable en Y falla y cómo sincronizarlos vía MIDI.",
+  "excerpt": "Guía eléctrica y práctica sobre el uso de pedales de sustain en configuraciones de doble teclado: riesgos de los divisores en Y pasivos, conflictos de polaridad y ruteo de mensajes MIDI CC64.",
+  "quickAnswer": "No debes conectar un mismo pedal de sustain a dos teclados mediante un adaptador pasivo en Y de **1/4\" (6.35 mm)**, ya que cruzarás los voltajes de detección (**3.3 V a 5 V DC**) de ambas placas base y provocarás fallos de lectura o conflictos de polaridad. Lo técnicamente seguro es colocar **dos pedales independientes** uno junto al otro o transmitir el mensaje **MIDI CC64** desde el piano maestro hacia el teclado secundario.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Eye-level realistic lifestyle photograph in a sunlit modern apartment: Home digital piano and keyboard tutorial illustrating ¿Es Posible Conectar Dos Pianos o Teclados a un Mismo Pedal de Sustain o Conviene Tener Uno para Cada Uno?: Por menos de $25 en Amazon conviene tener un M-Audio SP-2 dedicado en cada instrumento, o bien usar un pedal de doble salida (Dual Polarity Pedal) si tocas dos teclados apilados., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, warm evening LED music stand lamp light for silent headphone practice. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating '¿Es Posible Conectar Dos Pianos o Teclados a un Mismo Pedal de Sustain o Conviene Tener Uno para Cada Uno?' (usar pedal de sustain en teclado de 61 y piano de 88 teclas) for guiadepianos.com, featuring equipment in matte charcoal black with brushed aluminum accents, in a well-organized domestic utility area with natural plants nearby, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "¿Es Posible Conectar Dos Pianos o Teclados a un Mismo Pedal de Sustain o Conviene Tener Uno para Cada Uno?"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **usar pedal de sustain en teclado de 61 y piano de 88 teclas** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Por menos de $25 en Amazon conviene tener un M-Audio SP-2 dedicado en cada instrumento, o bien usar un pedal de doble salida (Dual Polarity Pedal) si tocas dos teclados apilados."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Pedales Compatibles Y Polaridad](/pedales-compatibles-y-polaridad/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Quienes montan un set de doble nivel con un teclado ligero de **61 teclas** como el **Yamaha PSR-E383** arriba (para sintetizadores, metales o cuerdas) y un piano contrapesado de **88 teclas** como el **Roland FP-30X** o el **Yamaha P-145** abajo suelen hacerse la misma pregunta al ver el suelo lleno de cables: ¿puedo comprar un adaptador divisor en Y de **1/4 de pulgada (6.35 mm)** para controlar ambos instrumentos con un solo pedal? Aunque mecánicamente la clavija entra, desde el punto de vista electrónico unir dos entradas de control mediante un cable en Y pasivo es una mala práctica que genera comportamientos erráticos. Entender [cómo funciona el pedal de sustain (damper) en un piano digital](/pedales-compatibles-y-polaridad/para-que-sirve-el-pedal-de-sustain-damper-en-un-piano-digital-o-teclado/) te ahorrará falsos disparos y bloqueos de arranque."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: usar pedal de sustain en teclado de 61 y piano de 88 teclas"
+      "text": "Por qué un adaptador en Y pasivo provoca conflictos de voltaje y polaridad"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **usar pedal de sustain en teclado de 61 y piano de 88 teclas**:"
+      "text": "A diferencia de una salida de audio, el puerto `SUSTAIN` de un teclado no recibe sonido, sino que emite una tensión continua de referencia (**entre 3.3 V y 5.0 V DC** con una resistencia *pull-up* interna) en la punta del conector para detectar cuándo el pedal cierra el circuito contra tierra (`GND`). Si puenteas un **Roland FP-10** con un **Casio Privia PX-S1100** o un **Alesis Recital Pro** usando un cable divisor en Y, estás conectando en paralelo los raíles de tensión lógica de dos placas base distintas. Peor aún: si un teclado trabaja con lógica **N.C. (Normalmente Cerrado)** y el otro con lógica **N.O. (Normalmente Abierto)**, uno de los dos quedará sosteniendo las notas al revés permanentemente. Además, musicalmente rara vez querrás sostener un pad o un órgano en el teclado superior en el mismo instante en que haces cambios de [pedal de sustain según el estilo en pasajes de Chopin o pop](/pedales-compatibles-y-polaridad/uso-del-pedal-de-sustain-en-musica-de-bach-barroco-vs-chopin-romantico-vs-pop/) en el piano principal."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: usar pedal de sustain en teclado de 61 y piano de 88 teclas",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Método de configuración",
+        "Componentes necesarios",
+        "Seguridad eléctrica",
+        "Independencia musical entre teclados"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Por menos de $25 en Amazon conviene tener un M-Audio SP-2 dedicado en cada instrumento, o bien usar un pedal de doble salida (Dual Polarity Pedal) si tocas dos teclados apilados.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Divisor en Y pasivo (1 hembra a 2 machos TS)",
+          "Cable adaptador en Y de 6.35 mm",
+          "Riesgosa (cruza voltajes de 3.3 V / 5 V DC y masas)",
+          "Nula (ambos sostienen a la vez o fallan por polaridad)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Dos pedales independientes lado a lado",
+          "2 pedales tipo M-Audio SP-2 o Roland DP-10",
+          "100 % segura (circuitos aislados de fábrica)",
+          "Total (puedes sostener el piano sin embarrar el teclado de 61 teclas)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Sincronización por cable MIDI / USB-MIDI",
+          "1 pedal en el piano maestro + ruteo MIDI CC64",
+          "100 % segura (aislamiento digital u optoacoplado)",
+          "Configurable por canal o zona MIDI (Split/Layer)"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
-        ],
-        [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Pedal doble con doble salida aislada",
+          "1 pedal con dos circuitos y 2 cables TS independientes",
+          "100 % segura si los interruptores internos son dobles (DPDT)",
+          "Simultánea (un solo pisotón activa ambos sin cruzar voltajes)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre usar pedal de sustain en teclado de 61 y piano de 88 teclas",
-      "text": "Por menos de $25 en Amazon conviene tener un M-Audio SP-2 dedicado en cada instrumento, o bien usar un pedal de doble salida (Dual Polarity Pedal) si tocas dos teclados apilados. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Alternativas técnicas para controlar el sustain en un set de dos teclados (61 y 88 teclas)"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar usar pedal de sustain en teclado de 61 y piano de 88 teclas en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Tres formas seguras de gestionar el sustain en configuraciones de doble teclado"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Opción 1: Dos pedales contiguos para control independiente (Recomendado)",
+          "text": "Coloca el pedal del piano de **88 teclas** frente a tu pie derecho y el pedal del teclado de **61 teclas** apenas **3 cm a la izquierda**. Así puedes sostener un colchón de cuerdas arriba mientras cambias acordes limpios abajo, o pisar ambos bordes a la vez con la planta ancha del pie cuando quieras unísono."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Opción 2: Ruteo de mensajes MIDI CC64 desde el piano maestro",
+          "text": "Si usas el piano de **88 teclas** para disparar sonidos del teclado superior vía MIDI o a través de un iPad/DAW, conecta un único pedal al piano inferior. Este enviará el mensaje digital **MIDI CC64** por el cable sin mezclar voltajes analógicos."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Opción 3: Pedal de doble circuito aislado (Dual Polarity Switch)",
+          "text": "Si obligatoriamente necesitas disparar ambos equipos con un solo pisotón analógico, utiliza un pedal con **dos cables jack de 1/4\" aislados** mediante un conmutador **DPDT**, donde cada salida tenga su propio selector de polaridad independiente."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Ergonomía en el suelo cuando usas dos pedales de sustain juntos"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Cuando instalas dos pedales uno al lado del otro bajo un soporte de doble nivel, verifica la postura desde la que interpretas revisando la [diferencia entre un pedal de sustain para tocar sentado y uno para tocar de pie](/pedales-compatibles-y-polaridad/diferencia-entre-pedal-sustain-para-tocar-sentado-y-pedal-para-tocar-de-pie/). Asimismo, al desconectar y transportar cables con frecuencia entre ensayos, realiza un [mantenimiento periódico del conector jack de 1/4\" del pedal](/pedales-compatibles-y-polaridad/mantenimiento-del-conector-jack-1-4-del-pedal-para-evitar-falsos-contactos/) con alcohol isopropílico para evitar que la suciedad induzca disparos fantasma en cualquiera de los dos instrumentos.",
+      "title": "Cuidado de conectores y alineación en sets de doble teclado"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando usar pedal de sustain en teclado de 61 y piano de 88 teclas en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Estás armando tu estación con un piano de 88 teclas y un teclado de 61 teclas? Consulta a nuestro Asesor IA o revisa la disponibilidad de pedales universales con selector de polaridad en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre usar pedal de sustain en teclado de 61 y piano de 88 teclas?",
-      "a": "Por menos de $25 en Amazon conviene tener un M-Audio SP-2 dedicado en cada instrumento, o bien usar un pedal de doble salida (Dual Polarity Pedal) si tocas dos teclados apilados. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Se puede quemar la placa de mi piano si uso un cable divisor en Y para el pedal?",
+      "a": "Es poco probable que queme el procesador de inmediato porque las corrientes son inferiores a **2 mA**, pero sí puede provocar bucles de masa (zumbidos audibles en los altavoces), lecturas invertidas de polaridad en el arranque o que ninguno de los dos teclados detecte el cierre a tierra correctamente."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Qué pasa si tengo un piano Yamaha abajo y un teclado Casio arriba?",
+      "a": "Debes comprar un segundo pedal o usar un pedal dual con dos salidas eléctricamente aisladas e interruptores de polaridad separados. Como Yamaha utiliza lógica **N.C. (Normalmente Cerrado)** y muchos modelos Casio operan en **N.O. (Normalmente Abierto)**, jamás funcionarán al unísono con un cable compartido simple."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Cómo evito que dos pedales puestos uno junto al otro se choquen o separen al tocar?",
+      "a": "Basta con unir la base de goma de ambos pedales sobre una misma tira de velcro industrial o una alfombrilla de silicona de **30 cm de ancho**. Deja una separación de **2 cm a 3 cm** entre las dos lengüetas metálicas para poder accionarlas por separado o pisar ambas con el antepié."
     }
   ],
   "related": [
-    "/pedales-compatibles-y-polaridad/",
-    "/pedales-compatibles-y-polaridad/que-es-el-pedal-de-expresion-ev-5-o-fc7-y-en-que-se-diferencia-del-pedal-de-sustain/",
-    "/pedales-compatibles-y-polaridad/diferencia-de-dureza-del-muelle-entre-pedales-de-sustain-cual-cansa-menos-el-pie/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/pedales-compatibles-y-polaridad/uso-del-pedal-de-sustain-en-musica-de-bach-barroco-vs-chopin-romantico-vs-pop/",
+    "/pedales-compatibles-y-polaridad/mantenimiento-del-conector-jack-1-4-del-pedal-para-evitar-falsos-contactos/",
+    "/pedales-compatibles-y-polaridad/diferencia-entre-pedal-sustain-para-tocar-sentado-y-pedal-para-tocar-de-pie/",
+    "/pedales-compatibles-y-polaridad/para-que-sirve-el-pedal-de-sustain-damper-en-un-piano-digital-o-teclado/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/se-puede-usar-un-pedal-de-sustain-en-dos-teclados-a-la-vez.webp"
 }

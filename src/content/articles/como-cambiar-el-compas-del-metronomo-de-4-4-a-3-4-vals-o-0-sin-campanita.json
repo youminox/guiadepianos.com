@@ -4,161 +4,129 @@
   "path": "/solucion-de-problemas-y-configuracion/como-cambiar-el-compas-del-metronomo-de-4-4-a-3-4-vals-o-0-sin-campanita/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como quitar la campanita del metronomo en piano digital",
   "title": "Cómo Quitar la Campanita del Primer Tiempo del Metrónomo (Poner Beat en 0) para Practicar Ejercicios Libres",
-  "seoTitle": "Cómo Quitar la Campanita del Primer Tiempo del Metrónomo (Poner Beat en 0) para Practicar Ejercicios Libres | Guía de Pianos",
-  "metaDescription": "Cómo Quitar la Campanita del Primer Tiempo del Metrónomo (Poner Beat en 0) para Practicar Ejercicios Libres: Poner el selector de acento (Beat) en '0' hace que todos los pulsos suenen iguales ('tic-tic-tic-tic') sin marcar un compás fijo. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Poner el selector de acento (Beat) en '0' hace que todos los pulsos suenen iguales ('tic-tic-tic-tic') sin marcar un compás fijo.",
-  "quickAnswer": "Sobre como quitar la campanita del metronomo en piano digital: Poner el selector de acento (Beat) en '0' hace que todos los pulsos suenen iguales ('tic-tic-tic-tic') sin marcar un compás fijo. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Quitar la Campanita del Primer Tiempo del Metrónomo (Poner Beat en 0) para Practicar Ejercicios Libres | guiadepianos.com",
+  "metaDescription": "Aprende cómo quitar la campanita del metrónomo (Beat 0) o cambiar el compás a 3/4 y 4/4 en pianos digitales Yamaha P-145, Roland FP-10, Casio y PSR-E383.",
+  "excerpt": "Configura el acento del metrónomo en valor 0 para obtener un pulso uniforme sin timbre agudo en el primer tiempo, o cámbialo a 3/4 mediante las combinaciones exactas de botón y tecla por marca.",
+  "quickAnswer": "Para quitar la campanita del primer tiempo del metrónomo en tu piano digital, debes ajustar el parámetro **Beat** (o **Time Signature**) al valor **0** (o **0/4**). En modelos sin pantalla como el **Yamaha P-145** o el **Roland FP-10**, mantén presionado el botón **Metronome** y pulsa la tecla asignada al compás cero (**Do3** en Yamaha, **Do4** en Roland); en teclados con pantalla como el **PSR-E383**, mantén **Metronome** durante **2 segundos** y selecciona **00**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Eye-level realistic lifestyle photograph in a sunlit modern apartment: Home digital piano and keyboard tutorial illustrating Cómo Quitar la Campanita del Primer Tiempo del Metrónomo (Poner Beat en 0) para Practicar Ejercicios Libres: Poner el selector de acento (Beat) en '0' hace que todos los pulsos suenen iguales ('tic-tic-tic-tic') sin marcar un compás fijo., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Cómo Quitar la Campanita del Primer Tiempo del Metrónomo (Poner Beat en 0) para Practicar Ejercicios Libres' (como quitar la campanita del metronomo en piano digital) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, in a bright family home interior with clean architectural lines, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Quitar la Campanita del Primer Tiempo del Metrónomo (Poner Beat en 0) para Practicar Ejercicios Libres"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como quitar la campanita del metronomo en piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Poner el selector de acento (Beat) en '0' hace que todos los pulsos suenen iguales ('tic-tic-tic-tic') sin marcar un compás fijo."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Solucion De Problemas Y Configuracion](/solucion-de-problemas-y-configuracion/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Encender el metrónomo integrado del piano digital para estudiar escalas, ejercicios de independencia de Hanon o piezas con cambios de compás suele presentar una molestia inmediata: cada cuatro pulsos suena un timbre agudo metálico (**la campanita del tiempo 1**) que marca un compás fijo de **4/4**. Si te detienes medio segundo a corregir la posición de un dedo y retomas la lectura, la campanita queda desfasada respecto a tu primer tiempo real y te obliga a parar o esperar tres clics vacíos. Para practicar con un pulso continuo e idéntico como el de un metrónomo mecánico de péndulo, solo tienes que cambiar el parámetro **Beat** (acento de compás) al valor **0** (o **0/4**)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como quitar la campanita del metronomo en piano digital"
+      "text": "Por qué el ajuste Beat 0 elimina el acento agudo y cuándo cambiar a 3/4 (vals)"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como quitar la campanita del metronomo en piano digital**:"
+      "text": "Por defecto, al encender un **Yamaha P-145**, un **Roland FP-10**, un **Casio Privia PX-S1100** o un **Yamaha PSR-E383**, el metrónomo arranca configurado en **Beat = 4** (compás cuaternario de **4/4**): emite un timbre de campana en el pulso **1** y tres golpes graves de madera en los pulsos **2, 3 y 4**. Cuando cambias este valor a **Beat = 0**, desactivas por completo el contador de inicio de compás y todos los golpes pasan a sonar con el mismo timbre neutro de clic. En cambio, si estudias un vals, un minueto de Bach o una balada en **3/4** o **6/8**, mantener el metrónomo en **4/4** desplazará la campanita un tiempo en cada compás; en esos casos debes fijar el parámetro **Beat en 3** o **6**. Si durante un ejercicio de escalas en un teclado compacto te faltan teclas graves o agudas, recuerda que puedes combinar el metrónomo con el ajuste explicado en nuestra guía sobre [cómo usar Octave Shift (-1 / -2 / +1 octava) en un teclado de 61 teclas](/solucion-de-problemas-y-configuracion/como-usar-la-funcion-octave-shift-1-o-2-octavas-en-un-teclado-de-61-teclas/)."
+    },
+    {
+      "type": "h2",
+      "text": "Combinaciones exactas de botón y tecla para quitar la campanita por marca y modelo"
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: como quitar la campanita del metronomo en piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Marca y modelo de piano digital / teclado",
+        "Acción que debes mantener pulsada",
+        "Ajuste para Beat 0 (Sin campanita)",
+        "Ajuste para 3/4 (Vals) y 4/4"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Poner el selector de acento (Beat) en '0' hace que todos los pulsos suenen iguales ('tic-tic-tic-tic') sin marcar un compás fijo.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Yamaha P-145 / P-45 / P-225",
+          "Mantener pulsado el botón [METRONOME]",
+          "Pulsar la tecla Do3 (C3, una octava abajo del Do central)",
+          "Pulsar Re3 (D3) para 3/4 o Re#3 (D#3) para 4/4"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Yamaha PSR-E383 / PSR-E373 / EW320",
+          "Mantener pulsado [METRONOME] durante 2 segundos (aparece TimeSig)",
+          "Marcar 00 en el teclado numérico o bajar con [-] hasta 00",
+          "Marcar 03 para compás de 3/4 o 04 para 4/4"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Roland FP-10 / FP-30X",
+          "Mantener [FUNCTION] (en FP-10) o [METRONOME] (en FP-30X)",
+          "Pulsar la tecla Do4 (C4, Do central) en FP-10 o bajar con flecha [◀] a 0/4 en FP-30X",
+          "Pulsar Mi4 (E4) para 3/4 o Fa4 (F4) para 4/4 en FP-10"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
+          "Casio Privia PX-S1100 / Casiotone CT-S200 y S300",
+          "Mantener pulsado el botón [METRONOME] (o entrar a Function > Beat)",
+          "Pulsar la tecla asignada a Beat 0 (Do#2 en PX-S1100) o seleccionar 00 en pantalla",
+          "Seleccionar valor 3 para vals (3/4) o 4 para 4/4"
         ],
         [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Alesis Recital Pro / Donner DEP-20",
+          "Pulsar repetidamente el botón [METRONOME] tras encenderlo",
+          "Ciclar pulsaciones hasta el modo sin acento o ajustar Beat en 0 en pantalla LCD",
+          "Seleccionar el tercer o cuarto paso del ciclo (3/4 o 4/4)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Diagnóstico técnico clave sobre como quitar la campanita del metronomo en piano digital",
-      "text": "Poner el selector de acento (Beat) en '0' hace que todos los pulsos suenen iguales ('tic-tic-tic-tic') sin marcar un compás fijo. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Teclas de función para configurar el compás del metrónomo (Beat 0, 3/4 y 4/4) en los pianos del catálogo"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar como quitar la campanita del metronomo en piano digital en tu piano digital o teclado"
+      "text": "Cómo bajar el volumen del metrónomo si el clic suena demasiado fuerte en tus audífonos"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como quitar la campanita del metronomo en piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "Otro motivo por el que la campanita resulta intrusiva —especialmente al practicar de noche con audífonos cerrados de **47 Ω**— es que el volumen interno del metrónomo viene ajustado de fábrica a casi el **80 % o 100 %** de su ganancia máxima. No necesitas bajar el volumen general del piano para suavizar el clic: todos los modelos permiten regular el nivel del metrónomo de forma independiente. Si al desconectar los auriculares notas que el metrónomo ni el piano suenan hacia afuera, comprueba si [quedó un adaptador de 1/4\" metido en la toma de audífonos](/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-enciende-las-luces-pero-no-sale-sonido-por-los-altavoces/)."
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**En Yamaha P-145 / P-45:** Mantén presionado el botón **[METRONOME]** y pulsa una de las teclas entre **Fa1 (F1)** y **Mi2 (E2)** en la octava grave para elegir entre **12 niveles de volumen** del clic sin afectar al piano.",
+        "**En Yamaha PSR-E383:** Presiona **[FUNCTION]** repetidamente hasta encontrar **MtrVol** (Metronome Volume, función **038**) y redúcelo de **100** a un nivel cómodo de **50 a 65**.",
+        "**En Roland FP-10 / FP-30X:** Con las apps gratuitas **Roland Piano App** por Bluetooth MIDI (o manteniendo **[FUNCTION]** y pulsando las teclas de **Metronome Volume Down/Up**), atenúa la claqueta en una escala de **1 a 10**."
       ]
     },
     {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "En los pianos Yamaha de la serie P (como el P-145), el teclado emite una señal acústica de confirmación cada vez que cambias el compás manteniendo pulsado [METRONOME]: si escuchas un clic grave único, quedó fijado en Beat 0 (sin campanita); si escuchas una campanita seguida de dos clics, quedó en 3/4.",
+      "title": "Confirmación auditiva al cambiar el compás en pianos sin pantalla"
     },
     {
       "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Si prefieres devolver el metrónomo y todos los ajustes de fábrica a su estado original en modelos Roland o Casio, sigue nuestro tutorial sobre [cómo restablecer a valores de fábrica un piano digital Roland FP-10/30X o un teclado Casio](/solucion-de-problemas-y-configuracion/como-hacer-un-factory-reset-en-pianos-roland-fp-10-fp-30x-y-casio-privia-casiotone/) o visita el índice principal de [solución de problemas y configuración](/solucion-de-problemas-y-configuracion/)."
+    },
+    {
+      "type": "cta",
+      "text": "¿Buscas un piano digital con metrónomo configurable y conexión Bluetooth para controlar compases desde tu tablet? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como quitar la campanita del metronomo en piano digital?",
-      "a": "Poner el selector de acento (Beat) en '0' hace que todos los pulsos suenen iguales ('tic-tic-tic-tic') sin marcar un compás fijo. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Se puede cambiar el timbre de la campanita por otro sonido menos agudo en los pianos Roland?",
+      "a": "En el Roland FP-10 y FP-30X puedes cambiar el sonido del metrónomo (por ejemplo, de campana metálica a clic de madera, voz humana contando en inglés o golpe de batería) desde la aplicación gratuita Roland Piano App conectada por Bluetooth MIDI en el apartado de ajustes del metrónomo."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Cómo configuro el metrónomo para estudiar una pieza en compás de 6/8?",
+      "a": "Activa el metrónomo en Beat 0 (sin campanita) y súbelo al triple de los BPM de negra (por ejemplo, si la negra va a 60 BPM, pon el metrónomo a 180 BPM en Beat 6), o bien selecciona directamente el compás 6/8 mantendo pulsado [METRONOME] y presionando la tecla Fa3 (F3) en el Yamaha P-145."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿El piano guarda el ajuste de Beat 0 cuando lo apago o vuelve siempre a 4/4?",
+      "a": "En la mayoría de los pianos digitales sin memoria de apagado activada, el metrónomo vuelve por defecto a 4/4 (Beat 4) y 120 BPM al cortar la corriente. En modelos Yamaha P-145 o Roland FP-30X, si el Auto Backup está activo, el instrumento recuerda tu último ajuste de Beat 0."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/",
-    "/solucion-de-problemas-y-configuracion/que-significa-tap-tempo-y-como-marcar-la-velocidad-de-una-cancion-dando-3-toques/",
-    "/solucion-de-problemas-y-configuracion/por-que-el-sonido-de-cuerdas-strings-tarda-medio-segundo-en-entrar-ataque-lento-y-como-combinarlo/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/solucion-de-problemas-y-configuracion/como-hacer-un-factory-reset-en-pianos-roland-fp-10-fp-30x-y-casio-privia-casiotone/",
+    "/solucion-de-problemas-y-configuracion/polaridad-del-adaptador-de-corriente-centro-positivo-vs-centro-negativo-en-teclados-y-pianos/",
+    "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-enciende-las-luces-pero-no-sale-sonido-por-los-altavoces/",
+    "/solucion-de-problemas-y-configuracion/como-usar-la-funcion-octave-shift-1-o-2-octavas-en-un-teclado-de-61-teclas/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-cambiar-el-compas-del-metronomo-de-4-4-a-3-4-vals-o-0-sin-campanita.webp"
 }

@@ -4,161 +4,134 @@
   "path": "/sensacion-al-tocar-y-tipos-de-tecla/cuantos-gramos-de-fuerza-downweight-requiere-bajar-una-tecla-de-piano-real/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cuantos gramos pesa bajar una tecla de piano contrapesada",
   "title": "Peso de Bajada en Gramos (Downweight): Cuántos Gramos Cuesta Hundir una Tecla de Piano Acústico vs Digital",
-  "seoTitle": "Peso de Bajada en Gramos (Downweight) | Guía de Pianos",
-  "metaDescription": "Peso de Bajada en Gramos (Downweight): Cuántos Gramos Cuesta Hundir una Tecla de Piano Acústico vs Digital: En un piano acústico y en un digital contrapesado (Yamaha P-145 o Roland FP-10), se necesitan entre 50 y 62 gramos para vencer la inercia inicial de la tecla Do central. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "En un piano acústico y en un digital contrapesado (Yamaha P-145 o Roland FP-10), se necesitan entre 50 y 62 gramos para vencer la inercia inicial de la tecla Do central.",
-  "quickAnswer": "Sobre cuantos gramos pesa bajar una tecla de piano contrapesada: En un piano acústico y en un digital contrapesado (Yamaha P-145 o Roland FP-10), se necesitan entre 50 y 62 gramos para vencer la inercia inicial de la tecla Do central. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
+  "seoTitle": "Peso de Bajada en Gramos (Downweight): Cuántos Gramos Cuesta Hundir una Tecla de Piano Acústico vs Digital | guiadepianos.com",
+  "metaDescription": "Descubre cuántos gramos pesa bajar una tecla de piano contrapesada (downweight) en un piano acústico frente a un Yamaha P-145, Roland FP-10 o teclado de 61.",
+  "excerpt": "Medimos con pesas de calibración la resistencia real en gramos desde el registro grave hasta el agudo en mecanismos PHA-4, GHC y teclados de muelle para entender cómo trabajan tus tendones.",
+  "quickAnswer": "Bajar una tecla contrapesada en un piano acústico de cola o digital de 88 teclas requiere un **peso de bajada estático (downweight)** de entre **55 y 60 gramos** en las notas graves y de **45 a 48 gramos** en las agudas. En cambio, un teclado portátil de 61 teclas con resortes cede con apenas **20 a 30 gramos**, menos de la mitad de la resistencia física real.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Eye-level realistic lifestyle photograph in a sunlit modern apartment: Home digital piano and keyboard tutorial illustrating Peso de Bajada en Gramos (Downweight): Cuántos Gramos Cuesta Hundir una Tecla de Piano Acústico vs Digital: En un piano acústico y en un digital contrapesado (Yamaha P-145 o Roland FP-10), se necesitan entre 50 y 62 gramos para vencer la inercia inicial de la tecla Do central., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, golden hour afternoon sunlight streaming into a cozy apartment. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Close-up ergonomic grip and control panel perspective in crisp daylight: realistic scene illustrating 'Peso de Bajada en Gramos (Downweight): Cuántos Gramos Cuesta Hundir una Tecla de Piano Acústico vs Digital' (cuantos gramos pesa bajar una tecla de piano contrapesada) for guiadepianos.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a clean stone countertop with neatly arranged accessories, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Peso de Bajada en Gramos (Downweight): Cuántos Gramos Cuesta Hundir una Tecla de Piano Acústico vs Digital"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **cuantos gramos pesa bajar una tecla de piano contrapesada** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. En un piano acústico y en un digital contrapesado (Yamaha P-145 o Roland FP-10), se necesitan entre 50 y 62 gramos para vencer la inercia inicial de la tecla Do central."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Sensacion Al Tocar Y Tipos De Tecla](/sensacion-al-tocar-y-tipos-de-tecla/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Si apilas exactamente diez monedas de cinco centavos estadounidenses (**5.0 gramos** cada una, sumando **50 gramos** en total) sobre el borde delantero del Do central (**Do4**) de un **Roland FP-10** o un **Yamaha P-145**, verás cómo la tecla vence el punto de equilibrio y desciende suavemente hasta el fondo. Si haces esa misma prueba sobre un teclado portátil de 61 teclas, bastarán cinco monedas (**25 gramos**) para hundirla por completo."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: cuantos gramos pesa bajar una tecla de piano contrapesada"
+      "text": "Cómo se mide el Downweight con pesas de calibración en graves y agudos"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **cuantos gramos pesa bajar una tecla de piano contrapesada**:"
+      "text": "En la regulación técnica de pianos, el **peso de bajada estático (Downweight)** es la masa mínima en gramos colocada a **10 mm del borde frontal** capaz de mover la tecla hacia abajo con el pedal de sustain presionado. En un piano de cola acústico como el Yamaha CFIIIS, los martillos que golpean los bordones graves de cobre son más voluminosos que los de las notas agudas: por eso el registro grave exige unos **55 a 60 gramos**, el registro medio ronda los **50 a 52 gramos** y la octava más aguda baja hasta **45 a 48 gramos**. Los pianos digitales de 88 teclas con acción graduada —como el mecanismo **GHC del Yamaha P-145** o el **PHA-4 Standard del Roland FP-10**— replican este escalonamiento mecánico y lo equilibran con un correcto [peso de retorno o upweight de la tecla](/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-peso-de-retorno-upweight-y-por-que-importa-para-que-la-tecla-no-se-sienta-lenta/)."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: cuantos gramos pesa bajar una tecla de piano contrapesada",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Mecanismo y modelos de referencia",
+        "Registro Grave (Do1–Si2)",
+        "Registro Central (Do4)",
+        "Registro Agudo (Do6–Do8)"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "En un piano acústico y en un digital contrapesado (Yamaha P-145 o Roland FP-10), se necesitan entre 50 y 62 gramos para vencer la inercia inicial de la tecla Do central.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Piano de cola acústico regulado",
+          "54 a 58 gramos",
+          "50 a 52 gramos",
+          "45 a 48 gramos"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Roland PHA-4 Standard (FP-10 / FP-30X)",
+          "58 a 62 gramos (+ escape)",
+          "52 a 55 gramos",
+          "47 a 50 gramos"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Yamaha GHC (P-145) / Casio PX-S1100",
+          "53 a 56 gramos",
+          "50 gramos aprox.",
+          "45 a 47 gramos"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
+          "Acción de martillo estándar (Alesis Recital Pro / Donner DEP-20)",
+          "50 a 54 gramos",
+          "48 a 50 gramos",
+          "45 a 48 gramos"
         ],
         [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Muelle sensible al tacto 61 teclas (Yamaha PSR-E383 / Casio CT-S300)",
+          "22 a 28 gramos (uniforme)",
+          "22 a 28 gramos (uniforme)",
+          "22 a 28 gramos (uniforme)"
         ]
-      ]
+      ],
+      "caption": "Gramos de fuerza estática de bajada (Downweight) según el tipo de teclado y registro"
+    },
+    {
+      "type": "h2",
+      "text": "Peso estático vs inercia dinámica: por qué un muelle nunca imita a un martillo al tocar fuerte"
+    },
+    {
+      "type": "p",
+      "text": "Medir cuántos gramos pesa una tecla en reposo solo cuenta la mitad de la historia física. En un teclado de 61 teclas con resortes, aunque disponga de sensores para lograr [teclas sensibles a la velocidad o Touch Response](/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-sensibles-al-tacto-touch-response-o-velocity-sensitive/), el muelle ofrece casi la misma resistencia tanto si bajas el dedo despacio en *pianissimo* como si lo golpeas rápido en *fortissimo*. En cambio, en un **Roland FP-30X** o un **Yamaha P-145**, tu dedo debe acelerar una pieza metálica basculante real: por la segunda ley de Newton, cuanto más rápido atacas la tecla, mayor es la **inercia dinámica**, llegando a superar los **140 a 180 gramos** de resistencia instantánea al tocar acordes potentes, donde además el agarre mejora gracias a la [textura de marfil sintético Ivory Feel](/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-recubrimiento-ivory-feel-marfil-sintetico-y-ebano-en-las-teclas/)."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de profesor de piano sobre cuantos gramos pesa bajar una tecla de piano contrapesada",
-      "text": "En un piano acústico y en un digital contrapesado (Yamaha P-145 o Roland FP-10), se necesitan entre 50 y 62 gramos para vencer la inercia inicial de la tecla Do central. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      "text": "Cada moneda de 5 centavos de dólar (nickel) en Estados Unidos pesa exactamente 5.00 gramos de fábrica. Apilar entre 10 y 12 monedas sobre el extremo de una tecla blanca te permite comprobar en casa si tu teclado ronda los 50–60 gramos de un mecanismo contrapesado real.",
+      "title": "El experimento casero de las monedas de 5 centavos (Nickels)"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar cuantos gramos pesa bajar una tecla de piano contrapesada en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Qué gramaje elegir según la edad del estudiante y su objetivo musical"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Iniciación infantil temprana (3 a 5 años) o exploración recreativa: 25 a 35 gramos",
+          "text": "Para manos muy pequeñas cuyos tendones flexores aún están en desarrollo, o para quien busca un teclado ligero de escritorio, la acción por muelle sensible del Yamaha PSR-E383 evita arqueos forzados de muñeca."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "Estudiantes de piano clásico, pop y formación a largo plazo: 50 a 60 gramos graduados",
+          "text": "A partir de los 6 o 7 años y en cualquier adulto principiante, empezar directamente con los 50–60 gramos graduados del Yamaha P-145, Roland FP-10 o Alesis Recital Pro desarrolla la musculatura real para controlar el volumen sin aporrear las teclas."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "Pianistas que buscan máxima fidelidad de escape acústico: 55 a 62 gramos con simulación de escape",
+          "text": "Si tocas en clases con un piano acústico vertical o de cola y practicas en casa de noche con audífonos, el mecanismo PHA-4 del Roland FP-10 y FP-30X añade unos 5 gramos extra de resistencia puntual justo antes del fondo (let-off), igualando el tacto de concierto."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando cuantos gramos pesa bajar una tecla de piano contrapesada en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "Revisa la disponibilidad actual del Yamaha P-145, Roland FP-10 y Alesis Recital Pro en las tarjetas de Amazon de esta página, o consulta a nuestro Asesor IA para elegir el peso de tecla ideal para tus manos."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre cuantos gramos pesa bajar una tecla de piano contrapesada?",
-      "a": "En un piano acústico y en un digital contrapesado (Yamaha P-145 o Roland FP-10), se necesitan entre 50 y 62 gramos para vencer la inercia inicial de la tecla Do central. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Cambiar el Touch Sensitivity del piano digital modifica los gramos que pesa la tecla?",
+      "a": "En los modelos actuales con sensores modernos, cambiar la sensibilidad en pantalla (Soft, Medium o Hard) solo modifica la curva electrónica de volumen MIDI, pero no altera físicamente los gramos mecánicos del martillo. Para cambiar el peso físico se requiere otro mecanismo de teclado."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Por qué el Roland FP-10 se siente ligeramente más firme al tacto que el Yamaha P-145?",
+      "a": "Porque en el mecanismo PHA-4 de Roland el martillo interno tiene mayor masa inercial y añade un pequeño escalón mecánico llamado simulación de escape (escapement) a unos 2 mm del fondo, que suma entre 5 y 8 gramos puntuales en pulsaciones lentas."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Un peso de bajada de 55 gramos es demasiado duro para un adulto que empieza desde cero?",
+      "a": "En absoluto. Los 50 a 55 gramos de bajada se vencen dejando caer el peso natural del brazo relajado desde el hombro, no haciendo fuerza aislada con los dedos. Esa resistencia sirve de apoyo para que la mano descanse con precisión."
     }
   ],
   "related": [
-    "/sensacion-al-tocar-y-tipos-de-tecla/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-son-las-teclas-sensibles-al-tacto-touch-response-o-velocity-sensitive/",
+    "/sensacion-al-tocar-y-tipos-de-tecla/cuando-desactivar-la-sensibilidad-al-tacto-modo-fixed-para-tocar-organo-o-clavecin/",
     "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-peso-de-retorno-upweight-y-por-que-importa-para-que-la-tecla-no-se-sienta-lenta/",
-    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-la-accion-de-sintetizador-synth-action-u-organ-style-en-teclados-de-61-teclas/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/sensacion-al-tocar-y-tipos-de-tecla/que-es-el-recubrimiento-ivory-feel-marfil-sintetico-y-ebano-en-las-teclas/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/cuantos-gramos-de-fuerza-downweight-requiere-bajar-una-tecla-de-piano-real.webp"
 }

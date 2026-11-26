@@ -4,161 +4,121 @@
   "path": "/audifonos-sonido-y-practica-silenciosa/por-que-el-piano-suena-mas-fuerte-en-el-oido-izquierdo-cuando-toco-notas-graves-y-en-el-derecho-en-agudas/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "por que las notas graves suenan a la izquierda en audifonos de piano",
   "title": "Panorama Estéreo Realista del Piano: Por Qué las Notas Graves Suenan un Poco Más a la Izquierda y las Agudas a la Derecha en tus Audífonos",
-  "seoTitle": "Panorama Estéreo Realista del Piano | Guía de Pianos",
-  "metaDescription": "Panorama Estéreo Realista del Piano: Por Qué las Notas Graves Suenan un Poco Más a la Izquierda y las Agudas a la Derecha en tus Audífonos: No es un fallo: reproduce la perspectiva real de estar sentado frente a un piano acústico donde los bordones graves están a tu izquierda y las cuerdas agudas a tu derecha. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "No es un fallo: reproduce la perspectiva real de estar sentado frente a un piano acústico donde los bordones graves están a tu izquierda y las cuerdas agudas a tu derecha.",
-  "quickAnswer": "Sobre por que las notas graves suenan a la izquierda en audifonos de piano: No es un fallo: reproduce la perspectiva real de estar sentado frente a un piano acústico donde los bordones graves están a tu izquierda y las cuerdas agudas a tu derecha. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Panorama Estéreo Realista del Piano: Por Qué las Notas Graves Suenan un Poco Más a la Izquierda y las Agudas a la Derecha en tus Audífonos | guiadepianos.com",
+  "metaDescription": "¿Las notas graves de tu piano digital suenan más en el oído izquierdo y las agudas en el derecho? Descubre cómo funciona el muestreo estéreo binaural.",
+  "excerpt": "Por qué tu piano digital desplaza gradualmente los graves al canal izquierdo y los agudos al derecho en los audífonos: física del arpa de un piano de cola real y prueba del Do central (C4).",
+  "quickAnswer": "No es ningún defecto de tus audífonos ni del piano: los pianos digitales modernos (como el **Yamaha P-145**, **Roland FP-30X** o **Casio PX-S1100**) utilizan **muestreo estéreo desde la perspectiva del pianista**. Al igual que en un piano de cola acústico real, los bordones graves están situados físicamente a tu izquierda y los martillos agudos a tu derecha, mientras que el **Do central (C4)** suena exactamente equilibrado en ambos oídos.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Eye-level realistic lifestyle photograph in a sunlit modern apartment: Home digital piano and keyboard tutorial illustrating Panorama Estéreo Realista del Piano: Por Qué las Notas Graves Suenan un Poco Más a la Izquierda y las Agudas a la Derecha en tus Audífonos: No es un fallo: reproduce la perspectiva real de estar sentado frente a un piano acústico donde los bordones graves están a tu izquierda y las cuerdas agudas a tu derecha., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, crisp bright editorial studio lighting with neutral warm oak tones. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'Panorama Estéreo Realista del Piano: Por Qué las Notas Graves Suenan un Poco Más a la Izquierda y las Agudas a la Derecha en tus Audífonos' (por que las notas graves suenan a la izquierda en audifonos de piano) for guiadepianos.com, featuring equipment in olive sage green with anodized silver accents, inside a bright contemporary apartment with minimalist decor, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Panorama Estéreo Realista del Piano: Por Qué las Notas Graves Suenan un Poco Más a la Izquierda y las Agudas a la Derecha en tus Audífonos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **por que las notas graves suenan a la izquierda en audifonos de piano** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. No es un fallo: reproduce la perspectiva real de estar sentado frente a un piano acústico donde los bordones graves están a tu izquierda y las cuerdas agudas a tu derecha."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Audifonos Sonido Y Practica Silenciosa](/audifonos-sonido-y-practica-silenciosa/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Te pones tus audífonos de estudio para estrenar tu **Yamaha P-145**, tu **Roland FP-10 / FP-30X** o tu **Casio Privia PX-S1100**, tocas una escala descendente hacia el extremo izquierdo del teclado y de pronto notas algo extraño: las notas graves retumban con mucha más presencia en tu **oído izquierdo**, mientras que al subir a las últimas octavas agudas el brillo cristalino se desplaza claramente hacia tu **oído derecho**. Antes de pensar que una de las cápsulas de tus cascos está perdiendo potencia, respira tranquilo: lo que estás experimentando es una de las mayores virtudes acústicas de los motores de sonido modernos. En nuestro centro de [audífonos, sonido y práctica silenciosa](/audifonos-sonido-y-practica-silenciosa/) te explicamos por qué este desplazamiento panorámico es deliberado y cómo comprobar en segundos que tu equipo está perfectamente equilibrado."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: por que las notas graves suenan a la izquierda en audifonos de piano"
-    },
-    {
-      "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **por que las notas graves suenan a la izquierda en audifonos de piano**:"
+      "text": "Cómo se distribuyen las 88 teclas en el campo estéreo desde la perspectiva del pianista"
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: por que las notas graves suenan a la izquierda en audifonos de piano",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Registro del teclado (Notación científica)",
+        "Rango de frecuencias fundamentales",
+        "Posición física de las cuerdas en un piano de cola real",
+        "Balance L/R que escuchas en tus audífonos"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "No es un fallo: reproduce la perspectiva real de estar sentado frente a un piano acústico donde los bordones graves están a tu izquierda y las cuerdas agudas a tu derecha.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Subgraves y graves profundos (A0 a B1)",
+          "27.5 Hz a 61.7 Hz",
+          "Bordones largos de cobre en el extremo izquierdo del arpa",
+          "Predominio marcado en el oído izquierdo (~70 % L / 30 % R)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Registro medio-grave (C2 a B3)",
+          "65.4 Hz a 246.9 Hz",
+          "Sección central-izquierda de la tabla armónica",
+          "Ligeramente inclinado a la izquierda (~58 % L / 42 % R)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Do central y octava media (C4 a G4)",
+          "261.6 Hz a 392.0 Hz",
+          "Centro geométrico frente al pecho del pianista",
+          "Equilibrio central exacto (50 % L / 50 % R en imagen fantasma)"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
+          "Registro medio-agudo (A4 a B5)",
+          "440.0 Hz a 987.8 Hz",
+          "Cuerdas triples cortas a la derecha del atril",
+          "Ligeramente inclinado a la derecha (~42 % L / 58 % R)"
         ],
         [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Sobreagudos brillantes (C6 a C8)",
+          "1046.5 Hz a 4186.0 Hz",
+          "Martillos sin apagadores en el extremo derecho del arpa",
+          "Predominio claro en el oído derecho (~30 % L / 70 % R)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre por que las notas graves suenan a la izquierda en audifonos de piano",
-      "text": "No es un fallo: reproduce la perspectiva real de estar sentado frente a un piano acústico donde los bordones graves están a tu izquierda y las cuerdas agudas a tu derecha. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Mapa del panorama estéreo binaural en un piano digital de 88 teclas (perspectiva del intérprete)"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar por que las notas graves suenan a la izquierda en audifonos de piano en tu piano digital o teclado"
+      "text": "Muestreo binaural, Stereophonic Optimizer y Headphones 3D Ambience: la física del piano de cola"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Cuando te sientas frente a un piano de cola acústico real de **2.75 metros** —como el **Yamaha CFIIIS** muestreado nota por nota en el **Yamaha P-145**—, tu cabeza queda situada justo frente al **Do central (C4)**. A tu izquierda nacen los gruesos bordones entorchados en cobre de las notas graves, y a tu derecha se alinean los diminutos martillos de las notas agudas. Los ingenieros de sonido de **Yamaha**, **Roland** y **Casio** colocan una pareja de micrófonos de condensador exactamente a la distancia interaural de los oídos del pianista (**~17 cm**) para capturar esa perspectiva natural. Al escuchar con los pequeños altavoces del piano, el sonido rebota en las paredes de tu cuarto y ambos canales se mezclan en el aire; pero al colocarte unos cascos —donde enseguida [notarás detalles del sonido del piano que no se oyen en los altavoces](/audifonos-sonido-y-practica-silenciosa/por-que-al-usar-audifonos-notaras-detalles-del-sonido-del-piano-que-no-se-oyen-en-los-altavoces/)—, el aislamiento canaliza cada micrófono directamente a cada oído. Para evitar que esa separación resulte artificial, tecnologías como **Stereophonic Optimizer** (en Yamaha) o **Headphones 3D Ambience** (en el **Roland FP-10** y **FP-30X**) inyectan una fracción milimétrica de mezcla cruzada (**crossfeed**), efecto que se vuelve aún más envolvente y natural al entender [por qué los audífonos abiertos como los Sennheiser HD 599 cansan menos](/audifonos-sonido-y-practica-silenciosa/por-que-los-audifonos-abiertos-sennheiser-hd-599-cansan-menos-en-sesiones-de-2-horas/)."
     },
     {
-      "type": "steps",
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "En ningún piano de concierto real ni en ningún motor de sonido profesional (como **SuperNATURAL** de Roland, **CFIIIS/CFX** de Yamaha o **AiR** de Casio) una nota grave deja al oído derecho **100 % en silencio**. Cuando tocas la tecla más grave (**A0**), el golpe directo del martillo suena a tu izquierda, pero la vibración expansiva de la tabla armónica de abeto viaja hacia tu oído derecho unos microsegundos después con un volumen aproximado del **25 % al 30 %**. Si al tocar una nota grave tu oído derecho se queda **totalmente mudo (0 % de señal)** o al tocar una aguda no se oye absolutamente nada de reverberación en el izquierdo, entonces sí tienes un problema de conexión en el adaptador **TRS** o un cable defectuoso.",
+      "title": "Cómo distinguir el paneo estéreo real de un auricular roto (nunca es 100 % de un solo lado)"
+    },
+    {
+      "type": "h2",
+      "text": "3 pruebas de 10 segundos para confirmar que ambos lados de tus audífonos tienen la misma potencia"
+    },
+    {
+      "type": "ol",
       "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
+        "**La prueba del Do central (C4 a 261.6 Hz):** Pulsa repetidamente la tecla **Do central (C4)** o el **Fa4** justo en medio del teclado con una pulsación firme. El sonido debe percibirse anclado exactamente en el centro de tu frente (entre ambos ojos), con idéntico volumen en el oído izquierdo y en el derecho.",
+        "**La prueba de inversión física de las copas (L por R):** Sin cambiar de nota, quítate los audífonos y póntelos al revés (coloca la copa marcada como **L** en tu oreja derecha y la **R** en tu oreja izquierda). Toca ahora una nota grave: si el peso grave pasa a escucharse fuerte en tu oreja derecha, acabas de demostrar que ambos altavoces de tus audífonos funcionan al **100 %** y que el paneo proviene del muestreo del piano.",
+        "**Cambio temporal a voz de Órgano o Cuerdas (Strings):** Selecciona en tu piano el sonido de **Pipe Organ**, **Electric Piano** o **Strings**. A diferencia del piano acústico de cola, muchas voces de órgano o sintetizador tienen un panorama estéreo simétrico de extremo a extremo del teclado, por lo que sonarán con igual energía en ambos oídos sin importar qué octava pulses."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando por que las notas graves suenan a la izquierda en audifonos de piano en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Quieres disfrutar de toda la riqueza del panorama estéreo binaural de tu piano con audífonos de estudio de respuesta plana? Revisa los modelos recomendados y su disponibilidad en las tarjetas de Amazon integradas en esta página o pide consejo a nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre por que las notas graves suenan a la izquierda en audifonos de piano?",
-      "a": "No es un fallo: reproduce la perspectiva real de estar sentado frente a un piano acústico donde los bordones graves están a tu izquierda y las cuerdas agudas a tu derecha. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Se puede desactivar el paneo estéreo para que todas las teclas suenen igual en ambos oídos?",
+      "a": "Para practicar con audífonos **no es recomendable anularlo**, ya que escuchar todo el piano comprimido en mono en el centro de la cabeza produce fatiga auditiva rápidamente y resta claridad cuando cruzas la mano izquierda y la derecha. Si aun así necesitas una señal monofónica para una mezcla específica, algunos modelos permiten ajustar el parámetro **Pan / Ambience** en su app o menú."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿En un piano acústico vertical también suenan los graves a la izquierda y los agudos a la derecha?",
+      "a": "En un piano acústico vertical (de pared), la diferencia aún es más pronunciada porque tu rostro está a solo **40 cm** del arpa vertical donde las cuerdas graves caen a tu izquierda y las agudas a tu derecha. Los pianos digitales recrean generalmente la perspectiva de un **piano de gran cola de concierto (9 pies)**, donde la distancia a las cuerdas suaviza esa transición."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Qué pasa si me pongo los audífonos al revés (el lado R en la oreja izquierda) al tocar el piano?",
+      "a": "¡Exacto! Si te colocas los audífonos con la copa **R en la oreja izquierda** y la **L en la derecha**, tu cerebro sufrirá una disonancia espacial extraña: verás tu mano izquierda bajar en la parte grave del teclado, pero escucharás que el sonido proviene del lado derecho de tu cabeza. Revisa siempre la marca **L (Left)** antes de tocar."
     }
   ],
   "related": [
-    "/audifonos-sonido-y-practica-silenciosa/",
-    "/audifonos-sonido-y-practica-silenciosa/como-ajustar-el-efecto-de-reverberacion-reverb-hall-room-stage-al-tocar-con-audifonos/",
-    "/audifonos-sonido-y-practica-silenciosa/se-pueden-usar-audifonos-in-ear-monitores-intraurales-iem-para-tocar-el-piano-digital/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/audifonos-sonido-y-practica-silenciosa/por-que-los-audifonos-abiertos-sennheiser-hd-599-cansan-menos-en-sesiones-de-2-horas/",
+    "/audifonos-sonido-y-practica-silenciosa/por-que-al-usar-audifonos-notaras-detalles-del-sonido-del-piano-que-no-se-oyen-en-los-altavoces/",
+    "/audifonos-sonido-y-practica-silenciosa/como-probar-si-unos-altavoces-externos-tienen-latencia-al-conectarlos-al-piano/",
+    "/audifonos-sonido-y-practica-silenciosa/como-enrollar-el-cable-de-3-metros-de-los-audifonos-con-el-metodo-over-under-de-estudio/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/por-que-el-piano-suena-mas-fuerte-en-el-oido-izquierdo-cuando-toco-notas-graves-y-en-el-derecho-en-agudas.webp"
 }

@@ -3,162 +3,117 @@
   "pillar": "conexiones-midi-apps-y-aprendizaje",
   "path": "/conexiones-midi-apps-y-aprendizaje/por-que-es-100-veces-mejor-usar-cable-usb-midi-que-el-microfono-del-ipad-en-simply-piano/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "usar cable midi en vez de microfono en simply piano flowkey",
   "title": "Conexión MIDI vs Micrófono del iPad en Simply Piano y Flowkey: Por Qué el Cable USB Te Permite Practicar con Audífonos",
-  "seoTitle": "Conexión MIDI vs Micrófono del iPad en Simply Piano y Flowkey | Guía de Pianos",
-  "metaDescription": "Conexión MIDI vs Micrófono del iPad en Simply Piano y Flowkey: Por Qué el Cable USB Te Permite Practicar con Audífonos: El micrófono de la tablet falla con el ruido de la casa y no te deja usar audífonos; con un cable USB-MIDI de $12 la app lee cada acorde digitalmente con 100 % de precisión en silencio. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "El micrófono de la tablet falla con el ruido de la casa y no te deja usar audífonos; con un cable USB-MIDI de $12 la app lee cada acorde digitalmente con 100 % de precisión en silencio.",
-  "quickAnswer": "Sobre usar cable midi en vez de microfono en simply piano flowkey: El micrófono de la tablet falla con el ruido de la casa y no te deja usar audífonos; con un cable USB-MIDI de $12 la app lee cada acorde digitalmente con 100 % de precisión en silencio. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
-  "readingMinutes": 7,
+  "seoTitle": "Conexión MIDI vs Micrófono del iPad en Simply Piano y Flowkey: Por Qué el Cable USB Te Permite Practicar con Audífonos | guiadepianos.com",
+  "metaDescription": "Conoce por qué conectar tu piano digital por cable USB-MIDI a Simply Piano o Flowkey supera al micrófono del iPad en precisión de acordes y uso de audífonos.",
+  "excerpt": "Comparamos la detección acústica por micrófono frente a la transmisión digital de paquetes MIDI por cable USB al estudiar acordes complejos, pedal de sustain y sesiones nocturnas con auriculares.",
+  "quickAnswer": "El micrófono del iPad falla en **Simply Piano y Flowkey** porque depende de analizar el sonido en el aire (con **40 a 120 ms de retraso**), se confunde con los armónicos de los acordes o el ruido de la casa y deja de funcionar si conectas audífonos al piano. En cambio, un **cable USB-MIDI** transmite los datos digitales exactos de cada tecla en **menos de 2 ms** con **100 % de precisión**, permitiéndote estudiar en silencio con auriculares.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Realistic editorial photography, Detailed close-up focusing on pianist hands, pedal action and studio headphones: Home digital piano and keyboard tutorial illustrating Conexión MIDI vs Micrófono del iPad en Simply Piano y Flowkey: Por Qué el Cable USB Te Permite Practicar con Audífonos: El micrófono de la tablet falla con el ruido de la casa y no te deja usar audífonos; con un cable USB-MIDI de $12 la app lee cada acorde digitalmente con 100 % de precisión en silencio., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, clean daylight-balanced interior photography with authentic textures. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Conexión MIDI vs Micrófono del iPad en Simply Piano y Flowkey: Por Qué el Cable USB Te Permite Practicar con Audífonos' (usar cable midi en vez de microfono en simply piano flowkey) for guiadepianos.com, featuring equipment in warm sand beige with matte black hardware, in a bright family home interior with clean architectural lines, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Conexión MIDI vs Micrófono del iPad en Simply Piano y Flowkey: Por Qué el Cable USB Te Permite Practicar con Audífonos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **usar cable midi en vez de microfono en simply piano flowkey** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. El micrófono de la tablet falla con el ruido de la casa y no te deja usar audífonos; con un cable USB-MIDI de $12 la app lee cada acorde digitalmente con 100 % de precisión en silencio."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Conexiones Midi Apps Y Aprendizaje](/conexiones-midi-apps-y-aprendizaje/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Durante los primeros diez minutos con **Simply Piano**, **Flowkey** o **Yousician**, apoyar el iPad sobre el atril y dejar que el micrófono integrado escuche los altavoces de tu **Yamaha P-145**, **Roland FP-10** o **Yamaha PSR-E383** parece magia: tocas un **Do central** aislado y la pantalla avanza. El desencanto llega en cuanto intentas estudiar a las diez de la noche con auriculares puestos o pasas a las lecciones de mano izquierda y derecha simultáneas: de pronto la aplicación se queda congelada, marca en rojo notas que has pulsado perfectamente y te obliga a repetir el compás una y otra vez. Dentro de nuestro bloque de [conexiones MIDI, apps y aprendizaje](/conexiones-midi-apps-y-aprendizaje/), pasar del micrófono a un simple cable **USB-MIDI** es la mejora más drástica que puedes hacer en tu curva de progreso."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: usar cable midi en vez de microfono en simply piano flowkey"
+      "text": "Por Qué el Reconocimiento Acústico por Micrófono Falla al Tocar Acordes y Usar el Pedal"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **usar cable midi en vez de microfono en simply piano flowkey**:"
+      "text": "Cuando trabajas sin cable, la aplicación utiliza un algoritmo matemático llamado **Transformada Rápida de Fourier (FFT)** para analizar las ondas sonoras que rebotan en tu habitación y adivinar qué frecuencias están sonando. Mientras tocas una sola nota lenta, ese cálculo acierta; pero en cuanto pulsas un acorde de tres o cuatro notas y pisas el pedal de sustain, los armónicos acústicos de las cuerdas graves se solapan con las frecuencias fundamentales de la mano derecha. Además, el procesador de la tablet tarda entre **40 y 120 milisegundos** en filtrar el ruido ambiente y validar el tono, lo que te impide desarrollar precisión rítmica al trabajar la [técnica del paso del pulgar en la escala de Do Mayor](/conexiones-midi-apps-y-aprendizaje/como-pasar-el-dedo-pulgar-por-debajo-thumb-under-para-tocar-la-escala-de-do-mayor-con-8-notas/) o al entrenar cómo [tocar con las dos manos independientes sin que la izquierda copie a la derecha](/conexiones-midi-apps-y-aprendizaje/como-aprender-a-tocar-con-las-dos-manos-independientes-sin-que-la-izquierda-copie-a-la-derecha/). Por el contrario, al elegir correctamente [de qué largo comprar tu cable USB-MIDI (entre 1.8 y 3.0 metros)](/conexiones-midi-apps-y-aprendizaje/que-longitud-maxima-puede-tener-un-cable-usb-midi-sin-perder-senal-2-a-3-metros/), el piano envía el número exacto de cada tecla en formato digital puro."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: usar cable midi en vez de microfono en simply piano flowkey",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Criterio de Práctica Real",
+        "Micrófono Integrado del iPad / Tablet",
+        "Conexión por Cable USB-MIDI (USB to Host)"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "El micrófono de la tablet falla con el ruido de la casa y no te deja usar audífonos; con un cable USB-MIDI de $12 la app lee cada acorde digitalmente con 100 % de precisión en silencio.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "Práctica nocturna con audífonos conectados",
+          "Imposible (los altavoces se apagan y el micrófono solo oye plástico)",
+          "100 % compatible en silencio total a cualquier hora"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "Reconocimiento de acordes de 3 a 6 notas + pedal",
+          "Frecuentes falsos errores por choque de armónicos y cola de resonancia",
+          "Precisión absoluta nota por nota (mensajes Note On / Note Off individuales)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "Latencia de validación en pantalla",
+          "40 ms a 120 ms de retraso por análisis acústico FFT",
+          "Menos de 2 ms (respuesta visual instantánea al bajar la tecla)"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
+          "Inmunidad al ruido externo en casa",
+          "Falla si hay televisión, aire acondicionado, voces o pista de fondo alta",
+          "Inmune al 100 %; puedes tocar aunque haya ruido en la habitación"
         ],
         [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "Lectura de dinámica (suave vs fuerte)",
+          "Inexacta; depende de la rueda de volumen del piano y distancia del iPad",
+          "Lee los 127 niveles exactos de velocidad MIDI de tus dedos"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de profesor de piano sobre usar cable midi en vez de microfono en simply piano flowkey",
-      "text": "El micrófono de la tablet falla con el ruido de la casa y no te deja usar audífonos; con un cable USB-MIDI de $12 la app lee cada acorde digitalmente con 100 % de precisión en silencio. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Comparativa técnica entre detección por micrófono y conexión por cable USB-MIDI en apps de piano"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar usar cable midi en vez de microfono en simply piano flowkey en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
-        },
-        {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
-        },
-        {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
-        },
-        {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes alguna duda aplicando usar cable midi en vez de microfono en simply piano flowkey en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
+      "text": "4 Ventajas Técnicas del Cable USB-MIDI que Aceleran Tu Aprendizaje desde la Semana 1"
     },
     {
       "type": "ul",
       "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
+        "**Desbloquea el estudio con auriculares sin despertar a nadie**: Como los datos **MIDI** viajan por el hilo de cobre desde la placa del teclado hasta el puerto **USB-C o Lightning** del iPad, puedes enchufar tus audífonos al piano y las aplicaciones seguirán calificando cada semicorchea con precisión milimétrica.",
+        "**Elimina el bucle de retroalimentación con la pista de acompañamiento**: En modo micrófono, cuando la banda musical que reproduce el propio iPad suena fuerte, tapa las notas agudas de tu piano; por cable USB-MIDI, la pista de fondo jamás interfiere con el detector de notas.",
+        "**Evalúa la expresión real de tus dedos (Velocity 0–127) con independencia del volumen**: Si bajas el volumen de los altavoces para no molestar en modo micrófono, la app deja de oírte; por cable USB-MIDI, el sensor del teclado envía la fuerza exacta con la que percutiste el martillo aunque el volumen maestro esté al mínimo.",
+        "**Estabilidad superior frente al Bluetooth MIDI en ejercicios rápidos**: Aunque pianos como el **Roland FP-10** o el **Casio PX-S1100** incluyen **Bluetooth MIDI**, el cable físico USB evita microcortes de paquetes inalámbricos y ahorra el paso de reconectar el dispositivo desde el submenú de la app cada día."
       ]
     },
     {
       "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
+      "text": "Qué Longitud y Tipo de Blindaje Elegir al Comprar Tu Cable USB-MIDI en Amazon"
     },
     {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "Para que el cable descanse holgadamente desde el puerto trasero central o lateral de tu piano hasta el extremo superior del atril sin quedar tirante ni doblar el conector del iPad, la medida óptima es de **1.8 a 2.0 metros (6 pies)**, o un máximo de **3.0 metros (10 pies)** si el puerto **USB to Host** queda en el extremo opuesto. Evita cables de **5 metros o más** sin repetidor activo, ya que la caída de tensión en el bus USB 2.0 puede provocar desconexiones esporádicas a mitad de una lección en **Flowkey** o **Simply Piano**.",
+      "title": "La medida ideal de 1.8 m a 2.0 m para el atril del piano digital"
+    },
+    {
+      "type": "cta",
+      "text": "Revisa en las tarjetas de Amazon integradas en esta guía la disponibilidad de cables USB-MIDI blindados de 1.8 a 3 metros (USB-B a USB-C o Lightning), o consulta a nuestro Asesor IA para verificar la conexión exacta de tu teclado."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre usar cable midi en vez de microfono en simply piano flowkey?",
-      "a": "El micrófono de la tablet falla con el ruido de la casa y no te deja usar audífonos; con un cable USB-MIDI de $12 la app lee cada acorde digitalmente con 100 % de precisión en silencio. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Tengo que cambiar algún ajuste dentro de Simply Piano o Flowkey al pasar del micrófono al cable USB-MIDI?",
+      "a": "No hay que configurar canales ni parámetros técnicos: tanto Simply Piano como Flowkey detectan automáticamente la entrada MIDI por cable en segundo plano. Verás un pequeño icono o mensaje verde de 'MIDI conectado' en la esquina de la pantalla apenas pulses la primera tecla del piano."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Por qué Simply Piano deja de reconocer todas las notas en cuanto conecto mis audífonos al piano si no uso cable MIDI?",
+      "a": "Cuando conectas los audífonos a la salida PHONES de tu piano digital, los altavoces del teclado se silencian por completo. Al no haber sonido en el aire, el micrófono del iPad solo capta el golpeteo sordo del plástico de las teclas, que carece de afinación musical."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿Si mi piano digital tiene Bluetooth MIDI integrado, vale la pena tener también un cable USB-MIDI?",
+      "a": "Para estudiar lecciones en apps funciona muy bien (con unos 8 a 15 ms de latencia), pero el cable USB-MIDI directo sigue siendo más rápido (menos de 2 ms), nunca sufre interferencias con redes Wi-Fi de 2.4 GHz y funciona al instante al encender el teclado sin tener que emparejarlo manualmente en la app en cada sesión."
     }
   ],
   "related": [
-    "/conexiones-midi-apps-y-aprendizaje/",
-    "/conexiones-midi-apps-y-aprendizaje/como-conectar-un-piano-digital-con-bluetooth-midi-a-simply-piano-flowkey-o-garageband/",
-    "/conexiones-midi-apps-y-aprendizaje/como-conectar-tu-piano-digital-o-teclado-al-ipad-por-cable-usb-midi-paso-a-paso/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/conexiones-midi-apps-y-aprendizaje/que-longitud-maxima-puede-tener-un-cable-usb-midi-sin-perder-senal-2-a-3-metros/",
+    "/conexiones-midi-apps-y-aprendizaje/como-aprender-a-tocar-con-las-dos-manos-independientes-sin-que-la-izquierda-copie-a-la-derecha/",
+    "/conexiones-midi-apps-y-aprendizaje/como-usar-el-metronomo-integrado-de-tu-piano-digital-para-no-acelerar-en-las-partes-faciles/",
+    "/conexiones-midi-apps-y-aprendizaje/como-pasar-el-dedo-pulgar-por-debajo-thumb-under-para-tocar-la-escala-de-do-mayor-con-8-notas/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/por-que-es-100-veces-mejor-usar-cable-usb-midi-que-el-microfono-del-ipad-en-simply-piano.webp"
 }

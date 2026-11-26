@@ -4,161 +4,176 @@
   "path": "/solucion-de-problemas-y-configuracion/para-que-sirve-la-funcion-transpose-transposicion-en-un-piano-digital-o-teclado/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como usar la funcion transpose en un piano digital",
   "title": "Cómo Usar la Función 'Transpose' (-6 a +6 Semitonos) para Acompañar a un Cantante sin Cambiar la Posición de Tus Dedos",
-  "seoTitle": "Cómo Usar la Función 'Transpose' (-6 a +6 Semitonos) para Acompañar a un Cantante sin Cambiar la Posición de Tus Dedos | Guía de Pianos",
-  "metaDescription": "Cómo Usar la Función 'Transpose' (-6 a +6 Semitonos) para Acompañar a un Cantante sin Cambiar la Posición de Tus Dedos: Te permite tocar los acordes fáciles de Do mayor con las teclas blancas mientras el piano suena realmente en Re mayor o Mi bemol para adaptarse a la voz de quien canta. Guía paso a paso para pianos de 88 y 61 teclas, pedales, soportes y audífonos compatibles en Amazon.",
-  "excerpt": "Te permite tocar los acordes fáciles de Do mayor con las teclas blancas mientras el piano suena realmente en Re mayor o Mi bemol para adaptarse a la voz de quien canta.",
-  "quickAnswer": "Sobre como usar la funcion transpose en un piano digital: Te permite tocar los acordes fáciles de Do mayor con las teclas blancas mientras el piano suena realmente en Re mayor o Mi bemol para adaptarse a la voz de quien canta. Para obtener el mejor resultado en tu piano digital o teclado Yamaha, Roland, Casio o Alesis, sitúa las teclas a 71–73 cm del suelo sobre un soporte firme, utiliza un pedal de sustain con polaridad compatible (N.O./N.C.) y conecta audífonos con cable de 32–64 Ω con adaptador de 1/4\" sin latencia.",
+  "seoTitle": "Cómo Usar la Función 'Transpose' (-6 a +6 Semitonos) para Acompañar a un Cantante sin Cambiar la Posición de Tus Dedos | guiadepianos.com",
+  "metaDescription": "Aprende cómo usar la función Transpose (-6 a +6 semitonos) en tu piano digital para cambiar la tonalidad de cualquier canción sin alterar tu digitación.",
+  "excerpt": "Domina la transposición por semitonos en pianos Yamaha, Roland y Casio: incluye tabla de equivalencias desde Do Mayor para adaptar canciones a la voz de un cantante usando solo teclas blancas.",
+  "quickAnswer": "La función **Transpose** desplaza electrónicamente la afinación del teclado en pasos de **1 semitono** (generalmente entre **-6 y +6** o **-12 y +12 semitonos**), permitiéndote tocar con las posiciones fáciles de **Do Mayor** mientras el piano emite otra tonalidad real. Por ejemplo, si configuras **Transpose en -2**, al tocar los acordes blancos de **Do Mayor** sonará **Si bemol Mayor**, ideal para bajar una canción aguda a la tesitura de un cantante.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Realistic editorial photography, Macro close-up shot with shallow depth of field (85mm f/2.8 lens): Home digital piano and keyboard tutorial illustrating Cómo Usar la Función 'Transpose' (-6 a +6 Semitonos) para Acompañar a un Cantante sin Cambiar la Posición de Tus Dedos: Te permite tocar los acordes fáciles de Do mayor con las teclas blancas mientras el piano suena realmente en Re mayor o Mi bemol para adaptarse a la voz de quien canta., in a compact bedroom music corner with a wooden furniture stand, three metallic pedals and an indoor plant, warm evening LED music stand lamp light for silent headphone practice. Photorealistic textures of matte piano keys, brushed metal sustain pedal and studio headphones, no text, no watermarks.",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Cómo Usar la Función 'Transpose' (-6 a +6 Semitonos) para Acompañar a un Cantante sin Cambiar la Posición de Tus Dedos' (como usar la funcion transpose en un piano digital) for guiadepianos.com, featuring equipment in graphite gray with subtle amber indicator details, on a clean stone countertop with neatly arranged accessories, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Usar la Función 'Transpose' (-6 a +6 Semitonos) para Acompañar a un Cantante sin Cambiar la Posición de Tus Dedos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando estás eligiendo tu primer piano digital o teclado para aprender en casa —o quieres optimizar el espacio, el tacto y los accesorios de tu instrumento—, comprender a fondo **como usar la funcion transpose en un piano digital** marca la diferencia entre practicar cómodo todos los días o frustrarte por un detalle técnico. Te permite tocar los acordes fáciles de Do mayor con las teclas blancas mientras el piano suena realmente en Re mayor o Mi bemol para adaptarse a la voz de quien canta."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Solucion De Problemas Y Configuracion](/solucion-de-problemas-y-configuracion/)** te explicamos las medidas, ajustes y compatibilidades exactas aplicadas a los pianos de 88 teclas y teclados de 61/76 teclas más vendidos de Amazon Estados Unidos: **[Yamaha P-145 / P-225](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, **[Roland FP-10 / FP-30X](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)**, **[Casio Privia PX-S1100 / CDP-S160](/resenas-pianos-y-teclados/casio-privia-px-s1100-88-teclas/)**, **[Alesis Recital Pro / Donner DEP-20](/resenas-pianos-y-teclados/alesis-recital-pro-88-teclas/)** y **[Yamaha PSR-E383 / Casio CT-S300](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)**."
+      "text": "Imagina que llevas dos semanas ensayando los acordes de una balada en **Do Mayor (Do, Sol, La menor y Fa)** para acompañar a un amigo o familiar cantante. Cinco minutos antes de empezar, el vocalista prueba el estribillo y te dice que las notas agudas le quedan demasiado altas para su garganta y necesita bajar la canción un tono entero (a **Si bemol Mayor**) o un tono y medio (a **La Mayor**). En un piano acústico tradicional tendrías que recalcular mentalmente cada acorde y tocar sobre teclas negras en tiempo real; en cambio, en cualquier piano digital moderno puedes activar la función **Transpose** (transposición electrónica por semitonos) para que tus dedos sigan tocando exactamente las mismas teclas blancas de **Do Mayor** mientras los altavoces emiten la nueva tonalidad adaptada a su voz. Si quieres dominar todas las herramientas de tu instrumento, visita nuestro [centro de solución de problemas y configuración](/solucion-de-problemas-y-configuracion/)."
     },
     {
       "type": "h2",
-      "text": "Tabla de parámetros, medidas y compatibilidad para: como usar la funcion transpose en un piano digital"
+      "text": "Cómo Funciona el Desplazamiento de -6 a +6 Semitonos y Tabla de Equivalencias desde Do Mayor y La Menor"
     },
     {
       "type": "p",
-      "text": "Tanto si tocas en un teclado compacto de 61 teclas sobre un escritorio como en un piano digital de 88 teclas contrapesadas en tu dormitorio, ten presente cómo interactúa cada componente en **como usar la funcion transpose en un piano digital**:"
+      "text": "Cada unidad que sumas o restas en el parámetro **Transpose** desplaza el generador de sonido exactamente **1 semitono** (la distancia musical que existe entre cualquier tecla y su vecina inmediata, sea blanca o negra). Por ejemplo, en pianos de **88 teclas** como el **Yamaha P-145**, el **Roland FP-10** o el **Roland FP-30X**, el rango abarca desde **-6 semitonos** hasta **+5 o +6 semitonos**, mientras que en el **Casio Privia PX-S1100** y el teclado **Yamaha PSR-E383** llega a una octava completa (**-12 a +12 semitonos**). Si acompañas pistas reproducidas desde tu teléfono mientras usas la transposición, te recomendamos revisar [cómo equilibrar el volumen de la música del celular (Input Volume) con el volumen de tus teclas](/solucion-de-problemas-y-configuracion/por-que-el-volumen-de-mi-celular-conectado-por-aux-in-o-bluetooth-suena-mas-fuerte-que-el-piano/), así como comprobar [si tu piano tiene Bluetooth integrado o requiere el adaptador USB](/solucion-de-problemas-y-configuracion/por-que-no-funciona-el-bluetooth-de-mi-piano-digital-diferencia-entre-modelos-con-y-sin-adaptador/) para cambiar los semitonos visualmente desde la pantalla de tu tablet con **Smart Pianist**, **Roland Piano App** o **CASIO MUSIC SPACE**."
     },
     {
       "type": "table",
-      "caption": "Referencias técnicas verificadas para: como usar la funcion transpose en un piano digital",
       "headers": [
-        "Criterio / Componente",
-        "Especificación Recomendada",
-        "Por Qué Importa al Tocar en Casa"
+        "Valor de Transpose",
+        "Desplazamiento Musical",
+        "Si Tocas Posición de Do Mayor (C), Suena:",
+        "Si Tocas Posición de La Menor (Am), Suena:"
       ],
       "rows": [
         [
-          "Clave técnica principal",
-          "Te permite tocar los acordes fáciles de Do mayor con las teclas blancas mientras el piano suena realmente en Re mayor o Mi bemol para adaptarse a la voz de quien canta.",
-          "Asegura una práctica cómoda, expresiva y sin fallos técnicos"
+          "-5 semitonos",
+          "2 tonos y medio abajo (Cuarta justa)",
+          "Sol Mayor (G)",
+          "Mi menor (Em)"
         ],
         [
-          "Formato 88 vs 61 Teclas",
-          "88 Contrapesadas (128–133 cm) vs 61 Touch Response (93–94 cm)",
-          "Adapta el instrumento al espacio real y presupuesto disponible"
+          "-4 semitonos",
+          "2 tonos abajo (Tercera mayor)",
+          "La bemol Mayor (Ab)",
+          "Fa menor (Fm)"
         ],
         [
-          "Pedal de Sustain Compatible",
-          "Jack 1/4\" (6.35 mm) con Selector de Polaridad N.O./N.C. (M-Audio SP-2)",
-          "Evita que el sustain suene invertido en Yamaha, Casio, Roland o Alesis"
+          "-3 semitonos",
+          "1 tono y medio abajo (Tercera menor)",
+          "La Mayor (A)",
+          "Fa sostenido menor (F#m)"
         ],
         [
-          "Soporte y Altura de Banco",
-          "Soporte en Z / Mueble (Teclas a 71–73 cm) + Banco a 47–51 cm",
-          "Mantiene los antebrazos paralelos al suelo y deja libres las rodillas"
+          "-2 semitonos",
+          "1 tono entero abajo (Segunda mayor)",
+          "Si bemol Mayor (Bb)",
+          "Sol menor (Gm)"
         ],
         [
-          "Audífonos y Conexión Apps",
-          "Audífonos con Cable 32–64 Ω (Adaptador 1/4\") + Cable USB-B a USB-C",
-          "0 ms de latencia nocturna y reconocimiento exacto en Simply Piano/Flowkey"
+          "-1 semitono",
+          "Medio tono abajo (Segunda menor)",
+          "Si Mayor (B)",
+          "Sol sostenido menor (G#m)"
+        ],
+        [
+          "0 (Estándar)",
+          "Sin transposición (Afinación real)",
+          "Do Mayor (C)",
+          "La menor (Am)"
+        ],
+        [
+          "+1 semitono",
+          "Medio tono arriba (Segunda menor)",
+          "Do sostenido / Re bemol Mayor (C# / Db)",
+          "La sostenido / Si bemol menor (A#m / Bbm)"
+        ],
+        [
+          "+2 semitonos",
+          "1 tono entero arriba (Segunda mayor)",
+          "Re Mayor (D)",
+          "Si menor (Bm)"
+        ],
+        [
+          "+3 semitonos",
+          "1 tono y medio arriba (Tercera menor)",
+          "Mi bemol Mayor (Eb)",
+          "Do menor (Cm)"
+        ],
+        [
+          "+4 semitonos",
+          "2 tonos arriba (Tercera mayor)",
+          "Mi Mayor (E)",
+          "Do sostenido menor (C#m)"
+        ],
+        [
+          "+5 semitonos",
+          "2 tonos y medio arriba (Cuarta justa)",
+          "Fa Mayor (F)",
+          "Re menor (Dm)"
+        ],
+        [
+          "+6 semitonos",
+          "3 tonos arriba (Tritono)",
+          "Fa sostenido / Sol bemol Mayor (F# / Gb)",
+          "Re sostenido / Mi bemol menor (D#m / Ebm)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Diagnóstico técnico clave sobre como usar la funcion transpose en un piano digital",
-      "text": "Te permite tocar los acordes fáciles de Do mayor con las teclas blancas mientras el piano suena realmente en Re mayor o Mi bemol para adaptarse a la voz de quien canta. Recuerda verificar siempre la polaridad de tu pedal de sustain (interruptor N.O./N.C. sin pisarlo al encender), situar las teclas blancas a 71–73 cm del suelo sobre un soporte estable y utilizar audífonos con cable de 32–64 Ω con adaptador de 1/4\" para practicar sin latencia."
+      ],
+      "caption": "Tabla de equivalencias de Transpose: qué tonalidad real suena cuando tocas en posición de Do Mayor o La menor"
     },
     {
       "type": "h2",
-      "text": "Guía paso a paso para aplicar como usar la funcion transpose en un piano digital en tu piano digital o teclado"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificado en estudio para dejar tu instrumento perfectamente configurado hoy mismo:"
+      "text": "Cómo Configurar los Semitonos de Transpose en Yamaha, Roland y Casio"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Verifica tus medidas de espacio, nivelación del soporte y altura a 72 cm",
-          "text": "Asegúrate de que tu soporte en Z, doble X o mueble esté perfectamente nivelado a 5–8 cm de la pared, con las correas de seguridad atornilladas a la base del piano y la superficie de las teclas blancas situada a 71–73 cm del suelo."
+          "name": "Calcula cuántos semitonos necesitas subir o bajar",
+          "text": "Cuenta tecla por tecla (incluyendo blancas y negras) desde la tonalidad que sabes tocar hasta la tonalidad objetivo. Por ejemplo, para pasar de Do Mayor a Mi bemol Mayor cuentas Do# (+1), Re (+2) y Mib (+3): tu ajuste es +3."
         },
         {
-          "name": "Paso 2: Conecta el pedal de sustain y los cables USB/Audio con el piano apagado",
-          "text": "Inserta el conector de 1/4\" (6.35 mm) del pedal en la toma Damper/Sustain antes de encender el instrumento y no apoyes el pie sobre la lengüeta metálica durante el arranque para que la polaridad se detecte correctamente."
+          "name": "En Yamaha P-145 y P-45: usa GRAND PIANO/FUNCTION + octava Do3",
+          "text": "Mantén presionado el botón GRAND PIANO/FUNCTION y pulsa una tecla entre Fa#2 (-6 semitonos) y Fa3 (+6 semitonos), tomando Do3 (el Do una octava a la izquierda del Do central) como el punto cero. Para +3 semitonos, pulsa Re#3 (Eb3)."
         },
         {
-          "name": "Paso 3: Ajusta la curva de sensibilidad de tecla y conecta tus audífonos de 1/4\"",
-          "text": "Comprueba que la respuesta al tacto (Touch Response / Key Touch) esté en modo Normal/Medium para desarrollar dinámica real en los dedos, y utiliza audífonos con cable de 32–64 Ω (con adaptador de 1/4\" o 3.5 mm) al 50 % de volumen."
+          "name": "En Roland FP-10 y FP-30X: usa FUNCTION + octava del Do central (Do4)",
+          "text": "Mantén pulsado el botón FUNCTION y presiona una tecla entre Fa#3 (-6 semitonos) y Mi4 (+5 semitonos), donde el Do central (Do4) representa el valor 0. Para bajar un tono entero (-2 semitonos), presiona la tecla negra La#3 (Sib3)."
         },
         {
-          "name": "Paso 4: Enlaza tu iPad por USB-MIDI o Bluetooth MIDI y protege las teclas al finalizar",
-          "text": "Conecta el puerto USB-to-Host a tu tablet para practicar con tu app favorita sin usar el micrófono, y al terminar la sesión apaga el piano y coloca su cubrepolvo elástico para mantener impecables los sensores de velocidad."
+          "name": "En Yamaha PSR-E383 y Casio con pantalla: ajusta el número en el LCD",
+          "text": "Pulsa el botón FUNCTION hasta que la pantalla muestre Transpos (en Yamaha PSR-E383) y utiliza los botones +/YES o -/NO para fijar el número exacto entre -12 y +12. Al terminar la canción, presiona + y - a la vez para volver a 00."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cuándo Es Tu Mejor Aliado y Por Qué No Debes Abusar de Él al Estudiar Técnica Clásica"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "La función **Transpose** es una herramienta profesional legítima para **acompañar cantantes**, tocar canciones pop grabadas con cejilla (*capo*) de guitarra en trastes impares (por ejemplo, si el guitarrista coloca la cejilla en el **traste 3**, tú configuras **Transpose en +3** y lees los mismos acordes básicos que él) o salir del paso en un evento en vivo. Sin embargo, si estás estudiando escalas, lectura de partituras o repertorio clásico/jazz, evita usarla para esquivar armaduras con sostenidos y bemoles: aprender la topografía física de las teclas negras en tonalidades como **Re Mayor**, **Sol Mayor** o **Mi bemol Mayor** es esencial para desarrollar memoria muscular e independencia en los diez dedos.",
+      "title": "El truco de la cejilla de guitarra (+1 por cada traste) y el consejo de los profesores"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes alguna duda aplicando como usar la funcion transpose en un piano digital en tu piano Yamaha, Roland, Casio o Alesis? Pregúntale ahora mismo a nuestro Asesor de Pianos IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes de principiante que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Encender el teclado con el pie apoyado en el pedal de sustain:** invierte la lectura de polaridad y hace que las notas se queden pegadas cuando sueltas el pie.",
-        "**Intentar tocar con audífonos Bluetooth inalámbricos:** los 180–250 ms de latencia del Bluetooth desincronizan el movimiento de tus dedos respecto al sonido que escuchas.",
-        "**Tocar en una silla de comedor alta o con el teclado encima de un escritorio alto sin ajustar el asiento:** obliga a doblar las muñecas y sobrecarga los hombros a los 15 minutos.",
-        "**Dejar el teclado destapado acumulando polvo entre las ranuras:** con los meses el polvo entra en las cúpulas de goma conductora haciendo que una tecla deje de sonar o dispare volumen máximo."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Pianos, teclados, pedales, soportes y audífonos recomendados en Amazon"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar esta guía con un equipo fiable y 100 % compatible, revisa nuestra selección en Amazon Estados Unidos: desde el **[Yamaha P-145](/resenas-pianos-y-teclados/yamaha-p-145-piano-digital-88-teclas/)**, el **[Roland FP-10](/resenas-pianos-y-teclados/roland-fp-10-piano-digital-88-teclas/)** y el **[Yamaha PSR-E383 de 61 teclas](/resenas-pianos-y-teclados/yamaha-psr-e383-teclado-61-teclas/)** hasta el **[pedal universal M-Audio SP-2](/resenas-pianos-y-teclados/pedal-sustain-m-audio-sp-2-universal/)**, el **[soporte en Z Heavy Duty](/resenas-pianos-y-teclados/soporte-teclado-en-z-plixio-liquid-stands/)** y los **[audífonos Audio-Technica ATH-M20x](/resenas-pianos-y-teclados/audifonos-audio-technica-ath-m20x-y-ath-m40x-piano/)**. Tienes las tarjetas con enlace directo justo aquí debajo."
+      "text": "¿Buscas un piano digital con aplicación móvil intuitiva para cambiar sonidos y transposición en pantalla? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la recomendación principal sobre como usar la funcion transpose en un piano digital?",
-      "a": "Te permite tocar los acordes fáciles de Do mayor con las teclas blancas mientras el piano suena realmente en Re mayor o Mi bemol para adaptarse a la voz de quien canta. Asegúrate siempre de acompañar tu instrumento con un soporte estable a 72 cm de altura, un banco regulable y accesorios compatibles verificados."
+      "q": "¿Cómo uso Transpose si la canción que quiero tocar tiene cejilla (Capo) de guitarra?",
+      "a": "Es una equivalencia directa de **1 a 1**: cada traste de la guitarra equivale exactamente a **1 semitono** en el piano. Si el cifrado de guitarra indica **Capo en traste 2** y muestra acordes de **Do Mayor**, pon el **Transpose** de tu piano en **+2** y toca esos mismos acordes de **Do Mayor** para sonar en **Re Mayor** junto a la guitarra."
     },
     {
-      "q": "¿Estos consejos sirven para pianos y teclados Yamaha, Roland, Casio, Kawai y Alesis?",
-      "a": "Sí, el 100 % de las explicaciones aplican tanto a pianos digitales de 88 teclas contrapesadas (Yamaha P-145/P-225/P-45, Roland FP-10/FP-30X, Casio Privia PX-S1100/CDP-S160, Kawai ES120, Alesis Recital Pro, Donner DEP-20/DDP-80) como a teclados de 61 y 76 teclas (Yamaha PSR-E383, Piaggero NP-15/35, Casio CT-S300/CT-S1/CT-X700)."
+      "q": "¿Si cambio el Transpose del piano también cambia el tono de la canción que reproduzco por Bluetooth Audio?",
+      "a": "En la mayoría de pianos digitales como el **Yamaha P-145** y el **Roland FP-30X**, la función **Transpose** del teclado afecta al generador de tonos interno de las teclas, pero no altera la tonalidad de las pistas de audio que envías desde tu celular por **Bluetooth Audio** o cable **Aux In**, ya que estas entran como señal estéreo ya mezclada."
     },
     {
-      "q": "¿Qué accesorio económico de Amazon mejora más la experiencia desde el primer día?",
-      "a": "Cambiar el pedal plástico de fábrica por el pedal metálico universal M-Audio SP-2 (~$25 con interruptor de polaridad) y usar unos audífonos de estudio con cable y adaptador de 1/4\" como los Audio-Technica ATH-M20x (~$49)."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Yamaha USA – Digital Piano Care, Setup & Connectivity Guide",
-      "url": "https://usa.yamaha.com/products/musical_instruments/pianos/index.html"
-    },
-    {
-      "label": "Roland Corporation – Digital Piano Key Action, Pedals & Headphones",
-      "url": "https://www.roland.com/us/categories/pianos/"
+      "q": "¿La función Transpose cambia las notas que mi piano envía por USB MIDI a aplicaciones como Simply Piano o GarageBand?",
+      "a": "Depende del diseño del fabricante: en el **Yamaha PSR-E383** y en el **Roland FP-10**, el desplazamiento de **Transpose** afecta a las notas que suenan por los altavoces internos, mientras que la salida **USB MIDI** puede enviar la nota física real (**Do4**) o la nota transpuesta según esté configurado el parámetro **Transmit Transpose** en el menú MIDI."
     }
   ],
   "related": [
-    "/solucion-de-problemas-y-configuracion/",
-    "/solucion-de-problemas-y-configuracion/polaridad-del-adaptador-de-corriente-centro-positivo-vs-centro-negativo-en-teclados-y-pianos/",
-    "/solucion-de-problemas-y-configuracion/por-que-mi-piano-digital-suena-desafinado-respecto-a-una-cancion-funcion-transpose-activada/",
-    "/mejores-pianos-teclados-y-accesorios/mejores-pianos-digitales-y-teclados-para-principiantes-amazon/"
+    "/solucion-de-problemas-y-configuracion/configurar-tipo-de-pilas-alcalinas-vs-recargables-ni-mh-en-el-menu-de-pianos-casio-y-yamaha/",
+    "/solucion-de-problemas-y-configuracion/por-que-no-funciona-el-bluetooth-de-mi-piano-digital-diferencia-entre-modelos-con-y-sin-adaptador/",
+    "/solucion-de-problemas-y-configuracion/para-que-sirve-la-rueda-de-pitch-bend-en-teclados-como-el-casio-ct-s300-y-privia-px-s3100/",
+    "/solucion-de-problemas-y-configuracion/por-que-el-volumen-de-mi-celular-conectado-por-aux-in-o-bluetooth-suena-mas-fuerte-que-el-piano/"
   ],
-  "datePublished": "2026-11-23",
-  "dateModified": "2026-11-23"
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/para-que-sirve-la-funcion-transpose-transposicion-en-un-piano-digital-o-teclado.webp"
 }
